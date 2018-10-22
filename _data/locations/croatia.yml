@@ -6,7 +6,7 @@ users:
     name: 'Filip Lauc'
     login: 'flauc'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/4489834?v=4'
-    contributions: 5342
+    contributions: 5201
     company: 'Jaspero'
     organizations: 'Jaspero'
 
@@ -14,7 +14,7 @@ users:
     name: 'Edi Modrić'
     login: 'emodric'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/362286?v=4'
-    contributions: 4138
+    contributions: 4086
     company: 'Netgen (@netgen)'
     organizations: 'nuxeo,netgen,KeyteqLabs,primedigital,Keyteq,acemit,netgen-layouts'
 
@@ -22,7 +22,7 @@ users:
     name: 'Goran Udosic'
     login: 'gor181'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/8964589?v=4'
-    contributions: 3926
+    contributions: 3944
     company: 'Inflexus LTD'
     organizations: ''
 
@@ -30,7 +30,7 @@ users:
     name: 'Miro Svrtan'
     login: 'msvrtan'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/1780572?v=4'
-    contributions: 3531
+    contributions: 3540
     company: 'Null Development'
     organizations: ''
 
@@ -38,7 +38,7 @@ users:
     name: 'Lovro Predovan'
     login: 'lpredova'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/6916000?v=4'
-    contributions: 3296
+    contributions: 3222
     company: '@Rentlio '
     organizations: 'Rentlio'
 
@@ -46,7 +46,7 @@ users:
     name: 'Stefan Novaković'
     login: 'snovakovic'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/6170843?v=4'
-    contributions: 3156
+    contributions: 3136
     company: '@ExtensionEngine '
     organizations: ''
 
@@ -54,7 +54,7 @@ users:
     name: 'Nikola Majcen'
     login: 'nikolamajcen'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/11491550?v=4'
-    contributions: 3123
+    contributions: 3093
     company: ''
     organizations: 'infinum,foivz'
 
@@ -62,7 +62,7 @@ users:
     name: 'Denis Žoljom'
     login: 'dingo-d'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/8638515?v=4'
-    contributions: 2966
+    contributions: 2960
     company: '@infinum '
     organizations: 'infinum,WPTRT'
 
@@ -78,119 +78,119 @@ users:
     name: 'Melita Kokot'
     login: 'melcha'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/4679286?v=4'
-    contributions: 2754
+    contributions: 2811
     company: ''
     organizations: 'infinum'
 
   - rank: 11
-    name: 'Ivan Mornar'
-    login: 'imornar'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/9463015?v=4'
-    contributions: 2683
-    company: 'Toptal'
-    organizations: 'Cloudbanter'
-
-  - rank: 12
-    name: 'Leo Vujanić'
-    login: 'leovujanic'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/5548917?v=4'
-    contributions: 2640
-    company: '@Styria-Digital'
-    organizations: ''
-
-  - rank: 13
     name: 'Nika Jukić'
     login: 'nikajukic'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/6377753?v=4'
-    contributions: 2604
+    contributions: 2767
     company: ''
     organizations: ''
+
+  - rank: 12
+    name: 'Ivan Mornar'
+    login: 'imornar'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/9463015?v=4'
+    contributions: 2659
+    company: 'Toptal'
+    organizations: 'Cloudbanter'
+
+  - rank: 13
+    name: 'Dražen Barić'
+    login: 'dbaric'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/31189266?v=4'
+    contributions: 2481
+    company: ''
+    organizations: 'dump-hr'
 
   - rank: 14
     name: 'Matej Maloča'
     login: 'makiJS'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/10434979?v=4'
-    contributions: 2534
+    contributions: 2456
     company: '@Jaspero '
     organizations: 'Jaspero'
 
   - rank: 15
-    name: 'Dražen Barić'
-    login: 'dbaric'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/31189266?v=4'
-    contributions: 2484
-    company: ''
-    organizations: 'dump-hr'
-
-  - rank: 16
     name: 'Filip Horvat'
     login: 'fico7489'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/4559663?v=4'
-    contributions: 2469
+    contributions: 2451
     company: 'AM2studio '
     organizations: ''
 
-  - rank: 17
+  - rank: 16
     name: 'Sven Vidak'
     login: 'mister11'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/4458779?v=4'
-    contributions: 2368
+    contributions: 2383
+    company: 'Infinum'
+    organizations: 'infinum'
+
+  - rank: 17
+    name: 'Filip Gulan'
+    login: 'fgulan'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/13138021?v=4'
+    contributions: 2348
     company: 'Infinum'
     organizations: 'infinum'
 
   - rank: 18
-    name: 'Filip Gulan'
-    login: 'fgulan'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/13138021?v=4'
-    contributions: 2281
-    company: 'Infinum'
-    organizations: 'infinum'
-
-  - rank: 19
     name: 'Darko Kukovec'
     login: 'DarkoKukovec'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/480290?v=4'
-    contributions: 2262
+    contributions: 2282
     company: '@infinum'
     organizations: 'infinum,webpack'
 
-  - rank: 20
+  - rank: 19
     name: 'Teo Dragovic'
     login: 'teodragovic'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/2872127?v=4'
-    contributions: 2223
+    contributions: 2164
     company: ''
     organizations: 'petakolona,popularlab,Interactivly'
 
-  - rank: 21
+  - rank: 20
     name: 'Silvestar Bistrović'
     login: 'maliMirkec'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/2345786?v=4'
-    contributions: 2070
+    contributions: 2079
     company: ''
     organizations: ''
 
-  - rank: 22
+  - rank: 21
     name: 'Nikola Predovan'
     login: 'Predjo'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/1365250?v=4'
-    contributions: 2055
+    contributions: 2018
     company: ''
     organizations: 'arazooteam'
 
-  - rank: 23
+  - rank: 22
     name: 'Ivan Rep'
     login: 'Rep2'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/7377418?v=4'
-    contributions: 2006
+    contributions: 1999
     company: 'Blue Tail Labs'
+    organizations: ''
+
+  - rank: 23
+    name: 'Marin Liović'
+    login: 'marin-liovic'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/4919475?v=4'
+    contributions: 1987
+    company: ''
     organizations: ''
 
   - rank: 24
     name: 'Marko Mihelj'
     login: 'mamihelj09'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/22300510?v=4'
-    contributions: 1976
+    contributions: 1978
     company: 'Infinum'
     organizations: 'infinum'
 
@@ -198,39 +198,39 @@ users:
     name: 'Vilim Stubičan'
     login: 'jewbre'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/8858431?v=4'
-    contributions: 1900
+    contributions: 1847
     company: '@degordian '
     organizations: ''
 
   - rank: 26
-    name: 'Marin Liović'
-    login: 'marin-liovic'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/4919475?v=4'
-    contributions: 1841
+    name: 'Miroslav Stampar'
+    login: 'stamparm'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/921555?v=4'
+    contributions: 1824
     company: ''
-    organizations: ''
+    organizations: 'sqlmapproject'
 
   - rank: 27
     name: 'Ivan Habunek'
     login: 'ihabunek'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/482138?v=4'
-    contributions: 1831
+    contributions: 1792
     company: 'Big Fish Software'
     organizations: 'apache,zgphp,WebCampZg,bigfishsoftware,cicada'
 
   - rank: 28
-    name: 'Kristijan Bambir'
-    login: 'kristijanbambir'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/373850?v=4'
-    contributions: 1811
-    company: '@infinum '
-    organizations: 'infinum'
+    name: 'Petar Kovačević'
+    login: 'pkovacevic'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/928809?v=4'
+    contributions: 1768
+    company: 'Axilis'
+    organizations: 'axilis'
 
   - rank: 29
     name: 'Miro Dojkic'
     login: 'MiroDojkic'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/9119913?v=4'
-    contributions: 1768
+    contributions: 1755
     company: 'Appacus'
     organizations: ''
 
@@ -238,23 +238,23 @@ users:
     name: 'Kristian Heruc'
     login: 'kheruc'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/816053?v=4'
-    contributions: 1763
+    contributions: 1753
     company: 'Heruc Ltd'
     organizations: ''
 
   - rank: 31
-    name: 'Miroslav Stampar'
-    login: 'stamparm'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/921555?v=4'
-    contributions: 1745
-    company: ''
-    organizations: 'sqlmapproject'
+    name: 'Kristijan Bambir'
+    login: 'kristijanbambir'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/373850?v=4'
+    contributions: 1739
+    company: '@infinum '
+    organizations: 'infinum'
 
   - rank: 32
     name: 'Mario Meštrović'
     login: 'mario-mestrovic'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/3209068?v=4'
-    contributions: 1742
+    contributions: 1719
     company: 'Axilis'
     organizations: 'axilis'
 
@@ -262,99 +262,107 @@ users:
     name: 'Bruno Sutic'
     login: 'bruno-'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/1042682?v=4'
-    contributions: 1706
+    contributions: 1646
     company: '@lockstate '
     organizations: 'capistrano,mustache,rubyzg,tmux-plugins,capistrano-plugins,lockstate'
 
   - rank: 34
-    name: 'Petar Kovačević'
-    login: 'pkovacevic'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/928809?v=4'
-    contributions: 1683
-    company: 'Axilis'
-    organizations: 'axilis'
+    name: 'Petar Smolic'
+    login: 'PSmolic'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/4542049?v=4'
+    contributions: 1625
+    company: ''
+    organizations: 'refinery29'
 
   - rank: 35
     name: 'Danijel Vincijanović'
     login: 'davinci2015'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/11479975?v=4'
-    contributions: 1611
+    contributions: 1621
     company: ''
     organizations: ''
 
   - rank: 36
-    name: 'Petar Smolic'
-    login: 'PSmolic'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/4542049?v=4'
-    contributions: 1592
-    company: ''
-    organizations: 'refinery29'
-
-  - rank: 37
     name: 'Davor Ocelic'
     login: 'docelic'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/112993?v=4'
-    contributions: 1549
+    contributions: 1563
     company: 'Crystal Labs'
     organizations: ''
 
-  - rank: 38
+  - rank: 37
     name: 'Marko Siftar'
     login: 'shifi'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/2136477?v=4'
-    contributions: 1548
+    contributions: 1535
     company: '@airbrake @exceptional '
     organizations: 'exceptional,airbrake,rubyzg'
+
+  - rank: 38
+    name: 'Josip Crnković'
+    login: 'crnkovic'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/6536260?v=4'
+    contributions: 1526
+    company: ''
+    organizations: ''
 
   - rank: 39
     name: 'Andrei Zvonimir Crnković'
     login: 'andreicek'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/1520965?v=4'
-    contributions: 1525
+    contributions: 1524
     company: '@infinum '
     organizations: 'infinum,webpack,infinum-academy'
 
   - rank: 40
-    name: 'Mihovil Rister'
-    login: 'mrister'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/1213258?v=4'
-    contributions: 1507
-    company: ''
+    name: 'Martin Tutek'
+    login: 'mttk'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/3007947?v=4'
+    contributions: 1502
+    company: 'University of Zagreb'
     organizations: ''
 
   - rank: 41
     name: 'Kresimir Bojcic'
     login: 'drKreso'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/32063?v=4'
-    contributions: 1504
+    contributions: 1491
     company: '@kodius '
     organizations: ''
 
   - rank: 42
-    name: 'Martin Tutek'
-    login: 'mttk'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/3007947?v=4'
-    contributions: 1497
-    company: 'University of Zagreb'
-    organizations: ''
+    name: 'Hrvoje Šimić'
+    login: 'shime'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/703563?v=4'
+    contributions: 1479
+    company: '@twobucks '
+    organizations: 'ruby-workshop,nodeschool,rubyzg,twobucks,BoosterStage'
 
   - rank: 43
-    name: 'Josip Crnković'
-    login: 'crnkovic'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/6536260?v=4'
-    contributions: 1488
-    company: ''
+    name: 'Ivan Matković'
+    login: 'iMatkovic'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/9773607?v=4'
+    contributions: 1479
+    company: '@cobeisfresh '
     organizations: ''
 
   - rank: 44
-    name: 'Dino Trojak'
-    login: 'dinodsaurus'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/1530952?v=4'
-    contributions: 1479
-    company: '@reactor-studio  '
-    organizations: 'nodeschool,jszgb,twobucks,reactor-studio,kiwicom'
+    name: 'Mihovil Rister'
+    login: 'mrister'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/1213258?v=4'
+    contributions: 1473
+    company: ''
+    organizations: ''
 
   - rank: 45
+    name: 'Nikica Jokic'
+    login: 'neektza'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/816489?v=4'
+    contributions: 1459
+    company: 'Floating Point Ltd'
+    organizations: 'floatingpointio,LambdaZagreb'
+
+  - rank: 46
     name: 'Borna Ljudevit Matijanić'
     login: 'ludwig031'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/30387773?v=4'
@@ -362,283 +370,275 @@ users:
     company: ''
     organizations: ''
 
-  - rank: 46
-    name: 'Ivan Matković'
-    login: 'iMatkovic'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/9773607?v=4'
-    contributions: 1453
-    company: '@cobeisfresh '
-    organizations: ''
-
   - rank: 47
-    name: 'Nikica Jokic'
-    login: 'neektza'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/816489?v=4'
-    contributions: 1450
-    company: 'Floating Point Ltd'
-    organizations: 'floatingpointio,LambdaZagreb'
-
-  - rank: 48
-    name: 'Ivan Padavic'
-    login: 'ipadavic'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/2059817?v=4'
-    contributions: 1445
-    company: ''
-    organizations: 'Rentlio'
-
-  - rank: 49
     name: 'Vedran Karačić'
     login: 'vkaracic'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/2808092?v=4'
-    contributions: 1440
+    contributions: 1452
     company: 'ExtensionEngine'
     organizations: 'ExtensionEngine'
 
-  - rank: 50
-    name: 'Marko Kruljac'
-    login: 'krukru'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/10072630?v=4'
-    contributions: 1423
-    company: '@degordian '
-    organizations: 'degordian'
-
-  - rank: 51
-    name: 'Ivan Čurić'
-    login: 'ivancuric'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/2827047?v=4'
-    contributions: 1422
-    company: '@InteractionDesignFoundation '
-    organizations: ''
-
-  - rank: 52
-    name: 'Stanko Krtalić'
-    login: 'monorkin'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/1655218?v=4'
-    contributions: 1418
-    company: ''
-    organizations: 'KSET,rubyzg,floatingpointio,pg-pancakes'
-
-  - rank: 53
+  - rank: 48
     name: 'Filip Voska'
     login: 'fvoska'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/3170728?v=4'
-    contributions: 1418
+    contributions: 1442
     company: ''
     organizations: ''
 
-  - rank: 54
+  - rank: 49
+    name: 'Dino Trojak'
+    login: 'dinodsaurus'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/1530952?v=4'
+    contributions: 1435
+    company: '@reactor-studio  '
+    organizations: 'nodeschool,jszgb,twobucks,reactor-studio,kiwicom'
+
+  - rank: 50
+    name: 'Stanko Krtalić'
+    login: 'monorkin'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/1655218?v=4'
+    contributions: 1423
+    company: ''
+    organizations: 'KSET,rubyzg,floatingpointio,pg-pancakes'
+
+  - rank: 51
+    name: 'Leo Vujanić'
+    login: 'leovujanic'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/5548917?v=4'
+    contributions: 1412
+    company: '@Styria-Digital'
+    organizations: ''
+
+  - rank: 52
     name: 'moljac'
     login: 'moljac'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/1768576?v=4'
-    contributions: 1410
+    contributions: 1403
     company: 'Microsoft / Xamarin Inc., HolisticWare'
     organizations: 'xamarin'
 
-  - rank: 55
-    name: 'Hrvoje Šimić'
-    login: 'shime'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/703563?v=4'
-    contributions: 1383
-    company: '@twobucks '
-    organizations: 'ruby-workshop,nodeschool,rubyzg,twobucks,BoosterStage'
+  - rank: 53
+    name: 'Ivan Padavic'
+    login: 'ipadavic'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/2059817?v=4'
+    contributions: 1382
+    company: ''
+    organizations: 'Rentlio'
 
-  - rank: 56
+  - rank: 54
+    name: 'Marko Kruljac'
+    login: 'krukru'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/10072630?v=4'
+    contributions: 1357
+    company: '@degordian '
+    organizations: 'degordian'
+
+  - rank: 55
     name: 'Krešimir Vukić'
     login: 'v-silverfin'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/10668336?v=4'
-    contributions: 1339
+    contributions: 1331
     company: 'https://www.axilis.com'
     organizations: ''
 
-  - rank: 57
-    name: 'Stefano Kliba'
-    login: 'skliba'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/10272048?v=4'
-    contributions: 1331
-    company: '@codecacao'
-    organizations: ''
-
-  - rank: 58
-    name: 'Vedran Blazenka'
-    login: 'wedranb'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/1723170?v=4'
-    contributions: 1330
-    company: ''
-    organizations: 'reactor-studio'
-
-  - rank: 59
-    name: 'Andro Krezić'
-    login: 'akrezic1'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/7119798?v=4'
-    contributions: 1303
-    company: ''
-    organizations: ''
-
-  - rank: 60
-    name: 'Stipe Kotarac'
-    login: 'kotarac'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/1216749?v=4'
-    contributions: 1290
-    company: '@blazing-edge-labs '
-    organizations: 'BrightcovePS,Vinolytics,blazing-edge-labs'
-
-  - rank: 61
-    name: 'Igor Bumba'
-    login: 'igorbumba'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/11750417?v=4'
-    contributions: 1266
-    company: ''
-    organizations: ''
-
-  - rank: 62
+  - rank: 56
     name: 'Frane'
     login: 'fcagalj'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/7942241?v=4'
-    contributions: 1230
+    contributions: 1288
+    company: ''
+    organizations: ''
+
+  - rank: 57
+    name: 'Andro Krezić'
+    login: 'akrezic1'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/7119798?v=4'
+    contributions: 1281
+    company: ''
+    organizations: ''
+
+  - rank: 58
+    name: 'Stipe Kotarac'
+    login: 'kotarac'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/1216749?v=4'
+    contributions: 1278
+    company: '@blazing-edge-labs '
+    organizations: 'BrightcovePS,Vinolytics,blazing-edge-labs'
+
+  - rank: 59
+    name: 'Vedran Blazenka'
+    login: 'wedranb'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/1723170?v=4'
+    contributions: 1277
+    company: ''
+    organizations: 'reactor-studio'
+
+  - rank: 60
+    name: 'Igor Bumba'
+    login: 'igorbumba'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/11750417?v=4'
+    contributions: 1254
+    company: ''
+    organizations: ''
+
+  - rank: 61
+    name: 'Stefano Kliba'
+    login: 'skliba'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/10272048?v=4'
+    contributions: 1251
+    company: '@codecacao'
+    organizations: ''
+
+  - rank: 62
+    name: 'Jakov Sosic'
+    login: 'jsosic'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/5065620?v=4'
+    contributions: 1222
     company: ''
     organizations: ''
 
   - rank: 63
+    name: 'Marin Petrunić'
+    login: 'mpetrunic'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/8836210?v=4'
+    contributions: 1217
+    company: '@NodeFactoryIo '
+    organizations: 'KSET,BlockSaver,NodeFactoryIo'
+
+  - rank: 64
     name: 'schef'
     login: 'schef'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/775502?v=4'
-    contributions: 1217
-    company: ''
-    organizations: ''
-
-  - rank: 64
-    name: 'Mario Krajacic'
-    login: 'thinktwice13'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/6613473?v=4'
-    contributions: 1213
+    contributions: 1198
     company: ''
     organizations: ''
 
   - rank: 65
-    name: 'Jakov Sosic'
-    login: 'jsosic'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/5065620?v=4'
-    contributions: 1209
-    company: ''
-    organizations: ''
-
-  - rank: 66
-    name: 'Marin Petrunić'
-    login: 'mpetrunic'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/8836210?v=4'
-    contributions: 1207
-    company: '@NodeFactoryIo '
-    organizations: 'KSET,BlockSaver,NodeFactoryIo'
-
-  - rank: 67
-    name: 'Davor Kapsa'
-    login: 'dvrkps'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/4771727?v=4'
-    contributions: 1205
-    company: '@KrakenSystems @NextUserSF'
-    organizations: 'NextUserSF,golanghr'
-
-  - rank: 68
-    name: 'Orest Kulik'
-    login: 'okulik'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/1519560?v=4'
+    name: 'Mario Krajacic'
+    login: 'thinktwice13'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/6613473?v=4'
     contributions: 1160
     company: ''
     organizations: ''
 
-  - rank: 69
+  - rank: 66
+    name: 'Davor Kapsa'
+    login: 'dvrkps'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/4771727?v=4'
+    contributions: 1159
+    company: '@KrakenSystems @NextUserSF'
+    organizations: 'NextUserSF,golanghr'
+
+  - rank: 67
+    name: 'Orest Kulik'
+    login: 'okulik'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/1519560?v=4'
+    contributions: 1146
+    company: ''
+    organizations: ''
+
+  - rank: 68
     name: 'Antonio Tomac'
     login: 'antonio-tomac'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/5103070?v=4'
-    contributions: 1158
+    contributions: 1138
     company: '@mediatoolkit'
     organizations: 'degordian'
 
-  - rank: 70
+  - rank: 69
     name: 'Ante Barić'
     login: 'capJavert'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/9803078?v=4'
-    contributions: 1116
+    contributions: 1119
     company: ''
+    organizations: ''
+
+  - rank: 70
+    name: 'Ivan Čurić'
+    login: 'ivancuric'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/2827047?v=4'
+    contributions: 1099
+    company: 'Software Sauna'
     organizations: ''
 
   - rank: 71
-    name: 'Adis Mustedanagic'
-    login: 'Adis'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/508165?v=4'
-    contributions: 1109
-    company: 'Infinum Ltd.'
-    organizations: 'infinum'
-
-  - rank: 72
     name: 'Vanja Radovanović'
     login: 'elvanja'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/674883?v=4'
-    contributions: 1077
+    contributions: 1095
     company: ''
     organizations: ''
+
+  - rank: 72
+    name: 'Igor Anić'
+    login: 'ianic'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/35909?v=4'
+    contributions: 1084
+    company: 'minus5 d.o.o.'
+    organizations: 'minus5'
 
   - rank: 73
     name: 'Toma Zelić'
     login: 'kronicker'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/19515679?v=4'
-    contributions: 1071
+    contributions: 1083
     company: '@ExtensionEngine '
     organizations: 'ExtensionEngine'
 
   - rank: 74
-    name: 'Igor Anić'
-    login: 'ianic'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/35909?v=4'
-    contributions: 1071
-    company: 'minus5 d.o.o.'
-    organizations: 'minus5'
+    name: 'Adis Mustedanagic'
+    login: 'Adis'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/508165?v=4'
+    contributions: 1080
+    company: 'Infinum Ltd.'
+    organizations: 'infinum'
 
   - rank: 75
-    name: 'Adrian Bece'
-    login: 'codeAdrian'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/11479290?v=4'
-    contributions: 1067
-    company: ''
+    name: 'Tonći Vatavuk'
+    login: 'tvatavuk'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/2724850?v=4'
+    contributions: 1069
+    company: 'Net Media Sistemi d.o.o.'
     organizations: ''
 
   - rank: 76
     name: 'Ivan Arar'
     login: 'arrrlo'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/2082813?v=4'
-    contributions: 1042
+    contributions: 1063
     company: ''
     organizations: ''
 
   - rank: 77
-    name: 'Vedran Burojević'
-    login: 'vburojevic'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/2234474?v=4'
-    contributions: 1036
+    name: 'Adrian Bece'
+    login: 'codeAdrian'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/11479290?v=4'
+    contributions: 1055
     company: ''
     organizations: ''
 
   - rank: 78
-    name: 'Tonći Vatavuk'
-    login: 'tvatavuk'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/2724850?v=4'
-    contributions: 1035
-    company: 'Net Media Sistemi d.o.o.'
-    organizations: ''
-
-  - rank: 79
     name: 'Goran Pedić'
     login: 'gpedic'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/779118?v=4'
-    contributions: 1026
+    contributions: 1040
     company: '@hellogustav '
+    organizations: ''
+
+  - rank: 79
+    name: 'Vedran Burojević'
+    login: 'vburojevic'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/2234474?v=4'
+    contributions: 985
+    company: ''
     organizations: ''
 
   - rank: 80
     name: 'Tomislav Filipcic'
     login: 'tomislav'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/656?v=4'
-    contributions: 984
+    contributions: 976
     company: ''
     organizations: 'tripcommon,7sols'
 
@@ -646,7 +646,7 @@ users:
     name: 'Ante Barišić'
     login: 'abarisic86'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/4949523?v=4'
-    contributions: 959
+    contributions: 936
     company: ''
     organizations: ''
 
@@ -654,41 +654,41 @@ users:
     name: 'Stjepan Glavina'
     login: 'stjepang'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/1303843?v=4'
-    contributions: 954
+    contributions: 929
     company: ''
     organizations: 'crossbeam-rs'
 
   - rank: 83
-    name: 'Boris Mikic'
-    login: 'borisblizzard'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/13252181?v=4'
-    contributions: 937
-    company: 'Cateia Games'
-    organizations: ''
-
-  - rank: 84
-    name: 'Dan Matthews'
-    login: 'dmvt'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/1116695?v=4'
-    contributions: 926
-    company: 'Tungsten Studios'
-    organizations: 'kostructures'
-
-  - rank: 85
     name: 'Dino Bettini'
     login: 'dbettini'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/16350909?v=4'
-    contributions: 911
+    contributions: 925
     company: ''
     organizations: ''
 
-  - rank: 86
-    name: 'Antonio Erdeljac'
-    login: 'AntonioErdeljac'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/23248726?v=4'
-    contributions: 907
-    company: 'Signature Networks'
+  - rank: 84
+    name: 'Vedran Hibler'
+    login: 'vedran-hibler'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/26455179?v=4'
+    contributions: 920
+    company: ''
     organizations: ''
+
+  - rank: 85
+    name: 'Boris Mikic'
+    login: 'borisblizzard'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/13252181?v=4'
+    contributions: 912
+    company: 'Cateia Games'
+    organizations: ''
+
+  - rank: 86
+    name: 'Dan Matthews'
+    login: 'dmvt'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/1116695?v=4'
+    contributions: 909
+    company: 'Tungsten Studios'
+    organizations: 'kostructures'
 
   - rank: 87
     name: 'Mateo Karadža'
@@ -699,26 +699,26 @@ users:
     organizations: 'blazing-edge-labs'
 
   - rank: 88
+    name: 'Antonio Erdeljac'
+    login: 'AntonioErdeljac'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/23248726?v=4'
+    contributions: 870
+    company: 'Signature Networks'
+    organizations: ''
+
+  - rank: 89
     name: 'Aljosa Mohorovic'
     login: 'aljosa'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/31008?v=4'
-    contributions: 846
+    contributions: 864
     company: '@pinkdroids '
     organizations: 'WebCampZg,pinkdroids'
-
-  - rank: 89
-    name: 'Jakša Bašić'
-    login: 'jaksa-b'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/6950801?v=4'
-    contributions: 843
-    company: ''
-    organizations: ''
 
   - rank: 90
     name: 'Darko Ronić'
     login: 'apolloFER'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/6859904?v=4'
-    contributions: 834
+    contributions: 858
     company: '@zapier '
     organizations: ''
 
@@ -726,51 +726,67 @@ users:
     name: 'Mihael Konjević'
     login: 'retro'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/20320?v=4'
-    contributions: 817
+    contributions: 850
     company: ''
     organizations: 'jszgb'
 
   - rank: 92
-    name: 'Davorin Šego'
-    login: 'dsego'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/578557?v=4'
-    contributions: 811
-    company: ''
-    organizations: ''
-
-  - rank: 93
-    name: 'Nikola Vojković'
-    login: 'nvojkovic'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/7647364?v=4'
-    contributions: 802
-    company: 'Toptal'
-    organizations: ''
-
-  - rank: 94
-    name: 'Kristijan Korać'
-    login: 'korac'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/10884942?v=4'
-    contributions: 801
-    company: 'Ars Futura'
-    organizations: ''
-
-  - rank: 95
-    name: 'Igor Benić'
-    login: 'igorbenic'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/1537130?v=4'
-    contributions: 801
-    company: ''
-    organizations: ''
-
-  - rank: 96
     name: 'Adrian Smijulj'
     login: 'adrian1358'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/5121148?v=4'
-    contributions: 798
+    contributions: 844
     company: 'Webiny'
     organizations: ''
 
+  - rank: 93
+    name: 'Jakša Bašić'
+    login: 'jaksa-b'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/6950801?v=4'
+    contributions: 841
+    company: ''
+    organizations: ''
+
+  - rank: 94
+    name: 'Davorin Šego'
+    login: 'dsego'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/578557?v=4'
+    contributions: 826
+    company: ''
+    organizations: ''
+
+  - rank: 95
+    name: 'Nenad O Mijatovic'
+    login: 'nenadom'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/7107362?v=4'
+    contributions: 817
+    company: '@SofaScore'
+    organizations: ''
+
+  - rank: 96
+    name: 'Nikola Vojković'
+    login: 'nvojkovic'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/7647364?v=4'
+    contributions: 809
+    company: 'Toptal'
+    organizations: ''
+
   - rank: 97
+    name: 'Igor Benić'
+    login: 'igorbenic'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/1537130?v=4'
+    contributions: 804
+    company: ''
+    organizations: ''
+
+  - rank: 98
+    name: 'Ivan Meler'
+    login: 'ivanmeler'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/4472273?v=4'
+    contributions: 801
+    company: ''
+    organizations: ''
+
+  - rank: 99
     name: 'Hrvoje Balija'
     login: 'HBalija'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/17547405?v=4'
@@ -778,123 +794,107 @@ users:
     company: '@pinkdroids '
     organizations: ''
 
-  - rank: 98
-    name: 'Nenad O Mijatovic'
-    login: 'nenadom'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/7107362?v=4'
-    contributions: 783
-    company: ''
-    organizations: ''
-
-  - rank: 99
-    name: 'Nikola Brežnjak'
-    login: 'Hitman666'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/1001064?v=4'
-    contributions: 773
-    company: '@teltech '
-    organizations: ''
-
   - rank: 100
-    name: 'Benjamin Alijagić'
-    login: 'benjam1n'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/103969?v=4'
-    contributions: 766
-    company: ''
+    name: 'Kristijan Korać'
+    login: 'korac'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/10884942?v=4'
+    contributions: 794
+    company: 'Ars Futura'
     organizations: ''
 
   - rank: 101
-    name: 'Kornelije Petak'
-    login: 'kornelijepetak'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/7033216?v=4'
-    contributions: 756
+    name: 'Benjamin Alijagić'
+    login: 'benjam1n'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/103969?v=4'
+    contributions: 772
     company: ''
     organizations: ''
 
   - rank: 102
-    name: 'Ante Spajic'
-    login: 'antespajic'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/10964259?v=4'
-    contributions: 752
-    company: ''
+    name: 'Mihael Vuherer'
+    login: 'mvuherer'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/1645939?v=4'
+    contributions: 763
+    company: 'Signature Networks'
     organizations: ''
 
   - rank: 103
-    name: 'Rato Kuzmanić'
-    login: 'ratokuzmanic'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/7314468?v=4'
-    contributions: 746
+    name: 'Kornelije Petak'
+    login: 'kornelijepetak'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/7033216?v=4'
+    contributions: 763
     company: ''
-    organizations: 'dump-hr'
+    organizations: ''
 
   - rank: 104
-    name: 'Zoran Majstorovic'
-    login: 'zmajstor'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/1877965?v=4'
-    contributions: 741
-    company: ''
-    organizations: 'rubyzg'
+    name: 'Nikola Brežnjak'
+    login: 'Hitman666'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/1001064?v=4'
+    contributions: 744
+    company: '@teltech '
+    organizations: ''
 
   - rank: 105
-    name: 'Toni'
-    login: 'tonxyx'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/4355573?v=4'
-    contributions: 722
-    company: '@pixelwerk-no '
-    organizations: ''
-
-  - rank: 106
-    name: 'Aleksandar Toplek'
-    login: 'AleksandarDev'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/643171?v=4'
-    contributions: 715
-    company: 'Enterwell'
-    organizations: 'JustBuild,Sparkiy,Termoservis,Enterwell,SpacePromise'
-
-  - rank: 107
-    name: 'Marko Banusic'
-    login: 'mbanusic'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/694907?v=4'
-    contributions: 710
-    company: ''
-    organizations: ''
-
-  - rank: 108
     name: 'Ivan Veres'
     login: 'ivan-veres'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/5970595?v=4'
-    contributions: 705
+    contributions: 737
     company: '@Inchoo '
     organizations: 'Inchoo'
 
-  - rank: 109
-    name: 'Tony Mrakovcic'
-    login: 'tonymrakovcic'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/3583441?v=4'
-    contributions: 680
-    company: 'Degordian'
-    organizations: 'degordian'
+  - rank: 106
+    name: 'Rato Kuzmanić'
+    login: 'ratokuzmanic'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/7314468?v=4'
+    contributions: 736
+    company: ''
+    organizations: 'dump-hr'
 
-  - rank: 110
-    name: 'Ivan Augustinović'
-    login: 'kingd'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/6278599?v=4'
-    contributions: 678
+  - rank: 107
+    name: 'Toni'
+    login: 'tonxyx'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/4355573?v=4'
+    contributions: 724
+    company: '@pixelwerk-no '
+    organizations: ''
+
+  - rank: 108
+    name: 'Zoran Majstorovic'
+    login: 'zmajstor'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/1877965?v=4'
+    contributions: 715
+    company: ''
+    organizations: 'rubyzg'
+
+  - rank: 109
+    name: 'Ante Spajic'
+    login: 'antespajic'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/10964259?v=4'
+    contributions: 713
     company: ''
     organizations: ''
 
+  - rank: 110
+    name: 'Aleksandar Toplek'
+    login: 'AleksandarDev'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/643171?v=4'
+    contributions: 713
+    company: 'Enterwell'
+    organizations: 'JustBuild,Sparkiy,Termoservis,Enterwell,SpacePromise'
+
   - rank: 111
-    name: 'Alen Murtić'
-    login: 'murticalen'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/15446034?v=4'
-    contributions: 675
+    name: 'Nikola Begedin'
+    login: 'begedin'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/1925540?v=4'
+    contributions: 709
     company: ''
     organizations: ''
 
   - rank: 112
-    name: 'T.B.'
-    login: 'tobe'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/814830?v=4'
-    contributions: 673
+    name: 'Alen Murtić'
+    login: 'murticalen'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/15446034?v=4'
+    contributions: 701
     company: ''
     organizations: ''
 
@@ -902,35 +902,59 @@ users:
     name: 'Mislav Cimperšak'
     login: 'mislavcimpersak'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/3473617?v=4'
-    contributions: 672
+    contributions: 699
     company: '@solvomon '
     organizations: ''
 
   - rank: 114
-    name: 'Belma Gutlic'
-    login: 'morrigan'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/4976604?v=4'
-    contributions: 661
-    company: ''
-    organizations: 'KSET,bitfalls,Ryfts,BlockSaver,NodeFactoryIo'
-
-  - rank: 115
-    name: 'Ivan Nikolić'
-    login: 'niksy'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/389286?v=4'
-    contributions: 659
+    name: 'Ivan Augustinović'
+    login: 'kingd'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/6278599?v=4'
+    contributions: 698
     company: ''
     organizations: ''
 
+  - rank: 115
+    name: 'Tony Mrakovcic'
+    login: 'tonymrakovcic'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/3583441?v=4'
+    contributions: 694
+    company: 'Degordian'
+    organizations: 'degordian'
+
   - rank: 116
-    name: 'Hermès BÉLUSCA - MAÏTO'
-    login: 'HBelusca'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/1969829?v=4'
-    contributions: 657
-    company: 'Faculty of Science, Zagreb University'
+    name: 'T.B.'
+    login: 'tobe'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/814830?v=4'
+    contributions: 672
+    company: ''
     organizations: ''
 
   - rank: 117
+    name: 'Hermès BÉLUSCA - MAÏTO'
+    login: 'HBelusca'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/1969829?v=4'
+    contributions: 672
+    company: 'Faculty of Science, Zagreb University'
+    organizations: ''
+
+  - rank: 118
+    name: 'Belma Gutlic'
+    login: 'morrigan'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/4976604?v=4'
+    contributions: 671
+    company: ''
+    organizations: 'KSET,bitfalls,Ryfts,BlockSaver,NodeFactoryIo'
+
+  - rank: 119
+    name: 'Ivan Nikolić'
+    login: 'niksy'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/389286?v=4'
+    contributions: 668
+    company: ''
+    organizations: ''
+
+  - rank: 120
     name: 'Ivan Evačić'
     login: 'ivanevacic'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/34003482?v=4'
@@ -938,279 +962,287 @@ users:
     company: ''
     organizations: ''
 
-  - rank: 118
-    name: 'Nikola Begedin'
-    login: 'begedin'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/1925540?v=4'
-    contributions: 652
-    company: ''
-    organizations: ''
-
-  - rank: 119
-    name: 'Nikola Jakić'
-    login: 'njakic'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/5888508?v=4'
-    contributions: 647
-    company: 'Ars Futura'
-    organizations: 'arsfutura'
-
-  - rank: 120
-    name: 'Bruno Škvorc'
-    login: 'Swader'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/1430603?v=4'
-    contributions: 634
-    company: 'Bitfalls'
-    organizations: ''
-
   - rank: 121
-    name: 'Vix'
-    login: 'Vixtron'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/22355590?v=4'
-    contributions: 634
+    name: 'Marko Banusic'
+    login: 'mbanusic'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/694907?v=4'
+    contributions: 654
     company: ''
     organizations: ''
 
   - rank: 122
-    name: 'May Kittens Devour Your Soul'
-    login: 'diomed'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/72777?v=4'
-    contributions: 624
-    company: 'Veridian Dynamics'
+    name: 'Vix'
+    login: 'Vixtron'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/22355590?v=4'
+    contributions: 633
+    company: ''
     organizations: ''
 
   - rank: 123
+    name: 'Nikola Jakić'
+    login: 'njakic'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/5888508?v=4'
+    contributions: 628
+    company: 'Ars Futura'
+    organizations: 'arsfutura'
+
+  - rank: 124
     name: 'Tomas Novoselić'
     login: 'tomasinchoo'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/1217464?v=4'
-    contributions: 623
+    contributions: 625
     company: 'Inchoo Ltd.'
     organizations: 'magento,Inchoo'
 
-  - rank: 124
-    name: 'Ivan Herak'
-    login: 'iherak'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/5854428?v=4'
-    contributions: 603
+  - rank: 125
+    name: 'Petar Španja'
+    login: 'pspanja'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/1135425?v=4'
+    contributions: 617
     company: 'Netgen'
     organizations: 'netgen'
 
-  - rank: 125
+  - rank: 126
     name: 'Max Drljić'
     login: 'MaxDrljic'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/25199354?v=4'
-    contributions: 601
+    contributions: 616
     company: ''
-    organizations: ''
-
-  - rank: 126
-    name: 'Radan Skorić'
-    login: 'radanskoric'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/1065097?v=4'
-    contributions: 589
-    company: '@toptal '
     organizations: ''
 
   - rank: 127
-    name: 'Kristian Vukušić'
-    login: 'kvukusic'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/6481323?v=4'
-    contributions: 587
-    company: ''
+    name: 'May Kittens Devour Your Soul'
+    login: 'diomed'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/72777?v=4'
+    contributions: 614
+    company: 'Veridian Dynamics'
     organizations: ''
 
   - rank: 128
+    name: 'Matko Bulic'
+    login: 'bulicmatko'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/4906663?v=4'
+    contributions: 604
+    company: 'Team Reactive'
+    organizations: ''
+
+  - rank: 129
+    name: 'Ivan Herak'
+    login: 'iherak'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/5854428?v=4'
+    contributions: 593
+    company: 'Netgen'
+    organizations: 'netgen'
+
+  - rank: 130
+    name: 'Paul B Mahol'
+    login: 'richardpl'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/469155?v=4'
+    contributions: 580
+    company: ''
+    organizations: 'NDISulator'
+
+  - rank: 131
     name: 'Saša Barišić'
     login: 'sbarisic'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/3836060?v=4'
-    contributions: 585
+    contributions: 579
     company: ''
     organizations: 'CatatonicAnts'
 
-  - rank: 129
-    name: 'Ivan Saric'
-    login: 'DorianSyruss'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/17720224?v=4'
+  - rank: 132
+    name: 'Radan Skorić'
+    login: 'radanskoric'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/1065097?v=4'
     contributions: 577
-    company: ''
+    company: '@toptal '
     organizations: ''
 
-  - rank: 130
-    name: 'Zeljko Veic (@_veich)'
-    login: 'veich'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/7821987?v=4'
+  - rank: 133
+    name: ''
+    login: 'DenisPav'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/7118851?v=4'
     contributions: 574
     company: ''
     organizations: ''
 
-  - rank: 131
-    name: 'Paul B Mahol'
-    login: 'richardpl'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/469155?v=4'
-    contributions: 567
-    company: ''
-    organizations: 'NDISulator'
-
-  - rank: 132
-    name: ''
-    login: 'DenisPav'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/7118851?v=4'
-    contributions: 564
-    company: ''
-    organizations: ''
-
-  - rank: 133
-    name: 'Damir'
-    login: 'damir-sirola'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/5962486?v=4'
-    contributions: 562
-    company: ''
-    organizations: ''
-
   - rank: 134
-    name: 'Matko Medenjak'
-    login: 'mmedenjak'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/17194871?v=4'
-    contributions: 562
-    company: '@hazelcast '
+    name: 'Bruno Škvorc'
+    login: 'Swader'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/1430603?v=4'
+    contributions: 571
+    company: 'Bitfalls'
     organizations: ''
 
   - rank: 135
-    name: 'Anto Čabraja'
-    login: 'acabraja'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/1269365?v=4'
-    contributions: 556
-    company: 'QED d.o.o'
-    organizations: 'QEDteam'
+    name: 'Luka Kladaric'
+    login: 'allixsenos'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/752893?v=4'
+    contributions: 569
+    company: 'Sekura'
+    organizations: 'meetup'
 
   - rank: 136
-    name: 'Zoran Bogdanov'
-    login: 'bennylava10100'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/5381534?v=4'
-    contributions: 556
-    company: '@SynergySports '
+    name: 'Ivan Saric'
+    login: 'DorianSyruss'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/17720224?v=4'
+    contributions: 566
+    company: ''
     organizations: ''
 
   - rank: 137
-    name: 'Dominik Janković'
-    login: 'djankovic'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/6401646?v=4'
-    contributions: 554
-    company: '@uxpassion'
-    organizations: ''
-
-  - rank: 138
-    name: 'Ivica Loncar'
-    login: 'ilx'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/378043?v=4'
-    contributions: 554
-    company: ''
-    organizations: 'xebialabs'
-
-  - rank: 139
     name: 'Ivan Topolnjak'
     login: 'ivantopo'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/1302854?v=4'
-    contributions: 550
+    contributions: 561
     company: '@kamino-apm @kamon-io '
     organizations: ''
 
+  - rank: 138
+    name: 'Martin Šošić'
+    login: 'Martinsos'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/1536647?v=4'
+    contributions: 560
+    company: ''
+    organizations: ''
+
+  - rank: 139
+    name: 'Matko Medenjak'
+    login: 'mmedenjak'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/17194871?v=4'
+    contributions: 560
+    company: '@hazelcast '
+    organizations: ''
+
   - rank: 140
-    name: 'Petar Španja'
-    login: 'pspanja'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/1135425?v=4'
-    contributions: 548
-    company: 'Netgen'
-    organizations: 'netgen'
+    name: 'Kristian Vukušić'
+    login: 'kvukusic'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/6481323?v=4'
+    contributions: 558
+    company: ''
+    organizations: ''
 
   - rank: 141
-    name: 'Nathan Sweet'
-    login: 'NathanSweet'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/434010?v=4'
-    contributions: 548
-    company: 'Esoteric Software'
-    organizations: 'libgdx,EsotericSoftware'
+    name: 'Zeljko Veic (@_veich)'
+    login: 'veich'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/7821987?v=4'
+    contributions: 554
+    company: ''
+    organizations: ''
 
   - rank: 142
-    name: 'Matko Bulic'
-    login: 'bulicmatko'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/4906663?v=4'
-    contributions: 547
-    company: 'Team Reactive'
+    name: 'Dominik Janković'
+    login: 'djankovic'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/6401646?v=4'
+    contributions: 552
+    company: '@uxpassion'
     organizations: ''
 
   - rank: 143
     name: 'Ivan Sovic'
     login: 'isovic'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/1976877?v=4'
-    contributions: 546
+    contributions: 549
     company: ''
     organizations: ''
 
   - rank: 144
-    name: 'Petar Kovačević'
-    login: 'pero5ar'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/15316407?v=4'
-    contributions: 540
+    name: 'Luka Gabrić'
+    login: 'lukagabric'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/2492235?v=4'
+    contributions: 546
     company: ''
     organizations: ''
 
   - rank: 145
-    name: 'Senko Rašić'
-    login: 'senko'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/3362?v=4'
-    contributions: 536
-    company: '@dobarkod '
-    organizations: 'dobarkod'
+    name: 'Nathan Sweet'
+    login: 'NathanSweet'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/434010?v=4'
+    contributions: 544
+    company: 'Esoteric Software'
+    organizations: 'libgdx,EsotericSoftware'
 
   - rank: 146
-    name: 'Martin Šošić'
-    login: 'Martinsos'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/1536647?v=4'
-    contributions: 529
-    company: ''
+    name: 'Zoran Bogdanov'
+    login: 'bennylava10100'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/5381534?v=4'
+    contributions: 542
+    company: '@SynergySports '
     organizations: ''
 
   - rank: 147
-    name: 'Luka Gabrić'
-    login: 'lukagabric'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/2492235?v=4'
-    contributions: 528
-    company: ''
-    organizations: ''
+    name: 'Anto Čabraja'
+    login: 'acabraja'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/1269365?v=4'
+    contributions: 540
+    company: 'QED d.o.o'
+    organizations: 'QEDteam'
 
   - rank: 148
-    name: 'Mislav Paparella'
-    login: 'netopolit'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/131025?v=4'
-    contributions: 524
-    company: ''
-    organizations: ''
+    name: 'Senko Rašić'
+    login: 'senko'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/3362?v=4'
+    contributions: 537
+    company: '@dobarkod '
+    organizations: 'dobarkod'
 
   - rank: 149
-    name: 'Filip Sodić'
-    login: 'sodic'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/22752307?v=4'
-    contributions: 505
+    name: 'Damir'
+    login: 'damir-sirola'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/5962486?v=4'
+    contributions: 536
     company: ''
     organizations: ''
 
   - rank: 150
+    name: 'Ivica Loncar'
+    login: 'ilx'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/378043?v=4'
+    contributions: 534
+    company: ''
+    organizations: 'xebialabs'
+
+  - rank: 151
+    name: 'Vedran Grgo Vatavuk'
+    login: 'Vatavuk'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/2067023?v=4'
+    contributions: 520
+    company: 'Ericsson @zerocracy'
+    organizations: ''
+
+  - rank: 152
+    name: 'Petar Kovačević'
+    login: 'pero5ar'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/15316407?v=4'
+    contributions: 518
+    company: ''
+    organizations: ''
+
+  - rank: 153
+    name: 'Mislav Paparella'
+    login: 'netopolit'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/131025?v=4'
+    contributions: 507
+    company: ''
+    organizations: ''
+
+  - rank: 154
+    name: 'Filip Sodić'
+    login: 'sodic'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/22752307?v=4'
+    contributions: 498
+    company: ''
+    organizations: ''
+
+  - rank: 155
     name: 'Marko Obrovac'
     login: 'd00rman'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/10210173?v=4'
-    contributions: 501
+    contributions: 496
     company: 'Wikimedia Foundation'
     organizations: ''
 
-  - rank: 151
-    name: 'Zarko Selak'
-    login: 'zarkoselak'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/7656256?v=4'
-    contributions: 498
-    company: ''
-    organizations: 'LoopChunks'
-
-  - rank: 152
+  - rank: 156
     name: 'Dino Rakipović'
     login: 'drakipovic'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/8647931?v=4'
@@ -1218,7 +1250,7 @@ users:
     company: '@SofaScore'
     organizations: ''
 
-  - rank: 153
+  - rank: 157
     name: 'Antonio Martinović'
     login: 'TopHatCroat'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/9058532?v=4'
@@ -1226,23 +1258,31 @@ users:
     company: ''
     organizations: ''
 
-  - rank: 154
-    name: 'Vedran Grgo Vatavuk'
-    login: 'Vatavuk'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/2067023?v=4'
-    contributions: 491
-    company: 'Ericsson @zerocracy'
-    organizations: ''
+  - rank: 158
+    name: 'Zarko Selak'
+    login: 'zarkoselak'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/7656256?v=4'
+    contributions: 493
+    company: ''
+    organizations: 'LoopChunks'
 
-  - rank: 155
+  - rank: 159
+    name: 'Antonia Elek'
+    login: 'antoniaelek'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/12903285?v=4'
+    contributions: 484
+    company: ''
+    organizations: 'codeassign'
+
+  - rank: 160
     name: 'Dalibor Karlović'
     login: 'dkarlovi'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/209225?v=4'
-    contributions: 490
+    contributions: 483
     company: '@Flexolabs '
     organizations: ''
 
-  - rank: 156
+  - rank: 161
     name: 'Filip Jukić'
     login: 'bezidejni'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/38059?v=4'
@@ -1250,23 +1290,23 @@ users:
     company: 'Appsembler / BytePanda'
     organizations: 'noderabbit-team,jazkarta,appsembler,SmallsLIVE,BytePanda-io'
 
-  - rank: 157
+  - rank: 162
     name: 'Nufflee'
     login: 'Nufflee'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/19150550?v=4'
-    contributions: 476
+    contributions: 479
     company: ''
     organizations: 'DustLanguage'
 
-  - rank: 158
+  - rank: 163
     name: 'Tomo Šala'
     login: 'HcsOmot'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/17597565?v=4'
-    contributions: 471
+    contributions: 469
     company: ''
     organizations: ''
 
-  - rank: 159
+  - rank: 164
     name: 'Marina Rupe'
     login: 'marinaRupe'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/15280362?v=4'
@@ -1274,7 +1314,7 @@ users:
     company: ''
     organizations: ''
 
-  - rank: 160
+  - rank: 165
     name: 'Ante'
     login: 'avuletica'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/11634859?v=4'
@@ -1282,95 +1322,71 @@ users:
     company: ''
     organizations: ''
 
-  - rank: 161
-    name: 'Ivan Meler'
-    login: 'ivanmeler'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/4472273?v=4'
-    contributions: 454
-    company: ''
-    organizations: ''
-
-  - rank: 162
-    name: 'Petar Ivancevic'
-    login: 'PetarIvancevic'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/9866416?v=4'
-    contributions: 450
-    company: 'Blazing Edge'
-    organizations: 'blazing-edge-labs'
-
-  - rank: 163
+  - rank: 166
     name: 'Matija Marohnić'
     login: 'silvenon'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/471278?v=4'
-    contributions: 449
+    contributions: 465
     company: ''
     organizations: 'yeoman,twin'
 
-  - rank: 164
-    name: 'Antonia Elek'
-    login: 'antoniaelek'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/12903285?v=4'
-    contributions: 446
-    company: ''
-    organizations: 'codeassign'
-
-  - rank: 165
-    name: 'Dobrica Pavlinušić'
-    login: 'dpavlin'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/15665?v=4'
-    contributions: 437
-    company: '@ffzg '
-    organizations: 'Koha-Community,koreader'
-
-  - rank: 166
-    name: 'Rudolf Jurišić'
-    login: 'napravicukod'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/2182708?v=4'
-    contributions: 436
-    company: '@degordian '
-    organizations: ''
-
   - rank: 167
-    name: 'Saša Jurić'
-    login: 'sasa1977'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/202498?v=4'
-    contributions: 434
-    company: 'Aircloak'
-    organizations: 'Aircloak,LambdaZagreb'
-
-  - rank: 168
     name: 'Mario Kozjak'
     login: 'mkozjak'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/3506172?v=4'
-    contributions: 429
+    contributions: 456
     company: '@elpheria '
     organizations: 'KWRI,mokriya-org'
 
-  - rank: 169
-    name: 'Željko Filipin'
-    login: 'zeljkofilipin'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/23927?v=4'
-    contributions: 428
-    company: 'Wikimedia Foundation'
-    organizations: 'wikimedia,watir'
+  - rank: 168
+    name: 'Petar Ivancevic'
+    login: 'PetarIvancevic'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/9866416?v=4'
+    contributions: 440
+    company: 'Blazing Edge'
+    organizations: 'blazing-edge-labs'
 
-  - rank: 170
+  - rank: 169
     name: 'Ivan Božić'
     login: 'ivanbozic'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/5840040?v=4'
-    contributions: 426
+    contributions: 439
     company: 'Ars Futura'
     organizations: 'arsfutura'
 
-  - rank: 171
-    name: 'Tim Nieradzik'
-    login: 'tindzk'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/196819?v=4'
-    contributions: 420
-    company: '@oradian '
+  - rank: 170
+    name: 'Jurica Smircic'
+    login: 'jsmircic'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/10010504?v=4'
+    contributions: 438
+    company: 'CELEBES IT'
     organizations: ''
 
+  - rank: 171
+    name: 'Dobrica Pavlinušić'
+    login: 'dpavlin'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/15665?v=4'
+    contributions: 431
+    company: '@ffzg '
+    organizations: 'Koha-Community,koreader'
+
   - rank: 172
+    name: 'Rudolf Jurišić'
+    login: 'napravicukod'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/2182708?v=4'
+    contributions: 427
+    company: '@degordian '
+    organizations: ''
+
+  - rank: 173
+    name: 'Željko Filipin'
+    login: 'zeljkofilipin'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/23927?v=4'
+    contributions: 427
+    company: 'Wikimedia Foundation'
+    organizations: 'wikimedia,watir'
+
+  - rank: 174
     name: 'Mislav'
     login: 'mislavva'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/26609185?v=4'
@@ -1378,71 +1394,87 @@ users:
     company: ''
     organizations: ''
 
-  - rank: 173
-    name: 'Deni Bertovic'
-    login: 'denibertovic'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/807660?v=4'
-    contributions: 417
-    company: ''
-    organizations: 'KSET,fpco,WebCampZg,LambdaZagreb,xmonad'
-
-  - rank: 174
-    name: 'Marko Topolnik'
-    login: 'mtopolnik'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/490953?v=4'
-    contributions: 414
-    company: 'Hazelcast'
-    organizations: ''
-
   - rank: 175
-    name: 'Milan Košir'
-    login: 'kosirm'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/54502?v=4'
-    contributions: 412
-    company: 'Dreambox'
+    name: ''
+    login: 'mat1jaczyyy'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/13300194?v=4'
+    contributions: 418
+    company: ''
     organizations: ''
 
   - rank: 176
-    name: 'Jurica Smircic'
-    login: 'jsmircic'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/10010504?v=4'
-    contributions: 409
-    company: 'CELEBES IT'
-    organizations: ''
-
-  - rank: 177
-    name: 'Mislav Blažević'
-    login: 'krofna'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/1102695?v=4'
-    contributions: 407
-    company: ''
-    organizations: 'FGRE'
-
-  - rank: 178
     name: 'Davor Lozic'
     login: 'warriorkitty'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/5781483?v=4'
-    contributions: 403
+    contributions: 415
     company: ''
     organizations: ''
 
+  - rank: 177
+    name: 'Damjan Vučina'
+    login: 'damjanvucina'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/36609697?v=4'
+    contributions: 414
+    company: ''
+    organizations: ''
+
+  - rank: 178
+    name: 'Saša Jurić'
+    login: 'sasa1977'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/202498?v=4'
+    contributions: 414
+    company: 'Aircloak'
+    organizations: 'Aircloak,LambdaZagreb'
+
   - rank: 179
-    name: 'Marin Benčević'
-    login: 'marinbenc'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/15250015?v=4'
-    contributions: 403
-    company: '@cobeisfresh '
+    name: 'Milan Košir'
+    login: 'kosirm'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/54502?v=4'
+    contributions: 413
+    company: 'Dreambox'
     organizations: ''
 
   - rank: 180
-    name: 'Josip Bernat'
-    login: 'josipbernat'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/2537227?v=4'
-    contributions: 401
-    company: 'Stroeer Media Brands Apps'
+    name: 'Tim Nieradzik'
+    login: 'tindzk'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/196819?v=4'
+    contributions: 410
+    company: '@oradian '
     organizations: ''
 
   - rank: 181
+    name: 'Marin Benčević'
+    login: 'marinbenc'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/15250015?v=4'
+    contributions: 410
+    company: '@cobeisfresh '
+    organizations: ''
+
+  - rank: 182
+    name: 'Deni Bertovic'
+    login: 'denibertovic'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/807660?v=4'
+    contributions: 408
+    company: ''
+    organizations: 'KSET,fpco,WebCampZg,LambdaZagreb,xmonad'
+
+  - rank: 183
+    name: 'Marko Topolnik'
+    login: 'mtopolnik'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/490953?v=4'
+    contributions: 396
+    company: 'Hazelcast'
+    organizations: ''
+
+  - rank: 184
+    name: 'Mislav Blažević'
+    login: 'krofna'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/1102695?v=4'
+    contributions: 394
+    company: ''
+    organizations: 'FGRE'
+
+  - rank: 185
     name: 'Marinko Pešo'
     login: 'marinko-peso'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/6949058?v=4'
@@ -1450,23 +1482,23 @@ users:
     company: '@ExtensionEngine '
     organizations: ''
 
-  - rank: 182
-    name: 'Damjan Vučina'
-    login: 'damjanvucina'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/36609697?v=4'
-    contributions: 390
+  - rank: 186
+    name: 'Josip Bernat'
+    login: 'josipbernat'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/2537227?v=4'
+    contributions: 389
+    company: 'Stroeer Media Brands Apps'
+    organizations: ''
+
+  - rank: 187
+    name: 'Ivan Ković'
+    login: 'ikovic'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/1204170?v=4'
+    contributions: 388
     company: ''
     organizations: ''
 
-  - rank: 183
-    name: 'Matej Vukosav'
-    login: 'MatejVukosav'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/12198572?v=4'
-    contributions: 387
-    company: ''
-    organizations: 'TheSecretProject,ThreeAsACrowd,GDG-Zagreb,iosDevApps,CSyllabus'
-
-  - rank: 184
+  - rank: 188
     name: 'Katie Holly'
     login: 'Fusl'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/2349496?v=4'
@@ -1474,43 +1506,11 @@ users:
     company: '@FuslVZ'
     organizations: 'opennic,tokyoshells,BGPView,FuslVZ,anyqast,DNSCrypt'
 
-  - rank: 185
+  - rank: 189
     name: 'Josip Ćavar'
     login: 'jcavar'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/3751289?v=4'
-    contributions: 377
-    company: ''
-    organizations: ''
-
-  - rank: 186
-    name: ''
-    login: 'mat1jaczyyy'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/13300194?v=4'
-    contributions: 375
-    company: ''
-    organizations: ''
-
-  - rank: 187
-    name: 'Ivan Vinski'
-    login: 'ivanvinski'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/14854181?v=4'
-    contributions: 374
-    company: ''
-    organizations: ''
-
-  - rank: 188
-    name: 'Zoran'
-    login: 'zzavrski'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/4996328?v=4'
-    contributions: 371
-    company: 'Degordian'
-    organizations: ''
-
-  - rank: 189
-    name: 'Bruno Gavranović'
-    login: 'bgavran'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/3183608?v=4'
-    contributions: 368
+    contributions: 379
     company: ''
     organizations: ''
 
@@ -1518,15 +1518,15 @@ users:
     name: 'Dražen Lučanin'
     login: 'metakermit'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/1818628?v=4'
-    contributions: 368
+    contributions: 374
     company: '@punkrockdev '
     organizations: 'cloudfleet,pyladiesvienna,philharmonic,qPRC,PythonForZombies,where2help,balkanio,imGraetzl,punkrockdev,za-grad,marinaio'
 
   - rank: 191
-    name: 'Matija Galina'
-    login: 'matijagalina'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/23151476?v=4'
-    contributions: 364
+    name: 'Ivan Vinski'
+    login: 'ivanvinski'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/14854181?v=4'
+    contributions: 374
     company: ''
     organizations: ''
 
@@ -1534,35 +1534,51 @@ users:
     name: 'Dino Reić'
     login: 'dux'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/48320?v=4'
-    contributions: 358
+    contributions: 373
     company: 'Trifolium doo'
     organizations: 'Trifolium'
 
   - rank: 193
-    name: 'Ivan Lučev'
-    login: 'lucev'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/326749?v=4'
-    contributions: 354
-    company: 'Refactorit'
-    organizations: 'refactorit'
+    name: 'Bruno Gavranović'
+    login: 'bgavran'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/3183608?v=4'
+    contributions: 368
+    company: ''
+    organizations: ''
 
   - rank: 194
-    name: 'Bruno Babic'
-    login: 'aesqe'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/291348?v=4'
-    contributions: 352
-    company: '@shoutem'
-    organizations: '5minutes,shoutem'
+    name: 'Matej Vukosav'
+    login: 'MatejVukosav'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/12198572?v=4'
+    contributions: 367
+    company: ''
+    organizations: 'TheSecretProject,ThreeAsACrowd,GDG-Zagreb,iosDevApps,CSyllabus'
 
   - rank: 195
-    name: 'Krešimir Prcela'
-    login: 'prcela'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/457998?v=4'
-    contributions: 351
-    company: 'minus5'
+    name: 'Matija Galina'
+    login: 'matijagalina'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/23151476?v=4'
+    contributions: 364
+    company: ''
     organizations: ''
 
   - rank: 196
+    name: 'Igor Rinkovec'
+    login: 'TheWildHorse'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/3526915?v=4'
+    contributions: 356
+    company: 'Sethera'
+    organizations: 'foivz,FOI-Rocks,ItWorksLocally,ElementsFramework'
+
+  - rank: 197
+    name: 'Igor Cota'
+    login: 'icota'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/762502?v=4'
+    contributions: 349
+    company: ''
+    organizations: 'breez'
+
+  - rank: 198
     name: 'Andrija Dvorski'
     login: 'Dvorsky'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/9594939?v=4'
@@ -1570,79 +1586,87 @@ users:
     company: '@degordian '
     organizations: ''
 
-  - rank: 197
-    name: 'Ivan Ković'
-    login: 'ikovic'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/1204170?v=4'
-    contributions: 345
-    company: ''
-    organizations: ''
-
-  - rank: 198
-    name: 'Igor Rinkovec'
-    login: 'TheWildHorse'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/3526915?v=4'
-    contributions: 343
-    company: 'Sethera'
-    organizations: 'foivz,FOI-Rocks,ItWorksLocally,ElementsFramework'
-
   - rank: 199
-    name: 'Mario Blazek'
-    login: 'MarioBlazek'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/6605175?v=4'
-    contributions: 340
-    company: 'Netgen'
-    organizations: 'netgen,KeyteqLabs'
-
-  - rank: 200
-    name: 'Jure Čular'
-    login: 'jcular'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/9075797?v=4'
-    contributions: 331
-    company: '@PDF417 @PhotoPay @BlinkID @blinkinput '
-    organizations: 'PhotoPay,PDF417,blinkinput,BlinkID'
-
-  - rank: 201
     name: 'Tomislav Maricevic'
     login: 'tmarice'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/1169270?v=4'
-    contributions: 330
+    contributions: 341
     company: ''
     organizations: ''
+
+  - rank: 200
+    name: 'Mladen Čikara'
+    login: 'McNullty'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/1732253?v=4'
+    contributions: 340
+    company: ''
+    organizations: ''
+
+  - rank: 201
+    name: 'Mario Blazek'
+    login: 'MarioBlazek'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/6605175?v=4'
+    contributions: 334
+    company: 'Netgen'
+    organizations: 'netgen,KeyteqLabs'
 
   - rank: 202
-    name: 'Luka Blašković'
-    login: 'lblasc'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/32152?v=4'
-    contributions: 330
-    company: ''
-    organizations: ''
-
-  - rank: 203
     name: 'Ivan Grgurina'
     login: 'Alvareto'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/2978480?v=4'
-    contributions: 329
+    contributions: 330
     company: 'Faculty of Electrical Engineering and Computing, University of Zagreb'
     organizations: ''
 
-  - rank: 204
+  - rank: 203
     name: 'Domagoj Latečki'
     login: 'domagojlatecki'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/12549625?v=4'
+    contributions: 328
+    company: ''
+    organizations: ''
+
+  - rank: 204
+    name: 'Jure Čular'
+    login: 'jcular'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/9075797?v=4'
+    contributions: 327
+    company: '@PDF417 @PhotoPay @BlinkID @blinkinput '
+    organizations: 'PhotoPay,PDF417,blinkinput,BlinkID'
+
+  - rank: 205
+    name: 'Luka Blašković'
+    login: 'lblasc'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/32152?v=4'
     contributions: 326
     company: ''
     organizations: ''
 
-  - rank: 205
-    name: ''
-    login: 'dstar55'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/6433464?v=4'
-    contributions: 324
+  - rank: 206
+    name: 'Ljubo Čanić'
+    login: 'gotohr'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/864692?v=4'
+    contributions: 325
     company: ''
     organizations: ''
 
-  - rank: 206
+  - rank: 207
+    name: ''
+    login: 'dstar55'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/6433464?v=4'
+    contributions: 325
+    company: ''
+    organizations: ''
+
+  - rank: 208
+    name: 'Bruno Babic'
+    login: 'aesqe'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/291348?v=4'
+    contributions: 324
+    company: '@shoutem'
+    organizations: '5minutes,shoutem'
+
+  - rank: 209
     name: 'Mihaela Mihaljevic Jakic'
     login: 'mihaelamj'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/1407900?v=4'
@@ -1650,79 +1674,63 @@ users:
     company: ''
     organizations: 'vapor'
 
-  - rank: 207
-    name: 'Lucijan Blagonić'
-    login: 'lucijanblagonic'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/773721?v=4'
-    contributions: 322
-    company: 'Blagonic Brothers'
-    organizations: ''
-
-  - rank: 208
-    name: 'Igor Cota'
-    login: 'icota'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/762502?v=4'
-    contributions: 321
-    company: ''
-    organizations: 'breez'
-
-  - rank: 209
-    name: 'Mladen Čikara'
-    login: 'McNullty'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/1732253?v=4'
-    contributions: 320
-    company: ''
-    organizations: ''
-
   - rank: 210
-    name: 'Fran Hančić'
-    login: 'ffhan'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/12828032?v=4'
-    contributions: 318
-    company: ''
+    name: 'Zoran'
+    login: 'zzavrski'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/4996328?v=4'
+    contributions: 320
+    company: 'Degordian'
     organizations: ''
 
   - rank: 211
-    name: 'Ljubo Čanić'
-    login: 'gotohr'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/864692?v=4'
-    contributions: 318
+    name: 'Fran Hančić'
+    login: 'ffhan'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/12828032?v=4'
+    contributions: 315
     company: ''
     organizations: ''
 
   - rank: 212
-    name: 'Dinko Srkoč'
-    login: 'dsrkoc'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/735437?v=4'
-    contributions: 311
+    name: 'Igor Saric'
+    login: 'karabaja4'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/1043015?v=4'
+    contributions: 314
     company: ''
     organizations: ''
 
   - rank: 213
+    name: 'Dinko Srkoč'
+    login: 'dsrkoc'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/735437?v=4'
+    contributions: 308
+    company: ''
+    organizations: ''
+
+  - rank: 214
     name: 'Herman Zvonimir Došilović'
     login: 'hermanzdosilovic'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/7927278?v=4'
-    contributions: 309
+    contributions: 306
     company: '@microblink'
     organizations: 'microblink,x-fer,codeassign,judge0,futsa'
-
-  - rank: 214
-    name: 'Igor Saric'
-    login: 'karabaja4'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/1043015?v=4'
-    contributions: 307
-    company: ''
-    organizations: ''
 
   - rank: 215
     name: 'Luka Basek'
     login: 'lbasek'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/555829?v=4'
-    contributions: 304
+    contributions: 306
     company: '@arsfutura '
     organizations: ''
 
   - rank: 216
+    name: 'Lucijan Blagonić'
+    login: 'lucijanblagonic'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/773721?v=4'
+    contributions: 304
+    company: 'Blagonic Brothers'
+    organizations: ''
+
+  - rank: 217
     name: 'Goran J'
     login: 'gjorgic'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/3842488?v=4'
@@ -1730,7 +1738,15 @@ users:
     company: 'Blue Factory'
     organizations: ''
 
-  - rank: 217
+  - rank: 218
+    name: 'Mathieu Dutour Sikiric'
+    login: 'MathieuDutSik'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/2412074?v=4'
+    contributions: 295
+    company: 'Institut Rudjer Boskovic'
+    organizations: ''
+
+  - rank: 219
     name: 'Miran'
     login: 'narimiran'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/16516130?v=4'
@@ -1738,15 +1754,7 @@ users:
     company: ''
     organizations: ''
 
-  - rank: 218
-    name: 'Ivor Marić'
-    login: 'IvorM'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/6875970?v=4'
-    contributions: 295
-    company: 'VŠPR Algebra'
-    organizations: ''
-
-  - rank: 219
+  - rank: 220
     name: 'Nikola Jokic'
     login: 'JohnnySheffield'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/4224211?v=4'
@@ -1754,63 +1762,31 @@ users:
     company: '@DAPowerPlay '
     organizations: ''
 
-  - rank: 220
-    name: 'Tomislav Krnic'
-    login: 'tomislavkrnic'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/280078?v=4'
-    contributions: 287
-    company: 'Freelancer'
-    organizations: ''
-
   - rank: 221
-    name: 'Tomislav Plavcic'
-    login: 'tplavcic'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/4625195?v=4'
-    contributions: 287
-    company: ''
-    organizations: 'percona'
+    name: 'Ivor Marić'
+    login: 'IvorM'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/6875970?v=4'
+    contributions: 292
+    company: 'VŠPR Algebra'
+    organizations: ''
 
   - rank: 222
-    name: 'Miroslav'
-    login: 'schlos'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/1014134?v=4'
-    contributions: 287
-    company: ''
-    organizations: 'codeforcroatia,HrOpen-Croatia'
+    name: 'Ivan Lučev'
+    login: 'lucev'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/326749?v=4'
+    contributions: 281
+    company: 'Refactorit'
+    organizations: 'refactorit'
 
   - rank: 223
-    name: 'Ana Parunov'
-    login: 'anaparunov'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/6322277?v=4'
-    contributions: 284
-    company: ''
-    organizations: ''
-
-  - rank: 224
-    name: 'Slaven Vladisavljevic'
-    login: 'slaven'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/145448?v=4'
-    contributions: 281
-    company: 'Mono Software'
-    organizations: ''
-
-  - rank: 225
-    name: 'Zlatko Čalušić'
-    login: 'zcalusic'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/12140851?v=4'
-    contributions: 280
-    company: 'More Screens Ltd.'
-    organizations: 'restic'
-
-  - rank: 226
     name: 'Tomislav Mamic'
     login: 'tmamic'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/15032085?v=4'
-    contributions: 280
+    contributions: 281
     company: ''
     organizations: 'Makoto-hr-jp'
 
-  - rank: 227
+  - rank: 224
     name: 'Dean Babic'
     login: 'coldwarrior5'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/4760346?v=4'
@@ -1818,28 +1794,52 @@ users:
     company: ''
     organizations: ''
 
-  - rank: 228
-    name: 'Luka Čupić'
-    login: 'lukacupic'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/22443169?v=4'
+  - rank: 225
+    name: 'Tomislav Plavcic'
+    login: 'tplavcic'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/4625195?v=4'
+    contributions: 278
+    company: ''
+    organizations: 'percona'
+
+  - rank: 226
+    name: 'Ana Parunov'
+    login: 'anaparunov'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/6322277?v=4'
     contributions: 278
     company: ''
     organizations: ''
 
-  - rank: 229
-    name: 'Ana Marjanica'
-    login: 'amarjanica'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/1394565?v=4'
-    contributions: 274
+  - rank: 227
+    name: 'Miroslav'
+    login: 'schlos'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/1014134?v=4'
+    contributions: 276
+    company: ''
+    organizations: 'codeforcroatia,HrOpen-Croatia'
+
+  - rank: 228
+    name: 'Luka Čupić'
+    login: 'lukacupic'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/22443169?v=4'
+    contributions: 275
     company: ''
     organizations: ''
 
-  - rank: 230
-    name: 'Mathieu Dutour Sikiric'
-    login: 'MathieuDutSik'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/2412074?v=4'
+  - rank: 229
+    name: 'Slaven Vladisavljevic'
+    login: 'slaven'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/145448?v=4'
     contributions: 271
-    company: 'Institut Rudjer Boskovic'
+    company: 'Mono Software'
+    organizations: ''
+
+  - rank: 230
+    name: 'Tomislav Krnic'
+    login: 'tomislavkrnic'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/280078?v=4'
+    contributions: 266
+    company: 'Freelancer'
     organizations: ''
 
   - rank: 231
@@ -1854,27 +1854,35 @@ users:
     name: 'Šime Vidas'
     login: 'simevidas'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/716405?v=4'
-    contributions: 256
+    contributions: 257
     company: 'Web Platform Daily'
     organizations: ''
 
   - rank: 233
-    name: 'Roberto Anić Banić'
-    login: 'Nicba1010'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/3586606?v=4'
-    contributions: 249
+    name: 'Ana Marjanica'
+    login: 'amarjanica'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/1394565?v=4'
+    contributions: 254
     company: ''
     organizations: ''
 
   - rank: 234
-    name: ''
-    login: 'fajkovicsasa'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/15004851?v=4'
-    contributions: 248
+    name: 'Josip Haboić'
+    login: 'JosipHaboic'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/21206330?v=4'
+    contributions: 249
     company: ''
     organizations: ''
 
   - rank: 235
+    name: 'Zlatko Čalušić'
+    login: 'zcalusic'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/12140851?v=4'
+    contributions: 245
+    company: 'More Screens Ltd.'
+    organizations: 'restic'
+
+  - rank: 236
     name: 'Stjepan'
     login: 'whiteShtef'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/13030796?v=4'
@@ -1882,15 +1890,23 @@ users:
     company: '@rimac-technology'
     organizations: ''
 
-  - rank: 236
-    name: 'Josip Haboić'
-    login: 'JosipHaboic'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/21206330?v=4'
-    contributions: 241
+  - rank: 237
+    name: ''
+    login: 'fajkovicsasa'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/15004851?v=4'
+    contributions: 244
     company: ''
     organizations: ''
 
-  - rank: 237
+  - rank: 238
+    name: 'Roberto Anić Banić'
+    login: 'Nicba1010'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/3586606?v=4'
+    contributions: 240
+    company: ''
+    organizations: ''
+
+  - rank: 239
     name: 'lik1212'
     login: 'lik1212'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/34547813?v=4'
@@ -1898,7 +1914,15 @@ users:
     company: ''
     organizations: ''
 
-  - rank: 238
+  - rank: 240
+    name: 'Luka Vidaković'
+    login: 'lvidakovic'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/2341114?v=4'
+    contributions: 239
+    company: '@vibbycom '
+    organizations: ''
+
+  - rank: 241
     name: 'Bernard Stojanović'
     login: 'BeroBurny'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/6376047?v=4'
@@ -1906,31 +1930,15 @@ users:
     company: ''
     organizations: ''
 
-  - rank: 239
-    name: 'Luka Vidaković'
-    login: 'lvidakovic'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/2341114?v=4'
-    contributions: 235
-    company: '@vibbycom '
-    organizations: ''
-
-  - rank: 240
+  - rank: 242
     name: 'Miroslav Jelaska'
     login: 'MiroslavJelaska'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/2855316?v=4'
-    contributions: 233
+    contributions: 232
     company: '@dump-hr '
     organizations: 'dump-hr'
 
-  - rank: 241
-    name: 'Luka Kladaric'
-    login: 'allixsenos'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/752893?v=4'
-    contributions: 231
-    company: 'Sekura'
-    organizations: 'meetup'
-
-  - rank: 242
+  - rank: 243
     name: 'Domagoj Krivošić'
     login: 'dkrivosic'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/10785413?v=4'
@@ -1938,23 +1946,7 @@ users:
     company: ''
     organizations: ''
 
-  - rank: 243
-    name: 'Matej'
-    login: 'dekadentno'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/12261635?v=4'
-    contributions: 229
-    company: ''
-    organizations: ''
-
   - rank: 244
-    name: 'Alexander Štimac'
-    login: 'astimac'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/1096540?v=4'
-    contributions: 229
-    company: ''
-    organizations: ''
-
-  - rank: 245
     name: 'Ivan Krpan'
     login: 'pa7ch'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/5272570?v=4'
@@ -1962,23 +1954,15 @@ users:
     company: ''
     organizations: 'xmpl-tool'
 
-  - rank: 246
-    name: 'Josip Krnjic'
-    login: 'itsJoKr'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/11093480?v=4'
-    contributions: 227
+  - rank: 245
+    name: 'Matej'
+    login: 'dekadentno'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/12261635?v=4'
+    contributions: 226
     company: ''
     organizations: ''
 
-  - rank: 247
-    name: 'Matej Bašić'
-    login: 'matejbasic'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/4060253?v=4'
-    contributions: 223
-    company: '@Neuralab '
-    organizations: ''
-
-  - rank: 248
+  - rank: 246
     name: 'Igor Cuckovic'
     login: 'chule'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/776736?v=4'
@@ -1986,20 +1970,36 @@ users:
     company: ''
     organizations: ''
 
-  - rank: 249
+  - rank: 247
+    name: 'Matej Bašić'
+    login: 'matejbasic'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/4060253?v=4'
+    contributions: 221
+    company: '@Neuralab '
+    organizations: ''
+
+  - rank: 248
     name: 'Martin Pisačić'
     login: 'mpisacic'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/14790874?v=4'
-    contributions: 219
+    contributions: 218
     company: ''
     organizations: ''
 
-  - rank: 250
+  - rank: 249
     name: 'Kristijan Bartol'
     login: 'kristijanbartol'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/479983?v=4'
     contributions: 218
     company: 'FER'
+    organizations: ''
+
+  - rank: 250
+    name: 'Alexander Štimac'
+    login: 'astimac'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/1096540?v=4'
+    contributions: 217
+    company: ''
     organizations: ''
 
   - rank: 251
@@ -2011,42 +2011,42 @@ users:
     organizations: ''
 
   - rank: 252
-    name: 'Filip Saina'
-    login: 'fsaina'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/9042798?v=4'
-    contributions: 212
-    company: ''
+    name: 'Antonio Peric'
+    login: 'antonioperic'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/2453151?v=4'
+    contributions: 214
+    company: 'locastic'
     organizations: ''
 
   - rank: 253
-    name: 'Kristijan Rebernisak'
-    login: 'krebernisak'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/615877?v=4'
-    contributions: 207
-    company: 'ShoutEm'
-    organizations: 'imaginarysolutions,runningbeta'
-
-  - rank: 254
-    name: 'KristijanFištrek'
-    login: 'JonathanBrickwell'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/24413053?v=4'
-    contributions: 206
+    name: 'Josip Krnjic'
+    login: 'itsJoKr'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/11093480?v=4'
+    contributions: 214
     company: ''
     organizations: ''
 
+  - rank: 254
+    name: ''
+    login: 'mlazaric'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/3049847?v=4'
+    contributions: 212
+    company: ''
+    organizations: 'Open-Code-Developers'
+
   - rank: 255
-    name: 'Neven Falica'
-    login: 'elkarrde'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/832053?v=4'
-    contributions: 205
-    company: 'Fleksbit'
+    name: 'Marko Kuljanski'
+    login: 'Kulja'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/3258323?v=4'
+    contributions: 211
+    company: ''
     organizations: ''
 
   - rank: 256
-    name: 'Karlo Vidaković'
-    login: 'kvidakov'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/17686179?v=4'
-    contributions: 205
+    name: 'Tomislav'
+    login: 'tomiplaz'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/8911307?v=4'
+    contributions: 208
     company: ''
     organizations: ''
 
@@ -2085,10 +2085,10 @@ organizations:
     membercount: 3
 
   - rank: 9
-    name: 'lambdazagreb'
+    name: 'dump-hr'
     membercount: 3
 
   - rank: 10
-    name: 'arsfutura'
+    name: 'lambdazagreb'
     membercount: 3
-generated: 2018-10-15 00:16:15.794445395 +0000 UTC
+generated: 2018-10-22 00:16:42.619929866 +0000 UTC
