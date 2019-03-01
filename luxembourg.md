@@ -1,4 +1,0 @@
----
-type: location
-location: luxembourg
----
