@@ -1,0 +1,15 @@
+<p class="col-lg-6 mx-auto">
+  This list is generated with this
+  <a href="https://github.com/lauripiispanen/most-active-github-users-counter"> piece of code</a>.
+  The logic is as follows (in pseudocode):
+</p>
+
+<pre class="bg-dark text-white text-left col-lg-6 mx-auto">
+  
+  githubUsers.sort(_.followers){% if page.title != 'Worldwide' %}
+             .filter(_.location == '{{ page.title }}'){% endif %}
+             .take(1000)
+             .sort(_.contributions)
+             .take(256)
+  
+</pre>

@@ -1,0 +1,25 @@
+---
+---
+
+.image-container {
+    margin-bottom: -4em;
+}
+
+.rating-badge {
+    position: relative;
+    top: -45px;
+    right: -35px;
+    z-index: 10;
+    border: 2.5px solid white;
+}
+
+.social {
+    text-decoration: none !important;
+    color: #6c757d;
+
+    &.twitter:hover  { color: #1da1f2 }
+    &.facebook:hover { color: #3b5998 }
+    &.reddit:hover    { color: #ff4500 }
+    &.tumblr:hover   { color: #35465c }
+    &.linkedin:hover { color: #007bb5 }
+}

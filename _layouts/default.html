@@ -1,187 +1,58 @@
 <!doctype html>
-<html lang="{{ site.lang | default: "en-US" }}">
+
+<html lang="{{ site.lang | default:"en-US" }}">
+
   <head>
+
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <meta name="viewport" content="width=device-width">
+    {% assign description = 'A list of most active GitHub users' %}
+    {% assign title = 'Most active GitHub users' %}
+    {% assign url = 'http://commits.top/' %}
 
-    {% if page.type == 'location' %}
-      {% assign location = site.data.locations[page.location] %}
-      <title>Most active GitHub users in {{location.title}}</title>
-      <meta name="description" content="A list of most active GitHub users in {{location.title}}."/>
-      <meta property="og:description" content="A list of most active GitHub users in {{location.title}}."/>
-      <meta name="twitter:description" content="A list of most active GitHub users in {{location.title}}."/>
-
-      <meta property="og:site_name" content="commits.top - Most active GitHub users in {{location.title}}"/>
-      <meta property="og:title" content="commits.top - Most active GitHub users in {{location.title}}"/>
-      <meta name="twitter:title" content="commits.top - Most active GitHub users in {{location.title}}"/>
-      <meta property="og:url" content="http://commits.top/{{location.page}}"/>
-      <link rel="canonical" href="http://commits.top/{{location.page}}">
-
-    {% else %}
-      <title>Most active GitHub users</title>
-      <meta name="description" content="A list of most active GitHub users in different cities/countries."/>
-      <meta property="og:description" content="A list of most active GitHub users in different cities/countries."/>
-      <meta name="twitter:description" content="A list of most active GitHub users in different cities/countries."/>
-
-      <meta property="og:site_name" content="commits.top - Most active GitHub users"/>
-      <meta property="og:title" content="commits.top - Most active GitHub users"/>
-      <meta name="twitter:title" content="commits.top - Most active GitHub users"/>
-      <meta property="og:url" content="http://commits.top/"/>
-      <link rel="canonical" href="http://commits.top/">
-
+    {% if page.collection == 'locations' %}
+      {% assign description = description | append: ' in ' | append: page.title %}
+      {% assign title = title | append: ' in ' | append: page.title %}
+      {% assign url = url | append: page.url %}
     {% endif %}
-    <meta name="rating" content="Safe For Kids"/>
-    <meta name="author" content="Lauri Piispanen"/>
-    <meta name="robots" content="index,follow"/>
-    <meta name="robots" content="noodp"/>
-    <meta property="og:type" content="website"/>
 
-    <meta name="twitter:card" content="summary"/>
-    <meta name="twitter:creator" content="@lauripiispanen"/>
+    <title>{{ title }}</title>
+    <meta name="description" content="{{ description }}." />
+    <meta property="og:description" content="{{ description }}." />
+    <meta name="twitter:description" content="{{ description }}." />
 
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    {% if site.google_ad_client %}
-    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    <script>
-      (adsbygoogle = window.adsbygoogle || []).push({
-        google_ad_client: "{{ site.google_ad_client }}",
-        enable_page_level_ads: true
-      });
-    </script>
-    {% endif %}
+    <meta property="og:site_name" content="commits.top - {{ title }}" />
+    <meta property="og:title" content="commits.top - {{ title }}" />
+    <meta name="twitter:title" content="commits.top - {{ title }}" />
+
+    <meta property="og:url" content="{{ url }}" />
+    <link rel="canonical" href="{{ url }}" />
+
+    <meta name="rating" content="Safe For Kids" />
+    <meta name="author" content="Lauri Piispanen" />
+    <meta name="robots" content="index,follow" />
+    <meta name="robots" content="noodp" />
+    <meta property="og:type" content="website" />
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:creator" content="@lauripiispanen" />
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" />
+    <link rel="stylesheet" href="style.css" />
+
   </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1>commits.top</h1>
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        <p class="view"><a href="https://github.com/lauripiispanen/most-active-github-users-counter.git">View the Project on GitHub</a></p>
-        <p>
-          <ul class="share-buttons">
-            <li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fcommits.top%2F&t=" title="Share on Facebook" target="_blank" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&t=' + encodeURIComponent(document.URL)); return false;"><img alt="Share on Facebook" src="images/social_flat_rounded_rects_svg/Facebook.svg"></a></li>
-            <li><a href="https://twitter.com/intent/tweet?source=http%3A%2F%2Fcommits.top%2F&text=:%20http%3A%2F%2Fcommits.top%2F&via=lauripiispanen" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20'  + encodeURIComponent(document.URL)); return false;"><img alt="Tweet" src="images/social_flat_rounded_rects_svg/Twitter.svg"></a></li>
-            <li><a href="https://plus.google.com/share?url=http%3A%2F%2Fcommits.top%2F" target="_blank" title="Share on Google+" onclick="window.open('https://plus.google.com/share?url=' + encodeURIComponent(document.URL)); return false;"><img alt="Share on Google+" src="images/social_flat_rounded_rects_svg/Google+.svg"></a></li>
-            <li><a href="http://www.tumblr.com/share?v=3&u=http%3A%2F%2Fcommits.top%2F&t=&s=" target="_blank" title="Post to Tumblr" onclick="window.open('http://www.tumblr.com/share?v=3&u=' + encodeURIComponent(document.URL) + '&t=' +  encodeURIComponent(document.title)); return false;"><img alt="Post to Tumblr" src="images/social_flat_rounded_rects_svg/Tumblr.svg"></a></li>
-            <li><a href="http://www.reddit.com/submit?url=http%3A%2F%2Fcommits.top%2F&title=" target="_blank" title="Submit to Reddit" onclick="window.open('http://www.reddit.com/submit?url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><img alt="Submit to Reddit" src="images/social_flat_rounded_rects_svg/Reddit.svg"></a></li>
-            <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fcommits.top%2F&title=&summary=&source=http%3A%2F%2Fcommits.top%2F" target="_blank" title="Share on LinkedIn" onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><img alt="Share on LinkedIn" src="images/social_flat_rounded_rects_svg/LinkedIn.svg"></a></li>
-          </ul>
-        </p>
+  <body class="container text-center my-4 text-monospace bg-light">
 
-      </header>
-      <section>
-
-        {% if page.type == 'location' %}
-          {% assign location = site.data.locations[page.location] %}
-          <h1>Most active GitHub users in {{location.title}}</h1>
-          <p>
-            This is a list of most active GitHub users in {{location.title}} over the past year. Other countries/cities can be found <a href=".">here</a>.
-            This list was generated at <code>{{location.generated}}</code>.
-          </p>
-          <p>
-            This list is generated with <a href="https://github.com/lauripiispanen/most-active-github-users-counter">this</a> piece of code.
-            The logic is as follows (in pseudocode):
-          </p>
-          <p><pre><code>githubUsers.sort(_.followers){% if page.location != 'worldwide' %}
-           .filter(_.location == '{{location.title}}') {% endif %}
-           .take(1000)
-           .sort(_.contributions)
-           .take(256)</code></pre>
-          </p>
-          <p>Private contributions are included if the user has selected that option in their profile settings.
-          </p>
-          <p>
-          <table>
-            <tr>
-              <th>Rank</th>
-              <th>User</th>
-              <th>Contribs</th>
-              <th>Picture</th>
-            </tr>
-          {% for user in location.users %}
-            <tr>
-              <td>{{user.rank}}.</td>
-              <td><a href="https://github.com/{{user.login}}">{{user.login}}</a> ({{user.name}})</td>
-              <td>{{user.contributions}}</td>
-              <td><img src="{{user.avatarUrl}}&s=80" width="40" height="40" /></td>
-            </tr>
-          {% endfor %}
-          </table>
-        </p>
-        <h3>Organizations</h3>
-        <p>
-        <table>
-          <tr>
-            <th>Rank</th>
-            <th>Organization</th>
-            <th>Members</th>
-          </tr>
-        {% for org in location.organizations %}
-          <tr>
-            <td>{{org.rank}}.</td>
-            <td><a href="https://github.com/{{org.name}}">{{org.name}}</a></td>
-            <td>{{org.membercount}}</td>
-          </tr>
-        {% endfor %}
-        </table>
-      </p>
+    {{ content }}
 
 
-        {% endif %}
+    {% include footer.html %}
+    {% include scripts.html %}
 
-      {{ content }}
-
-      </section>
-      <footer>
-        <p>Sponsored by:</p>
-        <p><a href="https://reaktor.com/careers/?utm_campaign=top_github&utm_source=commits.top&utm_medium=referral"><img src="images/Reaktor_Logo_Black_RGB.png" alt="Reaktor" width="200" /></a></p>
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
-    </div>
-    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
-
-
-  {% if site.google_analytics %}
-    <script>
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-        ga('create', '{{ site.google_analytics }}', 'auto');
-        ga('send', 'pageview');
-    </script>
-  {% endif %}
-  <style type="text/css">
-  ul.share-buttons{
-    list-style: none;
-    padding: 0;
-  }
-
-  ul.share-buttons li{
-    display: inline;
-  }
-
-  ul.share-buttons .sr-only {
-    position: absolute;
-    clip: rect(1px 1px 1px 1px);
-    clip: rect(1px, 1px, 1px, 1px);
-    padding: 0;
-    border: 0;
-    height: 1px;
-    width: 1px;
-    overflow: hidden;
-  }
-
-  ul.share-buttons img{
-    width: 32px;
-  }
-  </style>
   </body>
+
 </html>

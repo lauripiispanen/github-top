@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<h1>commits.top</h1>
+<h4>Most active GitHub users</h4>
+<p class="text-muted col-lg-4 mx-auto">This is a list of most active GitHub users in different countries/cities</p>
+<a class="github-button" href="https://github.com/lauripiispanen/github-top" aria-label="View project on GitHub">View project on GitHub</a>
+
+<div class="card-group my-3">
+  {% for location in site.locations %}
+  <div class="col-lg-2 col-md-3 p-1">
+    <div class="card list-group-item-action pt-2">
+      <a href="{{ location.url }}" class="text-decoration-none">
+        <h5 class="text-dark">{{ location.title }}</h5>
+      </a>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+{% include social-links.html %}

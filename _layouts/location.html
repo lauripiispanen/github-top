@@ -1,0 +1,51 @@
+---
+layout: default
+---
+
+{% assign location_name = page.title | remove: ".md" | slugify %}
+{% assign location_data = site.data.locations[location_name] %}
+
+<h1>{{ page.title }}</h1>
+<p class="text-muted"> This list was generated on {{ location_data.generated | date: "%d/%m/%Y" }}</p>
+
+{% include social-links.html %}
+{% include logic.html %}
+
+<hr>
+
+<h2>Top Users</h2>
+<p class="text-muted col-lg-6 mx-auto">Private contributions are included if the user has selected that option in their profile settings.</p>
+
+<div class="card-group">
+  {% for user in location_data.users %}
+  <div class="col-lg-3 col-md-4 p-2">
+    <div class="card h-100 list-group-item-action">
+      <a href="https://github.com/{{ user.login }}" class="text-decoration-none">
+        <div class="image-container">
+          <img src="{{ user.avatarUrl }}" class="card-img-top rounded-circle px-5 py-3">
+          <h4><span class="badge badge-pill badge-danger rating-badge"><small>#</small>{{ user.rank }}</span></h4>
+        </div>
+        <div class="card-body text-center mt-0">
+          <h5 class="card-title text-dark">{{ user.name }}</h5>
+          <h6 class="card-subtitle mb-2 text-muted">@{{ user.login }}</h6>
+          <span class="badge badge-pill badge-primary">{{ user.contributions
+            }}<small> contributions</small></span>
+        </div>
+      </a>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+<hr class="my-5">
+
+<h2>Top Organizations</h2>
+
+<div class="list-group mt-3">
+  {% for org in location_data.organizations %}
+  <a href="https://github.com/{{ org.name }}" class="list-group-item list-group-item-action">
+    {{ org.rank }}. <b>{{ org.name }}</b>
+    <span class="badge badge-pill badge-primary">{{ org.membercount }} members</span>
+  </a>
+  {% endfor %}
+</div>
