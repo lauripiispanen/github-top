@@ -11,7 +11,7 @@ layout: default
   {% for location in site.locations %}
   <div class="col-lg-2 col-md-3 p-1">
     <div class="card list-group-item-action pt-2">
-      <a href="{{ location.url }}" class="text-decoration-none">
+      <a href="{{ location.url | relative_url }}" class="text-decoration-none">
         <h5 class="text-dark">{{ location.title }}</h5>
       </a>
     </div>
