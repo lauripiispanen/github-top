@@ -2,6 +2,10 @@
 layout: default
 ---
 
+<nav class="navbar navbar-light bg-light">
+  <a class="navbar-brand mx-auto text-muted" href="{{ '/' | relative_url }}">commits.top</a>
+</nav>
+
 {% assign location_name = page.title | remove: ".md" | slugify %}
 {% assign location_data = site.data.locations[location_name] %}
 
