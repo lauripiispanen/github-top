@@ -1,0 +1,28 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.3/Chart.bundle.js"></script>
+
+<canvas id="myChart" class="col-lg-10 mx-auto my-3"></canvas>
+
+{% include contributions.html %}
+
+<script>
+var ctx = document.getElementById("myChart").getContext('2d');
+var myChart = new Chart(ctx, {
+    type: 'bar',
+    yAxisID: 'lol',
+    data: {
+        labels: ["{{ locations | join: '", "' }}"],
+        datasets: [{
+            label: 'contributions',
+            data: [{{ contributions | join: ', ' }}],
+            backgroundColor: '#007bff'
+        }]
+    },
+    options: { 
+        legend: { display: false },
+        title: {
+            display: true,
+            text: 'Total Contributions in Different Locations',
+        }
+    }
+});
+</script>

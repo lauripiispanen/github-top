@@ -7,6 +7,8 @@ layout: default
 <p class="text-muted col-lg-4 mx-auto">This is a list of most active GitHub users in different countries/cities</p>
 <a class="github-button" href="https://github.com/lauripiispanen/github-top" aria-label="View project on GitHub">View project on GitHub</a>
 
+{% include chart.html %}
+
 <div class="card-group my-3">
   {% for location in site.locations %}
   <div class="col-lg-2 col-md-3 p-1">

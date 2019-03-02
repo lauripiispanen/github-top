@@ -1,0 +1,21 @@
+<!-- This script collects the total contribution in each location -->
+
+{% assign locations = "" | split: ',' %}
+{% assign contributions = "" | split: ',' %}
+
+{% for location in site.locations %}
+
+  {% if location.title == 'Worldwide' %}{% continue %}{% endif %}
+
+  {% assign location_name = location.title | remove: ".md" | slugify %}
+  {% assign location_data = site.data.locations[location_name] %}
+  {% assign total_contributions = 0 %}
+
+  {% for user in location_data.users %}
+    {% assign total_contributions = total_contributions | plus: user.contributions %}
+  {% endfor %}
+
+  {% assign locations = locations | push: location_name %}
+  {% assign contributions = contributions | push: total_contributions %}
+
+{% endfor %}
