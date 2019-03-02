@@ -15,7 +15,7 @@
     {% assign total_contributions = total_contributions | plus: user.contributions %}
   {% endfor %}
 
-  {% assign locations = locations | push: location_name %}
+  {% assign locations = locations | push: location.title %}
   {% assign contributions = contributions | push: total_contributions %}
 
 {% endfor %}

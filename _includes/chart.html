@@ -18,10 +18,21 @@ var myChart = new Chart(ctx, {
         }]
     },
     options: { 
-        legend: { display: false },
+        legend: {
+            display: false
+        },
         title: {
             display: true,
             text: 'Total Contributions in Different Locations',
+        },
+        scales: {
+            yAxes: [{
+                ticks: {
+                    callback: function(label, index, labels) {
+                        return label/1000+'K';
+                    }
+                }
+            }]
         }
     }
 });
