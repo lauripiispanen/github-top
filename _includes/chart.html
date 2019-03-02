@@ -29,10 +29,13 @@ var myChart = new Chart(ctx, {
             yAxes: [{
                 ticks: {
                     callback: function(label, index, labels) {
-                        return label/1000+'K';
+                        return label / 1000 + 'K';
                     }
                 }
             }]
+        },
+        'onClick': (event, item) => {
+            window.location.href = './' + item[0]._model.label.toString().toLowerCase().replace(/\s+/g, '-');
         }
     }
 });
