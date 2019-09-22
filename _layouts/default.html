@@ -55,12 +55,12 @@
         <p class="view"><a href="https://github.com/lauripiispanen/most-active-github-users-counter.git">View the Project on GitHub</a></p>
         <p>
           <ul class="share-buttons">
-            <li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fcommits.top%2F&t=" title="Share on Facebook" target="_blank" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&t=' + encodeURIComponent(document.URL)); return false;"><img alt="Share on Facebook" src="images/social_flat_rounded_rects_svg/Facebook.svg"></a></li>
-            <li><a href="https://twitter.com/intent/tweet?source=http%3A%2F%2Fcommits.top%2F&text=:%20http%3A%2F%2Fcommits.top%2F&via=lauripiispanen" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20'  + encodeURIComponent(document.URL)); return false;"><img alt="Tweet" src="images/social_flat_rounded_rects_svg/Twitter.svg"></a></li>
-            <li><a href="https://plus.google.com/share?url=http%3A%2F%2Fcommits.top%2F" target="_blank" title="Share on Google+" onclick="window.open('https://plus.google.com/share?url=' + encodeURIComponent(document.URL)); return false;"><img alt="Share on Google+" src="images/social_flat_rounded_rects_svg/Google+.svg"></a></li>
-            <li><a href="http://www.tumblr.com/share?v=3&u=http%3A%2F%2Fcommits.top%2F&t=&s=" target="_blank" title="Post to Tumblr" onclick="window.open('http://www.tumblr.com/share?v=3&u=' + encodeURIComponent(document.URL) + '&t=' +  encodeURIComponent(document.title)); return false;"><img alt="Post to Tumblr" src="images/social_flat_rounded_rects_svg/Tumblr.svg"></a></li>
-            <li><a href="http://www.reddit.com/submit?url=http%3A%2F%2Fcommits.top%2F&title=" target="_blank" title="Submit to Reddit" onclick="window.open('http://www.reddit.com/submit?url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><img alt="Submit to Reddit" src="images/social_flat_rounded_rects_svg/Reddit.svg"></a></li>
-            <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fcommits.top%2F&title=&summary=&source=http%3A%2F%2Fcommits.top%2F" target="_blank" title="Share on LinkedIn" onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><img alt="Share on LinkedIn" src="images/social_flat_rounded_rects_svg/LinkedIn.svg"></a></li>
+            <li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fcommits.top%2F&t=" title="Share on Facebook" target="_blank" rel="noreferrer" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&t=' + encodeURIComponent(document.URL)); return false;"><img alt="Share on Facebook" src="images/social_flat_rounded_rects_svg/Facebook.svg"></a></li>
+            <li><a href="https://twitter.com/intent/tweet?source=http%3A%2F%2Fcommits.top%2F&text=:%20http%3A%2F%2Fcommits.top%2F&via=lauripiispanen" target="_blank" rel="noreferrer" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20'  + encodeURIComponent(document.URL)); return false;"><img alt="Tweet" src="images/social_flat_rounded_rects_svg/Twitter.svg"></a></li>
+            <li><a href="https://plus.google.com/share?url=http%3A%2F%2Fcommits.top%2F" target="_blank" rel="noreferrer" title="Share on Google+" onclick="window.open('https://plus.google.com/share?url=' + encodeURIComponent(document.URL)); return false;"><img alt="Share on Google+" src="images/social_flat_rounded_rects_svg/Google+.svg"></a></li>
+            <li><a href="http://www.tumblr.com/share?v=3&u=http%3A%2F%2Fcommits.top%2F&t=&s=" target="_blank" rel="noreferrer" title="Post to Tumblr" onclick="window.open('http://www.tumblr.com/share?v=3&u=' + encodeURIComponent(document.URL) + '&t=' +  encodeURIComponent(document.title)); return false;"><img alt="Post to Tumblr" src="images/social_flat_rounded_rects_svg/Tumblr.svg"></a></li>
+            <li><a href="http://www.reddit.com/submit?url=http%3A%2F%2Fcommits.top%2F&title=" target="_blank" rel="noreferrer" title="Submit to Reddit" onclick="window.open('http://www.reddit.com/submit?url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><img alt="Submit to Reddit" src="images/social_flat_rounded_rects_svg/Reddit.svg"></a></li>
+            <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fcommits.top%2F&title=&summary=&source=http%3A%2F%2Fcommits.top%2F" target="_blank" rel="noreferrer" title="Share on LinkedIn" onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><img alt="Share on LinkedIn" src="images/social_flat_rounded_rects_svg/LinkedIn.svg"></a></li>
           </ul>
         </p>
 
@@ -69,9 +69,19 @@
 
         {% if page.type == 'location' %}
           {% assign location = site.data.locations[page.location] %}
-          <h1>Most active GitHub users in {{location.title}}</h1>
+          <h1>Most active GitHub users in {{location.title}} based on public
+            {% if page.private_commits == true %}
+              and private contributions.
+            {% else %}
+              contributions only.
+            {% endif %}
+          </h1>
           <p>
-            This is a list of most active GitHub users in {{location.title}} over the past year. Other countries/cities can be found <a href=".">here</a>.
+            This is a list of most active GitHub users in {{location.title}} over the past year based on their public
+            {% if page.private_commits == true %}
+              and private
+            {% endif %}
+            contributions. Other countries/cities can be found <a href=".">here</a>.
             This list was generated at <code>{{location.generated}}</code>.
           </p>
           <p>
@@ -84,8 +94,14 @@
            .sort(_.contributions)
            .take(256)</code></pre>
           </p>
-          <p>Private contributions are included if the user has selected that option in their profile settings.
+          <p>
+          {% if page.private_commits == true %}
+            Private contributions are included in this list, if the user has selected that option in their profile settings. You can also <a href="{{page.location}}.html">view this list based on public contributions only</a>.
+          {% else %}
+            This list only contains users' public contributions. You can also <a href="{{page.location}}_private.html">view a version of this list including both public and private contributions</a>.
+          {% endif %}
           </p>
+          <p>You need to have at least {{location.min_followers_required}} followers on GitHub to be on this list.</p>
           <p>
           <table class="users-list">
             <tr>
@@ -94,12 +110,16 @@
               <th>Contribs</th>
               <th>Picture</th>
             </tr>
-          {% for user in location.users %}
+          {% assign users_list = location.public_users %}
+          {% if page.private_commits == true %}
+            {% assign users_list = location.private_users %}
+          {% endif %}
+          {% for user in users_list %}
             <tr>
               <td>{{user.rank}}.</td>
               <td><a href="https://github.com/{{user.login}}">{{user.login}}</a> ({{user.name}})</td>
               <td>{{user.contributions}}</td>
-              <td><img src="{{user.avatarUrl}}&s=80" width="40" height="40" /></td>
+              <td><img data-src="{{user.avatarUrl}}&s=80" class="lazyload" width="40" height="40" alt="Photo of GitHub user {{user.login}}" /></td>
             </tr>
           {% endfor %}
           </table>
@@ -112,7 +132,11 @@
             <th>Organization</th>
             <th>Members</th>
           </tr>
-        {% for org in location.organizations %}
+        {% assign organizations_list = location.public_organizations %}
+        {% if page.private_commits == true %}
+          {% assign organizations_list = location.private_organizations %}
+        {% endif %}
+        {% for org in organizations_list %}
           <tr>
             <td>{{org.rank}}.</td>
             <td><a href="https://github.com/{{org.name}}">{{org.name}}</a></td>
@@ -170,5 +194,6 @@
     width: 32px;
   }
   </style>
+  <script src="{{ '/assets/js/lazysizes.min.js?v=' | append: site.github.build_revision | relative_url }}" async></script>
   </body>
 </html>
