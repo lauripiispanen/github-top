@@ -125,7 +125,7 @@
           {% for user in users %}
             <tr>
               <td>{{user.rank}}.</td>
-              <td><a href="https://github.com/{{user.login}}">{{user.login}}</a> ({{user.name}})</td>
+              <td><a href="https://github.com/{{user.login}}" target="_blank" rel="noopener noreferrer">{{user.login}}</a> ({{user.name}})</td>
               <td>{{user.contributions}}</td>
 	      <td><img data-src="{{user.avatarUrl}}&s=40" width="40" height="40" class="lazyload" alt="Avatar for {{user.login}}" /></td>
             </tr>
