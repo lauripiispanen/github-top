@@ -12,3 +12,5 @@ echo "---\ntype: location\nlocation: $OUTPUT_FILE_NAME\nmode: all\n---" > "${OUT
 echo "---\ntype: location\nlocation: $OUTPUT_FILE_NAME\nmode: contributions\n---" > "${OUTPUT_FILE_NAME}_public.md"
 
 rm "$OUTPUT_FILE_NAME.yml"
+
+sleep 300
