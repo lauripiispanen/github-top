@@ -1,0 +1,31 @@
+name: Generate
+on: workflow_dispatch
+jobs:
+  generate:
+    name: Generate and publish
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Fetch latest binary
+        run: curl -L -O https://github.com/lauripiispanen/most-active-github-users-counter/releases/latest/download/github-top && chmod u+x github-top
+      - name: Generate
+        run: ./generate_batch.sh
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Add files to git
+        run: git add .
+      - name: Config git
+        run: git config --local user.name "github-actions[bot]" && git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      - name: Commit
+        run: >
+          git update-index --refresh && git diff-index --quiet HEAD || git commit -m "Update data"
+      - name: Push
+        run: git push origin master
+      - name: Trigger GitHub pages rebuild
+        run: |
+          curl --fail --request POST \
+            --url https://api.github.com/repos/${{ github.repository }}/pages/builds \
+            --header "Authorization: Bearer $USER_TOKEN"
+        env:
+          USER_TOKEN: ${{ secrets.USER_TOKEN }}
