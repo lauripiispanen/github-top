@@ -1,157 +1,147 @@
 #!/bin/sh
 
-if [ -z "$1" ]; then
+if [ -z "$GITHUB_TOKEN" ]; then
     exit 1
 fi
 
-now="$(date +'%d-%m-%Y')"
-
-git checkout -B "$now"
-
-./generate.sh $1 finland Finland
-./generate.sh $1 germany Germany
-./generate.sh $1 japan Japan
-./generate.sh $1 netherlands Netherlands
-./generate.sh $1 norway Norway
-./generate.sh $1 russia Russia
-./generate.sh $1 sweden Sweden
-./generate.sh $1 ukraine Ukraine
-./generate.sh $1 estonia Estonia
-./generate.sh $1 denmark Denmark
-./generate.sh $1 france France
-./generate.sh $1 spain Spain
-./generate.sh $1 italy Italy
-./generate.sh $1 uk UK
-./generate.sh $1 croatia Croatia
-./generate.sh $1 austria Austria
-./generate.sh $1 portugal Portugal
-./generate.sh $1 worldwide Worldwide
-./generate.sh $1 china China
-./generate.sh $1 india India
-./generate.sh $1 indonesia Indonesia
-./generate.sh $1 pakistan Pakistan
-./generate.sh $1 brazil Brazil
-./generate.sh $1 nigeria Nigeria
+./generate.sh $GITHUB_TOKEN finland Finland
+./generate.sh $GITHUB_TOKEN germany Germany
+./generate.sh $GITHUB_TOKEN japan Japan
+./generate.sh $GITHUB_TOKEN netherlands Netherlands
+./generate.sh $GITHUB_TOKEN norway Norway
+./generate.sh $GITHUB_TOKEN russia Russia
+./generate.sh $GITHUB_TOKEN sweden Sweden
+./generate.sh $GITHUB_TOKEN ukraine Ukraine
+./generate.sh $GITHUB_TOKEN estonia Estonia
+./generate.sh $GITHUB_TOKEN denmark Denmark
+./generate.sh $GITHUB_TOKEN france France
+./generate.sh $GITHUB_TOKEN spain Spain
+./generate.sh $GITHUB_TOKEN italy Italy
+./generate.sh $GITHUB_TOKEN uk UK
+./generate.sh $GITHUB_TOKEN croatia Croatia
+./generate.sh $GITHUB_TOKEN austria Austria
+./generate.sh $GITHUB_TOKEN portugal Portugal
+./generate.sh $GITHUB_TOKEN worldwide Worldwide
+./generate.sh $GITHUB_TOKEN china China
+./generate.sh $GITHUB_TOKEN india India
+./generate.sh $GITHUB_TOKEN indonesia Indonesia
+./generate.sh $GITHUB_TOKEN pakistan Pakistan
+./generate.sh $GITHUB_TOKEN brazil Brazil
+./generate.sh $GITHUB_TOKEN nigeria Nigeria
 
 sleep 1800
 
-./generate.sh $1 bangladesh Bangladesh
-./generate.sh $1 mexico Mexico
-./generate.sh $1 philippines Philippines
-./generate.sh $1 luxembourg Luxembourg
-./generate.sh $1 egypt Egypt
-./generate.sh $1 ethiopia Ethiopia
-./generate.sh $1 vietnam Vietnam
-./generate.sh $1 iran Iran
-./generate.sh $1 congo Congo
-./generate.sh $1 turkey Turkey
-./generate.sh $1 israel Israel
-./generate.sh $1 thailand Thailand
-./generate.sh $1 "south africa" "South Africa"
-./generate.sh $1 myanmar Myanmar
-./generate.sh $1 tanzania Tanzania
-./generate.sh $1 "south korea" "Republic of Korea"
-./generate.sh $1 colombia Colombia
-./generate.sh $1 kenya Kenya
-./generate.sh $1 argentina Argentina
-./generate.sh $1 algeria Algeria
-./generate.sh $1 sudan Sudan
-./generate.sh $1 poland Poland
-./generate.sh $1 canada Canada
+./generate.sh $GITHUB_TOKEN bangladesh Bangladesh
+./generate.sh $GITHUB_TOKEN mexico Mexico
+./generate.sh $GITHUB_TOKEN philippines Philippines
+./generate.sh $GITHUB_TOKEN luxembourg Luxembourg
+./generate.sh $GITHUB_TOKEN egypt Egypt
+./generate.sh $GITHUB_TOKEN ethiopia Ethiopia
+./generate.sh $GITHUB_TOKEN vietnam Vietnam
+./generate.sh $GITHUB_TOKEN iran Iran
+./generate.sh $GITHUB_TOKEN congo Congo
+./generate.sh $GITHUB_TOKEN turkey Turkey
+./generate.sh $GITHUB_TOKEN israel Israel
+./generate.sh $GITHUB_TOKEN thailand Thailand
+./generate.sh $GITHUB_TOKEN "south africa" "South Africa"
+./generate.sh $GITHUB_TOKEN myanmar Myanmar
+./generate.sh $GITHUB_TOKEN tanzania Tanzania
+./generate.sh $GITHUB_TOKEN "south korea" "Republic of Korea"
+./generate.sh $GITHUB_TOKEN colombia Colombia
+./generate.sh $GITHUB_TOKEN kenya Kenya
+./generate.sh $GITHUB_TOKEN argentina Argentina
+./generate.sh $GITHUB_TOKEN algeria Algeria
+./generate.sh $GITHUB_TOKEN sudan Sudan
+./generate.sh $GITHUB_TOKEN poland Poland
+./generate.sh $GITHUB_TOKEN canada Canada
 
 sleep 1800
 
-./generate.sh $1 australia Australia
-./generate.sh $1 "new zealand" "New Zealand"
-./generate.sh $1 belgium Belgium
-./generate.sh $1 greece Greece
-./generate.sh $1 peru Peru
-./generate.sh $1 hungary Hungary
-./generate.sh $1 albania Albania
-./generate.sh $1 uganda Uganda
-./generate.sh $1 zambia Zambia
-./generate.sh $1 "sri lanka" "Sri Lanka"
-./generate.sh $1 singapore Singapore
-./generate.sh $1 latvia Latvia
-./generate.sh $1 romania Romania
-./generate.sh $1 belarus Belarus
-./generate.sh $1 malta Malta
-./generate.sh $1 rwanda Rwanda
-./generate.sh $1 "saudi arabia" "Saudi Arabia"
-./generate.sh $1 morocco Morocco
-./generate.sh $1 uzbekistan Uzbekistan
-./generate.sh $1 malaysia Malaysia
-./generate.sh $1 afghanistan Afghanistan
-./generate.sh $1 venezuela Venezuela
+./generate.sh $GITHUB_TOKEN australia Australia
+./generate.sh $GITHUB_TOKEN "new zealand" "New Zealand"
+./generate.sh $GITHUB_TOKEN belgium Belgium
+./generate.sh $GITHUB_TOKEN greece Greece
+./generate.sh $GITHUB_TOKEN peru Peru
+./generate.sh $GITHUB_TOKEN hungary Hungary
+./generate.sh $GITHUB_TOKEN albania Albania
+./generate.sh $GITHUB_TOKEN uganda Uganda
+./generate.sh $GITHUB_TOKEN zambia Zambia
+./generate.sh $GITHUB_TOKEN "sri lanka" "Sri Lanka"
+./generate.sh $GITHUB_TOKEN singapore Singapore
+./generate.sh $GITHUB_TOKEN latvia Latvia
+./generate.sh $GITHUB_TOKEN romania Romania
+./generate.sh $GITHUB_TOKEN belarus Belarus
+./generate.sh $GITHUB_TOKEN malta Malta
+./generate.sh $GITHUB_TOKEN rwanda Rwanda
+./generate.sh $GITHUB_TOKEN "saudi arabia" "Saudi Arabia"
+./generate.sh $GITHUB_TOKEN morocco Morocco
+./generate.sh $GITHUB_TOKEN uzbekistan Uzbekistan
+./generate.sh $GITHUB_TOKEN malaysia Malaysia
+./generate.sh $GITHUB_TOKEN afghanistan Afghanistan
+./generate.sh $GITHUB_TOKEN venezuela Venezuela
 
 sleep 1800
 
-./generate.sh $1 ghana Ghana
-./generate.sh $1 angola Angola
-./generate.sh $1 nepal Nepal
-./generate.sh $1 yemen Yemen
-./generate.sh $1 mozambique Mozambique
-./generate.sh $1 "ivory coast" "Ivory Coast"
-./generate.sh $1 cameroon Cameroon
-./generate.sh $1 taiwan Taiwan
-./generate.sh $1 niger Niger
-./generate.sh $1 "burkina faso" "Burkina Faso"
-./generate.sh $1 mali Mali
-./generate.sh $1 malawi Malawi
-./generate.sh $1 chile Chile
-./generate.sh $1 kazakhstan Kazakhstan
-./generate.sh $1 guatemala Guatemala
-./generate.sh $1 ecuador Ecuador
-./generate.sh $1 syria Syria
-./generate.sh $1 cambodia Cambodia
-./generate.sh $1 senegal Senegal
-./generate.sh $1 chad Chad
-./generate.sh $1 somalia Somalia
-./generate.sh $1 zimbabwe Zimbabwe
-./generate.sh $1 guinea Guinea
-./generate.sh $1 benin Benin
+./generate.sh $GITHUB_TOKEN ghana Ghana
+./generate.sh $GITHUB_TOKEN angola Angola
+./generate.sh $GITHUB_TOKEN nepal Nepal
+./generate.sh $GITHUB_TOKEN yemen Yemen
+./generate.sh $GITHUB_TOKEN mozambique Mozambique
+./generate.sh $GITHUB_TOKEN "ivory coast" "Ivory Coast"
+./generate.sh $GITHUB_TOKEN cameroon Cameroon
+./generate.sh $GITHUB_TOKEN taiwan Taiwan
+./generate.sh $GITHUB_TOKEN niger Niger
+./generate.sh $GITHUB_TOKEN "burkina faso" "Burkina Faso"
+./generate.sh $GITHUB_TOKEN mali Mali
+./generate.sh $GITHUB_TOKEN malawi Malawi
+./generate.sh $GITHUB_TOKEN chile Chile
+./generate.sh $GITHUB_TOKEN kazakhstan Kazakhstan
+./generate.sh $GITHUB_TOKEN guatemala Guatemala
+./generate.sh $GITHUB_TOKEN ecuador Ecuador
+./generate.sh $GITHUB_TOKEN syria Syria
+./generate.sh $GITHUB_TOKEN cambodia Cambodia
+./generate.sh $GITHUB_TOKEN senegal Senegal
+./generate.sh $GITHUB_TOKEN chad Chad
+./generate.sh $GITHUB_TOKEN somalia Somalia
+./generate.sh $GITHUB_TOKEN zimbabwe Zimbabwe
+./generate.sh $GITHUB_TOKEN guinea Guinea
+./generate.sh $GITHUB_TOKEN benin Benin
 
 sleep 1800
 
-./generate.sh $1 haiti Haiti
-./generate.sh $1 cuba Cuba
-./generate.sh $1 bolivia Bolivia
-./generate.sh $1 tunisia Tunisia
-./generate.sh $1 "south sudan" "South Sudan"
-./generate.sh $1 burundi Burundi
-./generate.sh $1 "dominican republic" "Dominican Republic"
-./generate.sh $1 "czech republic" "Czech Republic"
-./generate.sh $1 jordan Jordan
-./generate.sh $1 azerbaijan Azerbaijan
-./generate.sh $1 uae UAE
-./generate.sh $1 honduras Honduras
-./generate.sh $1 tajikistan Tajikistan
-./generate.sh $1 "papua new guinea" "Papua New Guinea"
-./generate.sh $1 serbia Serbia
-./generate.sh $1 switzerland Switzerland
-./generate.sh $1 togo Togo
-./generate.sh $1 "sierra leone" "Sierra Leone"
-./generate.sh $1 "hong kong" "Hong Kong"
-./generate.sh $1 "el salvador" "El Salvador"
-./generate.sh $1 kyrgyzstan Kyrgyzstan
-./generate.sh $1 nicaragua Nicaragua
-./generate.sh $1 turkmenistan Turkmenistan
-./generate.sh $1 paraguay Paraguay
+./generate.sh $GITHUB_TOKEN haiti Haiti
+./generate.sh $GITHUB_TOKEN cuba Cuba
+./generate.sh $GITHUB_TOKEN bolivia Bolivia
+./generate.sh $GITHUB_TOKEN tunisia Tunisia
+./generate.sh $GITHUB_TOKEN "south sudan" "South Sudan"
+./generate.sh $GITHUB_TOKEN burundi Burundi
+./generate.sh $GITHUB_TOKEN "dominican republic" "Dominican Republic"
+./generate.sh $GITHUB_TOKEN "czech republic" "Czech Republic"
+./generate.sh $GITHUB_TOKEN jordan Jordan
+./generate.sh $GITHUB_TOKEN azerbaijan Azerbaijan
+./generate.sh $GITHUB_TOKEN uae UAE
+./generate.sh $GITHUB_TOKEN honduras Honduras
+./generate.sh $GITHUB_TOKEN tajikistan Tajikistan
+./generate.sh $GITHUB_TOKEN "papua new guinea" "Papua New Guinea"
+./generate.sh $GITHUB_TOKEN serbia Serbia
+./generate.sh $GITHUB_TOKEN switzerland Switzerland
+./generate.sh $GITHUB_TOKEN togo Togo
+./generate.sh $GITHUB_TOKEN "sierra leone" "Sierra Leone"
+./generate.sh $GITHUB_TOKEN "hong kong" "Hong Kong"
+./generate.sh $GITHUB_TOKEN "el salvador" "El Salvador"
+./generate.sh $GITHUB_TOKEN kyrgyzstan Kyrgyzstan
+./generate.sh $GITHUB_TOKEN nicaragua Nicaragua
+./generate.sh $GITHUB_TOKEN turkmenistan Turkmenistan
+./generate.sh $GITHUB_TOKEN paraguay Paraguay
 
 sleep 1800
 
-./generate.sh $1 laos Laos
-./generate.sh $1 bulgaria Bulgaria
-./generate.sh $1 lebanon Lebanon
-./generate.sh $1 libya Libya
-./generate.sh $1 slovakia Slovakia
-./generate.sh $1 lithuania Lithuania
-./generate.sh $1 ireland Ireland
-./generate.sh $1 "united states" "United States"
-
-git add _data
-git add *.md
-git commit -m "updated data"
-git push origin "$now"
-curl -v -X POST -H "Authorization: token $1" -H "Content-type: application/vnd.github.v3+json" -d "{ \"title\": \"Data update $now\", \"head\": \"$now\", \"base\": \"master\"}" https://api.github.com/repos/lauripiispanen/github-top/pulls
+./generate.sh $GITHUB_TOKEN laos Laos
+./generate.sh $GITHUB_TOKEN bulgaria Bulgaria
+./generate.sh $GITHUB_TOKEN lebanon Lebanon
+./generate.sh $GITHUB_TOKEN libya Libya
+./generate.sh $GITHUB_TOKEN slovakia Slovakia
+./generate.sh $GITHUB_TOKEN lithuania Lithuania
+./generate.sh $GITHUB_TOKEN ireland Ireland
+./generate.sh $GITHUB_TOKEN "united states" "United States"
 
