@@ -13,4 +13,4 @@ echo "---\ntype: location\nlocation: $OUTPUT_FILE_NAME\nmode: contributions\n---
 
 rm "$OUTPUT_FILE_NAME.yml"
 
-sleep 300
+sleep 600
