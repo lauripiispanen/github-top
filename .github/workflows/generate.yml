@@ -4,13 +4,18 @@ jobs:
   generate:
     name: Generate and publish
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        batch: [1,2,3,4,5,6]
+      fail-fast: true
+      max-parallel: 1
     steps:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Fetch latest binary
         run: curl -L -O https://github.com/lauripiispanen/most-active-github-users-counter/releases/latest/download/github-top && chmod u+x github-top
-      - name: Generate
-        run: ./generate_batch.sh
+      - name: Generate Batch
+        run: ./generate_batch.sh ${{ matrix.batch }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Add files to git
