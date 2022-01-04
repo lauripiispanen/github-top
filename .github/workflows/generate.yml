@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
+        with:
+          ref: master
       - name: Fetch latest binary
         run: curl -L -O https://github.com/lauripiispanen/most-active-github-users-counter/releases/latest/download/github-top && chmod u+x github-top
       - name: Generate Batch
