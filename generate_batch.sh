@@ -20,6 +20,8 @@ if [ "$1" = "1" ]; then
     ./generate.sh $GITHUB_TOKEN italy Italy
     ./generate.sh $GITHUB_TOKEN uk UK
     ./generate.sh $GITHUB_TOKEN croatia Croatia
+    exit 0
+elif [ "$1" = "2" ]; then
     ./generate.sh $GITHUB_TOKEN austria Austria
     ./generate.sh $GITHUB_TOKEN portugal Portugal
     ./generate.sh $GITHUB_TOKEN worldwide Worldwide
@@ -29,14 +31,14 @@ if [ "$1" = "1" ]; then
     ./generate.sh $GITHUB_TOKEN pakistan Pakistan
     ./generate.sh $GITHUB_TOKEN brazil Brazil
     ./generate.sh $GITHUB_TOKEN nigeria Nigeria
-    exit 0
-elif [ "$1" = "2" ]; then
     ./generate.sh $GITHUB_TOKEN bangladesh Bangladesh
     ./generate.sh $GITHUB_TOKEN mexico Mexico
     ./generate.sh $GITHUB_TOKEN philippines Philippines
     ./generate.sh $GITHUB_TOKEN luxembourg Luxembourg
     ./generate.sh $GITHUB_TOKEN egypt Egypt
     ./generate.sh $GITHUB_TOKEN ethiopia Ethiopia
+    exit 0
+elif [ "$1" = "3" ]; then
     ./generate.sh $GITHUB_TOKEN vietnam Vietnam
     ./generate.sh $GITHUB_TOKEN iran Iran
     ./generate.sh $GITHUB_TOKEN congo Congo
@@ -52,10 +54,10 @@ elif [ "$1" = "2" ]; then
     ./generate.sh $GITHUB_TOKEN argentina Argentina
     ./generate.sh $GITHUB_TOKEN algeria Algeria
     ./generate.sh $GITHUB_TOKEN sudan Sudan
+    exit 0
+elif [ "$1" = "4" ]; then
     ./generate.sh $GITHUB_TOKEN poland Poland
     ./generate.sh $GITHUB_TOKEN canada Canada
-    exit 0
-elif [ "$1" = "3" ]; then
     ./generate.sh $GITHUB_TOKEN australia Australia
     ./generate.sh $GITHUB_TOKEN "new zealand" "New Zealand"
     ./generate.sh $GITHUB_TOKEN belgium Belgium
@@ -69,6 +71,8 @@ elif [ "$1" = "3" ]; then
     ./generate.sh $GITHUB_TOKEN singapore Singapore
     ./generate.sh $GITHUB_TOKEN latvia Latvia
     ./generate.sh $GITHUB_TOKEN romania Romania
+    exit 0
+elif [ "$1" = "5" ]; then
     ./generate.sh $GITHUB_TOKEN belarus Belarus
     ./generate.sh $GITHUB_TOKEN malta Malta
     ./generate.sh $GITHUB_TOKEN rwanda Rwanda
@@ -78,14 +82,14 @@ elif [ "$1" = "3" ]; then
     ./generate.sh $GITHUB_TOKEN malaysia Malaysia
     ./generate.sh $GITHUB_TOKEN afghanistan Afghanistan
     ./generate.sh $GITHUB_TOKEN venezuela Venezuela
-    exit 0
-elif [ "$1" = "4" ]; then
     ./generate.sh $GITHUB_TOKEN ghana Ghana
     ./generate.sh $GITHUB_TOKEN angola Angola
     ./generate.sh $GITHUB_TOKEN nepal Nepal
     ./generate.sh $GITHUB_TOKEN yemen Yemen
     ./generate.sh $GITHUB_TOKEN mozambique Mozambique
     ./generate.sh $GITHUB_TOKEN "ivory coast" "Ivory Coast"
+    exit 0
+elif [ "$1" = "6" ]; then
     ./generate.sh $GITHUB_TOKEN cameroon Cameroon
     ./generate.sh $GITHUB_TOKEN taiwan Taiwan
     ./generate.sh $GITHUB_TOKEN niger Niger
@@ -101,11 +105,11 @@ elif [ "$1" = "4" ]; then
     ./generate.sh $GITHUB_TOKEN senegal Senegal
     ./generate.sh $GITHUB_TOKEN chad Chad
     ./generate.sh $GITHUB_TOKEN somalia Somalia
+    exit 0
+elif [ "$1" = "7" ]; then
     ./generate.sh $GITHUB_TOKEN zimbabwe Zimbabwe
     ./generate.sh $GITHUB_TOKEN guinea Guinea
     ./generate.sh $GITHUB_TOKEN benin Benin
-    exit 0
-elif [ "$1" = "5" ]; then
     ./generate.sh $GITHUB_TOKEN haiti Haiti
     ./generate.sh $GITHUB_TOKEN cuba Cuba
     ./generate.sh $GITHUB_TOKEN bolivia Bolivia
@@ -118,6 +122,8 @@ elif [ "$1" = "5" ]; then
     ./generate.sh $GITHUB_TOKEN azerbaijan Azerbaijan
     ./generate.sh $GITHUB_TOKEN uae UAE
     ./generate.sh $GITHUB_TOKEN honduras Honduras
+    exit 0
+elif [ "$1" = "8" ]; then
     ./generate.sh $GITHUB_TOKEN tajikistan Tajikistan
     ./generate.sh $GITHUB_TOKEN "papua new guinea" "Papua New Guinea"
     ./generate.sh $GITHUB_TOKEN serbia Serbia
@@ -130,11 +136,11 @@ elif [ "$1" = "5" ]; then
     ./generate.sh $GITHUB_TOKEN nicaragua Nicaragua
     ./generate.sh $GITHUB_TOKEN turkmenistan Turkmenistan
     ./generate.sh $GITHUB_TOKEN paraguay Paraguay
-    exit 0
-else
     ./generate.sh $GITHUB_TOKEN laos Laos
     ./generate.sh $GITHUB_TOKEN bulgaria Bulgaria
     ./generate.sh $GITHUB_TOKEN lebanon Lebanon
+    exit 0
+else
     ./generate.sh $GITHUB_TOKEN libya Libya
     ./generate.sh $GITHUB_TOKEN slovakia Slovakia
     ./generate.sh $GITHUB_TOKEN lithuania Lithuania
