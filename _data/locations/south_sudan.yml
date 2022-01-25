@@ -6,9 +6,9 @@ users:
     name: "Ayume Francis"
     login: "francis556"
     avatarUrl: https://avatars.githubusercontent.com/u/60848250?u=1f76f4e659527d5a1a52fac36196703ca73ab140&v=4
-    contributions: 178
+    contributions: 223
     company: "@codejunub (South Sudan)"
-    organizations: ""
+    organizations: "codejunub"
 
   - rank: 2
     name: "Junior Billkid "
@@ -87,9 +87,9 @@ users_public_contributions:
     name: "Ayume Francis"
     login: "francis556"
     avatarUrl: https://avatars.githubusercontent.com/u/60848250?u=1f76f4e659527d5a1a52fac36196703ca73ab140&v=4
-    contributions: 245
+    contributions: 291
     company: "@codejunub (South Sudan)"
-    organizations: ""
+    organizations: "codejunub"
 
   - rank: 2
     name: "Junior Billkid "
@@ -169,9 +169,9 @@ private_users:
     name: "Ayume Francis"
     login: "francis556"
     avatarUrl: https://avatars.githubusercontent.com/u/60848250?u=1f76f4e659527d5a1a52fac36196703ca73ab140&v=4
-    contributions: 283
+    contributions: 338
     company: "@codejunub (South Sudan)"
-    organizations: ""
+    organizations: "codejunub"
 
   - rank: 2
     name: "Junior Billkid "
@@ -247,9 +247,21 @@ private_users:
 
 organizations:
 
+  - rank: 1
+    name: "codejunub"
+    membercount: 1
+
 public_contributions_organizations:
 
+  - rank: 1
+    name: "codejunub"
+    membercount: 1
+
 private_organizations:
-generated: 2022-01-18 02:04:38.588129172 +0000 UTC m=+1.316163035
+
+  - rank: 1
+    name: "codejunub"
+    membercount: 1
+generated: 2022-01-25 02:14:28.524923901 +0000 UTC m=+1.283361347
 min_followers_required: 0
 total_user_count: 10
