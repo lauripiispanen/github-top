@@ -6,7 +6,7 @@ users:
     name: "Sonkay"
     login: "SonkayAugustine"
     avatarUrl: https://avatars.githubusercontent.com/u/51463111?u=a5b97ae00376dfb1d2e08659c70842a5c59e5434&v=4
-    contributions: 1390
+    contributions: 1421
     company: ""
     organizations: ""
 
@@ -14,7 +14,7 @@ users:
     name: ""
     login: "abu-bakarr"
     avatarUrl: https://avatars.githubusercontent.com/u/22318580?u=421b2927e93c451970c80e250506cf7f75591171&v=4
-    contributions: 1282
+    contributions: 1376
     company: "Limkokwing University Student"
     organizations: ""
 
@@ -22,31 +22,31 @@ users:
     name: "Muhammad Sesay"
     login: "mmsesay"
     avatarUrl: https://avatars.githubusercontent.com/u/39523312?u=93cbfa1bca0adddeee539c4a14144afb908b66dd&v=4
-    contributions: 996
+    contributions: 1050
     company: ""
     organizations: ""
 
   - rank: 4
-    name: "Alpha Shaw"
-    login: "alphashaw"
-    avatarUrl: https://avatars.githubusercontent.com/u/14175735?u=3f3f8faba25086bc641054772b665236c736ca12&v=4
-    contributions: 820
-    company: ""
+    name: "Amkam"
+    login: "AmaduKamara"
+    avatarUrl: https://avatars.githubusercontent.com/u/50941074?u=38592ae852a8d131c1402c216a11157ae5c72394&v=4
+    contributions: 868
+    company: "Remote Front-End and Full-Stack Developer"
     organizations: ""
 
   - rank: 5
-    name: "Amkam"
-    login: "AmaduKamara"
-    avatarUrl: https://avatars.githubusercontent.com/u/50941074?u=98f96728a6ad551bfb73ce5bd480f55d54cdf5b2&v=4
-    contributions: 663
-    company: "Front-end & Full-stack developer"
+    name: "Alpha Shaw"
+    login: "alphashaw"
+    avatarUrl: https://avatars.githubusercontent.com/u/14175735?u=3f3f8faba25086bc641054772b665236c736ca12&v=4
+    contributions: 821
+    company: ""
     organizations: ""
 
   - rank: 6
     name: "Afiz Savage"
     login: "afizsavage"
-    avatarUrl: https://avatars.githubusercontent.com/u/48913767?u=57dc360ed5dc0c00b27d9d56b105e26e1b81557e&v=4
-    contributions: 519
+    avatarUrl: https://avatars.githubusercontent.com/u/48913767?u=0ee045ce4856a403c22f124c957f955d79f9a9f0&v=4
+    contributions: 592
     company: "Software Engineer (Front-end)"
     organizations: ""
 
@@ -54,7 +54,7 @@ users:
     name: "Benjamin Thorpe"
     login: "benjithorpe"
     avatarUrl: https://avatars.githubusercontent.com/u/61359802?u=0265b398974f43ed5f86d40d633aaf435b477b27&v=4
-    contributions: 390
+    contributions: 395
     company: ""
     organizations: ""
 
@@ -67,67 +67,67 @@ users:
     organizations: ""
 
   - rank: 9
-    name: "Yusifu M. Barrie"
-    login: "yusifu-m-barrie"
-    avatarUrl: https://avatars.githubusercontent.com/u/34960874?u=c4566cd99dbf0b14847272e37ec8fa862c87c4d4&v=4
-    contributions: 77
-    company: "Link Corporation SL"
-    organizations: ""
-
-  - rank: 10
     name: "Friction"
     login: "frictious"
     avatarUrl: https://avatars.githubusercontent.com/u/36157467?v=4
-    contributions: 75
+    contributions: 88
     company: ""
+    organizations: ""
+
+  - rank: 10
+    name: "Yusifu M. Barrie"
+    login: "yusifu-m-barrie"
+    avatarUrl: https://avatars.githubusercontent.com/u/34960874?u=c4566cd99dbf0b14847272e37ec8fa862c87c4d4&v=4
+    contributions: 83
+    company: "Link Corporation SL"
     organizations: ""
 
   - rank: 11
     name: ""
     login: "SUBiango"
-    avatarUrl: https://avatars.githubusercontent.com/u/53955319?v=4
+    avatarUrl: https://avatars.githubusercontent.com/u/53955319?u=a7622517eadc37426dddca0b6393d0902b1956e5&v=4
     contributions: 73
     company: "subdesigne"
     organizations: ""
 
   - rank: 12
-    name: "Alhaji Abubakarr Barrie"
-    login: "BarrieLAJ"
-    avatarUrl: https://avatars.githubusercontent.com/u/41100890?u=ac1c8b5ab2415aa1b9b5b349d12d1029584c0e62&v=4
-    contributions: 65
-    company: "None"
+    name: "Philip M'boyah"
+    login: "Philip1996"
+    avatarUrl: https://avatars.githubusercontent.com/u/96818087?u=1a3e94205449f100a2d6ff7f4fc1c47bf81a75bd&v=4
+    contributions: 64
+    company: "The Future Programmer"
     organizations: ""
 
   - rank: 13
+    name: "A. J. Wray"
+    login: "timzaz"
+    avatarUrl: https://avatars.githubusercontent.com/u/19709244?u=e6658f6b0b188294ce2db20dad94a678fcea718d&v=4
+    contributions: 62
+    company: ""
+    organizations: ""
+
+  - rank: 14
+    name: "Alhaji Abubakarr Barrie"
+    login: "BarrieLAJ"
+    avatarUrl: https://avatars.githubusercontent.com/u/41100890?u=ac1c8b5ab2415aa1b9b5b349d12d1029584c0e62&v=4
+    contributions: 56
+    company: "None"
+    organizations: ""
+
+  - rank: 15
+    name: "Unisa Kamara"
+    login: "Unis434"
+    avatarUrl: https://avatars.githubusercontent.com/u/79544610?u=574b79df6e5bc63a500abcfcf093ef9e7dc3ee44&v=4
+    contributions: 55
+    company: ""
+    organizations: ""
+
+  - rank: 16
     name: "Mohamed British Bangura"
     login: "Joseph845"
     avatarUrl: https://avatars.githubusercontent.com/u/79854760?u=063cc07b273b183dfbc08c638eeb079993476cc0&v=4
     contributions: 54
     company: "Sierra Leone National Telecommunication Company (SIERRATEL)"
-    organizations: ""
-
-  - rank: 14
-    name: "James M Bockarie "
-    login: "Jnewton-lab"
-    avatarUrl: https://avatars.githubusercontent.com/u/57153837?u=daa6e1583b58126684dd8006c67e815c3c799a18&v=4
-    contributions: 50
-    company: ""
-    organizations: ""
-
-  - rank: 15
-    name: "Santigie B Kamara"
-    login: "santigie12"
-    avatarUrl: https://avatars.githubusercontent.com/u/59751890?u=9b1fc704451cae77123c6fea02d95cfd0fd70010&v=4
-    contributions: 49
-    company: "Global Developer's Network"
-    organizations: ""
-
-  - rank: 16
-    name: "Mohamed Adams Sesay"
-    login: "mohamedadamssesay"
-    avatarUrl: https://avatars.githubusercontent.com/u/77305229?u=d30ce58e9965e4c1363008970411394bc4467ca5&v=4
-    contributions: 48
-    company: "Chozen Generation Sierra Leone"
     organizations: ""
 
   - rank: 17
@@ -139,22 +139,14 @@ users:
     organizations: ""
 
   - rank: 18
-    name: "Andy"
-    login: "doc-city"
-    avatarUrl: https://avatars.githubusercontent.com/u/61446311?u=11d4f2ca49f87ecb63f23033e7df804643476784&v=4
-    contributions: 45
-    company: ""
+    name: "Santigie B Kamara"
+    login: "santigie12"
+    avatarUrl: https://avatars.githubusercontent.com/u/59751890?u=9b1fc704451cae77123c6fea02d95cfd0fd70010&v=4
+    contributions: 46
+    company: "Global Developer's Network"
     organizations: ""
 
   - rank: 19
-    name: "A. J. Wray"
-    login: "timzaz"
-    avatarUrl: https://avatars.githubusercontent.com/u/19709244?u=e6658f6b0b188294ce2db20dad94a678fcea718d&v=4
-    contributions: 45
-    company: ""
-    organizations: ""
-
-  - rank: 20
     name: "Augustus Jibba"
     login: "AugieJ123"
     avatarUrl: https://avatars.githubusercontent.com/u/53660338?u=87970b3cb49a42a61cf4ede700c559d9048ea614&v=4
@@ -162,7 +154,7 @@ users:
     company: "STEAD"
     organizations: ""
 
-  - rank: 21
+  - rank: 20
     name: "Desmond Henry"
     login: "dmslider"
     avatarUrl: https://avatars.githubusercontent.com/u/28642549?u=301ad2ad8f8a935c0537ec78c8d937a92c646c71&v=4
@@ -170,31 +162,23 @@ users:
     company: ""
     organizations: ""
 
+  - rank: 21
+    name: "Mohamed Adams Sesay"
+    login: "mohamedadamssesay"
+    avatarUrl: https://avatars.githubusercontent.com/u/77305229?u=d30ce58e9965e4c1363008970411394bc4467ca5&v=4
+    contributions: 40
+    company: "Chozen Generation Sierra Leone"
+    organizations: ""
+
   - rank: 22
-    name: "FODAY BANGURA"
-    login: "fodaybangura"
-    avatarUrl: https://avatars.githubusercontent.com/u/77403013?u=3a30a3fbf459c0323571df408c18f2907c9f1044&v=4
-    contributions: 42
-    company: "STUDENT"
+    name: "Andy"
+    login: "doc-city"
+    avatarUrl: https://avatars.githubusercontent.com/u/61446311?u=11d4f2ca49f87ecb63f23033e7df804643476784&v=4
+    contributions: 36
+    company: ""
     organizations: ""
 
   - rank: 23
-    name: "Alhaji Mansaray"
-    login: "alhajimansaray"
-    avatarUrl: https://avatars.githubusercontent.com/u/77783676?u=08ae884e877c115c317a925fa1ae7e7ef238642f&v=4
-    contributions: 40
-    company: ""
-    organizations: ""
-
-  - rank: 24
-    name: "Unisa Kamara"
-    login: "Unis434"
-    avatarUrl: https://avatars.githubusercontent.com/u/79544610?u=574b79df6e5bc63a500abcfcf093ef9e7dc3ee44&v=4
-    contributions: 38
-    company: ""
-    organizations: ""
-
-  - rank: 25
     name: "Alhaji M.S. ABU"
     login: "alhajimsabu"
     avatarUrl: https://avatars.githubusercontent.com/u/19788171?u=cd3b129ea85453cb200c4a8a10eaf392c7631315&v=4
@@ -202,36 +186,52 @@ users:
     company: ""
     organizations: ""
 
+  - rank: 24
+    name: "Alhaji Mansaray"
+    login: "alhajimansaray"
+    avatarUrl: https://avatars.githubusercontent.com/u/77783676?u=08ae884e877c115c317a925fa1ae7e7ef238642f&v=4
+    contributions: 36
+    company: ""
+    organizations: ""
+
+  - rank: 25
+    name: "FODAY BANGURA"
+    login: "fodaybangura"
+    avatarUrl: https://avatars.githubusercontent.com/u/77403013?u=3a30a3fbf459c0323571df408c18f2907c9f1044&v=4
+    contributions: 32
+    company: "STUDENT"
+    organizations: ""
+
   - rank: 26
-    name: ""
-    login: "johnkamara"
-    avatarUrl: https://avatars.githubusercontent.com/u/77782894?u=3ff881204ebe0d5b2c99cc3b5b4b523bb7d20bdc&v=4
-    contributions: 33
+    name: "James M Bockarie "
+    login: "Jnewton-lab"
+    avatarUrl: https://avatars.githubusercontent.com/u/57153837?u=daa6e1583b58126684dd8006c67e815c3c799a18&v=4
+    contributions: 31
     company: ""
     organizations: ""
 
   - rank: 27
-    name: "Philip M'boyah"
-    login: "Philip1996"
-    avatarUrl: https://avatars.githubusercontent.com/u/96818087?u=1a3e94205449f100a2d6ff7f4fc1c47bf81a75bd&v=4
-    contributions: 32
-    company: "The Future Programmer"
+    name: ""
+    login: "johnkamara"
+    avatarUrl: https://avatars.githubusercontent.com/u/77782894?u=3ff881204ebe0d5b2c99cc3b5b4b523bb7d20bdc&v=4
+    contributions: 29
+    company: ""
     organizations: ""
 
   - rank: 28
-    name: "Tamba Lamin"
-    login: "click2tman"
-    avatarUrl: https://avatars.githubusercontent.com/u/1200007?u=c01fdbe37d997b20dee96922d7496f51b72956d4&v=4
-    contributions: 25
-    company: "TpISENT"
-    organizations: ""
-
-  - rank: 29
     name: "Ayodele Philip Hazeley"
     login: "ayodelehazeley"
     avatarUrl: https://avatars.githubusercontent.com/u/25303283?u=10c4eb7e951d4ecdae5e473f414089f87472289c&v=4
     contributions: 24
     company: "Phazel Solutions"
+    organizations: ""
+
+  - rank: 29
+    name: "Tamba Lamin"
+    login: "click2tman"
+    avatarUrl: https://avatars.githubusercontent.com/u/1200007?u=c01fdbe37d997b20dee96922d7496f51b72956d4&v=4
+    contributions: 23
+    company: "TpISENT"
     organizations: ""
 
   - rank: 30
@@ -243,14 +243,6 @@ users:
     organizations: ""
 
   - rank: 31
-    name: ""
-    login: "muctarr-rahim"
-    avatarUrl: https://avatars.githubusercontent.com/u/55337140?u=0c8369aac50807c9c3b885407b221f420a42b6e8&v=4
-    contributions: 19
-    company: "Easy Solar"
-    organizations: ""
-
-  - rank: 32
     name: "Joshuascharley"
     login: "joshuacharley"
     avatarUrl: https://avatars.githubusercontent.com/u/34540432?u=65895297cfdbd24e53dbef3c29f9e221eeae6cb5&v=4
@@ -258,7 +250,7 @@ users:
     company: ""
     organizations: ""
 
-  - rank: 33
+  - rank: 32
     name: "Amadu Wurie Bah"
     login: "AmaduWurieBah"
     avatarUrl: https://avatars.githubusercontent.com/u/43281392?u=26915cf04855d7d6ab80ae68af8d1c3802edb39d&v=4
@@ -266,20 +258,28 @@ users:
     company: "Link Corporation Limited Sierra Leone"
     organizations: ""
 
+  - rank: 33
+    name: ""
+    login: "muctarr-rahim"
+    avatarUrl: https://avatars.githubusercontent.com/u/55337140?u=0c8369aac50807c9c3b885407b221f420a42b6e8&v=4
+    contributions: 16
+    company: "Easy Solar"
+    organizations: ""
+
   - rank: 34
+    name: "Mahmoud Osman Gbessay"
+    login: "Mahmoud-01"
+    avatarUrl: https://avatars.githubusercontent.com/u/57680432?u=42d2d0a4dd98017f015ed4f6c0adf43377601e43&v=4
+    contributions: 15
+    company: "CyberSol, Science Resources Africa"
+    organizations: ""
+
+  - rank: 35
     name: "Abdul Joseph Fofanah"
     login: "afofanah"
     avatarUrl: https://avatars.githubusercontent.com/u/55600848?u=5a457d8ce3b9536983b539934def8880c465054e&v=4
     contributions: 15
     company: "Centre of Research, Innovation & Business Solutions (www.cribs-sl.com)"
-    organizations: ""
-
-  - rank: 35
-    name: "Armed Steven"
-    login: "amedsteven9"
-    avatarUrl: https://avatars.githubusercontent.com/u/68855232?u=8958c6828d3432481fa82ba8366d5327f4f596be&v=4
-    contributions: 15
-    company: "netlinux-cloud"
     organizations: ""
 
   - rank: 36
@@ -291,11 +291,11 @@ users:
     organizations: ""
 
   - rank: 37
-    name: "Mahmoud Osman Gbessay"
-    login: "Mahmoud-01"
-    avatarUrl: https://avatars.githubusercontent.com/u/57680432?u=42d2d0a4dd98017f015ed4f6c0adf43377601e43&v=4
-    contributions: 12
-    company: "CyberSol, Science Resources Africa"
+    name: "Amadu Kargbo"
+    login: "Kojowest"
+    avatarUrl: https://avatars.githubusercontent.com/u/80297201?u=76fe647d5922d70efc505140ce5330d02cad6b86&v=4
+    contributions: 11
+    company: "Student"
     organizations: ""
 
   - rank: 38
@@ -315,14 +315,6 @@ users:
     organizations: ""
 
   - rank: 40
-    name: "Amadu Kargbo"
-    login: "Kojowest"
-    avatarUrl: https://avatars.githubusercontent.com/u/80297201?u=76fe647d5922d70efc505140ce5330d02cad6b86&v=4
-    contributions: 11
-    company: "Student"
-    organizations: ""
-
-  - rank: 41
     name: "Foday S.N Kamara"
     login: "FODAYSAHID"
     avatarUrl: https://avatars.githubusercontent.com/u/11199402?u=850238dbf28647ac7ac10e45f5722a1d7b7d5f61&v=4
@@ -330,39 +322,7 @@ users:
     company: ""
     organizations: ""
 
-  - rank: 42
-    name: "Chinedum Roland Eke"
-    login: "rolandeke"
-    avatarUrl: https://avatars.githubusercontent.com/u/47756447?u=7ce42662cb75ac02bdc9b95e5f6bbd22ae4adc20&v=4
-    contributions: 9
-    company: "Comsoft Solutions Limited"
-    organizations: ""
-
-  - rank: 43
-    name: "Ingletech"
-    login: "ingletech"
-    avatarUrl: https://avatars.githubusercontent.com/u/70138771?v=4
-    contributions: 9
-    company: ""
-    organizations: ""
-
-  - rank: 44
-    name: "ANSUMANA SHERIFF"
-    login: "Ansumanasheriff"
-    avatarUrl: https://avatars.githubusercontent.com/u/77355996?v=4
-    contributions: 9
-    company: "COSMELINE PRODUCT.SL"
-    organizations: ""
-
-  - rank: 45
-    name: "Paul Robinson"
-    login: "paulauvirage"
-    avatarUrl: https://avatars.githubusercontent.com/u/10148089?u=a9876346dc00a581dbb20c91dadfcdc88dcffd11&v=4
-    contributions: 9
-    company: ""
-    organizations: ""
-
-  - rank: 46
+  - rank: 41
     name: "Mohamed Fofanah"
     login: "LinuxFofinspiron"
     avatarUrl: https://avatars.githubusercontent.com/u/56222967?v=4
@@ -370,31 +330,23 @@ users:
     company: ""
     organizations: ""
 
-  - rank: 47
-    name: "Abubakarr Bah"
-    login: "BAHDEV"
-    avatarUrl: https://avatars.githubusercontent.com/u/83548947?u=3e1af6757c697e16b6adbd87be37f5c02596ef9c&v=4
-    contributions: 8
+  - rank: 42
+    name: "Paul Robinson"
+    login: "paulauvirage"
+    avatarUrl: https://avatars.githubusercontent.com/u/10148089?u=a9876346dc00a581dbb20c91dadfcdc88dcffd11&v=4
+    contributions: 9
     company: ""
     organizations: ""
 
-  - rank: 48
-    name: "John S Turay"
-    login: "John-S-Turay-Jr"
-    avatarUrl: https://avatars.githubusercontent.com/u/47327064?v=4
-    contributions: 8
-    company: ""
+  - rank: 43
+    name: "Chinedum Roland Eke"
+    login: "rolandeke"
+    avatarUrl: https://avatars.githubusercontent.com/u/47756447?u=7ce42662cb75ac02bdc9b95e5f6bbd22ae4adc20&v=4
+    contributions: 9
+    company: "Comsoft Solutions Limited"
     organizations: ""
 
-  - rank: 49
-    name: "Michael L. Bangura"
-    login: "michlawbangs"
-    avatarUrl: https://avatars.githubusercontent.com/u/44992267?u=6dd9feeb8097b4fc0999bf16f87b307e5d1e59d3&v=4
-    contributions: 8
-    company: ""
-    organizations: ""
-
-  - rank: 50
+  - rank: 44
     name: "Lansana Amara Lengor"
     login: "lengor6482"
     avatarUrl: https://avatars.githubusercontent.com/u/57144708?u=138eda40101d190af9991c796bdbf66df0e1ad1d&v=4
@@ -402,15 +354,39 @@ users:
     company: ""
     organizations: ""
 
-  - rank: 51
-    name: "aksesayofficial"
-    login: "AbdulKarimSesay100"
-    avatarUrl: https://avatars.githubusercontent.com/u/69195120?v=4
-    contributions: 7
-    company: "Linx Cooperation"
+  - rank: 45
+    name: "ANSUMANA SHERIFF"
+    login: "Ansumanasheriff"
+    avatarUrl: https://avatars.githubusercontent.com/u/77355996?v=4
+    contributions: 8
+    company: "COSMELINE PRODUCT.SL"
     organizations: ""
 
-  - rank: 52
+  - rank: 46
+    name: "Abubakarr Bah"
+    login: "BAHDEV"
+    avatarUrl: https://avatars.githubusercontent.com/u/83548947?u=3e1af6757c697e16b6adbd87be37f5c02596ef9c&v=4
+    contributions: 8
+    company: ""
+    organizations: ""
+
+  - rank: 47
+    name: "John S Turay"
+    login: "John-S-Turay-Jr"
+    avatarUrl: https://avatars.githubusercontent.com/u/47327064?v=4
+    contributions: 8
+    company: ""
+    organizations: ""
+
+  - rank: 48
+    name: "Armed Steven"
+    login: "amedsteven9"
+    avatarUrl: https://avatars.githubusercontent.com/u/68855232?u=8958c6828d3432481fa82ba8366d5327f4f596be&v=4
+    contributions: 7
+    company: "netlinux-cloud"
+    organizations: ""
+
+  - rank: 49
     name: "Yusuf Turay"
     login: "turayusuf"
     avatarUrl: https://avatars.githubusercontent.com/u/76890999?v=4
@@ -418,7 +394,23 @@ users:
     company: "TpISENT"
     organizations: ""
 
-  - rank: 53
+  - rank: 50
+    name: "aksesayofficial"
+    login: "AbdulKarimSesay100"
+    avatarUrl: https://avatars.githubusercontent.com/u/69195120?v=4
+    contributions: 7
+    company: "Linx Cooperation"
+    organizations: ""
+
+  - rank: 51
+    name: "Isaac NSB Kargbo"
+    login: "pythonnelson"
+    avatarUrl: https://avatars.githubusercontent.com/u/77267910?u=b86824f40ca70f2d5b7f8d34000d379ffb709457&v=4
+    contributions: 6
+    company: "Ministry of Foreign Affairs and International Cooperation"
+    organizations: ""
+
+  - rank: 52
     name: "Idrissai"
     login: "idrissai"
     avatarUrl: https://avatars.githubusercontent.com/u/86758027?u=da735f628221343fb63df7d72fe1523216c82c16&v=4
@@ -426,7 +418,7 @@ users:
     company: "GitHub organization"
     organizations: ""
 
-  - rank: 54
+  - rank: 53
     name: "Larry Bah"
     login: "larrybah"
     avatarUrl: https://avatars.githubusercontent.com/u/26505857?u=58aa6aa7a5862a55a39221ac3104b135e0ac9cd6&v=4
@@ -434,31 +426,7 @@ users:
     company: ""
     organizations: ""
 
-  - rank: 55
-    name: "Isaac NSB Kargbo"
-    login: "pythonnelson"
-    avatarUrl: https://avatars.githubusercontent.com/u/77267910?u=b86824f40ca70f2d5b7f8d34000d379ffb709457&v=4
-    contributions: 4
-    company: "Ministry of Foreign Affairs and International Cooperation"
-    organizations: ""
-
-  - rank: 56
-    name: "Mohamed James"
-    login: "mjames21"
-    avatarUrl: https://avatars.githubusercontent.com/u/11080309?u=17c7d1dfe69bfe917fbcac43cdec962d139d3c1c&v=4
-    contributions: 4
-    company: "DSTI"
-    organizations: ""
-
-  - rank: 57
-    name: "Mohamed S Harding"
-    login: "sinhard"
-    avatarUrl: https://avatars.githubusercontent.com/u/15619892?u=99f7de94a0b715cb32a2a942bb81e0d13e675c4b&v=4
-    contributions: 4
-    company: "Neu Labs Limited"
-    organizations: ""
-
-  - rank: 58
+  - rank: 54
     name: "Andrew Ansu Conteh"
     login: "Andrew-Ansu"
     avatarUrl: https://avatars.githubusercontent.com/u/74679666?v=4
@@ -466,7 +434,15 @@ users:
     company: ""
     organizations: ""
 
-  - rank: 59
+  - rank: 55
+    name: "Mohamed S Harding"
+    login: "sinhard"
+    avatarUrl: https://avatars.githubusercontent.com/u/15619892?u=99f7de94a0b715cb32a2a942bb81e0d13e675c4b&v=4
+    contributions: 4
+    company: "Neu Labs Limited"
+    organizations: ""
+
+  - rank: 56
     name: ""
     login: "mbekaysamara"
     avatarUrl: https://avatars.githubusercontent.com/u/77781270?u=90549edfed740fc18756e8c49c183f13e2806a66&v=4
@@ -474,7 +450,15 @@ users:
     company: ""
     organizations: ""
 
-  - rank: 60
+  - rank: 57
+    name: ""
+    login: "BAH410"
+    avatarUrl: https://avatars.githubusercontent.com/u/98534978?u=e913af1d694cf851517f731da66c6728a9393961&v=4
+    contributions: 4
+    company: ""
+    organizations: ""
+
+  - rank: 58
     name: "Alhajie Abu Bakarr Turay"
     login: "Neymarlaj"
     avatarUrl: https://avatars.githubusercontent.com/u/73185769?u=d1db6cb8fea4750900329a865a2b94d00ed6e4d3&v=4
@@ -482,23 +466,23 @@ users:
     company: ""
     organizations: ""
 
-  - rank: 61
-    name: "Tim_56"
-    login: "Tim-56"
-    avatarUrl: https://avatars.githubusercontent.com/u/59003196?v=4
-    contributions: 3
+  - rank: 59
+    name: "Michael L. Bangura"
+    login: "michlawbangs"
+    avatarUrl: https://avatars.githubusercontent.com/u/44992267?u=6dd9feeb8097b4fc0999bf16f87b307e5d1e59d3&v=4
+    contributions: 4
     company: ""
     organizations: ""
 
-  - rank: 62
-    name: ""
-    login: "ub79045180"
-    avatarUrl: https://avatars.githubusercontent.com/u/53566851?u=00a1141f9b9960455f3e45196b79d1283685d88b&v=4
-    contributions: 3
-    company: ""
-    organizations: "zero-to-mastery"
+  - rank: 60
+    name: "Mohamed James"
+    login: "mjames21"
+    avatarUrl: https://avatars.githubusercontent.com/u/11080309?u=17c7d1dfe69bfe917fbcac43cdec962d139d3c1c&v=4
+    contributions: 4
+    company: "DSTI"
+    organizations: ""
 
-  - rank: 63
+  - rank: 61
     name: "Abdul Dainkeh"
     login: "Dainkeh2000"
     avatarUrl: https://avatars.githubusercontent.com/u/78445514?v=4
@@ -506,7 +490,7 @@ users:
     company: ""
     organizations: ""
 
-  - rank: 64
+  - rank: 62
     name: ""
     login: "EstherSarianSow"
     avatarUrl: https://avatars.githubusercontent.com/u/86640723?v=4
@@ -514,15 +498,7 @@ users:
     company: "Students "
     organizations: ""
 
-  - rank: 65
-    name: "Fayia Foray"
-    login: "FayiaForay"
-    avatarUrl: https://avatars.githubusercontent.com/u/67648431?v=4
-    contributions: 3
-    company: "Creative Pictures Ltd"
-    organizations: ""
-
-  - rank: 66
+  - rank: 63
     name: "Ina Johnson"
     login: "Ina-Johnson"
     avatarUrl: https://avatars.githubusercontent.com/u/73610559?u=fc76ef77305da65e39a22e0771bd3d810b755eb8&v=4
@@ -530,31 +506,31 @@ users:
     company: "Njala University"
     organizations: ""
 
-  - rank: 67
-    name: "Maellet"
-    login: "Maellet10"
-    avatarUrl: https://avatars.githubusercontent.com/u/56239680?u=9990fa507ad77a0fa2856e395329c57087f3900d&v=4
-    contributions: 2
-    company: "Bright Innovative"
-    organizations: ""
-
-  - rank: 68
-    name: "Osman Dainkeh"
-    login: "odainkeh"
-    avatarUrl: https://avatars.githubusercontent.com/u/71325909?u=415f8d64b3872690517c8a1d04b0780f1c848f11&v=4
-    contributions: 2
+  - rank: 64
+    name: "Tim_56"
+    login: "Tim-56"
+    avatarUrl: https://avatars.githubusercontent.com/u/59003196?v=4
+    contributions: 3
     company: ""
     organizations: ""
 
-  - rank: 69
-    name: "Christopher Abad"
-    login: "aempirei"
-    avatarUrl: https://avatars.githubusercontent.com/u/16069?u=c7f00de37b6f07d7d0f931c4a40b8aab5f5ba0ed&v=4
-    contributions: 2
-    company: "256 LLC"
+  - rank: 65
+    name: ""
+    login: "ub79045180"
+    avatarUrl: https://avatars.githubusercontent.com/u/53566851?u=00a1141f9b9960455f3e45196b79d1283685d88b&v=4
+    contributions: 3
+    company: ""
+    organizations: "zero-to-mastery"
+
+  - rank: 66
+    name: "Fayia Foray"
+    login: "FayiaForay"
+    avatarUrl: https://avatars.githubusercontent.com/u/67648431?v=4
+    contributions: 3
+    company: "Creative Pictures Ltd"
     organizations: ""
 
-  - rank: 70
+  - rank: 67
     name: "Daniel Chaytor"
     login: "ess1w"
     avatarUrl: https://avatars.githubusercontent.com/u/13642339?u=016b50b0b0fac6cd80543ce05a1e77a3dec1896b&v=4
@@ -562,31 +538,15 @@ users:
     company: ""
     organizations: ""
 
-  - rank: 71
-    name: "FODAY DUMBUYA"
-    login: "foday-dumbuya"
-    avatarUrl: https://avatars.githubusercontent.com/u/77495132?u=4298616e63a97b2c9c295ea17a7511a64cd271e8&v=4
+  - rank: 68
+    name: "Maellet"
+    login: "Maellet10"
+    avatarUrl: https://avatars.githubusercontent.com/u/56239680?u=9990fa507ad77a0fa2856e395329c57087f3900d&v=4
     contributions: 2
-    company: "UNIMTECH"
+    company: "Bright Innovative"
     organizations: ""
 
-  - rank: 72
-    name: "Mohamed Alie Koroma"
-    login: "1122admin"
-    avatarUrl: https://avatars.githubusercontent.com/u/92357819?v=4
-    contributions: 2
-    company: "Ministry of Basic and Senior Secondary Education"
-    organizations: ""
-
-  - rank: 73
-    name: "Andrew Steven Boima"
-    login: "andrewstevenboima"
-    avatarUrl: https://avatars.githubusercontent.com/u/16258826?u=9206b02d43c1fe16db9669d7f71acf078dd8e659&v=4
-    contributions: 2
-    company: "Rising Academy Network"
-    organizations: ""
-
-  - rank: 74
+  - rank: 69
     name: "Ibrahim Bah"
     login: "bahrajj"
     avatarUrl: https://avatars.githubusercontent.com/u/36127670?v=4
@@ -594,15 +554,7 @@ users:
     company: ""
     organizations: ""
 
-  - rank: 75
-    name: ""
-    login: "engmansa"
-    avatarUrl: https://avatars.githubusercontent.com/u/40606516?v=4
-    contributions: 2
-    company: "INTEGEMS Limited"
-    organizations: ""
-
-  - rank: 76
+  - rank: 70
     name: "henry Adeola"
     login: "TwilHe"
     avatarUrl: https://avatars.githubusercontent.com/u/92648105?u=ab96c3c87f593b2b86912cff02b4e69414489b25&v=4
@@ -610,47 +562,39 @@ users:
     company: "Faith"
     organizations: ""
 
-  - rank: 77
-    name: "Infinite Solutions"
-    login: "HackIvan"
-    avatarUrl: https://avatars.githubusercontent.com/u/20137794?v=4
-    contributions: 1
-    company: "Infinite Solutions Hub"
+  - rank: 71
+    name: "Christopher Abad"
+    login: "aempirei"
+    avatarUrl: https://avatars.githubusercontent.com/u/16069?u=c7f00de37b6f07d7d0f931c4a40b8aab5f5ba0ed&v=4
+    contributions: 2
+    company: "256 LLC"
     organizations: ""
 
-  - rank: 78
-    name: "Morie Victor Yorpoi"
-    login: "morievictoryorpoi"
-    avatarUrl: https://avatars.githubusercontent.com/u/76957272?u=77f982d008d9020b40e602b5264e891d4f0e4866&v=4
-    contributions: 1
-    company: "Tpisent"
+  - rank: 72
+    name: ""
+    login: "engmansa"
+    avatarUrl: https://avatars.githubusercontent.com/u/40606516?v=4
+    contributions: 2
+    company: "INTEGEMS Limited"
     organizations: ""
 
-  - rank: 79
-    name: "Aminata"
-    login: "spacekru"
-    avatarUrl: https://avatars.githubusercontent.com/u/76926393?u=080be130618a65a85e3d1d6a7846afa4e8038cda&v=4
-    contributions: 1
-    company: "TpISENT"
+  - rank: 73
+    name: "Osman Dainkeh"
+    login: "odainkeh"
+    avatarUrl: https://avatars.githubusercontent.com/u/71325909?u=415f8d64b3872690517c8a1d04b0780f1c848f11&v=4
+    contributions: 2
+    company: ""
     organizations: ""
 
-  - rank: 80
-    name: "Saidu Turay"
-    login: "saidut"
-    avatarUrl: https://avatars.githubusercontent.com/u/10414605?u=d5db82f4dfa1b6fb109a2a153b57a0b3541cdd7f&v=4
-    contributions: 1
-    company: "NameComingUp"
+  - rank: 74
+    name: "Mohamed Alie Koroma"
+    login: "1122admin"
+    avatarUrl: https://avatars.githubusercontent.com/u/92357819?v=4
+    contributions: 2
+    company: "Ministry of Basic and Senior Secondary Education"
     organizations: ""
 
-  - rank: 81
-    name: "Ishmael Kamara"
-    login: "ishmaelkamarar"
-    avatarUrl: https://avatars.githubusercontent.com/u/97604606?v=4
-    contributions: 1
-    company: "ISHMAEL"
-    organizations: ""
-
-  - rank: 82
+  - rank: 75
     name: "Samuel Kamara Jr"
     login: "BigSam8"
     avatarUrl: https://avatars.githubusercontent.com/u/95347374?v=4
@@ -658,7 +602,7 @@ users:
     company: "E Net"
     organizations: ""
 
-  - rank: 83
+  - rank: 76
     name: "Daniel Gassim Kay Jah"
     login: "gassim11dj"
     avatarUrl: https://avatars.githubusercontent.com/u/61265361?u=8ed44b1697412338e3ef55787d9e3f0a8d04bdb0&v=4
@@ -666,20 +610,76 @@ users:
     company: "student"
     organizations: ""
 
-  - rank: 84
-    name: "Jesse Kargbo"
-    login: "Jesse-122"
-    avatarUrl: https://avatars.githubusercontent.com/u/32437447?v=4
+  - rank: 77
+    name: "Aminata"
+    login: "spacekru"
+    avatarUrl: https://avatars.githubusercontent.com/u/76926393?u=080be130618a65a85e3d1d6a7846afa4e8038cda&v=4
     contributions: 1
-    company: ""
+    company: "TpISENT"
     organizations: ""
 
-  - rank: 85
+  - rank: 78
+    name: "Tamba Rymond Bindi Sam"
+    login: "teerays"
+    avatarUrl: https://avatars.githubusercontent.com/u/77387718?v=4
+    contributions: 1
+    company: "S L P"
+    organizations: ""
+
+  - rank: 79
+    name: "FODAY DUMBUYA"
+    login: "foday-dumbuya"
+    avatarUrl: https://avatars.githubusercontent.com/u/77495132?u=4298616e63a97b2c9c295ea17a7511a64cd271e8&v=4
+    contributions: 1
+    company: "UNIMTECH"
+    organizations: ""
+
+  - rank: 80
+    name: "Infinite Solutions"
+    login: "HackIvan"
+    avatarUrl: https://avatars.githubusercontent.com/u/20137794?v=4
+    contributions: 1
+    company: "Infinite Solutions Hub"
+    organizations: ""
+
+  - rank: 81
     name: "Mahdi_001"
     login: "DrBlack100"
     avatarUrl: https://avatars.githubusercontent.com/u/40123617?u=48eef3ba8da139a438d0fbeb0a4a8db9cb32f2d4&v=4
     contributions: 1
     company: "My-Tech Solutions Limited Sierra Leone"
+    organizations: ""
+
+  - rank: 82
+    name: "Saidu Turay"
+    login: "saidut"
+    avatarUrl: https://avatars.githubusercontent.com/u/10414605?u=d5db82f4dfa1b6fb109a2a153b57a0b3541cdd7f&v=4
+    contributions: 1
+    company: "NameComingUp"
+    organizations: ""
+
+  - rank: 83
+    name: "Ishmael Kamara"
+    login: "ishmaelkamarar"
+    avatarUrl: https://avatars.githubusercontent.com/u/97604606?v=4
+    contributions: 1
+    company: "ISHMAEL"
+    organizations: ""
+
+  - rank: 84
+    name: "Morie Victor Yorpoi"
+    login: "morievictoryorpoi"
+    avatarUrl: https://avatars.githubusercontent.com/u/76957272?u=77f982d008d9020b40e602b5264e891d4f0e4866&v=4
+    contributions: 1
+    company: "Tpisent"
+    organizations: ""
+
+  - rank: 85
+    name: "Jesse Kargbo"
+    login: "Jesse-122"
+    avatarUrl: https://avatars.githubusercontent.com/u/32437447?v=4
+    contributions: 1
+    company: ""
     organizations: ""
 
   - rank: 86
@@ -691,11 +691,11 @@ users:
     organizations: ""
 
   - rank: 87
-    name: "Lee Martin"
-    login: "Aliesowa"
-    avatarUrl: https://avatars.githubusercontent.com/u/36788874?u=5c124c4176b40384b873b6d4ec22431e4d4e2bbd&v=4
+    name: "Sydney Wray"
+    login: "8924807"
+    avatarUrl: https://avatars.githubusercontent.com/u/50489009?u=9a11fc29b34fd09f5ed13a77447b0eb412604267&v=4
     contributions: 1
-    company: ""
+    company: "Iris Tech Int"
     organizations: ""
 
   - rank: 88
@@ -707,43 +707,43 @@ users:
     organizations: ""
 
   - rank: 89
-    name: "Sydney Wray"
-    login: "8924807"
-    avatarUrl: https://avatars.githubusercontent.com/u/50489009?u=9a11fc29b34fd09f5ed13a77447b0eb412604267&v=4
+    name: "Lee Martin"
+    login: "Aliesowa"
+    avatarUrl: https://avatars.githubusercontent.com/u/36788874?u=5c124c4176b40384b873b6d4ec22431e4d4e2bbd&v=4
     contributions: 1
-    company: "Iris Tech Int"
+    company: ""
     organizations: ""
 
   - rank: 90
-    name: "Tamba Rymond Bindi Sam"
-    login: "teerays"
-    avatarUrl: https://avatars.githubusercontent.com/u/77387718?v=4
-    contributions: 1
-    company: "S L P"
-    organizations: ""
-
-  - rank: 91
-    name: "Joseph David Koroma"
-    login: "josephkoroma01"
-    avatarUrl: https://avatars.githubusercontent.com/u/44106119?v=4
-    contributions: 1
-    company: "NicheTechnology"
-    organizations: ""
-
-  - rank: 92
-    name: "Saccoh"
-    login: "Saccoh-1"
-    avatarUrl: https://avatars.githubusercontent.com/u/22425096?v=4
+    name: "TCRF Sierra Leone"
+    login: "TCRFSierraLeone"
+    avatarUrl: https://avatars.githubusercontent.com/u/21276527?v=4
     contributions: 0
     company: ""
     organizations: ""
 
-  - rank: 93
+  - rank: 91
     name: "Med Cash"
     login: "AhmedSaiduKamara"
     avatarUrl: https://avatars.githubusercontent.com/u/51088767?u=033524b84eada420d75136459a6589cd023ad493&v=4
     contributions: 0
     company: ""
+    organizations: ""
+
+  - rank: 92
+    name: "Ahmed Elomar"
+    login: "Elmo212"
+    avatarUrl: https://avatars.githubusercontent.com/u/55789669?u=9e34765269f4a030b128aeaedf0a0db621dd599b&v=4
+    contributions: 0
+    company: "Easy Solar"
+    organizations: ""
+
+  - rank: 93
+    name: "Jabubakarr"
+    login: "abubakarrjalloh"
+    avatarUrl: https://avatars.githubusercontent.com/u/33560325?u=35fb7aeee06e7c28348350385c02d9ff26ac93a7&v=4
+    contributions: 0
+    company: "Unique Tech"
     organizations: ""
 
   - rank: 94
@@ -803,19 +803,19 @@ users:
     organizations: ""
 
   - rank: 101
-    name: "Ahmed Elomar"
-    login: "Elmo212"
-    avatarUrl: https://avatars.githubusercontent.com/u/55789669?u=9e34765269f4a030b128aeaedf0a0db621dd599b&v=4
-    contributions: 0
-    company: "Easy Solar"
-    organizations: ""
-
-  - rank: 102
     name: "Steven boima"
     login: "STEVENBOIMA"
     avatarUrl: https://avatars.githubusercontent.com/u/20893779?u=f2b39b8311858451cfa360466a20384bf03136a8&v=4
     contributions: 0
     company: "Creative tech Zone"
+    organizations: ""
+
+  - rank: 102
+    name: "Ingletech"
+    login: "ingletech"
+    avatarUrl: https://avatars.githubusercontent.com/u/70138771?v=4
+    contributions: 0
+    company: ""
     organizations: ""
 
   - rank: 103
@@ -851,11 +851,11 @@ users:
     organizations: ""
 
   - rank: 107
-    name: "Jabubakarr"
-    login: "abubakarrjalloh"
-    avatarUrl: https://avatars.githubusercontent.com/u/33560325?u=35fb7aeee06e7c28348350385c02d9ff26ac93a7&v=4
+    name: "Jeremiah Gbenga"
+    login: "JeremiahGbenga"
+    avatarUrl: https://avatars.githubusercontent.com/u/26901643?u=108b7328b146dcb0aa19644ba72e0d1d88c84f14&v=4
     contributions: 0
-    company: "Unique Tech"
+    company: ""
     organizations: ""
 
   - rank: 108
@@ -891,9 +891,9 @@ users:
     organizations: ""
 
   - rank: 112
-    name: "Jeremiah Gbenga"
-    login: "JeremiahGbenga"
-    avatarUrl: https://avatars.githubusercontent.com/u/26901643?u=108b7328b146dcb0aa19644ba72e0d1d88c84f14&v=4
+    name: "Saccoh"
+    login: "Saccoh-1"
+    avatarUrl: https://avatars.githubusercontent.com/u/22425096?v=4
     contributions: 0
     company: ""
     organizations: ""
@@ -907,11 +907,11 @@ users:
     organizations: ""
 
   - rank: 114
-    name: "Karl-el01"
-    login: "Karl-el01"
-    avatarUrl: https://avatars.githubusercontent.com/u/25665182?u=0fe6fcac8abc3a14b8e3627fc9c3b1d03a9efe67&v=4
+    name: "Andrew Steven Boima"
+    login: "andrewstevenboima"
+    avatarUrl: https://avatars.githubusercontent.com/u/16258826?u=9206b02d43c1fe16db9669d7f71acf078dd8e659&v=4
     contributions: 0
-    company: ""
+    company: "Rising Academy Network"
     organizations: ""
 
   - rank: 115
@@ -923,19 +923,19 @@ users:
     organizations: ""
 
   - rank: 116
+    name: "Karl-el01"
+    login: "Karl-el01"
+    avatarUrl: https://avatars.githubusercontent.com/u/25665182?u=0fe6fcac8abc3a14b8e3627fc9c3b1d03a9efe67&v=4
+    contributions: 0
+    company: ""
+    organizations: ""
+
+  - rank: 117
     name: "Buawah Jobo Samba"
     login: "jobosamba"
     avatarUrl: https://avatars.githubusercontent.com/u/16902200?u=1fbb58df4f97eca66e5a749c21de856724c600ad&v=4
     contributions: 0
     company: "Ministry of Lands, Country Planning and The Environment"
-    organizations: ""
-
-  - rank: 117
-    name: ""
-    login: "alston332"
-    avatarUrl: https://avatars.githubusercontent.com/u/20111568?v=4
-    contributions: 0
-    company: "OPPORTUNITIES"
     organizations: ""
 
   - rank: 118
@@ -1091,11 +1091,11 @@ users:
     organizations: ""
 
   - rank: 137
-    name: "Dominic Bao"
-    login: "domobao1984"
-    avatarUrl: https://avatars.githubusercontent.com/u/71744867?u=57f302300517ed480580ffe285b45c0586613bf9&v=4
+    name: ""
+    login: "alston332"
+    avatarUrl: https://avatars.githubusercontent.com/u/20111568?v=4
     contributions: 0
-    company: "Ministry of Information & Communication - Government of SL"
+    company: "OPPORTUNITIES"
     organizations: ""
 
   - rank: 138
@@ -1187,17 +1187,17 @@ users:
     organizations: ""
 
   - rank: 149
-    name: "Ibrahim Sawaneh"
-    login: "Ibrahim749"
-    avatarUrl: https://avatars.githubusercontent.com/u/70407776?u=9016b140f46142e42c2cff2497257f19a257f24b&v=4
+    name: "Dominic Bao"
+    login: "domobao1984"
+    avatarUrl: https://avatars.githubusercontent.com/u/71744867?u=57f302300517ed480580ffe285b45c0586613bf9&v=4
     contributions: 0
-    company: ""
+    company: "Ministry of Information & Communication - Government of SL"
     organizations: ""
 
   - rank: 150
-    name: "TCRF Sierra Leone"
-    login: "TCRFSierraLeone"
-    avatarUrl: https://avatars.githubusercontent.com/u/21276527?v=4
+    name: "Ibrahim Sawaneh"
+    login: "Ibrahim749"
+    avatarUrl: https://avatars.githubusercontent.com/u/70407776?u=9016b140f46142e42c2cff2497257f19a257f24b&v=4
     contributions: 0
     company: ""
     organizations: ""
@@ -1499,14 +1499,6 @@ users:
     organizations: ""
 
   - rank: 188
-    name: "Taleb"
-    login: "mtaleb1981"
-    avatarUrl: https://avatars.githubusercontent.com/u/9765302?u=f7cf9fd60036a16e16359fd9ec9b84507f1850fa&v=4
-    contributions: 0
-    company: ""
-    organizations: ""
-
-  - rank: 189
     name: "Gray Coding Sierra Leone "
     login: "graycodingsl"
     avatarUrl: https://avatars.githubusercontent.com/u/55925031?v=4
@@ -1514,12 +1506,20 @@ users:
     company: ""
     organizations: ""
 
-  - rank: 190
-    name: "Mohamed Lamin"
-    login: "Mufti-ML"
-    avatarUrl: https://avatars.githubusercontent.com/u/67768584?u=910a68d72d74e92f6bc0088b48bbc012aac63caf&v=4
+  - rank: 189
+    name: ""
+    login: "neneh12"
+    avatarUrl: https://avatars.githubusercontent.com/u/50619518?v=4
     contributions: 0
-    company: "Freelancer"
+    company: "Web Development 21Generation"
+    organizations: ""
+
+  - rank: 190
+    name: "Taleb"
+    login: "mtaleb1981"
+    avatarUrl: https://avatars.githubusercontent.com/u/9765302?u=f7cf9fd60036a16e16359fd9ec9b84507f1850fa&v=4
+    contributions: 0
+    company: ""
     organizations: ""
 
   - rank: 191
@@ -1627,11 +1627,11 @@ users:
     organizations: ""
 
   - rank: 204
-    name: ""
-    login: "neneh12"
-    avatarUrl: https://avatars.githubusercontent.com/u/50619518?v=4
+    name: "Bailah Molleh"
+    login: "Bailah2020"
+    avatarUrl: https://avatars.githubusercontent.com/u/72896798?v=4
     contributions: 0
-    company: "Web Development 21Generation"
+    company: "Sustainable Health System"
     organizations: ""
 
   - rank: 205
@@ -1691,14 +1691,6 @@ users:
     organizations: ""
 
   - rank: 212
-    name: "Bailah Molleh"
-    login: "Bailah2020"
-    avatarUrl: https://avatars.githubusercontent.com/u/72896798?v=4
-    contributions: 0
-    company: "Sustainable Health System"
-    organizations: ""
-
-  - rank: 213
     name: ""
     login: "solomoncoker"
     avatarUrl: https://avatars.githubusercontent.com/u/68117257?v=4
@@ -1706,7 +1698,7 @@ users:
     company: "Sierrtel"
     organizations: ""
 
-  - rank: 214
+  - rank: 213
     name: "Joseph Fallah Yondah"
     login: "Godraises"
     avatarUrl: https://avatars.githubusercontent.com/u/76961318?u=8148f20906107e0d269905ec9d89397df37a8c64&v=4
@@ -1714,7 +1706,7 @@ users:
     company: ""
     organizations: ""
 
-  - rank: 215
+  - rank: 214
     name: "Fabian Haag"
     login: "chandlerstiedemann"
     avatarUrl: https://avatars.githubusercontent.com/u/48514275?v=4
@@ -1722,12 +1714,20 @@ users:
     company: ""
     organizations: ""
 
-  - rank: 216
+  - rank: 215
     name: "computer030"
     login: "computer030"
     avatarUrl: https://avatars.githubusercontent.com/u/25869526?u=b2d4ceec50dcabf002541514f45f0858d0b3b726&v=4
     contributions: 0
     company: "talleh internet cafe "
+    organizations: ""
+
+  - rank: 216
+    name: "Olufela"
+    login: "felaadeyemi"
+    avatarUrl: https://avatars.githubusercontent.com/u/23573148?u=fe2e73d22fb0ad328e3f5d5fe538828a211c6053&v=4
+    contributions: 0
+    company: "Ascendant & Company"
     organizations: ""
 
   - rank: 217
@@ -1779,14 +1779,6 @@ users:
     organizations: ""
 
   - rank: 223
-    name: "Olufela"
-    login: "felaadeyemi"
-    avatarUrl: https://avatars.githubusercontent.com/u/23573148?u=fe2e73d22fb0ad328e3f5d5fe538828a211c6053&v=4
-    contributions: 0
-    company: "Ascendant & Company"
-    organizations: ""
-
-  - rank: 224
     name: "Boniface Promise C"
     login: "bpromise"
     avatarUrl: https://avatars.githubusercontent.com/u/22081757?v=4
@@ -1794,7 +1786,7 @@ users:
     company: "uSmile (SL)"
     organizations: ""
 
-  - rank: 225
+  - rank: 224
     name: ""
     login: "FallahILamin"
     avatarUrl: https://avatars.githubusercontent.com/u/16306885?v=4
@@ -1802,7 +1794,7 @@ users:
     company: "Ministry of Information and Communications, GOSL"
     organizations: ""
 
-  - rank: 226
+  - rank: 225
     name: "Ishmael Kargbo"
     login: "dev-isho"
     avatarUrl: https://avatars.githubusercontent.com/u/39510294?u=b3b455b6e6d82933b1bf7d706c06c48abf1589b3&v=4
@@ -1810,23 +1802,7 @@ users:
     company: "Let Inspire"
     organizations: ""
 
-  - rank: 227
-    name: "Mwah Bah"
-    login: "MwahBah"
-    avatarUrl: https://avatars.githubusercontent.com/u/65542393?v=4
-    contributions: 0
-    company: "Mwahbah"
-    organizations: ""
-
-  - rank: 228
-    name: "SSMK"
-    login: "khalifeserge"
-    avatarUrl: https://avatars.githubusercontent.com/u/29383416?u=078533c52326141fb1eacdd2983c0ecce710307d&v=4
-    contributions: 0
-    company: "K-Co"
-    organizations: ""
-
-  - rank: 229
+  - rank: 226
     name: "Ebola Motherfucking Kat"
     login: "ebolakat"
     avatarUrl: https://avatars.githubusercontent.com/u/12506970?u=d43f0557612d835a844d36074794c977d60fcdf7&v=4
@@ -1834,39 +1810,7 @@ users:
     company: ""
     organizations: ""
 
-  - rank: 230
-    name: "Aruna Mark Sesay"
-    login: "Arunamark"
-    avatarUrl: https://avatars.githubusercontent.com/u/78624036?u=0c608e314e649db70a94c9a47ed85c3e875f3451&v=4
-    contributions: 0
-    company: "Th3drop"
-    organizations: ""
-
-  - rank: 231
-    name: "Nigeria Rural Electrification Agency"
-    login: "REANigeria"
-    avatarUrl: https://avatars.githubusercontent.com/u/88830304?u=46addd7e038d9c98538f4ab4f99d667442646436&v=4
-    contributions: 0
-    company: "REA"
-    organizations: ""
-
-  - rank: 232
-    name: "Eugene Jones"
-    login: "eugenejones55808"
-    avatarUrl: https://avatars.githubusercontent.com/u/75878338?v=4
-    contributions: 0
-    company: "Votechs"
-    organizations: ""
-
-  - rank: 233
-    name: "Lola Aforo"
-    login: "LolaAforo"
-    avatarUrl: https://avatars.githubusercontent.com/u/77402876?u=b1fc0ac5292fdfbd9b2db90edc14dfe389526b2a&v=4
-    contributions: 0
-    company: "STUDENT"
-    organizations: ""
-
-  - rank: 234
+  - rank: 227
     name: "Louis Momodu Conteh"
     login: "Luigin"
     avatarUrl: https://avatars.githubusercontent.com/u/19706565?u=195fdec5cae09c900a38da33dfa57e266549dfd0&v=4
@@ -1874,15 +1818,7 @@ users:
     company: "Ubuntu"
     organizations: ""
 
-  - rank: 235
-    name: "DIVINE SIMON WUSI"
-    login: "Divine670"
-    avatarUrl: https://avatars.githubusercontent.com/u/96017698?u=59a889e3029a7e59deac31b7db65cb94684e8480&v=4
-    contributions: 0
-    company: "Divine Tech"
-    organizations: ""
-
-  - rank: 236
+  - rank: 228
     name: "Corey Dawson Hall"
     login: "cdawsonhall"
     avatarUrl: https://avatars.githubusercontent.com/u/996013?v=4
@@ -1890,15 +1826,55 @@ users:
     company: ""
     organizations: ""
 
-  - rank: 237
-    name: ""
-    login: "andrew3941"
-    avatarUrl: https://avatars.githubusercontent.com/u/77746680?u=0375337fdc3007d0d766b6ece79a90c24a3d1d8f&v=4
+  - rank: 229
+    name: "Mwah Bah"
+    login: "MwahBah"
+    avatarUrl: https://avatars.githubusercontent.com/u/65542393?v=4
     contributions: 0
-    company: ""
+    company: "Mwahbah"
     organizations: ""
 
-  - rank: 238
+  - rank: 230
+    name: "SSMK"
+    login: "khalifeserge"
+    avatarUrl: https://avatars.githubusercontent.com/u/29383416?u=078533c52326141fb1eacdd2983c0ecce710307d&v=4
+    contributions: 0
+    company: "K-Co"
+    organizations: ""
+
+  - rank: 231
+    name: "Aruna Mark Sesay"
+    login: "Arunamark"
+    avatarUrl: https://avatars.githubusercontent.com/u/78624036?u=0c608e314e649db70a94c9a47ed85c3e875f3451&v=4
+    contributions: 0
+    company: "Th3drop"
+    organizations: ""
+
+  - rank: 232
+    name: "Nigeria Rural Electrification Agency"
+    login: "REANigeria"
+    avatarUrl: https://avatars.githubusercontent.com/u/88830304?u=46addd7e038d9c98538f4ab4f99d667442646436&v=4
+    contributions: 0
+    company: "REA"
+    organizations: ""
+
+  - rank: 233
+    name: "Eugene Jones"
+    login: "eugenejones55808"
+    avatarUrl: https://avatars.githubusercontent.com/u/75878338?v=4
+    contributions: 0
+    company: "Votechs"
+    organizations: ""
+
+  - rank: 234
+    name: "Lola Aforo"
+    login: "LolaAforo"
+    avatarUrl: https://avatars.githubusercontent.com/u/77402876?u=b1fc0ac5292fdfbd9b2db90edc14dfe389526b2a&v=4
+    contributions: 0
+    company: "STUDENT"
+    organizations: ""
+
+  - rank: 235
     name: "GROUP FIVE"
     login: "simeon-john-ishmael"
     avatarUrl: https://avatars.githubusercontent.com/u/72658143?v=4
@@ -1906,39 +1882,15 @@ users:
     company: ""
     organizations: ""
 
-  - rank: 239
-    name: "Michael Rozelle"
-    login: "667048"
-    avatarUrl: https://avatars.githubusercontent.com/u/73744821?v=4
+  - rank: 236
+    name: "DIVINE SIMON WUSI"
+    login: "Divine670"
+    avatarUrl: https://avatars.githubusercontent.com/u/96017698?u=59a889e3029a7e59deac31b7db65cb94684e8480&v=4
     contributions: 0
-    company: ""
+    company: "Divine Tech"
     organizations: ""
 
-  - rank: 240
-    name: "Brian Mandebvu"
-    login: "mandebvub"
-    avatarUrl: https://avatars.githubusercontent.com/u/79581985?v=4
-    contributions: 0
-    company: "WFP"
-    organizations: ""
-
-  - rank: 241
-    name: ""
-    login: "mkamarachernor"
-    avatarUrl: https://avatars.githubusercontent.com/u/78469375?v=4
-    contributions: 0
-    company: ""
-    organizations: ""
-
-  - rank: 242
-    name: "Ishmeal Saspo Sankoh"
-    login: "IshmealSaspoSankoh"
-    avatarUrl: https://avatars.githubusercontent.com/u/94997594?v=4
-    contributions: 0
-    company: ""
-    organizations: ""
-
-  - rank: 243
+  - rank: 237
     name: "Mohamed Bah"
     login: "19786"
     avatarUrl: https://avatars.githubusercontent.com/u/54336665?u=f987a4e43d4dee5d402ec1c971bd71b75f0f7565&v=4
@@ -1946,7 +1898,15 @@ users:
     company: "@cs50"
     organizations: ""
 
-  - rank: 244
+  - rank: 238
+    name: ""
+    login: "andrew3941"
+    avatarUrl: https://avatars.githubusercontent.com/u/77746680?u=0375337fdc3007d0d766b6ece79a90c24a3d1d8f&v=4
+    contributions: 0
+    company: ""
+    organizations: ""
+
+  - rank: 239
     name: "El Rey"
     login: "fredybangs"
     avatarUrl: https://avatars.githubusercontent.com/u/29194433?v=4
@@ -1954,7 +1914,39 @@ users:
     company: "Byte Limited"
     organizations: ""
 
-  - rank: 245
+  - rank: 240
+    name: "Michael Rozelle"
+    login: "667048"
+    avatarUrl: https://avatars.githubusercontent.com/u/73744821?v=4
+    contributions: 0
+    company: ""
+    organizations: ""
+
+  - rank: 241
+    name: "Brian Mandebvu"
+    login: "mandebvub"
+    avatarUrl: https://avatars.githubusercontent.com/u/79581985?v=4
+    contributions: 0
+    company: "WFP"
+    organizations: ""
+
+  - rank: 242
+    name: ""
+    login: "mkamarachernor"
+    avatarUrl: https://avatars.githubusercontent.com/u/78469375?v=4
+    contributions: 0
+    company: ""
+    organizations: ""
+
+  - rank: 243
+    name: "Ishmeal Saspo Sankoh"
+    login: "IshmealSaspoSankoh"
+    avatarUrl: https://avatars.githubusercontent.com/u/94997594?v=4
+    contributions: 0
+    company: ""
+    organizations: ""
+
+  - rank: 244
     name: "Foday B Turay"
     login: "Fodayturay"
     avatarUrl: https://avatars.githubusercontent.com/u/50412214?v=4
@@ -1962,7 +1954,7 @@ users:
     company: "statistics@statistics.sl"
     organizations: ""
 
-  - rank: 246
+  - rank: 245
     name: "Ibrahim Denis Fofanah"
     login: "Denis1998-dev"
     avatarUrl: https://avatars.githubusercontent.com/u/57148578?v=4
@@ -1970,15 +1962,15 @@ users:
     company: ""
     organizations: ""
 
-  - rank: 247
-    name: "Augustine Jusu Monzon"
-    login: "Augustine381"
-    avatarUrl: https://avatars.githubusercontent.com/u/90809282?v=4
+  - rank: 246
+    name: ""
+    login: "andrewjoe96"
+    avatarUrl: https://avatars.githubusercontent.com/u/98534902?u=79367560d005f4f2981aa1df9a38846dcd93cc1c&v=4
     contributions: 0
-    company: "Self "
+    company: ""
     organizations: ""
 
-  - rank: 248
+  - rank: 247
     name: "Salieu Sesay"
     login: "Salmanorsar"
     avatarUrl: https://avatars.githubusercontent.com/u/13611846?u=50befef7924a0db3ccff1ee116939d19c462737d&v=4
@@ -1986,31 +1978,7 @@ users:
     company: ""
     organizations: ""
 
-  - rank: 249
-    name: "Ibrahim Pateh Bah"
-    login: "Pateh-bah"
-    avatarUrl: https://avatars.githubusercontent.com/u/63269864?u=aa2030aa53cc9af8ac71e4f189b99be6be3c995d&v=4
-    contributions: 0
-    company: ""
-    organizations: ""
-
-  - rank: 250
-    name: ""
-    login: "Kargbo01"
-    avatarUrl: https://avatars.githubusercontent.com/u/77402880?v=4
-    contributions: 0
-    company: "STUDENT"
-    organizations: ""
-
-  - rank: 251
-    name: ""
-    login: "Mart1961"
-    avatarUrl: https://avatars.githubusercontent.com/u/79550245?v=4
-    contributions: 0
-    company: ""
-    organizations: ""
-
-  - rank: 252
+  - rank: 248
     name: "Edison Immanuel Korgay"
     login: "truthlifek"
     avatarUrl: https://avatars.githubusercontent.com/u/68511721?v=4
@@ -2018,7 +1986,15 @@ users:
     company: "Life"
     organizations: ""
 
-  - rank: 253
+  - rank: 249
+    name: "Augustine Jusu Monzon"
+    login: "Augustine381"
+    avatarUrl: https://avatars.githubusercontent.com/u/90809282?v=4
+    contributions: 0
+    company: "Self "
+    organizations: ""
+
+  - rank: 250
     name: "Mohamed Sellu"
     login: "2020medsellufbc22172"
     avatarUrl: https://avatars.githubusercontent.com/u/61737797?u=b5bb9a8b80a91686d5bf9043d53041d1e7c3c9ce&v=4
@@ -2026,44 +2002,68 @@ users:
     company: "Fourah Bay College"
     organizations: ""
 
-  - rank: 254
-    name: "Moses VB"
-    login: "vbmo"
-    avatarUrl: https://avatars.githubusercontent.com/u/14352247?v=4
+  - rank: 251
+    name: ""
+    login: "Jagitay"
+    avatarUrl: https://avatars.githubusercontent.com/u/98949011?v=4
     contributions: 0
-    company: "VB Technologies Solutions."
+    company: "Self employed"
     organizations: ""
 
-  - rank: 255
-    name: "Ceedique"
-    login: "Ceedique"
-    avatarUrl: https://avatars.githubusercontent.com/u/39308122?v=4
+  - rank: 252
+    name: "Ibrahim Pateh Bah"
+    login: "Pateh-bah"
+    avatarUrl: https://avatars.githubusercontent.com/u/63269864?u=aa2030aa53cc9af8ac71e4f189b99be6be3c995d&v=4
     contributions: 0
     company: ""
     organizations: ""
 
-  - rank: 256
-    name: "medvik"
-    login: "MohamedKabia"
-    avatarUrl: https://avatars.githubusercontent.com/u/47672695?u=1cc54ddc91181bce809b827a69755ba4c4483629&v=4
+  - rank: 253
+    name: ""
+    login: "Kargbo01"
+    avatarUrl: https://avatars.githubusercontent.com/u/77402880?v=4
     contributions: 0
-    company: "Goldent Software"
+    company: "STUDENT"
+    organizations: ""
+
+  - rank: 254
+    name: ""
+    login: "Mart1961"
+    avatarUrl: https://avatars.githubusercontent.com/u/79550245?v=4
+    contributions: 0
+    company: ""
+    organizations: ""
+
+  - rank: 255
+    name: "MOHS"
+    login: "mohsict"
+    avatarUrl: https://avatars.githubusercontent.com/u/57109475?u=1dcf0be172b925b42faa7351e971362af08b38d6&v=4
+    contributions: 0
+    company: "Ministry of Health and Sanitation "
+    organizations: ""
+
+  - rank: 256
+    name: "Tamba Moriba"
+    login: "MORIBA2441234475"
+    avatarUrl: https://avatars.githubusercontent.com/u/66520678?u=04b7308d2718f13f8051811d1832ab4ed3920e90&v=4
+    contributions: 0
+    company: "Institute of Public Adminstration and Management (IPAM)"
     organizations: ""
 users_public_contributions:
 
   - rank: 1
-    name: "Sonkay"
-    login: "SonkayAugustine"
-    avatarUrl: https://avatars.githubusercontent.com/u/51463111?u=a5b97ae00376dfb1d2e08659c70842a5c59e5434&v=4
-    contributions: 1410
+    name: "Muhammad Sesay"
+    login: "mmsesay"
+    avatarUrl: https://avatars.githubusercontent.com/u/39523312?u=93cbfa1bca0adddeee539c4a14144afb908b66dd&v=4
+    contributions: 1478
     company: ""
     organizations: ""
 
   - rank: 2
-    name: "Muhammad Sesay"
-    login: "mmsesay"
-    avatarUrl: https://avatars.githubusercontent.com/u/39523312?u=93cbfa1bca0adddeee539c4a14144afb908b66dd&v=4
-    contributions: 1385
+    name: "Sonkay"
+    login: "SonkayAugustine"
+    avatarUrl: https://avatars.githubusercontent.com/u/51463111?u=a5b97ae00376dfb1d2e08659c70842a5c59e5434&v=4
+    contributions: 1442
     company: ""
     organizations: ""
 
@@ -2071,31 +2071,31 @@ users_public_contributions:
     name: ""
     login: "abu-bakarr"
     avatarUrl: https://avatars.githubusercontent.com/u/22318580?u=421b2927e93c451970c80e250506cf7f75591171&v=4
-    contributions: 1313
+    contributions: 1408
     company: "Limkokwing University Student"
     organizations: ""
 
   - rank: 4
-    name: "Alpha Shaw"
-    login: "alphashaw"
-    avatarUrl: https://avatars.githubusercontent.com/u/14175735?u=3f3f8faba25086bc641054772b665236c736ca12&v=4
-    contributions: 824
-    company: ""
+    name: "Amkam"
+    login: "AmaduKamara"
+    avatarUrl: https://avatars.githubusercontent.com/u/50941074?u=38592ae852a8d131c1402c216a11157ae5c72394&v=4
+    contributions: 1041
+    company: "Remote Front-End and Full-Stack Developer"
     organizations: ""
 
   - rank: 5
-    name: "Amkam"
-    login: "AmaduKamara"
-    avatarUrl: https://avatars.githubusercontent.com/u/50941074?u=98f96728a6ad551bfb73ce5bd480f55d54cdf5b2&v=4
-    contributions: 817
-    company: "Front-end & Full-stack developer"
+    name: "Alpha Shaw"
+    login: "alphashaw"
+    avatarUrl: https://avatars.githubusercontent.com/u/14175735?u=3f3f8faba25086bc641054772b665236c736ca12&v=4
+    contributions: 825
+    company: ""
     organizations: ""
 
   - rank: 6
     name: "Afiz Savage"
     login: "afizsavage"
-    avatarUrl: https://avatars.githubusercontent.com/u/48913767?u=57dc360ed5dc0c00b27d9d56b105e26e1b81557e&v=4
-    contributions: 650
+    avatarUrl: https://avatars.githubusercontent.com/u/48913767?u=0ee045ce4856a403c22f124c957f955d79f9a9f0&v=4
+    contributions: 740
     company: "Software Engineer (Front-end)"
     organizations: ""
 
@@ -2103,7 +2103,7 @@ users_public_contributions:
     name: "Benjamin Thorpe"
     login: "benjithorpe"
     avatarUrl: https://avatars.githubusercontent.com/u/61359802?u=0265b398974f43ed5f86d40d633aaf435b477b27&v=4
-    contributions: 423
+    contributions: 427
     company: ""
     organizations: ""
 
@@ -2119,51 +2119,43 @@ users_public_contributions:
     name: "Tamba Lamin"
     login: "click2tman"
     avatarUrl: https://avatars.githubusercontent.com/u/1200007?u=c01fdbe37d997b20dee96922d7496f51b72956d4&v=4
-    contributions: 206
+    contributions: 210
     company: "TpISENT"
     organizations: ""
 
   - rank: 10
-    name: "Santigie B Kamara"
-    login: "santigie12"
-    avatarUrl: https://avatars.githubusercontent.com/u/59751890?u=9b1fc704451cae77123c6fea02d95cfd0fd70010&v=4
-    contributions: 96
-    company: "Global Developer's Network"
+    name: "Friction"
+    login: "frictious"
+    avatarUrl: https://avatars.githubusercontent.com/u/36157467?v=4
+    contributions: 103
+    company: ""
     organizations: ""
 
   - rank: 11
     name: "Yusifu M. Barrie"
     login: "yusifu-m-barrie"
     avatarUrl: https://avatars.githubusercontent.com/u/34960874?u=c4566cd99dbf0b14847272e37ec8fa862c87c4d4&v=4
-    contributions: 91
+    contributions: 99
     company: "Link Corporation SL"
     organizations: ""
 
   - rank: 12
-    name: "Friction"
-    login: "frictious"
-    avatarUrl: https://avatars.githubusercontent.com/u/36157467?v=4
-    contributions: 89
-    company: ""
+    name: "Santigie B Kamara"
+    login: "santigie12"
+    avatarUrl: https://avatars.githubusercontent.com/u/59751890?u=9b1fc704451cae77123c6fea02d95cfd0fd70010&v=4
+    contributions: 90
+    company: "Global Developer's Network"
     organizations: ""
 
   - rank: 13
-    name: "Alhaji Abubakarr Barrie"
-    login: "BarrieLAJ"
-    avatarUrl: https://avatars.githubusercontent.com/u/41100890?u=ac1c8b5ab2415aa1b9b5b349d12d1029584c0e62&v=4
-    contributions: 81
-    company: "None"
-    organizations: ""
-
-  - rank: 14
     name: ""
     login: "SUBiango"
-    avatarUrl: https://avatars.githubusercontent.com/u/53955319?v=4
+    avatarUrl: https://avatars.githubusercontent.com/u/53955319?u=a7622517eadc37426dddca0b6393d0902b1956e5&v=4
     contributions: 81
     company: "subdesigne"
     organizations: ""
 
-  - rank: 15
+  - rank: 14
     name: "Guchie"
     login: "francisguchie"
     avatarUrl: https://avatars.githubusercontent.com/u/22683654?u=c92be2e50d3e0fea33c110ba47f8e81f2d07f120&v=4
@@ -2171,36 +2163,44 @@ users_public_contributions:
     company: "https://guchietech.com"
     organizations: ""
 
+  - rank: 15
+    name: "Philip M'boyah"
+    login: "Philip1996"
+    avatarUrl: https://avatars.githubusercontent.com/u/96818087?u=1a3e94205449f100a2d6ff7f4fc1c47bf81a75bd&v=4
+    contributions: 77
+    company: "The Future Programmer"
+    organizations: ""
+
   - rank: 16
-    name: ""
-    login: "johnkamara"
-    avatarUrl: https://avatars.githubusercontent.com/u/77782894?u=3ff881204ebe0d5b2c99cc3b5b4b523bb7d20bdc&v=4
-    contributions: 68
+    name: "Unisa Kamara"
+    login: "Unis434"
+    avatarUrl: https://avatars.githubusercontent.com/u/79544610?u=574b79df6e5bc63a500abcfcf093ef9e7dc3ee44&v=4
+    contributions: 73
     company: ""
     organizations: ""
 
   - rank: 17
-    name: "James M Bockarie "
-    login: "Jnewton-lab"
-    avatarUrl: https://avatars.githubusercontent.com/u/57153837?u=daa6e1583b58126684dd8006c67e815c3c799a18&v=4
+    name: "Alhaji Abubakarr Barrie"
+    login: "BarrieLAJ"
+    avatarUrl: https://avatars.githubusercontent.com/u/41100890?u=ac1c8b5ab2415aa1b9b5b349d12d1029584c0e62&v=4
+    contributions: 72
+    company: "None"
+    organizations: ""
+
+  - rank: 18
+    name: "A. J. Wray"
+    login: "timzaz"
+    avatarUrl: https://avatars.githubusercontent.com/u/19709244?u=e6658f6b0b188294ce2db20dad94a678fcea718d&v=4
     contributions: 66
     company: ""
     organizations: ""
 
-  - rank: 18
+  - rank: 19
     name: "A-Jay"
     login: "jayabdulraman"
     avatarUrl: https://avatars.githubusercontent.com/u/43217154?u=a305cf461ca50e674dcbac3d009d3d647e1a8ff7&v=4
     contributions: 60
     company: "Directorate of Science, Technology and Innovation (DSTI)"
-    organizations: ""
-
-  - rank: 19
-    name: "Alhaji Mansaray"
-    login: "alhajimansaray"
-    avatarUrl: https://avatars.githubusercontent.com/u/77783676?u=08ae884e877c115c317a925fa1ae7e7ef238642f&v=4
-    contributions: 59
-    company: ""
     organizations: ""
 
   - rank: 20
@@ -2220,38 +2220,22 @@ users_public_contributions:
     organizations: ""
 
   - rank: 22
-    name: "Unisa Kamara"
-    login: "Unis434"
-    avatarUrl: https://avatars.githubusercontent.com/u/79544610?u=574b79df6e5bc63a500abcfcf093ef9e7dc3ee44&v=4
-    contributions: 53
+    name: ""
+    login: "johnkamara"
+    avatarUrl: https://avatars.githubusercontent.com/u/77782894?u=3ff881204ebe0d5b2c99cc3b5b4b523bb7d20bdc&v=4
+    contributions: 51
     company: ""
     organizations: ""
 
   - rank: 23
-    name: "Mohamed Adams Sesay"
-    login: "mohamedadamssesay"
-    avatarUrl: https://avatars.githubusercontent.com/u/77305229?u=d30ce58e9965e4c1363008970411394bc4467ca5&v=4
-    contributions: 51
-    company: "Chozen Generation Sierra Leone"
+    name: "Alhaji Mansaray"
+    login: "alhajimansaray"
+    avatarUrl: https://avatars.githubusercontent.com/u/77783676?u=08ae884e877c115c317a925fa1ae7e7ef238642f&v=4
+    contributions: 47
+    company: ""
     organizations: ""
 
   - rank: 24
-    name: "A. J. Wray"
-    login: "timzaz"
-    avatarUrl: https://avatars.githubusercontent.com/u/19709244?u=e6658f6b0b188294ce2db20dad94a678fcea718d&v=4
-    contributions: 48
-    company: ""
-    organizations: ""
-
-  - rank: 25
-    name: "Andy"
-    login: "doc-city"
-    avatarUrl: https://avatars.githubusercontent.com/u/61446311?u=11d4f2ca49f87ecb63f23033e7df804643476784&v=4
-    contributions: 46
-    company: ""
-    organizations: ""
-
-  - rank: 26
     name: "Desmond Henry"
     login: "dmslider"
     avatarUrl: https://avatars.githubusercontent.com/u/28642549?u=301ad2ad8f8a935c0537ec78c8d937a92c646c71&v=4
@@ -2259,15 +2243,15 @@ users_public_contributions:
     company: ""
     organizations: ""
 
-  - rank: 27
-    name: "FODAY BANGURA"
-    login: "fodaybangura"
-    avatarUrl: https://avatars.githubusercontent.com/u/77403013?u=3a30a3fbf459c0323571df408c18f2907c9f1044&v=4
-    contributions: 43
-    company: "STUDENT"
+  - rank: 25
+    name: "Mohamed Adams Sesay"
+    login: "mohamedadamssesay"
+    avatarUrl: https://avatars.githubusercontent.com/u/77305229?u=d30ce58e9965e4c1363008970411394bc4467ca5&v=4
+    contributions: 42
+    company: "Chozen Generation Sierra Leone"
     organizations: ""
 
-  - rank: 28
+  - rank: 26
     name: "Alhaji M.S. ABU"
     login: "alhajimsabu"
     avatarUrl: https://avatars.githubusercontent.com/u/19788171?u=cd3b129ea85453cb200c4a8a10eaf392c7631315&v=4
@@ -2275,7 +2259,15 @@ users_public_contributions:
     company: ""
     organizations: ""
 
-  - rank: 29
+  - rank: 27
+    name: "James M Bockarie "
+    login: "Jnewton-lab"
+    avatarUrl: https://avatars.githubusercontent.com/u/57153837?u=daa6e1583b58126684dd8006c67e815c3c799a18&v=4
+    contributions: 42
+    company: ""
+    organizations: ""
+
+  - rank: 28
     name: ""
     login: "mambu01"
     avatarUrl: https://avatars.githubusercontent.com/u/77403851?v=4
@@ -2283,20 +2275,28 @@ users_public_contributions:
     company: ""
     organizations: ""
 
-  - rank: 30
-    name: "Philip M'boyah"
-    login: "Philip1996"
-    avatarUrl: https://avatars.githubusercontent.com/u/96818087?u=1a3e94205449f100a2d6ff7f4fc1c47bf81a75bd&v=4
+  - rank: 29
+    name: "Andy"
+    login: "doc-city"
+    avatarUrl: https://avatars.githubusercontent.com/u/61446311?u=11d4f2ca49f87ecb63f23033e7df804643476784&v=4
     contributions: 37
-    company: "The Future Programmer"
+    company: ""
     organizations: ""
 
-  - rank: 31
+  - rank: 30
     name: "Ayodele Philip Hazeley"
     login: "ayodelehazeley"
     avatarUrl: https://avatars.githubusercontent.com/u/25303283?u=10c4eb7e951d4ecdae5e473f414089f87472289c&v=4
     contributions: 35
     company: "Phazel Solutions"
+    organizations: ""
+
+  - rank: 31
+    name: "FODAY BANGURA"
+    login: "fodaybangura"
+    avatarUrl: https://avatars.githubusercontent.com/u/77403013?u=3a30a3fbf459c0323571df408c18f2907c9f1044&v=4
+    contributions: 33
+    company: "STUDENT"
     organizations: ""
 
   - rank: 32
@@ -2316,19 +2316,19 @@ users_public_contributions:
     organizations: ""
 
   - rank: 34
-    name: ""
-    login: "muctarr-rahim"
-    avatarUrl: https://avatars.githubusercontent.com/u/55337140?u=0c8369aac50807c9c3b885407b221f420a42b6e8&v=4
-    contributions: 27
-    company: "Easy Solar"
-    organizations: ""
-
-  - rank: 35
     name: "Amadu Wurie Bah"
     login: "AmaduWurieBah"
     avatarUrl: https://avatars.githubusercontent.com/u/43281392?u=26915cf04855d7d6ab80ae68af8d1c3802edb39d&v=4
-    contributions: 25
+    contributions: 24
     company: "Link Corporation Limited Sierra Leone"
+    organizations: ""
+
+  - rank: 35
+    name: ""
+    login: "muctarr-rahim"
+    avatarUrl: https://avatars.githubusercontent.com/u/55337140?u=0c8369aac50807c9c3b885407b221f420a42b6e8&v=4
+    contributions: 22
+    company: "Easy Solar"
     organizations: ""
 
   - rank: 36
@@ -2340,6 +2340,14 @@ users_public_contributions:
     organizations: ""
 
   - rank: 37
+    name: "Mahmoud Osman Gbessay"
+    login: "Mahmoud-01"
+    avatarUrl: https://avatars.githubusercontent.com/u/57680432?u=42d2d0a4dd98017f015ed4f6c0adf43377601e43&v=4
+    contributions: 20
+    company: "CyberSol, Science Resources Africa"
+    organizations: ""
+
+  - rank: 38
     name: "Ahmed"
     login: "aelsir"
     avatarUrl: https://avatars.githubusercontent.com/u/16698002?u=8ad131a7682438ac97fc7409cf4f4466d55ac109&v=4
@@ -2347,23 +2355,7 @@ users_public_contributions:
     company: "@EnergiCity"
     organizations: ""
 
-  - rank: 38
-    name: "Armed Steven"
-    login: "amedsteven9"
-    avatarUrl: https://avatars.githubusercontent.com/u/68855232?u=8958c6828d3432481fa82ba8366d5327f4f596be&v=4
-    contributions: 18
-    company: "netlinux-cloud"
-    organizations: ""
-
   - rank: 39
-    name: "Mahmoud Osman Gbessay"
-    login: "Mahmoud-01"
-    avatarUrl: https://avatars.githubusercontent.com/u/57680432?u=42d2d0a4dd98017f015ed4f6c0adf43377601e43&v=4
-    contributions: 16
-    company: "CyberSol, Science Resources Africa"
-    organizations: ""
-
-  - rank: 40
     name: "Medal Techie"
     login: "medal007"
     avatarUrl: https://avatars.githubusercontent.com/u/37555807?u=3aba664e6731722438f9a3a9be34da7a048d9cb1&v=4
@@ -2371,7 +2363,7 @@ users_public_contributions:
     company: "Medal Techie"
     organizations: ""
 
-  - rank: 41
+  - rank: 40
     name: "Abdul Joseph Fofanah"
     login: "afofanah"
     avatarUrl: https://avatars.githubusercontent.com/u/55600848?u=5a457d8ce3b9536983b539934def8880c465054e&v=4
@@ -2379,15 +2371,7 @@ users_public_contributions:
     company: "Centre of Research, Innovation & Business Solutions (www.cribs-sl.com)"
     organizations: ""
 
-  - rank: 42
-    name: "Mohamed Fofanah"
-    login: "LinuxFofinspiron"
-    avatarUrl: https://avatars.githubusercontent.com/u/56222967?v=4
-    contributions: 13
-    company: ""
-    organizations: ""
-
-  - rank: 43
+  - rank: 41
     name: "Paul Robinson"
     login: "paulauvirage"
     avatarUrl: https://avatars.githubusercontent.com/u/10148089?u=a9876346dc00a581dbb20c91dadfcdc88dcffd11&v=4
@@ -2395,15 +2379,7 @@ users_public_contributions:
     company: ""
     organizations: ""
 
-  - rank: 44
-    name: "Idrissai"
-    login: "idrissai"
-    avatarUrl: https://avatars.githubusercontent.com/u/86758027?u=da735f628221343fb63df7d72fe1523216c82c16&v=4
-    contributions: 13
-    company: "GitHub organization"
-    organizations: ""
-
-  - rank: 45
+  - rank: 42
     name: "Foday S.N Kamara"
     login: "FODAYSAHID"
     avatarUrl: https://avatars.githubusercontent.com/u/11199402?u=850238dbf28647ac7ac10e45f5722a1d7b7d5f61&v=4
@@ -2411,15 +2387,23 @@ users_public_contributions:
     company: ""
     organizations: ""
 
-  - rank: 46
-    name: "ANSUMANA SHERIFF"
-    login: "Ansumanasheriff"
-    avatarUrl: https://avatars.githubusercontent.com/u/77355996?v=4
-    contributions: 11
-    company: "COSMELINE PRODUCT.SL"
+  - rank: 43
+    name: "Idrissai"
+    login: "idrissai"
+    avatarUrl: https://avatars.githubusercontent.com/u/86758027?u=da735f628221343fb63df7d72fe1523216c82c16&v=4
+    contributions: 13
+    company: "GitHub organization"
     organizations: ""
 
-  - rank: 47
+  - rank: 44
+    name: "Mohamed Fofanah"
+    login: "LinuxFofinspiron"
+    avatarUrl: https://avatars.githubusercontent.com/u/56222967?v=4
+    contributions: 13
+    company: ""
+    organizations: ""
+
+  - rank: 45
     name: "aksesayofficial"
     login: "AbdulKarimSesay100"
     avatarUrl: https://avatars.githubusercontent.com/u/69195120?v=4
@@ -2427,31 +2411,7 @@ users_public_contributions:
     company: "Linx Cooperation"
     organizations: ""
 
-  - rank: 48
-    name: "Abubakarr Bah"
-    login: "BAHDEV"
-    avatarUrl: https://avatars.githubusercontent.com/u/83548947?u=3e1af6757c697e16b6adbd87be37f5c02596ef9c&v=4
-    contributions: 10
-    company: ""
-    organizations: ""
-
-  - rank: 49
-    name: "Michael L. Bangura"
-    login: "michlawbangs"
-    avatarUrl: https://avatars.githubusercontent.com/u/44992267?u=6dd9feeb8097b4fc0999bf16f87b307e5d1e59d3&v=4
-    contributions: 10
-    company: ""
-    organizations: ""
-
-  - rank: 50
-    name: "Chinedum Roland Eke"
-    login: "rolandeke"
-    avatarUrl: https://avatars.githubusercontent.com/u/47756447?u=7ce42662cb75ac02bdc9b95e5f6bbd22ae4adc20&v=4
-    contributions: 10
-    company: "Comsoft Solutions Limited"
-    organizations: ""
-
-  - rank: 51
+  - rank: 46
     name: "John S Turay"
     login: "John-S-Turay-Jr"
     avatarUrl: https://avatars.githubusercontent.com/u/47327064?v=4
@@ -2459,11 +2419,51 @@ users_public_contributions:
     company: ""
     organizations: ""
 
-  - rank: 52
-    name: "Ingletech"
-    login: "ingletech"
-    avatarUrl: https://avatars.githubusercontent.com/u/70138771?v=4
+  - rank: 47
+    name: "Abubakarr Bah"
+    login: "BAHDEV"
+    avatarUrl: https://avatars.githubusercontent.com/u/83548947?u=3e1af6757c697e16b6adbd87be37f5c02596ef9c&v=4
+    contributions: 10
+    company: ""
+    organizations: ""
+
+  - rank: 48
+    name: "Chinedum Roland Eke"
+    login: "rolandeke"
+    avatarUrl: https://avatars.githubusercontent.com/u/47756447?u=7ce42662cb75ac02bdc9b95e5f6bbd22ae4adc20&v=4
+    contributions: 10
+    company: "Comsoft Solutions Limited"
+    organizations: ""
+
+  - rank: 49
+    name: "Armed Steven"
+    login: "amedsteven9"
+    avatarUrl: https://avatars.githubusercontent.com/u/68855232?u=8958c6828d3432481fa82ba8366d5327f4f596be&v=4
     contributions: 9
+    company: "netlinux-cloud"
+    organizations: ""
+
+  - rank: 50
+    name: "Isaac NSB Kargbo"
+    login: "pythonnelson"
+    avatarUrl: https://avatars.githubusercontent.com/u/77267910?u=b86824f40ca70f2d5b7f8d34000d379ffb709457&v=4
+    contributions: 9
+    company: "Ministry of Foreign Affairs and International Cooperation"
+    organizations: ""
+
+  - rank: 51
+    name: "ANSUMANA SHERIFF"
+    login: "Ansumanasheriff"
+    avatarUrl: https://avatars.githubusercontent.com/u/77355996?v=4
+    contributions: 9
+    company: "COSMELINE PRODUCT.SL"
+    organizations: ""
+
+  - rank: 52
+    name: "Lansana Amara Lengor"
+    login: "lengor6482"
+    avatarUrl: https://avatars.githubusercontent.com/u/57144708?u=138eda40101d190af9991c796bdbf66df0e1ad1d&v=4
+    contributions: 8
     company: ""
     organizations: ""
 
@@ -2476,14 +2476,6 @@ users_public_contributions:
     organizations: ""
 
   - rank: 54
-    name: "Lansana Amara Lengor"
-    login: "lengor6482"
-    avatarUrl: https://avatars.githubusercontent.com/u/57144708?u=138eda40101d190af9991c796bdbf66df0e1ad1d&v=4
-    contributions: 8
-    company: ""
-    organizations: ""
-
-  - rank: 55
     name: ""
     login: "EstherSarianSow"
     avatarUrl: https://avatars.githubusercontent.com/u/86640723?v=4
@@ -2491,7 +2483,7 @@ users_public_contributions:
     company: "Students "
     organizations: ""
 
-  - rank: 56
+  - rank: 55
     name: "Lee Martin"
     login: "Aliesowa"
     avatarUrl: https://avatars.githubusercontent.com/u/36788874?u=5c124c4176b40384b873b6d4ec22431e4d4e2bbd&v=4
@@ -2499,31 +2491,7 @@ users_public_contributions:
     company: ""
     organizations: ""
 
-  - rank: 57
-    name: "Abdul Dainkeh"
-    login: "Dainkeh2000"
-    avatarUrl: https://avatars.githubusercontent.com/u/78445514?v=4
-    contributions: 7
-    company: ""
-    organizations: ""
-
-  - rank: 58
-    name: "henry Adeola"
-    login: "TwilHe"
-    avatarUrl: https://avatars.githubusercontent.com/u/92648105?u=ab96c3c87f593b2b86912cff02b4e69414489b25&v=4
-    contributions: 6
-    company: "Faith"
-    organizations: ""
-
-  - rank: 59
-    name: "Mohamed S Harding"
-    login: "sinhard"
-    avatarUrl: https://avatars.githubusercontent.com/u/15619892?u=99f7de94a0b715cb32a2a942bb81e0d13e675c4b&v=4
-    contributions: 6
-    company: "Neu Labs Limited"
-    organizations: ""
-
-  - rank: 60
+  - rank: 56
     name: ""
     login: "ub79045180"
     avatarUrl: https://avatars.githubusercontent.com/u/53566851?u=00a1141f9b9960455f3e45196b79d1283685d88b&v=4
@@ -2531,15 +2499,15 @@ users_public_contributions:
     company: ""
     organizations: "zero-to-mastery"
 
-  - rank: 61
-    name: "Isaac NSB Kargbo"
-    login: "pythonnelson"
-    avatarUrl: https://avatars.githubusercontent.com/u/77267910?u=b86824f40ca70f2d5b7f8d34000d379ffb709457&v=4
+  - rank: 57
+    name: "henry Adeola"
+    login: "TwilHe"
+    avatarUrl: https://avatars.githubusercontent.com/u/92648105?u=ab96c3c87f593b2b86912cff02b4e69414489b25&v=4
     contributions: 6
-    company: "Ministry of Foreign Affairs and International Cooperation"
+    company: "Faith"
     organizations: ""
 
-  - rank: 62
+  - rank: 58
     name: "Alhajie Abu Bakarr Turay"
     login: "Neymarlaj"
     avatarUrl: https://avatars.githubusercontent.com/u/73185769?u=d1db6cb8fea4750900329a865a2b94d00ed6e4d3&v=4
@@ -2547,7 +2515,7 @@ users_public_contributions:
     company: ""
     organizations: ""
 
-  - rank: 63
+  - rank: 59
     name: "Larry Bah"
     login: "larrybah"
     avatarUrl: https://avatars.githubusercontent.com/u/26505857?u=58aa6aa7a5862a55a39221ac3104b135e0ac9cd6&v=4
@@ -2555,7 +2523,23 @@ users_public_contributions:
     company: ""
     organizations: ""
 
-  - rank: 64
+  - rank: 60
+    name: ""
+    login: "BAH410"
+    avatarUrl: https://avatars.githubusercontent.com/u/98534978?u=e913af1d694cf851517f731da66c6728a9393961&v=4
+    contributions: 6
+    company: ""
+    organizations: ""
+
+  - rank: 61
+    name: "Mohamed S Harding"
+    login: "sinhard"
+    avatarUrl: https://avatars.githubusercontent.com/u/15619892?u=99f7de94a0b715cb32a2a942bb81e0d13e675c4b&v=4
+    contributions: 6
+    company: "Neu Labs Limited"
+    organizations: ""
+
+  - rank: 62
     name: "Maellet"
     login: "Maellet10"
     avatarUrl: https://avatars.githubusercontent.com/u/56239680?u=9990fa507ad77a0fa2856e395329c57087f3900d&v=4
@@ -2563,39 +2547,7 @@ users_public_contributions:
     company: "Bright Innovative"
     organizations: ""
 
-  - rank: 65
-    name: "Ishmael Kamara"
-    login: "ishmaelkamarar"
-    avatarUrl: https://avatars.githubusercontent.com/u/97604606?v=4
-    contributions: 5
-    company: "ISHMAEL"
-    organizations: ""
-
-  - rank: 66
-    name: "Osman Dainkeh"
-    login: "odainkeh"
-    avatarUrl: https://avatars.githubusercontent.com/u/71325909?u=415f8d64b3872690517c8a1d04b0780f1c848f11&v=4
-    contributions: 5
-    company: ""
-    organizations: ""
-
-  - rank: 67
-    name: ""
-    login: "mbekaysamara"
-    avatarUrl: https://avatars.githubusercontent.com/u/77781270?u=90549edfed740fc18756e8c49c183f13e2806a66&v=4
-    contributions: 5
-    company: ""
-    organizations: ""
-
-  - rank: 68
-    name: "Andrew Ansu Conteh"
-    login: "Andrew-Ansu"
-    avatarUrl: https://avatars.githubusercontent.com/u/74679666?v=4
-    contributions: 5
-    company: ""
-    organizations: ""
-
-  - rank: 69
+  - rank: 63
     name: "Tim_56"
     login: "Tim-56"
     avatarUrl: https://avatars.githubusercontent.com/u/59003196?v=4
@@ -2603,7 +2555,15 @@ users_public_contributions:
     company: ""
     organizations: ""
 
-  - rank: 70
+  - rank: 64
+    name: "Andrew Ansu Conteh"
+    login: "Andrew-Ansu"
+    avatarUrl: https://avatars.githubusercontent.com/u/74679666?v=4
+    contributions: 5
+    company: ""
+    organizations: ""
+
+  - rank: 65
     name: "Fayia Foray"
     login: "FayiaForay"
     avatarUrl: https://avatars.githubusercontent.com/u/67648431?v=4
@@ -2611,7 +2571,23 @@ users_public_contributions:
     company: "Creative Pictures Ltd"
     organizations: ""
 
-  - rank: 71
+  - rank: 66
+    name: "Ishmael Kamara"
+    login: "ishmaelkamarar"
+    avatarUrl: https://avatars.githubusercontent.com/u/97604606?v=4
+    contributions: 5
+    company: "ISHMAEL"
+    organizations: ""
+
+  - rank: 67
+    name: "Michael L. Bangura"
+    login: "michlawbangs"
+    avatarUrl: https://avatars.githubusercontent.com/u/44992267?u=6dd9feeb8097b4fc0999bf16f87b307e5d1e59d3&v=4
+    contributions: 5
+    company: ""
+    organizations: ""
+
+  - rank: 68
     name: "Sydney Wray"
     login: "8924807"
     avatarUrl: https://avatars.githubusercontent.com/u/50489009?u=9a11fc29b34fd09f5ed13a77447b0eb412604267&v=4
@@ -2619,7 +2595,15 @@ users_public_contributions:
     company: "Iris Tech Int"
     organizations: ""
 
-  - rank: 72
+  - rank: 69
+    name: ""
+    login: "mbekaysamara"
+    avatarUrl: https://avatars.githubusercontent.com/u/77781270?u=90549edfed740fc18756e8c49c183f13e2806a66&v=4
+    contributions: 5
+    company: ""
+    organizations: ""
+
+  - rank: 70
     name: "Ina Johnson"
     login: "Ina-Johnson"
     avatarUrl: https://avatars.githubusercontent.com/u/73610559?u=fc76ef77305da65e39a22e0771bd3d810b755eb8&v=4
@@ -2627,47 +2611,23 @@ users_public_contributions:
     company: "Njala University"
     organizations: ""
 
+  - rank: 71
+    name: "Osman Dainkeh"
+    login: "odainkeh"
+    avatarUrl: https://avatars.githubusercontent.com/u/71325909?u=415f8d64b3872690517c8a1d04b0780f1c848f11&v=4
+    contributions: 5
+    company: ""
+    organizations: ""
+
+  - rank: 72
+    name: "Ibrahim Bah"
+    login: "bahrajj"
+    avatarUrl: https://avatars.githubusercontent.com/u/36127670?v=4
+    contributions: 4
+    company: ""
+    organizations: ""
+
   - rank: 73
-    name: ""
-    login: "engmansa"
-    avatarUrl: https://avatars.githubusercontent.com/u/40606516?v=4
-    contributions: 4
-    company: "INTEGEMS Limited"
-    organizations: ""
-
-  - rank: 74
-    name: "Francis Bangura"
-    login: "butagreeza"
-    avatarUrl: https://avatars.githubusercontent.com/u/10339068?u=3a55b74b35df347ca77f41b5cd4b5509d77fcdf0&v=4
-    contributions: 4
-    company: "Byte Limited"
-    organizations: ""
-
-  - rank: 75
-    name: "Mohamed Alie Koroma"
-    login: "1122admin"
-    avatarUrl: https://avatars.githubusercontent.com/u/92357819?v=4
-    contributions: 4
-    company: "Ministry of Basic and Senior Secondary Education"
-    organizations: ""
-
-  - rank: 76
-    name: "Nigeria Rural Electrification Agency"
-    login: "REANigeria"
-    avatarUrl: https://avatars.githubusercontent.com/u/88830304?u=46addd7e038d9c98538f4ab4f99d667442646436&v=4
-    contributions: 4
-    company: "REA"
-    organizations: ""
-
-  - rank: 77
-    name: "Mahdi_001"
-    login: "DrBlack100"
-    avatarUrl: https://avatars.githubusercontent.com/u/40123617?u=48eef3ba8da139a438d0fbeb0a4a8db9cb32f2d4&v=4
-    contributions: 4
-    company: "My-Tech Solutions Limited Sierra Leone"
-    organizations: ""
-
-  - rank: 78
     name: "Infinite Solutions"
     login: "HackIvan"
     avatarUrl: https://avatars.githubusercontent.com/u/20137794?v=4
@@ -2675,7 +2635,15 @@ users_public_contributions:
     company: "Infinite Solutions Hub"
     organizations: ""
 
-  - rank: 79
+  - rank: 74
+    name: "Mohamed Alie Koroma"
+    login: "1122admin"
+    avatarUrl: https://avatars.githubusercontent.com/u/92357819?v=4
+    contributions: 4
+    company: "Ministry of Basic and Senior Secondary Education"
+    organizations: ""
+
+  - rank: 75
     name: "Eugene Jones"
     login: "eugenejones55808"
     avatarUrl: https://avatars.githubusercontent.com/u/75878338?v=4
@@ -2683,10 +2651,42 @@ users_public_contributions:
     company: "Votechs"
     organizations: ""
 
+  - rank: 76
+    name: "Francis Bangura"
+    login: "butagreeza"
+    avatarUrl: https://avatars.githubusercontent.com/u/10339068?u=3a55b74b35df347ca77f41b5cd4b5509d77fcdf0&v=4
+    contributions: 4
+    company: "Byte Limited"
+    organizations: ""
+
+  - rank: 77
+    name: "Nigeria Rural Electrification Agency"
+    login: "REANigeria"
+    avatarUrl: https://avatars.githubusercontent.com/u/88830304?u=46addd7e038d9c98538f4ab4f99d667442646436&v=4
+    contributions: 4
+    company: "REA"
+    organizations: ""
+
+  - rank: 78
+    name: "Mahdi_001"
+    login: "DrBlack100"
+    avatarUrl: https://avatars.githubusercontent.com/u/40123617?u=48eef3ba8da139a438d0fbeb0a4a8db9cb32f2d4&v=4
+    contributions: 4
+    company: "My-Tech Solutions Limited Sierra Leone"
+    organizations: ""
+
+  - rank: 79
+    name: ""
+    login: "engmansa"
+    avatarUrl: https://avatars.githubusercontent.com/u/40606516?v=4
+    contributions: 4
+    company: "INTEGEMS Limited"
+    organizations: ""
+
   - rank: 80
-    name: "Ibrahim Bah"
-    login: "bahrajj"
-    avatarUrl: https://avatars.githubusercontent.com/u/36127670?v=4
+    name: "Abdul Dainkeh"
+    login: "Dainkeh2000"
+    avatarUrl: https://avatars.githubusercontent.com/u/78445514?v=4
     contributions: 4
     company: ""
     organizations: ""
@@ -2700,30 +2700,6 @@ users_public_contributions:
     organizations: ""
 
   - rank: 82
-    name: "Andrew Steven Boima"
-    login: "andrewstevenboima"
-    avatarUrl: https://avatars.githubusercontent.com/u/16258826?u=9206b02d43c1fe16db9669d7f71acf078dd8e659&v=4
-    contributions: 3
-    company: "Rising Academy Network"
-    organizations: ""
-
-  - rank: 83
-    name: "Jesse Kargbo"
-    login: "Jesse-122"
-    avatarUrl: https://avatars.githubusercontent.com/u/32437447?v=4
-    contributions: 3
-    company: ""
-    organizations: ""
-
-  - rank: 84
-    name: "Daniel Chaytor"
-    login: "ess1w"
-    avatarUrl: https://avatars.githubusercontent.com/u/13642339?u=016b50b0b0fac6cd80543ce05a1e77a3dec1896b&v=4
-    contributions: 3
-    company: ""
-    organizations: ""
-
-  - rank: 85
     name: "Saidu Turay"
     login: "saidut"
     avatarUrl: https://avatars.githubusercontent.com/u/10414605?u=d5db82f4dfa1b6fb109a2a153b57a0b3541cdd7f&v=4
@@ -2731,7 +2707,23 @@ users_public_contributions:
     company: "NameComingUp"
     organizations: ""
 
-  - rank: 86
+  - rank: 83
+    name: "Daniel Chaytor"
+    login: "ess1w"
+    avatarUrl: https://avatars.githubusercontent.com/u/13642339?u=016b50b0b0fac6cd80543ce05a1e77a3dec1896b&v=4
+    contributions: 3
+    company: ""
+    organizations: ""
+
+  - rank: 84
+    name: "Jesse Kargbo"
+    login: "Jesse-122"
+    avatarUrl: https://avatars.githubusercontent.com/u/32437447?v=4
+    contributions: 3
+    company: ""
+    organizations: ""
+
+  - rank: 85
     name: "Aminata"
     login: "spacekru"
     avatarUrl: https://avatars.githubusercontent.com/u/76926393?u=080be130618a65a85e3d1d6a7846afa4e8038cda&v=4
@@ -2739,15 +2731,7 @@ users_public_contributions:
     company: "TpISENT"
     organizations: ""
 
-  - rank: 87
-    name: "FODAY DUMBUYA"
-    login: "foday-dumbuya"
-    avatarUrl: https://avatars.githubusercontent.com/u/77495132?u=4298616e63a97b2c9c295ea17a7511a64cd271e8&v=4
-    contributions: 3
-    company: "UNIMTECH"
-    organizations: ""
-
-  - rank: 88
+  - rank: 86
     name: "Samuel Kamara Jr"
     login: "BigSam8"
     avatarUrl: https://avatars.githubusercontent.com/u/95347374?v=4
@@ -2755,39 +2739,31 @@ users_public_contributions:
     company: "E Net"
     organizations: ""
 
-  - rank: 89
-    name: "Alhaji Mansaray"
-    login: "alhajimans2"
-    avatarUrl: https://avatars.githubusercontent.com/u/77423152?u=bfba07b8784eb65fcdc71e459c2b5ca5bc9dcdb5&v=4
-    contributions: 2
-    company: "Private"
-    organizations: ""
-
-  - rank: 90
-    name: "Tamba Rymond Bindi Sam"
-    login: "teerays"
-    avatarUrl: https://avatars.githubusercontent.com/u/77387718?v=4
-    contributions: 2
-    company: "S L P"
-    organizations: ""
-
-  - rank: 91
-    name: "Morie Keita"
-    login: "Morie55"
-    avatarUrl: https://avatars.githubusercontent.com/u/57179507?u=6fd5f9cf955e568794e9f02d89bc91c0b3a7d484&v=4
+  - rank: 87
+    name: ""
+    login: "andrewjoe96"
+    avatarUrl: https://avatars.githubusercontent.com/u/98534902?u=79367560d005f4f2981aa1df9a38846dcd93cc1c&v=4
     contributions: 2
     company: ""
     organizations: ""
 
-  - rank: 92
-    name: ""
-    login: "velbon"
-    avatarUrl: https://avatars.githubusercontent.com/u/8957923?v=4
+  - rank: 88
+    name: "Morie Victor Yorpoi"
+    login: "morievictoryorpoi"
+    avatarUrl: https://avatars.githubusercontent.com/u/76957272?u=77f982d008d9020b40e602b5264e891d4f0e4866&v=4
     contributions: 2
-    company: "Ministry of Health and Sanitation "
+    company: "Tpisent"
     organizations: ""
 
-  - rank: 93
+  - rank: 89
+    name: "Daniel Gassim Kay Jah"
+    login: "gassim11dj"
+    avatarUrl: https://avatars.githubusercontent.com/u/61265361?u=8ed44b1697412338e3ef55787d9e3f0a8d04bdb0&v=4
+    contributions: 2
+    company: "student"
+    organizations: ""
+
+  - rank: 90
     name: "Solomon Wilson"
     login: "spartasolopolo"
     avatarUrl: https://avatars.githubusercontent.com/u/93185107?u=349f250d97ad987732cee3e80338bbe95dc45d48&v=4
@@ -2795,12 +2771,36 @@ users_public_contributions:
     company: "Carradale Housing (SL) REIT Limited"
     organizations: ""
 
-  - rank: 94
-    name: "OKOM KAMARA"
-    login: "komson49"
-    avatarUrl: https://avatars.githubusercontent.com/u/78827410?v=4
+  - rank: 91
+    name: "Alhaji Mansaray"
+    login: "alhajimans2"
+    avatarUrl: https://avatars.githubusercontent.com/u/77423152?u=bfba07b8784eb65fcdc71e459c2b5ca5bc9dcdb5&v=4
     contributions: 2
-    company: "FLS"
+    company: "Private"
+    organizations: ""
+
+  - rank: 92
+    name: ""
+    login: "Jagitay"
+    avatarUrl: https://avatars.githubusercontent.com/u/98949011?v=4
+    contributions: 2
+    company: "Self employed"
+    organizations: ""
+
+  - rank: 93
+    name: "Morie Keita"
+    login: "Morie55"
+    avatarUrl: https://avatars.githubusercontent.com/u/57179507?u=6fd5f9cf955e568794e9f02d89bc91c0b3a7d484&v=4
+    contributions: 2
+    company: ""
+    organizations: ""
+
+  - rank: 94
+    name: "Tamba Rymond Bindi Sam"
+    login: "teerays"
+    avatarUrl: https://avatars.githubusercontent.com/u/77387718?v=4
+    contributions: 2
+    company: "S L P"
     organizations: ""
 
   - rank: 95
@@ -2812,11 +2812,11 @@ users_public_contributions:
     organizations: ""
 
   - rank: 96
-    name: "Morie Victor Yorpoi"
-    login: "morievictoryorpoi"
-    avatarUrl: https://avatars.githubusercontent.com/u/76957272?u=77f982d008d9020b40e602b5264e891d4f0e4866&v=4
+    name: ""
+    login: "velbon"
+    avatarUrl: https://avatars.githubusercontent.com/u/8957923?v=4
     contributions: 2
-    company: "Tpisent"
+    company: "Ministry of Health and Sanitation "
     organizations: ""
 
   - rank: 97
@@ -2828,94 +2828,14 @@ users_public_contributions:
     organizations: ""
 
   - rank: 98
-    name: "Aruna Mark Sesay"
-    login: "Arunamark"
-    avatarUrl: https://avatars.githubusercontent.com/u/78624036?u=0c608e314e649db70a94c9a47ed85c3e875f3451&v=4
+    name: "OKOM KAMARA"
+    login: "komson49"
+    avatarUrl: https://avatars.githubusercontent.com/u/78827410?v=4
     contributions: 2
-    company: "Th3drop"
+    company: "FLS"
     organizations: ""
 
   - rank: 99
-    name: "Joseph David Koroma"
-    login: "josephkoroma01"
-    avatarUrl: https://avatars.githubusercontent.com/u/44106119?v=4
-    contributions: 2
-    company: "NicheTechnology"
-    organizations: ""
-
-  - rank: 100
-    name: "Daniel Gassim Kay Jah"
-    login: "gassim11dj"
-    avatarUrl: https://avatars.githubusercontent.com/u/61265361?u=8ed44b1697412338e3ef55787d9e3f0a8d04bdb0&v=4
-    contributions: 2
-    company: "student"
-    organizations: ""
-
-  - rank: 101
-    name: "ALUSINE MANSARAY"
-    login: "luzayman"
-    avatarUrl: https://avatars.githubusercontent.com/u/81381837?u=fd9a00af13ef0275038ad6589bd81623e656adb9&v=4
-    contributions: 1
-    company: "Five Stars Solutions Centres"
-    organizations: ""
-
-  - rank: 102
-    name: "Lemuel james fofanah"
-    login: "lemueljamesfofanah"
-    avatarUrl: https://avatars.githubusercontent.com/u/94551908?u=2a4cdfecc5ac371997054dd9a203fc86913ebb33&v=4
-    contributions: 1
-    company: ""
-    organizations: ""
-
-  - rank: 103
-    name: "Michael Rozelle"
-    login: "667048"
-    avatarUrl: https://avatars.githubusercontent.com/u/73744821?v=4
-    contributions: 1
-    company: ""
-    organizations: ""
-
-  - rank: 104
-    name: "Salieu Sesay"
-    login: "exoticallisticsm"
-    avatarUrl: https://avatars.githubusercontent.com/u/25461912?u=d43b6bfe47546de25eec7c65bf3dbb96e73fa4e7&v=4
-    contributions: 1
-    company: "Exotic SalmanTech"
-    organizations: ""
-
-  - rank: 105
-    name: "SSMK"
-    login: "khalifeserge"
-    avatarUrl: https://avatars.githubusercontent.com/u/29383416?u=078533c52326141fb1eacdd2983c0ecce710307d&v=4
-    contributions: 1
-    company: "K-Co"
-    organizations: ""
-
-  - rank: 106
-    name: ""
-    login: "Isaiahcrypto"
-    avatarUrl: https://avatars.githubusercontent.com/u/85095373?v=4
-    contributions: 1
-    company: "Isaiah crypto"
-    organizations: ""
-
-  - rank: 107
-    name: ""
-    login: "Mart1961"
-    avatarUrl: https://avatars.githubusercontent.com/u/79550245?v=4
-    contributions: 1
-    company: ""
-    organizations: ""
-
-  - rank: 108
-    name: "Sheku  Tarawally "
-    login: "Boing2"
-    avatarUrl: https://avatars.githubusercontent.com/u/83175430?v=4
-    contributions: 1
-    company: ""
-    organizations: ""
-
-  - rank: 109
     name: "Hindolo Rogers"
     login: "Hindolorogers"
     avatarUrl: https://avatars.githubusercontent.com/u/54672476?u=8a8e576a74ead257b8a13dd1b7fbe57d5ce95217&v=4
@@ -2923,31 +2843,31 @@ users_public_contributions:
     company: ""
     organizations: ""
 
-  - rank: 110
-    name: "Winifred Harolda Jones"
-    login: "winniej745"
-    avatarUrl: https://avatars.githubusercontent.com/u/82916461?v=4
+  - rank: 100
+    name: ""
+    login: "Isaiahcrypto"
+    avatarUrl: https://avatars.githubusercontent.com/u/85095373?v=4
     contributions: 1
-    company: ""
+    company: "Isaiah crypto"
     organizations: ""
 
-  - rank: 111
-    name: "DIVINE SIMON WUSI"
-    login: "Divine670"
-    avatarUrl: https://avatars.githubusercontent.com/u/96017698?u=59a889e3029a7e59deac31b7db65cb94684e8480&v=4
+  - rank: 101
+    name: "Aruna Mark Sesay"
+    login: "Arunamark"
+    avatarUrl: https://avatars.githubusercontent.com/u/78624036?u=0c608e314e649db70a94c9a47ed85c3e875f3451&v=4
     contributions: 1
-    company: "Divine Tech"
+    company: "Th3drop"
     organizations: ""
 
-  - rank: 112
-    name: "Alpha Sorie Kargbo"
-    login: "coderPseudoCode"
-    avatarUrl: https://avatars.githubusercontent.com/u/30184937?u=1924bfc145637bbea90a90f2a5636f159cf380df&v=4
+  - rank: 102
+    name: "SSMK"
+    login: "khalifeserge"
+    avatarUrl: https://avatars.githubusercontent.com/u/29383416?u=078533c52326141fb1eacdd2983c0ecce710307d&v=4
     contributions: 1
-    company: "Next Step Company Limited Sierra Leone"
+    company: "K-Co"
     organizations: ""
 
-  - rank: 113
+  - rank: 103
     name: ""
     login: "Khalidbangura"
     avatarUrl: https://avatars.githubusercontent.com/u/81626726?v=4
@@ -2955,12 +2875,92 @@ users_public_contributions:
     company: "Khalidenterprise"
     organizations: ""
 
-  - rank: 114
+  - rank: 104
+    name: "Winifred Harolda Jones"
+    login: "winniej745"
+    avatarUrl: https://avatars.githubusercontent.com/u/82916461?v=4
+    contributions: 1
+    company: ""
+    organizations: ""
+
+  - rank: 105
+    name: "FODAY DUMBUYA"
+    login: "foday-dumbuya"
+    avatarUrl: https://avatars.githubusercontent.com/u/77495132?u=4298616e63a97b2c9c295ea17a7511a64cd271e8&v=4
+    contributions: 1
+    company: "UNIMTECH"
+    organizations: ""
+
+  - rank: 106
+    name: "Sheku  Tarawally "
+    login: "Boing2"
+    avatarUrl: https://avatars.githubusercontent.com/u/83175430?v=4
+    contributions: 1
+    company: ""
+    organizations: ""
+
+  - rank: 107
+    name: "Brian Mandebvu"
+    login: "mandebvub"
+    avatarUrl: https://avatars.githubusercontent.com/u/79581985?v=4
+    contributions: 1
+    company: "WFP"
+    organizations: ""
+
+  - rank: 108
+    name: "Ishmeal Saspo Sankoh"
+    login: "IshmealSaspoSankoh"
+    avatarUrl: https://avatars.githubusercontent.com/u/94997594?v=4
+    contributions: 1
+    company: ""
+    organizations: ""
+
+  - rank: 109
+    name: "Salieu Sesay"
+    login: "exoticallisticsm"
+    avatarUrl: https://avatars.githubusercontent.com/u/25461912?u=d43b6bfe47546de25eec7c65bf3dbb96e73fa4e7&v=4
+    contributions: 1
+    company: "Exotic SalmanTech"
+    organizations: ""
+
+  - rank: 110
+    name: ""
+    login: "vambalolleh"
+    avatarUrl: https://avatars.githubusercontent.com/u/60394386?v=4
+    contributions: 1
+    company: "Partners in Health"
+    organizations: ""
+
+  - rank: 111
+    name: "Alpha Sorie Kargbo"
+    login: "coderPseudoCode"
+    avatarUrl: https://avatars.githubusercontent.com/u/30184937?u=1924bfc145637bbea90a90f2a5636f159cf380df&v=4
+    contributions: 1
+    company: "Next Step Company Limited Sierra Leone"
+    organizations: ""
+
+  - rank: 112
     name: "Augustine Jusu Monzon"
     login: "Augustine381"
     avatarUrl: https://avatars.githubusercontent.com/u/90809282?v=4
     contributions: 1
     company: "Self "
+    organizations: ""
+
+  - rank: 113
+    name: "Michael Rozelle"
+    login: "667048"
+    avatarUrl: https://avatars.githubusercontent.com/u/73744821?v=4
+    contributions: 1
+    company: ""
+    organizations: ""
+
+  - rank: 114
+    name: "ALUSINE MANSARAY"
+    login: "luzayman"
+    avatarUrl: https://avatars.githubusercontent.com/u/81381837?u=fd9a00af13ef0275038ad6589bd81623e656adb9&v=4
+    contributions: 1
+    company: "Five Stars Solutions Centres"
     organizations: ""
 
   - rank: 115
@@ -2972,9 +2972,9 @@ users_public_contributions:
     organizations: ""
 
   - rank: 116
-    name: "Isaac Foday"
-    login: "Isaacfoday1995"
-    avatarUrl: https://avatars.githubusercontent.com/u/83794307?u=29692afe5c4a67e0f4a0e08dc5f8fd2b270c19db&v=4
+    name: ""
+    login: "Mart1961"
+    avatarUrl: https://avatars.githubusercontent.com/u/79550245?v=4
     contributions: 1
     company: ""
     organizations: ""
@@ -2996,62 +2996,22 @@ users_public_contributions:
     organizations: ""
 
   - rank: 119
-    name: "John Suluku"
-    login: "Jaybecs"
-    avatarUrl: https://avatars.githubusercontent.com/u/83507918?v=4
+    name: "medvik"
+    login: "MohamedKabia"
+    avatarUrl: https://avatars.githubusercontent.com/u/47672695?u=1cc54ddc91181bce809b827a69755ba4c4483629&v=4
     contributions: 1
-    company: "Lynex Company Limited"
+    company: "Goldent Software"
     organizations: ""
 
   - rank: 120
-    name: "sconteh"
-    login: "contehsaidue"
-    avatarUrl: https://avatars.githubusercontent.com/u/77689935?v=4
+    name: "Isaac Foday"
+    login: "Isaacfoday1995"
+    avatarUrl: https://avatars.githubusercontent.com/u/83794307?u=29692afe5c4a67e0f4a0e08dc5f8fd2b270c19db&v=4
     contributions: 1
     company: ""
     organizations: ""
 
   - rank: 121
-    name: "Brian Mandebvu"
-    login: "mandebvub"
-    avatarUrl: https://avatars.githubusercontent.com/u/79581985?v=4
-    contributions: 1
-    company: "WFP"
-    organizations: ""
-
-  - rank: 122
-    name: ""
-    login: "mkamarachernor"
-    avatarUrl: https://avatars.githubusercontent.com/u/78469375?v=4
-    contributions: 1
-    company: ""
-    organizations: ""
-
-  - rank: 123
-    name: "Adikalie kholifa Kamara "
-    login: "Adikalie092003352"
-    avatarUrl: https://avatars.githubusercontent.com/u/96649877?v=4
-    contributions: 1
-    company: ""
-    organizations: ""
-
-  - rank: 124
-    name: "Ishmeal Saspo Sankoh"
-    login: "IshmealSaspoSankoh"
-    avatarUrl: https://avatars.githubusercontent.com/u/94997594?v=4
-    contributions: 1
-    company: ""
-    organizations: ""
-
-  - rank: 125
-    name: ""
-    login: "vambalolleh"
-    avatarUrl: https://avatars.githubusercontent.com/u/60394386?v=4
-    contributions: 1
-    company: "Partners in Health"
-    organizations: ""
-
-  - rank: 126
     name: "elder moses"
     login: "TWOGSL1"
     avatarUrl: https://avatars.githubusercontent.com/u/79336273?u=163f1270d665d7f9453ee362f7055da2748911da&v=4
@@ -3059,7 +3019,7 @@ users_public_contributions:
     company: "The Word Of Grace Outreach Ministries"
     organizations: ""
 
-  - rank: 127
+  - rank: 122
     name: "Edward Momoh Turay"
     login: "edwardmomoh"
     avatarUrl: https://avatars.githubusercontent.com/u/91305175?u=0b49857d21fbb3e287e9b165f4108e44ea563783&v=4
@@ -3067,12 +3027,52 @@ users_public_contributions:
     company: "Limkokwing University"
     organizations: ""
 
+  - rank: 123
+    name: "sconteh"
+    login: "contehsaidue"
+    avatarUrl: https://avatars.githubusercontent.com/u/77689935?v=4
+    contributions: 1
+    company: ""
+    organizations: ""
+
+  - rank: 124
+    name: "Adikalie kholifa Kamara "
+    login: "Adikalie092003352"
+    avatarUrl: https://avatars.githubusercontent.com/u/96649877?v=4
+    contributions: 1
+    company: ""
+    organizations: ""
+
+  - rank: 125
+    name: "Lemuel james fofanah"
+    login: "lemueljamesfofanah"
+    avatarUrl: https://avatars.githubusercontent.com/u/94551908?u=2a4cdfecc5ac371997054dd9a203fc86913ebb33&v=4
+    contributions: 1
+    company: ""
+    organizations: ""
+
+  - rank: 126
+    name: "John Suluku"
+    login: "Jaybecs"
+    avatarUrl: https://avatars.githubusercontent.com/u/83507918?v=4
+    contributions: 1
+    company: "Lynex Company Limited"
+    organizations: ""
+
+  - rank: 127
+    name: "DIVINE SIMON WUSI"
+    login: "Divine670"
+    avatarUrl: https://avatars.githubusercontent.com/u/96017698?u=59a889e3029a7e59deac31b7db65cb94684e8480&v=4
+    contributions: 1
+    company: "Divine Tech"
+    organizations: ""
+
   - rank: 128
-    name: "Ceekab"
-    login: "Patomaria"
-    avatarUrl: https://avatars.githubusercontent.com/u/35488664?u=0df3c2332f7c43609215a720fc608ddee826f189&v=4
+    name: "TCRF Sierra Leone"
+    login: "TCRFSierraLeone"
+    avatarUrl: https://avatars.githubusercontent.com/u/21276527?v=4
     contributions: 0
-    company: "Little Light Foundation"
+    company: ""
     organizations: ""
 
   - rank: 129
@@ -3132,19 +3132,19 @@ users_public_contributions:
     organizations: ""
 
   - rank: 136
+    name: "Ceekab"
+    login: "Patomaria"
+    avatarUrl: https://avatars.githubusercontent.com/u/35488664?u=0df3c2332f7c43609215a720fc608ddee826f189&v=4
+    contributions: 0
+    company: "Little Light Foundation"
+    organizations: ""
+
+  - rank: 137
     name: "Kharifa Abdulai Kumara"
     login: "Kumar0531"
     avatarUrl: https://avatars.githubusercontent.com/u/35607420?v=4
     contributions: 0
     company: "DreamDay Technology"
-    organizations: ""
-
-  - rank: 137
-    name: "Abess Hussein"
-    login: "Abess0"
-    avatarUrl: https://avatars.githubusercontent.com/u/31619377?u=22c277db76578ede427262222cc849668fe17e01&v=4
-    contributions: 0
-    company: "Atom Inc"
     organizations: ""
 
   - rank: 138
@@ -3236,19 +3236,19 @@ users_public_contributions:
     organizations: ""
 
   - rank: 149
+    name: "Abess Hussein"
+    login: "Abess0"
+    avatarUrl: https://avatars.githubusercontent.com/u/31619377?u=22c277db76578ede427262222cc849668fe17e01&v=4
+    contributions: 0
+    company: "Atom Inc"
+    organizations: ""
+
+  - rank: 150
     name: "Cho"
     login: "chochoma"
     avatarUrl: https://avatars.githubusercontent.com/u/64731010?v=4
     contributions: 0
     company: " Kacho Solutions Ltd."
-    organizations: ""
-
-  - rank: 150
-    name: "TCRF Sierra Leone"
-    login: "TCRFSierraLeone"
-    avatarUrl: https://avatars.githubusercontent.com/u/21276527?v=4
-    contributions: 0
-    company: ""
     organizations: ""
 
   - rank: 151
@@ -3548,14 +3548,6 @@ users_public_contributions:
     organizations: ""
 
   - rank: 188
-    name: "Taleb"
-    login: "mtaleb1981"
-    avatarUrl: https://avatars.githubusercontent.com/u/9765302?u=f7cf9fd60036a16e16359fd9ec9b84507f1850fa&v=4
-    contributions: 0
-    company: ""
-    organizations: ""
-
-  - rank: 189
     name: "Gray Coding Sierra Leone "
     login: "graycodingsl"
     avatarUrl: https://avatars.githubusercontent.com/u/55925031?v=4
@@ -3563,10 +3555,18 @@ users_public_contributions:
     company: ""
     organizations: ""
 
-  - rank: 190
+  - rank: 189
     name: "Fatimah"
     login: "Timah1999"
     avatarUrl: https://avatars.githubusercontent.com/u/57300012?v=4
+    contributions: 0
+    company: ""
+    organizations: ""
+
+  - rank: 190
+    name: "Taleb"
+    login: "mtaleb1981"
+    avatarUrl: https://avatars.githubusercontent.com/u/9765302?u=f7cf9fd60036a16e16359fd9ec9b84507f1850fa&v=4
     contributions: 0
     company: ""
     organizations: ""
@@ -3668,19 +3668,19 @@ users_public_contributions:
     organizations: ""
 
   - rank: 203
+    name: "Andrew Steven Boima"
+    login: "andrewstevenboima"
+    avatarUrl: https://avatars.githubusercontent.com/u/16258826?u=9206b02d43c1fe16db9669d7f71acf078dd8e659&v=4
+    contributions: 0
+    company: "Rising Academy Network"
+    organizations: ""
+
+  - rank: 204
     name: "Sahr Patrick Sandi"
     login: "Sahr-sandi"
     avatarUrl: https://avatars.githubusercontent.com/u/68224867?v=4
     contributions: 0
     company: "Ministry of Fisheries and Marine Resources"
-    organizations: ""
-
-  - rank: 204
-    name: "Michael Bockarie"
-    login: "bockariegithub"
-    avatarUrl: https://avatars.githubusercontent.com/u/18660500?v=4
-    contributions: 0
-    company: "Bountiful Invetsment"
     organizations: ""
 
   - rank: 205
@@ -3740,22 +3740,14 @@ users_public_contributions:
     organizations: ""
 
   - rank: 212
-    name: "Philip M Mornya"
-    login: "philip1122"
-    avatarUrl: https://avatars.githubusercontent.com/u/57179368?u=f46f525880c543cc48c9edcd13c80e5d93142be8&v=4
+    name: "Saccoh"
+    login: "Saccoh-1"
+    avatarUrl: https://avatars.githubusercontent.com/u/22425096?v=4
     contributions: 0
     company: ""
     organizations: ""
 
   - rank: 213
-    name: "Mohamed Yankson Sankoh"
-    login: "syankson"
-    avatarUrl: https://avatars.githubusercontent.com/u/51108373?v=4
-    contributions: 0
-    company: "Mott Macdonald UK Aid"
-    organizations: ""
-
-  - rank: 214
     name: "Joseph Fallah Yondah"
     login: "Godraises"
     avatarUrl: https://avatars.githubusercontent.com/u/76961318?u=8148f20906107e0d269905ec9d89397df37a8c64&v=4
@@ -3763,20 +3755,28 @@ users_public_contributions:
     company: ""
     organizations: ""
 
+  - rank: 214
+    name: "Michael Bockarie"
+    login: "bockariegithub"
+    avatarUrl: https://avatars.githubusercontent.com/u/18660500?v=4
+    contributions: 0
+    company: "Bountiful Invetsment"
+    organizations: ""
+
   - rank: 215
-    name: "Alpha Amadu Barrie"
-    login: "Alpha-Accurate"
-    avatarUrl: https://avatars.githubusercontent.com/u/27819681?u=0245d68f3b1aa303532e7f7b5599531d9c85f272&v=4
+    name: "Philip M Mornya"
+    login: "philip1122"
+    avatarUrl: https://avatars.githubusercontent.com/u/57179368?u=f46f525880c543cc48c9edcd13c80e5d93142be8&v=4
     contributions: 0
     company: ""
     organizations: ""
 
   - rank: 216
-    name: ""
-    login: "ClementinaAkran"
-    avatarUrl: https://avatars.githubusercontent.com/u/69197728?u=1d91fa6aed75747aa7591c816537597302ede22e&v=4
+    name: "Mohamed Yankson Sankoh"
+    login: "syankson"
+    avatarUrl: https://avatars.githubusercontent.com/u/51108373?v=4
     contributions: 0
-    company: "Stats SL "
+    company: "Mott Macdonald UK Aid"
     organizations: ""
 
   - rank: 217
@@ -3828,6 +3828,30 @@ users_public_contributions:
     organizations: ""
 
   - rank: 223
+    name: "Alpha Amadu Barrie"
+    login: "Alpha-Accurate"
+    avatarUrl: https://avatars.githubusercontent.com/u/27819681?u=0245d68f3b1aa303532e7f7b5599531d9c85f272&v=4
+    contributions: 0
+    company: ""
+    organizations: ""
+
+  - rank: 224
+    name: ""
+    login: "ClementinaAkran"
+    avatarUrl: https://avatars.githubusercontent.com/u/69197728?u=1d91fa6aed75747aa7591c816537597302ede22e&v=4
+    contributions: 0
+    company: "Stats SL "
+    organizations: ""
+
+  - rank: 225
+    name: "Ishmael Kargbo"
+    login: "dev-isho"
+    avatarUrl: https://avatars.githubusercontent.com/u/39510294?u=b3b455b6e6d82933b1bf7d706c06c48abf1589b3&v=4
+    contributions: 0
+    company: "Let Inspire"
+    organizations: ""
+
+  - rank: 226
     name: "James"
     login: "derkinater"
     avatarUrl: https://avatars.githubusercontent.com/u/64073788?v=4
@@ -3835,7 +3859,7 @@ users_public_contributions:
     company: ""
     organizations: ""
 
-  - rank: 224
+  - rank: 227
     name: "Osman Bah"
     login: "Bahosman"
     avatarUrl: https://avatars.githubusercontent.com/u/75808420?v=4
@@ -3843,7 +3867,7 @@ users_public_contributions:
     company: ""
     organizations: ""
 
-  - rank: 225
+  - rank: 228
     name: "Alhaji A. Kargbo"
     login: "hajjkargbo"
     avatarUrl: https://avatars.githubusercontent.com/u/17002978?u=612a80a555918e7f15b62e4294c11fa1399ced45&v=4
@@ -3851,15 +3875,7 @@ users_public_contributions:
     company: "LamTech Consulting Enterprises"
     organizations: ""
 
-  - rank: 226
-    name: "Steven boima"
-    login: "STEVENBOIMA"
-    avatarUrl: https://avatars.githubusercontent.com/u/20893779?u=f2b39b8311858451cfa360466a20384bf03136a8&v=4
-    contributions: 0
-    company: "Creative tech Zone"
-    organizations: ""
-
-  - rank: 227
+  - rank: 229
     name: "Mwah Bah"
     login: "MwahBah"
     avatarUrl: https://avatars.githubusercontent.com/u/65542393?v=4
@@ -3867,7 +3883,23 @@ users_public_contributions:
     company: "Mwahbah"
     organizations: ""
 
-  - rank: 228
+  - rank: 230
+    name: "Ingletech"
+    login: "ingletech"
+    avatarUrl: https://avatars.githubusercontent.com/u/70138771?v=4
+    contributions: 0
+    company: ""
+    organizations: ""
+
+  - rank: 231
+    name: "Steven boima"
+    login: "STEVENBOIMA"
+    avatarUrl: https://avatars.githubusercontent.com/u/20893779?u=f2b39b8311858451cfa360466a20384bf03136a8&v=4
+    contributions: 0
+    company: "Creative tech Zone"
+    organizations: ""
+
+  - rank: 232
     name: "Ivan Meshach Juan Sesay"
     login: "juanimesh"
     avatarUrl: https://avatars.githubusercontent.com/u/44885410?u=17d455312c35a4043700bafdc170184ec88d81ff&v=4
@@ -3875,7 +3907,7 @@ users_public_contributions:
     company: "Freelance"
     organizations: ""
 
-  - rank: 229
+  - rank: 233
     name: ""
     login: "vangamoh"
     avatarUrl: https://avatars.githubusercontent.com/u/71276123?v=4
@@ -3883,31 +3915,7 @@ users_public_contributions:
     company: "National Electoral Commission "
     organizations: ""
 
-  - rank: 230
-    name: "Louis Momodu Conteh"
-    login: "lmomodu"
-    avatarUrl: https://avatars.githubusercontent.com/u/50139877?u=4472c08a9b265605e1b057d4bc83f1141d879666&v=4
-    contributions: 0
-    company: "@UbuntuAfrika.com"
-    organizations: ""
-
-  - rank: 231
-    name: "Mohamed S Kamara"
-    login: "Mohamedskamara1967"
-    avatarUrl: https://avatars.githubusercontent.com/u/62678570?u=9145a8b4f2dff84c014ef96e4839b50b57b3c52a&v=4
-    contributions: 0
-    company: "nell"
-    organizations: ""
-
-  - rank: 232
-    name: "mondeh"
-    login: "mondeh"
-    avatarUrl: https://avatars.githubusercontent.com/u/40904498?v=4
-    contributions: 0
-    company: "Limkoking University "
-    organizations: ""
-
-  - rank: 233
+  - rank: 234
     name: "Lola Aforo"
     login: "LolaAforo"
     avatarUrl: https://avatars.githubusercontent.com/u/77402876?u=b1fc0ac5292fdfbd9b2db90edc14dfe389526b2a&v=4
@@ -3915,31 +3923,31 @@ users_public_contributions:
     company: "STUDENT"
     organizations: ""
 
-  - rank: 234
-    name: "Demo Volunteer"
-    login: "sloepvolunteer"
-    avatarUrl: https://avatars.githubusercontent.com/u/34882911?v=4
-    contributions: 0
-    company: "LAM-TECH"
-    organizations: ""
-
   - rank: 235
-    name: "Rahim"
-    login: "Rmukish"
-    avatarUrl: https://avatars.githubusercontent.com/u/26299671?u=d8767b9d23dcf5e3c9448adc283bae2c00122444&v=4
+    name: "Louis Momodu Conteh"
+    login: "lmomodu"
+    avatarUrl: https://avatars.githubusercontent.com/u/50139877?u=4472c08a9b265605e1b057d4bc83f1141d879666&v=4
     contributions: 0
-    company: ""
+    company: "@UbuntuAfrika.com"
     organizations: ""
 
   - rank: 236
-    name: "Med Cash"
-    login: "AhmedSaiduKamara"
-    avatarUrl: https://avatars.githubusercontent.com/u/51088767?u=033524b84eada420d75136459a6589cd023ad493&v=4
+    name: "Mohamed S Kamara"
+    login: "Mohamedskamara1967"
+    avatarUrl: https://avatars.githubusercontent.com/u/62678570?u=9145a8b4f2dff84c014ef96e4839b50b57b3c52a&v=4
     contributions: 0
-    company: ""
+    company: "nell"
     organizations: ""
 
   - rank: 237
+    name: "mondeh"
+    login: "mondeh"
+    avatarUrl: https://avatars.githubusercontent.com/u/40904498?v=4
+    contributions: 0
+    company: "Limkoking University "
+    organizations: ""
+
+  - rank: 238
     name: ""
     login: "andrew3941"
     avatarUrl: https://avatars.githubusercontent.com/u/77746680?u=0375337fdc3007d0d766b6ece79a90c24a3d1d8f&v=4
@@ -3947,7 +3955,39 @@ users_public_contributions:
     company: ""
     organizations: ""
 
-  - rank: 238
+  - rank: 239
+    name: "Demo Volunteer"
+    login: "sloepvolunteer"
+    avatarUrl: https://avatars.githubusercontent.com/u/34882911?v=4
+    contributions: 0
+    company: "LAM-TECH"
+    organizations: ""
+
+  - rank: 240
+    name: "Rahim"
+    login: "Rmukish"
+    avatarUrl: https://avatars.githubusercontent.com/u/26299671?u=d8767b9d23dcf5e3c9448adc283bae2c00122444&v=4
+    contributions: 0
+    company: ""
+    organizations: ""
+
+  - rank: 241
+    name: "Med Cash"
+    login: "AhmedSaiduKamara"
+    avatarUrl: https://avatars.githubusercontent.com/u/51088767?u=033524b84eada420d75136459a6589cd023ad493&v=4
+    contributions: 0
+    company: ""
+    organizations: ""
+
+  - rank: 242
+    name: ""
+    login: "mkamarachernor"
+    avatarUrl: https://avatars.githubusercontent.com/u/78469375?v=4
+    contributions: 0
+    company: ""
+    organizations: ""
+
+  - rank: 243
     name: "Ahmed Elomar"
     login: "Elmo212"
     avatarUrl: https://avatars.githubusercontent.com/u/55789669?u=9e34765269f4a030b128aeaedf0a0db621dd599b&v=4
@@ -3955,7 +3995,7 @@ users_public_contributions:
     company: "Easy Solar"
     organizations: ""
 
-  - rank: 239
+  - rank: 244
     name: "Jabubakarr"
     login: "abubakarrjalloh"
     avatarUrl: https://avatars.githubusercontent.com/u/33560325?u=35fb7aeee06e7c28348350385c02d9ff26ac93a7&v=4
@@ -3963,7 +4003,7 @@ users_public_contributions:
     company: "Unique Tech"
     organizations: ""
 
-  - rank: 240
+  - rank: 245
     name: "Jeremiah Gbenga"
     login: "JeremiahGbenga"
     avatarUrl: https://avatars.githubusercontent.com/u/26901643?u=108b7328b146dcb0aa19644ba72e0d1d88c84f14&v=4
@@ -3971,7 +4011,7 @@ users_public_contributions:
     company: ""
     organizations: ""
 
-  - rank: 241
+  - rank: 246
     name: "Karl-el01"
     login: "Karl-el01"
     avatarUrl: https://avatars.githubusercontent.com/u/25665182?u=0fe6fcac8abc3a14b8e3627fc9c3b1d03a9efe67&v=4
@@ -3979,7 +4019,7 @@ users_public_contributions:
     company: ""
     organizations: ""
 
-  - rank: 242
+  - rank: 247
     name: "Buawah Jobo Samba"
     login: "jobosamba"
     avatarUrl: https://avatars.githubusercontent.com/u/16902200?u=1fbb58df4f97eca66e5a749c21de856724c600ad&v=4
@@ -3987,7 +4027,7 @@ users_public_contributions:
     company: "Ministry of Lands, Country Planning and The Environment"
     organizations: ""
 
-  - rank: 243
+  - rank: 248
     name: ""
     login: "alston332"
     avatarUrl: https://avatars.githubusercontent.com/u/20111568?v=4
@@ -3995,7 +4035,7 @@ users_public_contributions:
     company: "OPPORTUNITIES"
     organizations: ""
 
-  - rank: 244
+  - rank: 249
     name: "Dominic Bao"
     login: "domobao1984"
     avatarUrl: https://avatars.githubusercontent.com/u/71744867?u=57f302300517ed480580ffe285b45c0586613bf9&v=4
@@ -4003,7 +4043,7 @@ users_public_contributions:
     company: "Ministry of Information & Communication - Government of SL"
     organizations: ""
 
-  - rank: 245
+  - rank: 250
     name: "Ibrahim Sawaneh"
     login: "Ibrahim749"
     avatarUrl: https://avatars.githubusercontent.com/u/70407776?u=9016b140f46142e42c2cff2497257f19a257f24b&v=4
@@ -4011,7 +4051,7 @@ users_public_contributions:
     company: ""
     organizations: ""
 
-  - rank: 246
+  - rank: 251
     name: ""
     login: "ChristopherReffell"
     avatarUrl: https://avatars.githubusercontent.com/u/47862245?u=9a9e2e001a712ee4eae925f93f8a8bb9bc5ede9f&v=4
@@ -4019,23 +4059,7 @@ users_public_contributions:
     company: "Ubuntu Afrika Tech"
     organizations: ""
 
-  - rank: 247
-    name: "Sheku Armani Koroma"
-    login: "Hoppersk"
-    avatarUrl: https://avatars.githubusercontent.com/u/8056809?u=2afc068c52e5238d354f81e13858f4502ba1130c&v=4
-    contributions: 0
-    company: "iDT Labs"
-    organizations: ""
-
-  - rank: 248
-    name: "hycent ibeneme"
-    login: "1988icent"
-    avatarUrl: https://avatars.githubusercontent.com/u/676926?v=4
-    contributions: 0
-    company: "EDDIE BONGO"
-    organizations: ""
-
-  - rank: 249
+  - rank: 252
     name: "Ibrahim Pateh Bah"
     login: "Pateh-bah"
     avatarUrl: https://avatars.githubusercontent.com/u/63269864?u=aa2030aa53cc9af8ac71e4f189b99be6be3c995d&v=4
@@ -4043,7 +4067,7 @@ users_public_contributions:
     company: ""
     organizations: ""
 
-  - rank: 250
+  - rank: 253
     name: ""
     login: "Kargbo01"
     avatarUrl: https://avatars.githubusercontent.com/u/77402880?v=4
@@ -4051,52 +4075,28 @@ users_public_contributions:
     company: "STUDENT"
     organizations: ""
 
-  - rank: 251
+  - rank: 254
+    name: "Sheku Armani Koroma"
+    login: "Hoppersk"
+    avatarUrl: https://avatars.githubusercontent.com/u/8056809?u=2afc068c52e5238d354f81e13858f4502ba1130c&v=4
+    contributions: 0
+    company: "iDT Labs"
+    organizations: ""
+
+  - rank: 255
+    name: "hycent ibeneme"
+    login: "1988icent"
+    avatarUrl: https://avatars.githubusercontent.com/u/676926?v=4
+    contributions: 0
+    company: "EDDIE BONGO"
+    organizations: ""
+
+  - rank: 256
     name: "Mohamed A B Kamara"
     login: "Kamarano"
     avatarUrl: https://avatars.githubusercontent.com/u/10802727?v=4
     contributions: 0
     company: "Kamarano"
-    organizations: ""
-
-  - rank: 252
-    name: "Mohamed Lamin"
-    login: "Mufti-ML"
-    avatarUrl: https://avatars.githubusercontent.com/u/67768584?u=910a68d72d74e92f6bc0088b48bbc012aac63caf&v=4
-    contributions: 0
-    company: "Freelancer"
-    organizations: ""
-
-  - rank: 253
-    name: ""
-    login: "neneh12"
-    avatarUrl: https://avatars.githubusercontent.com/u/50619518?v=4
-    contributions: 0
-    company: "Web Development 21Generation"
-    organizations: ""
-
-  - rank: 254
-    name: "Moses VB"
-    login: "vbmo"
-    avatarUrl: https://avatars.githubusercontent.com/u/14352247?v=4
-    contributions: 0
-    company: "VB Technologies Solutions."
-    organizations: ""
-
-  - rank: 255
-    name: "Ceedique"
-    login: "Ceedique"
-    avatarUrl: https://avatars.githubusercontent.com/u/39308122?v=4
-    contributions: 0
-    company: ""
-    organizations: ""
-
-  - rank: 256
-    name: "medvik"
-    login: "MohamedKabia"
-    avatarUrl: https://avatars.githubusercontent.com/u/47672695?u=1cc54ddc91181bce809b827a69755ba4c4483629&v=4
-    contributions: 0
-    company: "Goldent Software"
     organizations: ""
 
 private_users:
@@ -4105,7 +4105,7 @@ private_users:
     name: "Francis Bangura"
     login: "butagreeza"
     avatarUrl: https://avatars.githubusercontent.com/u/10339068?u=3a55b74b35df347ca77f41b5cd4b5509d77fcdf0&v=4
-    contributions: 1982
+    contributions: 1986
     company: "Byte Limited"
     organizations: ""
 
@@ -4113,7 +4113,7 @@ private_users:
     name: "Muhammad Sesay"
     login: "mmsesay"
     avatarUrl: https://avatars.githubusercontent.com/u/39523312?u=93cbfa1bca0adddeee539c4a14144afb908b66dd&v=4
-    contributions: 1839
+    contributions: 1888
     company: ""
     organizations: ""
 
@@ -4121,7 +4121,7 @@ private_users:
     name: ""
     login: "abu-bakarr"
     avatarUrl: https://avatars.githubusercontent.com/u/22318580?u=421b2927e93c451970c80e250506cf7f75591171&v=4
-    contributions: 1466
+    contributions: 1581
     company: "Limkokwing University Student"
     organizations: ""
 
@@ -4129,31 +4129,31 @@ private_users:
     name: "Sonkay"
     login: "SonkayAugustine"
     avatarUrl: https://avatars.githubusercontent.com/u/51463111?u=a5b97ae00376dfb1d2e08659c70842a5c59e5434&v=4
-    contributions: 1410
+    contributions: 1442
     company: ""
     organizations: ""
 
   - rank: 5
     name: "Amkam"
     login: "AmaduKamara"
-    avatarUrl: https://avatars.githubusercontent.com/u/50941074?u=98f96728a6ad551bfb73ce5bd480f55d54cdf5b2&v=4
-    contributions: 859
-    company: "Front-end & Full-stack developer"
+    avatarUrl: https://avatars.githubusercontent.com/u/50941074?u=38592ae852a8d131c1402c216a11157ae5c72394&v=4
+    contributions: 1087
+    company: "Remote Front-End and Full-Stack Developer"
     organizations: ""
 
   - rank: 6
     name: "Alpha Shaw"
     login: "alphashaw"
     avatarUrl: https://avatars.githubusercontent.com/u/14175735?u=3f3f8faba25086bc641054772b665236c736ca12&v=4
-    contributions: 824
+    contributions: 825
     company: ""
     organizations: ""
 
   - rank: 7
     name: "Afiz Savage"
     login: "afizsavage"
-    avatarUrl: https://avatars.githubusercontent.com/u/48913767?u=57dc360ed5dc0c00b27d9d56b105e26e1b81557e&v=4
-    contributions: 650
+    avatarUrl: https://avatars.githubusercontent.com/u/48913767?u=0ee045ce4856a403c22f124c957f955d79f9a9f0&v=4
+    contributions: 740
     company: "Software Engineer (Front-end)"
     organizations: ""
 
@@ -4161,7 +4161,7 @@ private_users:
     name: "Foday S.N Kamara"
     login: "FODAYSAHID"
     avatarUrl: https://avatars.githubusercontent.com/u/11199402?u=850238dbf28647ac7ac10e45f5722a1d7b7d5f61&v=4
-    contributions: 467
+    contributions: 468
     company: ""
     organizations: ""
 
@@ -4169,7 +4169,7 @@ private_users:
     name: "Benjamin Thorpe"
     login: "benjithorpe"
     avatarUrl: https://avatars.githubusercontent.com/u/61359802?u=0265b398974f43ed5f86d40d633aaf435b477b27&v=4
-    contributions: 423
+    contributions: 427
     company: ""
     organizations: ""
 
@@ -4193,7 +4193,7 @@ private_users:
     name: "Tamba Lamin"
     login: "click2tman"
     avatarUrl: https://avatars.githubusercontent.com/u/1200007?u=c01fdbe37d997b20dee96922d7496f51b72956d4&v=4
-    contributions: 206
+    contributions: 210
     company: "TpISENT"
     organizations: ""
 
@@ -4201,7 +4201,7 @@ private_users:
     name: "Alhaji Abubakarr Barrie"
     login: "BarrieLAJ"
     avatarUrl: https://avatars.githubusercontent.com/u/41100890?u=ac1c8b5ab2415aa1b9b5b349d12d1029584c0e62&v=4
-    contributions: 154
+    contributions: 155
     company: "None"
     organizations: ""
 
@@ -4209,51 +4209,59 @@ private_users:
     name: "El Rey"
     login: "fredybangs"
     avatarUrl: https://avatars.githubusercontent.com/u/29194433?v=4
-    contributions: 112
+    contributions: 106
     company: "Byte Limited"
     organizations: ""
 
   - rank: 15
-    name: "Santigie B Kamara"
-    login: "santigie12"
-    avatarUrl: https://avatars.githubusercontent.com/u/59751890?u=9b1fc704451cae77123c6fea02d95cfd0fd70010&v=4
-    contributions: 96
-    company: "Global Developer's Network"
-    organizations: ""
-
-  - rank: 16
-    name: "Bayoh"
-    login: "bayoh"
-    avatarUrl: https://avatars.githubusercontent.com/u/12776314?v=4
-    contributions: 93
-    company: ""
-    organizations: ""
-
-  - rank: 17
-    name: "Yusifu M. Barrie"
-    login: "yusifu-m-barrie"
-    avatarUrl: https://avatars.githubusercontent.com/u/34960874?u=c4566cd99dbf0b14847272e37ec8fa862c87c4d4&v=4
-    contributions: 91
-    company: "Link Corporation SL"
-    organizations: ""
-
-  - rank: 18
     name: "Friction"
     login: "frictious"
     avatarUrl: https://avatars.githubusercontent.com/u/36157467?v=4
-    contributions: 89
+    contributions: 103
     company: ""
+    organizations: ""
+
+  - rank: 16
+    name: "Yusifu M. Barrie"
+    login: "yusifu-m-barrie"
+    avatarUrl: https://avatars.githubusercontent.com/u/34960874?u=c4566cd99dbf0b14847272e37ec8fa862c87c4d4&v=4
+    contributions: 99
+    company: "Link Corporation SL"
+    organizations: ""
+
+  - rank: 17
+    name: "Bayoh"
+    login: "bayoh"
+    avatarUrl: https://avatars.githubusercontent.com/u/12776314?v=4
+    contributions: 91
+    company: ""
+    organizations: ""
+
+  - rank: 18
+    name: "Santigie B Kamara"
+    login: "santigie12"
+    avatarUrl: https://avatars.githubusercontent.com/u/59751890?u=9b1fc704451cae77123c6fea02d95cfd0fd70010&v=4
+    contributions: 90
+    company: "Global Developer's Network"
     organizations: ""
 
   - rank: 19
     name: ""
     login: "SUBiango"
-    avatarUrl: https://avatars.githubusercontent.com/u/53955319?v=4
+    avatarUrl: https://avatars.githubusercontent.com/u/53955319?u=a7622517eadc37426dddca0b6393d0902b1956e5&v=4
     contributions: 81
     company: "subdesigne"
     organizations: ""
 
   - rank: 20
+    name: "medvik"
+    login: "MohamedKabia"
+    avatarUrl: https://avatars.githubusercontent.com/u/47672695?u=1cc54ddc91181bce809b827a69755ba4c4483629&v=4
+    contributions: 78
+    company: "Goldent Software"
+    organizations: ""
+
+  - rank: 21
     name: "Guchie"
     login: "francisguchie"
     avatarUrl: https://avatars.githubusercontent.com/u/22683654?u=c92be2e50d3e0fea33c110ba47f8e81f2d07f120&v=4
@@ -4261,23 +4269,31 @@ private_users:
     company: "https://guchietech.com"
     organizations: ""
 
-  - rank: 21
-    name: ""
-    login: "johnkamara"
-    avatarUrl: https://avatars.githubusercontent.com/u/77782894?u=3ff881204ebe0d5b2c99cc3b5b4b523bb7d20bdc&v=4
-    contributions: 68
+  - rank: 22
+    name: "Philip M'boyah"
+    login: "Philip1996"
+    avatarUrl: https://avatars.githubusercontent.com/u/96818087?u=1a3e94205449f100a2d6ff7f4fc1c47bf81a75bd&v=4
+    contributions: 77
+    company: "The Future Programmer"
+    organizations: ""
+
+  - rank: 23
+    name: "Unisa Kamara"
+    login: "Unis434"
+    avatarUrl: https://avatars.githubusercontent.com/u/79544610?u=574b79df6e5bc63a500abcfcf093ef9e7dc3ee44&v=4
+    contributions: 73
     company: ""
     organizations: ""
 
-  - rank: 22
-    name: "James M Bockarie "
-    login: "Jnewton-lab"
-    avatarUrl: https://avatars.githubusercontent.com/u/57153837?u=daa6e1583b58126684dd8006c67e815c3c799a18&v=4
+  - rank: 24
+    name: "A. J. Wray"
+    login: "timzaz"
+    avatarUrl: https://avatars.githubusercontent.com/u/19709244?u=e6658f6b0b188294ce2db20dad94a678fcea718d&v=4
     contributions: 66
     company: ""
     organizations: ""
 
-  - rank: 23
+  - rank: 25
     name: "A-Jay"
     login: "jayabdulraman"
     avatarUrl: https://avatars.githubusercontent.com/u/43217154?u=a305cf461ca50e674dcbac3d009d3d647e1a8ff7&v=4
@@ -4285,15 +4301,7 @@ private_users:
     company: "Directorate of Science, Technology and Innovation (DSTI)"
     organizations: ""
 
-  - rank: 24
-    name: "Alhaji Mansaray"
-    login: "alhajimansaray"
-    avatarUrl: https://avatars.githubusercontent.com/u/77783676?u=08ae884e877c115c317a925fa1ae7e7ef238642f&v=4
-    contributions: 59
-    company: ""
-    organizations: ""
-
-  - rank: 25
+  - rank: 26
     name: "Mohamed British Bangura"
     login: "Joseph845"
     avatarUrl: https://avatars.githubusercontent.com/u/79854760?u=063cc07b273b183dfbc08c638eeb079993476cc0&v=4
@@ -4301,7 +4309,7 @@ private_users:
     company: "Sierra Leone National Telecommunication Company (SIERRATEL)"
     organizations: ""
 
-  - rank: 26
+  - rank: 27
     name: "Augustus Jibba"
     login: "AugieJ123"
     avatarUrl: https://avatars.githubusercontent.com/u/53660338?u=87970b3cb49a42a61cf4ede700c559d9048ea614&v=4
@@ -4309,47 +4317,23 @@ private_users:
     company: "STEAD"
     organizations: ""
 
-  - rank: 27
-    name: "Unisa Kamara"
-    login: "Unis434"
-    avatarUrl: https://avatars.githubusercontent.com/u/79544610?u=574b79df6e5bc63a500abcfcf093ef9e7dc3ee44&v=4
-    contributions: 53
+  - rank: 28
+    name: ""
+    login: "johnkamara"
+    avatarUrl: https://avatars.githubusercontent.com/u/77782894?u=3ff881204ebe0d5b2c99cc3b5b4b523bb7d20bdc&v=4
+    contributions: 51
     company: ""
     organizations: ""
 
-  - rank: 28
-    name: "Mohamed Adams Sesay"
-    login: "mohamedadamssesay"
-    avatarUrl: https://avatars.githubusercontent.com/u/77305229?u=d30ce58e9965e4c1363008970411394bc4467ca5&v=4
-    contributions: 51
-    company: "Chozen Generation Sierra Leone"
-    organizations: ""
-
   - rank: 29
-    name: "A. J. Wray"
-    login: "timzaz"
-    avatarUrl: https://avatars.githubusercontent.com/u/19709244?u=e6658f6b0b188294ce2db20dad94a678fcea718d&v=4
-    contributions: 48
+    name: "Alhaji Mansaray"
+    login: "alhajimansaray"
+    avatarUrl: https://avatars.githubusercontent.com/u/77783676?u=08ae884e877c115c317a925fa1ae7e7ef238642f&v=4
+    contributions: 47
     company: ""
     organizations: ""
 
   - rank: 30
-    name: "Andy"
-    login: "doc-city"
-    avatarUrl: https://avatars.githubusercontent.com/u/61446311?u=11d4f2ca49f87ecb63f23033e7df804643476784&v=4
-    contributions: 46
-    company: ""
-    organizations: ""
-
-  - rank: 31
-    name: "medvik"
-    login: "MohamedKabia"
-    avatarUrl: https://avatars.githubusercontent.com/u/47672695?u=1cc54ddc91181bce809b827a69755ba4c4483629&v=4
-    contributions: 45
-    company: "Goldent Software"
-    organizations: ""
-
-  - rank: 32
     name: "Desmond Henry"
     login: "dmslider"
     avatarUrl: https://avatars.githubusercontent.com/u/28642549?u=301ad2ad8f8a935c0537ec78c8d937a92c646c71&v=4
@@ -4357,15 +4341,7 @@ private_users:
     company: ""
     organizations: ""
 
-  - rank: 33
-    name: "FODAY BANGURA"
-    login: "fodaybangura"
-    avatarUrl: https://avatars.githubusercontent.com/u/77403013?u=3a30a3fbf459c0323571df408c18f2907c9f1044&v=4
-    contributions: 43
-    company: "STUDENT"
-    organizations: ""
-
-  - rank: 34
+  - rank: 31
     name: "Alhaji M.S. ABU"
     login: "alhajimsabu"
     avatarUrl: https://avatars.githubusercontent.com/u/19788171?u=cd3b129ea85453cb200c4a8a10eaf392c7631315&v=4
@@ -4373,7 +4349,23 @@ private_users:
     company: ""
     organizations: ""
 
-  - rank: 35
+  - rank: 32
+    name: "James M Bockarie "
+    login: "Jnewton-lab"
+    avatarUrl: https://avatars.githubusercontent.com/u/57153837?u=daa6e1583b58126684dd8006c67e815c3c799a18&v=4
+    contributions: 42
+    company: ""
+    organizations: ""
+
+  - rank: 33
+    name: "Mohamed Adams Sesay"
+    login: "mohamedadamssesay"
+    avatarUrl: https://avatars.githubusercontent.com/u/77305229?u=d30ce58e9965e4c1363008970411394bc4467ca5&v=4
+    contributions: 42
+    company: "Chozen Generation Sierra Leone"
+    organizations: ""
+
+  - rank: 34
     name: ""
     login: "mambu01"
     avatarUrl: https://avatars.githubusercontent.com/u/77403851?v=4
@@ -4381,20 +4373,28 @@ private_users:
     company: ""
     organizations: ""
 
-  - rank: 36
-    name: "Philip M'boyah"
-    login: "Philip1996"
-    avatarUrl: https://avatars.githubusercontent.com/u/96818087?u=1a3e94205449f100a2d6ff7f4fc1c47bf81a75bd&v=4
+  - rank: 35
+    name: "Andy"
+    login: "doc-city"
+    avatarUrl: https://avatars.githubusercontent.com/u/61446311?u=11d4f2ca49f87ecb63f23033e7df804643476784&v=4
     contributions: 37
-    company: "The Future Programmer"
+    company: ""
     organizations: ""
 
-  - rank: 37
+  - rank: 36
     name: "Ayodele Philip Hazeley"
     login: "ayodelehazeley"
     avatarUrl: https://avatars.githubusercontent.com/u/25303283?u=10c4eb7e951d4ecdae5e473f414089f87472289c&v=4
     contributions: 35
     company: "Phazel Solutions"
+    organizations: ""
+
+  - rank: 37
+    name: "FODAY BANGURA"
+    login: "fodaybangura"
+    avatarUrl: https://avatars.githubusercontent.com/u/77403013?u=3a30a3fbf459c0323571df408c18f2907c9f1044&v=4
+    contributions: 33
+    company: "STUDENT"
     organizations: ""
 
   - rank: 38
@@ -4414,19 +4414,19 @@ private_users:
     organizations: ""
 
   - rank: 40
-    name: ""
-    login: "muctarr-rahim"
-    avatarUrl: https://avatars.githubusercontent.com/u/55337140?u=0c8369aac50807c9c3b885407b221f420a42b6e8&v=4
-    contributions: 27
-    company: "Easy Solar"
-    organizations: ""
-
-  - rank: 41
     name: "Amadu Wurie Bah"
     login: "AmaduWurieBah"
     avatarUrl: https://avatars.githubusercontent.com/u/43281392?u=26915cf04855d7d6ab80ae68af8d1c3802edb39d&v=4
-    contributions: 25
+    contributions: 24
     company: "Link Corporation Limited Sierra Leone"
+    organizations: ""
+
+  - rank: 41
+    name: ""
+    login: "muctarr-rahim"
+    avatarUrl: https://avatars.githubusercontent.com/u/55337140?u=0c8369aac50807c9c3b885407b221f420a42b6e8&v=4
+    contributions: 22
+    company: "Easy Solar"
     organizations: ""
 
   - rank: 42
@@ -4438,6 +4438,14 @@ private_users:
     organizations: ""
 
   - rank: 43
+    name: "Mahmoud Osman Gbessay"
+    login: "Mahmoud-01"
+    avatarUrl: https://avatars.githubusercontent.com/u/57680432?u=42d2d0a4dd98017f015ed4f6c0adf43377601e43&v=4
+    contributions: 20
+    company: "CyberSol, Science Resources Africa"
+    organizations: ""
+
+  - rank: 44
     name: "Ahmed"
     login: "aelsir"
     avatarUrl: https://avatars.githubusercontent.com/u/16698002?u=8ad131a7682438ac97fc7409cf4f4466d55ac109&v=4
@@ -4445,23 +4453,7 @@ private_users:
     company: "@EnergiCity"
     organizations: ""
 
-  - rank: 44
-    name: "Armed Steven"
-    login: "amedsteven9"
-    avatarUrl: https://avatars.githubusercontent.com/u/68855232?u=8958c6828d3432481fa82ba8366d5327f4f596be&v=4
-    contributions: 18
-    company: "netlinux-cloud"
-    organizations: ""
-
   - rank: 45
-    name: "Mahmoud Osman Gbessay"
-    login: "Mahmoud-01"
-    avatarUrl: https://avatars.githubusercontent.com/u/57680432?u=42d2d0a4dd98017f015ed4f6c0adf43377601e43&v=4
-    contributions: 16
-    company: "CyberSol, Science Resources Africa"
-    organizations: ""
-
-  - rank: 46
     name: "Medal Techie"
     login: "medal007"
     avatarUrl: https://avatars.githubusercontent.com/u/37555807?u=3aba664e6731722438f9a3a9be34da7a048d9cb1&v=4
@@ -4469,7 +4461,7 @@ private_users:
     company: "Medal Techie"
     organizations: ""
 
-  - rank: 47
+  - rank: 46
     name: "Abdul Joseph Fofanah"
     login: "afofanah"
     avatarUrl: https://avatars.githubusercontent.com/u/55600848?u=5a457d8ce3b9536983b539934def8880c465054e&v=4
@@ -4477,23 +4469,7 @@ private_users:
     company: "Centre of Research, Innovation & Business Solutions (www.cribs-sl.com)"
     organizations: ""
 
-  - rank: 48
-    name: "Mohamed Fofanah"
-    login: "LinuxFofinspiron"
-    avatarUrl: https://avatars.githubusercontent.com/u/56222967?v=4
-    contributions: 13
-    company: ""
-    organizations: ""
-
-  - rank: 49
-    name: "Paul Robinson"
-    login: "paulauvirage"
-    avatarUrl: https://avatars.githubusercontent.com/u/10148089?u=a9876346dc00a581dbb20c91dadfcdc88dcffd11&v=4
-    contributions: 13
-    company: ""
-    organizations: ""
-
-  - rank: 50
+  - rank: 47
     name: "Idrissai"
     login: "idrissai"
     avatarUrl: https://avatars.githubusercontent.com/u/86758027?u=da735f628221343fb63df7d72fe1523216c82c16&v=4
@@ -4501,7 +4477,23 @@ private_users:
     company: "GitHub organization"
     organizations: ""
 
-  - rank: 51
+  - rank: 48
+    name: "Paul Robinson"
+    login: "paulauvirage"
+    avatarUrl: https://avatars.githubusercontent.com/u/10148089?u=a9876346dc00a581dbb20c91dadfcdc88dcffd11&v=4
+    contributions: 13
+    company: ""
+    organizations: ""
+
+  - rank: 49
+    name: "Mohamed Fofanah"
+    login: "LinuxFofinspiron"
+    avatarUrl: https://avatars.githubusercontent.com/u/56222967?v=4
+    contributions: 13
+    company: ""
+    organizations: ""
+
+  - rank: 50
     name: "aksesayofficial"
     login: "AbdulKarimSesay100"
     avatarUrl: https://avatars.githubusercontent.com/u/69195120?v=4
@@ -4509,15 +4501,7 @@ private_users:
     company: "Linx Cooperation"
     organizations: ""
 
-  - rank: 52
-    name: "ANSUMANA SHERIFF"
-    login: "Ansumanasheriff"
-    avatarUrl: https://avatars.githubusercontent.com/u/77355996?v=4
-    contributions: 11
-    company: "COSMELINE PRODUCT.SL"
-    organizations: ""
-
-  - rank: 53
+  - rank: 51
     name: "Abubakarr Bah"
     login: "BAHDEV"
     avatarUrl: https://avatars.githubusercontent.com/u/83548947?u=3e1af6757c697e16b6adbd87be37f5c02596ef9c&v=4
@@ -4525,15 +4509,7 @@ private_users:
     company: ""
     organizations: ""
 
-  - rank: 54
-    name: "Michael L. Bangura"
-    login: "michlawbangs"
-    avatarUrl: https://avatars.githubusercontent.com/u/44992267?u=6dd9feeb8097b4fc0999bf16f87b307e5d1e59d3&v=4
-    contributions: 10
-    company: ""
-    organizations: ""
-
-  - rank: 55
+  - rank: 52
     name: "John S Turay"
     login: "John-S-Turay-Jr"
     avatarUrl: https://avatars.githubusercontent.com/u/47327064?v=4
@@ -4541,7 +4517,7 @@ private_users:
     company: ""
     organizations: ""
 
-  - rank: 56
+  - rank: 53
     name: "Chinedum Roland Eke"
     login: "rolandeke"
     avatarUrl: https://avatars.githubusercontent.com/u/47756447?u=7ce42662cb75ac02bdc9b95e5f6bbd22ae4adc20&v=4
@@ -4549,39 +4525,31 @@ private_users:
     company: "Comsoft Solutions Limited"
     organizations: ""
 
-  - rank: 57
-    name: "Ingletech"
-    login: "ingletech"
-    avatarUrl: https://avatars.githubusercontent.com/u/70138771?v=4
+  - rank: 54
+    name: "Armed Steven"
+    login: "amedsteven9"
+    avatarUrl: https://avatars.githubusercontent.com/u/68855232?u=8958c6828d3432481fa82ba8366d5327f4f596be&v=4
     contributions: 9
-    company: ""
+    company: "netlinux-cloud"
     organizations: ""
 
-  - rank: 58
-    name: "Larry Bah"
-    login: "larrybah"
-    avatarUrl: https://avatars.githubusercontent.com/u/26505857?u=58aa6aa7a5862a55a39221ac3104b135e0ac9cd6&v=4
-    contributions: 8
-    company: ""
+  - rank: 55
+    name: "Isaac NSB Kargbo"
+    login: "pythonnelson"
+    avatarUrl: https://avatars.githubusercontent.com/u/77267910?u=b86824f40ca70f2d5b7f8d34000d379ffb709457&v=4
+    contributions: 9
+    company: "Ministry of Foreign Affairs and International Cooperation"
     organizations: ""
 
-  - rank: 59
-    name: "Mohamed James"
-    login: "mjames21"
-    avatarUrl: https://avatars.githubusercontent.com/u/11080309?u=17c7d1dfe69bfe917fbcac43cdec962d139d3c1c&v=4
-    contributions: 8
-    company: "DSTI"
+  - rank: 56
+    name: "ANSUMANA SHERIFF"
+    login: "Ansumanasheriff"
+    avatarUrl: https://avatars.githubusercontent.com/u/77355996?v=4
+    contributions: 9
+    company: "COSMELINE PRODUCT.SL"
     organizations: ""
 
-  - rank: 60
-    name: "Telli Koroma"
-    login: "Telli"
-    avatarUrl: https://avatars.githubusercontent.com/u/6965288?u=d1379c1bfc401d389f8bd865ba219ac2035f06cf&v=4
-    contributions: 8
-    company: ""
-    organizations: ""
-
-  - rank: 61
+  - rank: 57
     name: "Lansana Amara Lengor"
     login: "lengor6482"
     avatarUrl: https://avatars.githubusercontent.com/u/57144708?u=138eda40101d190af9991c796bdbf66df0e1ad1d&v=4
@@ -4589,23 +4557,31 @@ private_users:
     company: ""
     organizations: ""
 
-  - rank: 62
-    name: "Abdul Dainkeh"
-    login: "Dainkeh2000"
-    avatarUrl: https://avatars.githubusercontent.com/u/78445514?v=4
-    contributions: 7
+  - rank: 58
+    name: "Mohamed James"
+    login: "mjames21"
+    avatarUrl: https://avatars.githubusercontent.com/u/11080309?u=17c7d1dfe69bfe917fbcac43cdec962d139d3c1c&v=4
+    contributions: 8
+    company: "DSTI"
+    organizations: ""
+
+  - rank: 59
+    name: "Telli Koroma"
+    login: "Telli"
+    avatarUrl: https://avatars.githubusercontent.com/u/6965288?u=d1379c1bfc401d389f8bd865ba219ac2035f06cf&v=4
+    contributions: 8
     company: ""
     organizations: ""
 
-  - rank: 63
-    name: "Lee Martin"
-    login: "Aliesowa"
-    avatarUrl: https://avatars.githubusercontent.com/u/36788874?u=5c124c4176b40384b873b6d4ec22431e4d4e2bbd&v=4
-    contributions: 7
+  - rank: 60
+    name: "Larry Bah"
+    login: "larrybah"
+    avatarUrl: https://avatars.githubusercontent.com/u/26505857?u=58aa6aa7a5862a55a39221ac3104b135e0ac9cd6&v=4
+    contributions: 8
     company: ""
     organizations: ""
 
-  - rank: 64
+  - rank: 61
     name: ""
     login: "EstherSarianSow"
     avatarUrl: https://avatars.githubusercontent.com/u/86640723?v=4
@@ -4613,47 +4589,15 @@ private_users:
     company: "Students "
     organizations: ""
 
-  - rank: 65
-    name: "Isaac NSB Kargbo"
-    login: "pythonnelson"
-    avatarUrl: https://avatars.githubusercontent.com/u/77267910?u=b86824f40ca70f2d5b7f8d34000d379ffb709457&v=4
-    contributions: 6
-    company: "Ministry of Foreign Affairs and International Cooperation"
-    organizations: ""
-
-  - rank: 66
-    name: "Alhajie Abu Bakarr Turay"
-    login: "Neymarlaj"
-    avatarUrl: https://avatars.githubusercontent.com/u/73185769?u=d1db6cb8fea4750900329a865a2b94d00ed6e4d3&v=4
-    contributions: 6
+  - rank: 62
+    name: "Lee Martin"
+    login: "Aliesowa"
+    avatarUrl: https://avatars.githubusercontent.com/u/36788874?u=5c124c4176b40384b873b6d4ec22431e4d4e2bbd&v=4
+    contributions: 7
     company: ""
     organizations: ""
 
-  - rank: 67
-    name: "Maellet"
-    login: "Maellet10"
-    avatarUrl: https://avatars.githubusercontent.com/u/56239680?u=9990fa507ad77a0fa2856e395329c57087f3900d&v=4
-    contributions: 6
-    company: "Bright Innovative"
-    organizations: ""
-
-  - rank: 68
-    name: "henry Adeola"
-    login: "TwilHe"
-    avatarUrl: https://avatars.githubusercontent.com/u/92648105?u=ab96c3c87f593b2b86912cff02b4e69414489b25&v=4
-    contributions: 6
-    company: "Faith"
-    organizations: ""
-
-  - rank: 69
-    name: ""
-    login: "ub79045180"
-    avatarUrl: https://avatars.githubusercontent.com/u/53566851?u=00a1141f9b9960455f3e45196b79d1283685d88b&v=4
-    contributions: 6
-    company: ""
-    organizations: "zero-to-mastery"
-
-  - rank: 70
+  - rank: 63
     name: "Mohamed S Harding"
     login: "sinhard"
     avatarUrl: https://avatars.githubusercontent.com/u/15619892?u=99f7de94a0b715cb32a2a942bb81e0d13e675c4b&v=4
@@ -4661,23 +4605,47 @@ private_users:
     company: "Neu Labs Limited"
     organizations: ""
 
-  - rank: 71
+  - rank: 64
+    name: "henry Adeola"
+    login: "TwilHe"
+    avatarUrl: https://avatars.githubusercontent.com/u/92648105?u=ab96c3c87f593b2b86912cff02b4e69414489b25&v=4
+    contributions: 6
+    company: "Faith"
+    organizations: ""
+
+  - rank: 65
+    name: "Alhajie Abu Bakarr Turay"
+    login: "Neymarlaj"
+    avatarUrl: https://avatars.githubusercontent.com/u/73185769?u=d1db6cb8fea4750900329a865a2b94d00ed6e4d3&v=4
+    contributions: 6
+    company: ""
+    organizations: ""
+
+  - rank: 66
     name: ""
-    login: "mbekaysamara"
-    avatarUrl: https://avatars.githubusercontent.com/u/77781270?u=90549edfed740fc18756e8c49c183f13e2806a66&v=4
-    contributions: 5
+    login: "BAH410"
+    avatarUrl: https://avatars.githubusercontent.com/u/98534978?u=e913af1d694cf851517f731da66c6728a9393961&v=4
+    contributions: 6
     company: ""
     organizations: ""
 
-  - rank: 72
-    name: "Osman Dainkeh"
-    login: "odainkeh"
-    avatarUrl: https://avatars.githubusercontent.com/u/71325909?u=415f8d64b3872690517c8a1d04b0780f1c848f11&v=4
-    contributions: 5
+  - rank: 67
+    name: ""
+    login: "ub79045180"
+    avatarUrl: https://avatars.githubusercontent.com/u/53566851?u=00a1141f9b9960455f3e45196b79d1283685d88b&v=4
+    contributions: 6
     company: ""
+    organizations: "zero-to-mastery"
+
+  - rank: 68
+    name: "Maellet"
+    login: "Maellet10"
+    avatarUrl: https://avatars.githubusercontent.com/u/56239680?u=9990fa507ad77a0fa2856e395329c57087f3900d&v=4
+    contributions: 6
+    company: "Bright Innovative"
     organizations: ""
 
-  - rank: 73
+  - rank: 69
     name: "Sydney Wray"
     login: "8924807"
     avatarUrl: https://avatars.githubusercontent.com/u/50489009?u=9a11fc29b34fd09f5ed13a77447b0eb412604267&v=4
@@ -4685,7 +4653,7 @@ private_users:
     company: "Iris Tech Int"
     organizations: ""
 
-  - rank: 74
+  - rank: 70
     name: "Tim_56"
     login: "Tim-56"
     avatarUrl: https://avatars.githubusercontent.com/u/59003196?v=4
@@ -4693,23 +4661,15 @@ private_users:
     company: ""
     organizations: ""
 
-  - rank: 75
-    name: "Ishmael Kamara"
-    login: "ishmaelkamarar"
-    avatarUrl: https://avatars.githubusercontent.com/u/97604606?v=4
-    contributions: 5
-    company: "ISHMAEL"
-    organizations: ""
-
-  - rank: 76
-    name: "Andrew Ansu Conteh"
-    login: "Andrew-Ansu"
-    avatarUrl: https://avatars.githubusercontent.com/u/74679666?v=4
+  - rank: 71
+    name: "Osman Dainkeh"
+    login: "odainkeh"
+    avatarUrl: https://avatars.githubusercontent.com/u/71325909?u=415f8d64b3872690517c8a1d04b0780f1c848f11&v=4
     contributions: 5
     company: ""
     organizations: ""
 
-  - rank: 77
+  - rank: 72
     name: "Fayia Foray"
     login: "FayiaForay"
     avatarUrl: https://avatars.githubusercontent.com/u/67648431?v=4
@@ -4717,7 +4677,23 @@ private_users:
     company: "Creative Pictures Ltd"
     organizations: ""
 
-  - rank: 78
+  - rank: 73
+    name: "Andrew Ansu Conteh"
+    login: "Andrew-Ansu"
+    avatarUrl: https://avatars.githubusercontent.com/u/74679666?v=4
+    contributions: 5
+    company: ""
+    organizations: ""
+
+  - rank: 74
+    name: ""
+    login: "mbekaysamara"
+    avatarUrl: https://avatars.githubusercontent.com/u/77781270?u=90549edfed740fc18756e8c49c183f13e2806a66&v=4
+    contributions: 5
+    company: ""
+    organizations: ""
+
+  - rank: 75
     name: "Ina Johnson"
     login: "Ina-Johnson"
     avatarUrl: https://avatars.githubusercontent.com/u/73610559?u=fc76ef77305da65e39a22e0771bd3d810b755eb8&v=4
@@ -4725,23 +4701,31 @@ private_users:
     company: "Njala University"
     organizations: ""
 
+  - rank: 76
+    name: "Ishmael Kamara"
+    login: "ishmaelkamarar"
+    avatarUrl: https://avatars.githubusercontent.com/u/97604606?v=4
+    contributions: 5
+    company: "ISHMAEL"
+    organizations: ""
+
+  - rank: 77
+    name: "Michael L. Bangura"
+    login: "michlawbangs"
+    avatarUrl: https://avatars.githubusercontent.com/u/44992267?u=6dd9feeb8097b4fc0999bf16f87b307e5d1e59d3&v=4
+    contributions: 5
+    company: ""
+    organizations: ""
+
+  - rank: 78
+    name: "Infinite Solutions"
+    login: "HackIvan"
+    avatarUrl: https://avatars.githubusercontent.com/u/20137794?v=4
+    contributions: 4
+    company: "Infinite Solutions Hub"
+    organizations: ""
+
   - rank: 79
-    name: "Nigeria Rural Electrification Agency"
-    login: "REANigeria"
-    avatarUrl: https://avatars.githubusercontent.com/u/88830304?u=46addd7e038d9c98538f4ab4f99d667442646436&v=4
-    contributions: 4
-    company: "REA"
-    organizations: ""
-
-  - rank: 80
-    name: "Mahdi_001"
-    login: "DrBlack100"
-    avatarUrl: https://avatars.githubusercontent.com/u/40123617?u=48eef3ba8da139a438d0fbeb0a4a8db9cb32f2d4&v=4
-    contributions: 4
-    company: "My-Tech Solutions Limited Sierra Leone"
-    organizations: ""
-
-  - rank: 81
     name: "Ibrahim Bah"
     login: "bahrajj"
     avatarUrl: https://avatars.githubusercontent.com/u/36127670?v=4
@@ -4749,12 +4733,28 @@ private_users:
     company: ""
     organizations: ""
 
-  - rank: 82
-    name: "Infinite Solutions"
-    login: "HackIvan"
-    avatarUrl: https://avatars.githubusercontent.com/u/20137794?v=4
+  - rank: 80
+    name: "Mohamed Alie Koroma"
+    login: "1122admin"
+    avatarUrl: https://avatars.githubusercontent.com/u/92357819?v=4
     contributions: 4
-    company: "Infinite Solutions Hub"
+    company: "Ministry of Basic and Senior Secondary Education"
+    organizations: ""
+
+  - rank: 81
+    name: ""
+    login: "engmansa"
+    avatarUrl: https://avatars.githubusercontent.com/u/40606516?v=4
+    contributions: 4
+    company: "INTEGEMS Limited"
+    organizations: ""
+
+  - rank: 82
+    name: "Mahdi_001"
+    login: "DrBlack100"
+    avatarUrl: https://avatars.githubusercontent.com/u/40123617?u=48eef3ba8da139a438d0fbeb0a4a8db9cb32f2d4&v=4
+    contributions: 4
+    company: "My-Tech Solutions Limited Sierra Leone"
     organizations: ""
 
   - rank: 83
@@ -4766,6 +4766,22 @@ private_users:
     organizations: ""
 
   - rank: 84
+    name: "Abdul Dainkeh"
+    login: "Dainkeh2000"
+    avatarUrl: https://avatars.githubusercontent.com/u/78445514?v=4
+    contributions: 4
+    company: ""
+    organizations: ""
+
+  - rank: 85
+    name: "Nigeria Rural Electrification Agency"
+    login: "REANigeria"
+    avatarUrl: https://avatars.githubusercontent.com/u/88830304?u=46addd7e038d9c98538f4ab4f99d667442646436&v=4
+    contributions: 4
+    company: "REA"
+    organizations: ""
+
+  - rank: 86
     name: "Eugene Jones"
     login: "eugenejones55808"
     avatarUrl: https://avatars.githubusercontent.com/u/75878338?v=4
@@ -4773,63 +4789,7 @@ private_users:
     company: "Votechs"
     organizations: ""
 
-  - rank: 85
-    name: ""
-    login: "engmansa"
-    avatarUrl: https://avatars.githubusercontent.com/u/40606516?v=4
-    contributions: 4
-    company: "INTEGEMS Limited"
-    organizations: ""
-
-  - rank: 86
-    name: "Mohamed Alie Koroma"
-    login: "1122admin"
-    avatarUrl: https://avatars.githubusercontent.com/u/92357819?v=4
-    contributions: 4
-    company: "Ministry of Basic and Senior Secondary Education"
-    organizations: ""
-
   - rank: 87
-    name: "Saidu Turay"
-    login: "saidut"
-    avatarUrl: https://avatars.githubusercontent.com/u/10414605?u=d5db82f4dfa1b6fb109a2a153b57a0b3541cdd7f&v=4
-    contributions: 3
-    company: "NameComingUp"
-    organizations: ""
-
-  - rank: 88
-    name: "Aminata"
-    login: "spacekru"
-    avatarUrl: https://avatars.githubusercontent.com/u/76926393?u=080be130618a65a85e3d1d6a7846afa4e8038cda&v=4
-    contributions: 3
-    company: "TpISENT"
-    organizations: ""
-
-  - rank: 89
-    name: "Daniel Chaytor"
-    login: "ess1w"
-    avatarUrl: https://avatars.githubusercontent.com/u/13642339?u=016b50b0b0fac6cd80543ce05a1e77a3dec1896b&v=4
-    contributions: 3
-    company: ""
-    organizations: ""
-
-  - rank: 90
-    name: "Samuel Kamara Jr"
-    login: "BigSam8"
-    avatarUrl: https://avatars.githubusercontent.com/u/95347374?v=4
-    contributions: 3
-    company: "E Net"
-    organizations: ""
-
-  - rank: 91
-    name: "FODAY DUMBUYA"
-    login: "foday-dumbuya"
-    avatarUrl: https://avatars.githubusercontent.com/u/77495132?u=4298616e63a97b2c9c295ea17a7511a64cd271e8&v=4
-    contributions: 3
-    company: "UNIMTECH"
-    organizations: ""
-
-  - rank: 92
     name: "Jesse Kargbo"
     login: "Jesse-122"
     avatarUrl: https://avatars.githubusercontent.com/u/32437447?v=4
@@ -4837,12 +4797,52 @@ private_users:
     company: ""
     organizations: ""
 
-  - rank: 93
-    name: "Andrew Steven Boima"
-    login: "andrewstevenboima"
-    avatarUrl: https://avatars.githubusercontent.com/u/16258826?u=9206b02d43c1fe16db9669d7f71acf078dd8e659&v=4
+  - rank: 88
+    name: "Samuel Kamara Jr"
+    login: "BigSam8"
+    avatarUrl: https://avatars.githubusercontent.com/u/95347374?v=4
     contributions: 3
-    company: "Rising Academy Network"
+    company: "E Net"
+    organizations: ""
+
+  - rank: 89
+    name: "Aminata"
+    login: "spacekru"
+    avatarUrl: https://avatars.githubusercontent.com/u/76926393?u=080be130618a65a85e3d1d6a7846afa4e8038cda&v=4
+    contributions: 3
+    company: "TpISENT"
+    organizations: ""
+
+  - rank: 90
+    name: "Saidu Turay"
+    login: "saidut"
+    avatarUrl: https://avatars.githubusercontent.com/u/10414605?u=d5db82f4dfa1b6fb109a2a153b57a0b3541cdd7f&v=4
+    contributions: 3
+    company: "NameComingUp"
+    organizations: ""
+
+  - rank: 91
+    name: "Daniel Chaytor"
+    login: "ess1w"
+    avatarUrl: https://avatars.githubusercontent.com/u/13642339?u=016b50b0b0fac6cd80543ce05a1e77a3dec1896b&v=4
+    contributions: 3
+    company: ""
+    organizations: ""
+
+  - rank: 92
+    name: "Daniel Gassim Kay Jah"
+    login: "gassim11dj"
+    avatarUrl: https://avatars.githubusercontent.com/u/61265361?u=8ed44b1697412338e3ef55787d9e3f0a8d04bdb0&v=4
+    contributions: 2
+    company: "student"
+    organizations: ""
+
+  - rank: 93
+    name: "Alhaji Mansaray"
+    login: "alhajimans2"
+    avatarUrl: https://avatars.githubusercontent.com/u/77423152?u=bfba07b8784eb65fcdc71e459c2b5ca5bc9dcdb5&v=4
+    contributions: 2
+    company: "Private"
     organizations: ""
 
   - rank: 94
@@ -4854,22 +4854,6 @@ private_users:
     organizations: ""
 
   - rank: 95
-    name: "Christopher Abad"
-    login: "aempirei"
-    avatarUrl: https://avatars.githubusercontent.com/u/16069?u=c7f00de37b6f07d7d0f931c4a40b8aab5f5ba0ed&v=4
-    contributions: 2
-    company: "256 LLC"
-    organizations: ""
-
-  - rank: 96
-    name: "OKOM KAMARA"
-    login: "komson49"
-    avatarUrl: https://avatars.githubusercontent.com/u/78827410?v=4
-    contributions: 2
-    company: "FLS"
-    organizations: ""
-
-  - rank: 97
     name: ""
     login: "velbon"
     avatarUrl: https://avatars.githubusercontent.com/u/8957923?v=4
@@ -4877,12 +4861,28 @@ private_users:
     company: "Ministry of Health and Sanitation "
     organizations: ""
 
-  - rank: 98
-    name: "Alhaji Mansaray"
-    login: "alhajimans2"
-    avatarUrl: https://avatars.githubusercontent.com/u/77423152?u=bfba07b8784eb65fcdc71e459c2b5ca5bc9dcdb5&v=4
+  - rank: 96
+    name: ""
+    login: "andrewjoe96"
+    avatarUrl: https://avatars.githubusercontent.com/u/98534902?u=79367560d005f4f2981aa1df9a38846dcd93cc1c&v=4
     contributions: 2
-    company: "Private"
+    company: ""
+    organizations: ""
+
+  - rank: 97
+    name: "Tamba Rymond Bindi Sam"
+    login: "teerays"
+    avatarUrl: https://avatars.githubusercontent.com/u/77387718?v=4
+    contributions: 2
+    company: "S L P"
+    organizations: ""
+
+  - rank: 98
+    name: "Christopher Abad"
+    login: "aempirei"
+    avatarUrl: https://avatars.githubusercontent.com/u/16069?u=c7f00de37b6f07d7d0f931c4a40b8aab5f5ba0ed&v=4
+    contributions: 2
+    company: "256 LLC"
     organizations: ""
 
   - rank: 99
@@ -4894,38 +4894,14 @@ private_users:
     organizations: ""
 
   - rank: 100
-    name: "Morie Keita"
-    login: "Morie55"
-    avatarUrl: https://avatars.githubusercontent.com/u/57179507?u=6fd5f9cf955e568794e9f02d89bc91c0b3a7d484&v=4
+    name: ""
+    login: "Jagitay"
+    avatarUrl: https://avatars.githubusercontent.com/u/98949011?v=4
     contributions: 2
-    company: ""
+    company: "Self employed"
     organizations: ""
 
   - rank: 101
-    name: "Joseph David Koroma"
-    login: "josephkoroma01"
-    avatarUrl: https://avatars.githubusercontent.com/u/44106119?v=4
-    contributions: 2
-    company: "NicheTechnology"
-    organizations: ""
-
-  - rank: 102
-    name: "Daniel Gassim Kay Jah"
-    login: "gassim11dj"
-    avatarUrl: https://avatars.githubusercontent.com/u/61265361?u=8ed44b1697412338e3ef55787d9e3f0a8d04bdb0&v=4
-    contributions: 2
-    company: "student"
-    organizations: ""
-
-  - rank: 103
-    name: "Aruna Mark Sesay"
-    login: "Arunamark"
-    avatarUrl: https://avatars.githubusercontent.com/u/78624036?u=0c608e314e649db70a94c9a47ed85c3e875f3451&v=4
-    contributions: 2
-    company: "Th3drop"
-    organizations: ""
-
-  - rank: 104
     name: "Solomon Wilson"
     login: "spartasolopolo"
     avatarUrl: https://avatars.githubusercontent.com/u/93185107?u=349f250d97ad987732cee3e80338bbe95dc45d48&v=4
@@ -4933,23 +4909,31 @@ private_users:
     company: "Carradale Housing (SL) REIT Limited"
     organizations: ""
 
-  - rank: 105
-    name: "Tamba Rymond Bindi Sam"
-    login: "teerays"
-    avatarUrl: https://avatars.githubusercontent.com/u/77387718?v=4
+  - rank: 102
+    name: "OKOM KAMARA"
+    login: "komson49"
+    avatarUrl: https://avatars.githubusercontent.com/u/78827410?v=4
     contributions: 2
-    company: "S L P"
+    company: "FLS"
     organizations: ""
 
-  - rank: 106
-    name: "Brian Mandebvu"
-    login: "mandebvub"
-    avatarUrl: https://avatars.githubusercontent.com/u/79581985?v=4
+  - rank: 103
+    name: "Morie Keita"
+    login: "Morie55"
+    avatarUrl: https://avatars.githubusercontent.com/u/57179507?u=6fd5f9cf955e568794e9f02d89bc91c0b3a7d484&v=4
+    contributions: 2
+    company: ""
+    organizations: ""
+
+  - rank: 104
+    name: "Aruna Mark Sesay"
+    login: "Arunamark"
+    avatarUrl: https://avatars.githubusercontent.com/u/78624036?u=0c608e314e649db70a94c9a47ed85c3e875f3451&v=4
     contributions: 1
-    company: "WFP"
+    company: "Th3drop"
     organizations: ""
 
-  - rank: 107
+  - rank: 105
     name: "SSMK"
     login: "khalifeserge"
     avatarUrl: https://avatars.githubusercontent.com/u/29383416?u=078533c52326141fb1eacdd2983c0ecce710307d&v=4
@@ -4957,79 +4941,7 @@ private_users:
     company: "K-Co"
     organizations: ""
 
-  - rank: 108
-    name: "sconteh"
-    login: "contehsaidue"
-    avatarUrl: https://avatars.githubusercontent.com/u/77689935?v=4
-    contributions: 1
-    company: ""
-    organizations: ""
-
-  - rank: 109
-    name: "Isaac Foday"
-    login: "Isaacfoday1995"
-    avatarUrl: https://avatars.githubusercontent.com/u/83794307?u=29692afe5c4a67e0f4a0e08dc5f8fd2b270c19db&v=4
-    contributions: 1
-    company: ""
-    organizations: ""
-
-  - rank: 110
-    name: ""
-    login: "Mart1961"
-    avatarUrl: https://avatars.githubusercontent.com/u/79550245?v=4
-    contributions: 1
-    company: ""
-    organizations: ""
-
-  - rank: 111
-    name: "Adikalie kholifa Kamara "
-    login: "Adikalie092003352"
-    avatarUrl: https://avatars.githubusercontent.com/u/96649877?v=4
-    contributions: 1
-    company: ""
-    organizations: ""
-
-  - rank: 112
-    name: "John Suluku"
-    login: "Jaybecs"
-    avatarUrl: https://avatars.githubusercontent.com/u/83507918?v=4
-    contributions: 1
-    company: "Lynex Company Limited"
-    organizations: ""
-
-  - rank: 113
-    name: "ALUSINE MANSARAY"
-    login: "luzayman"
-    avatarUrl: https://avatars.githubusercontent.com/u/81381837?u=fd9a00af13ef0275038ad6589bd81623e656adb9&v=4
-    contributions: 1
-    company: "Five Stars Solutions Centres"
-    organizations: ""
-
-  - rank: 114
-    name: "Lemuel james fofanah"
-    login: "lemueljamesfofanah"
-    avatarUrl: https://avatars.githubusercontent.com/u/94551908?u=2a4cdfecc5ac371997054dd9a203fc86913ebb33&v=4
-    contributions: 1
-    company: ""
-    organizations: ""
-
-  - rank: 115
-    name: ""
-    login: "vambalolleh"
-    avatarUrl: https://avatars.githubusercontent.com/u/60394386?v=4
-    contributions: 1
-    company: "Partners in Health"
-    organizations: ""
-
-  - rank: 116
-    name: "Augustine Jusu Monzon"
-    login: "Augustine381"
-    avatarUrl: https://avatars.githubusercontent.com/u/90809282?v=4
-    contributions: 1
-    company: "Self "
-    organizations: ""
-
-  - rank: 117
+  - rank: 106
     name: "Winifred Harolda Jones"
     login: "winniej745"
     avatarUrl: https://avatars.githubusercontent.com/u/82916461?v=4
@@ -5037,15 +4949,7 @@ private_users:
     company: ""
     organizations: ""
 
-  - rank: 118
-    name: ""
-    login: "Isaiahcrypto"
-    avatarUrl: https://avatars.githubusercontent.com/u/85095373?v=4
-    contributions: 1
-    company: "Isaiah crypto"
-    organizations: ""
-
-  - rank: 119
+  - rank: 107
     name: "DIVINE SIMON WUSI"
     login: "Divine670"
     avatarUrl: https://avatars.githubusercontent.com/u/96017698?u=59a889e3029a7e59deac31b7db65cb94684e8480&v=4
@@ -5053,79 +4957,7 @@ private_users:
     company: "Divine Tech"
     organizations: ""
 
-  - rank: 120
-    name: "Ishmeal Saspo Sankoh"
-    login: "IshmealSaspoSankoh"
-    avatarUrl: https://avatars.githubusercontent.com/u/94997594?v=4
-    contributions: 1
-    company: ""
-    organizations: ""
-
-  - rank: 121
-    name: "CYPA-SL"
-    login: "cypa001-sl"
-    avatarUrl: https://avatars.githubusercontent.com/u/62938961?u=8c0ede5769bf9a5f2cee25050708e71aca15d9b4&v=4
-    contributions: 1
-    company: "@cypasl"
-    organizations: ""
-
-  - rank: 122
-    name: "Thomas Patrick Conteh"
-    login: "supremo999"
-    avatarUrl: https://avatars.githubusercontent.com/u/62599523?v=4
-    contributions: 1
-    company: "Bluecrest University College NIIT SL"
-    organizations: ""
-
-  - rank: 123
-    name: "Alpha Sorie Kargbo"
-    login: "coderPseudoCode"
-    avatarUrl: https://avatars.githubusercontent.com/u/30184937?u=1924bfc145637bbea90a90f2a5636f159cf380df&v=4
-    contributions: 1
-    company: "Next Step Company Limited Sierra Leone"
-    organizations: ""
-
-  - rank: 124
-    name: "Salieu Sesay"
-    login: "exoticallisticsm"
-    avatarUrl: https://avatars.githubusercontent.com/u/25461912?u=d43b6bfe47546de25eec7c65bf3dbb96e73fa4e7&v=4
-    contributions: 1
-    company: "Exotic SalmanTech"
-    organizations: ""
-
-  - rank: 125
-    name: "Sheku  Tarawally "
-    login: "Boing2"
-    avatarUrl: https://avatars.githubusercontent.com/u/83175430?v=4
-    contributions: 1
-    company: ""
-    organizations: ""
-
-  - rank: 126
-    name: "Hindolo Rogers"
-    login: "Hindolorogers"
-    avatarUrl: https://avatars.githubusercontent.com/u/54672476?u=8a8e576a74ead257b8a13dd1b7fbe57d5ce95217&v=4
-    contributions: 1
-    company: ""
-    organizations: ""
-
-  - rank: 127
-    name: ""
-    login: "mkamarachernor"
-    avatarUrl: https://avatars.githubusercontent.com/u/78469375?v=4
-    contributions: 1
-    company: ""
-    organizations: ""
-
-  - rank: 128
-    name: "elder moses"
-    login: "TWOGSL1"
-    avatarUrl: https://avatars.githubusercontent.com/u/79336273?u=163f1270d665d7f9453ee362f7055da2748911da&v=4
-    contributions: 1
-    company: "The Word Of Grace Outreach Ministries"
-    organizations: ""
-
-  - rank: 129
+  - rank: 108
     name: "Michael Rozelle"
     login: "667048"
     avatarUrl: https://avatars.githubusercontent.com/u/73744821?v=4
@@ -5133,7 +4965,31 @@ private_users:
     company: ""
     organizations: ""
 
-  - rank: 130
+  - rank: 109
+    name: ""
+    login: "Isaiahcrypto"
+    avatarUrl: https://avatars.githubusercontent.com/u/85095373?v=4
+    contributions: 1
+    company: "Isaiah crypto"
+    organizations: ""
+
+  - rank: 110
+    name: "Brian Mandebvu"
+    login: "mandebvub"
+    avatarUrl: https://avatars.githubusercontent.com/u/79581985?v=4
+    contributions: 1
+    company: "WFP"
+    organizations: ""
+
+  - rank: 111
+    name: "Ishmeal Saspo Sankoh"
+    login: "IshmealSaspoSankoh"
+    avatarUrl: https://avatars.githubusercontent.com/u/94997594?v=4
+    contributions: 1
+    company: ""
+    organizations: ""
+
+  - rank: 112
     name: ""
     login: "Khalidbangura"
     avatarUrl: https://avatars.githubusercontent.com/u/81626726?v=4
@@ -5141,12 +4997,156 @@ private_users:
     company: "Khalidenterprise"
     organizations: ""
 
-  - rank: 131
+  - rank: 113
+    name: ""
+    login: "vambalolleh"
+    avatarUrl: https://avatars.githubusercontent.com/u/60394386?v=4
+    contributions: 1
+    company: "Partners in Health"
+    organizations: ""
+
+  - rank: 114
+    name: "Sheku  Tarawally "
+    login: "Boing2"
+    avatarUrl: https://avatars.githubusercontent.com/u/83175430?v=4
+    contributions: 1
+    company: ""
+    organizations: ""
+
+  - rank: 115
+    name: "Augustine Jusu Monzon"
+    login: "Augustine381"
+    avatarUrl: https://avatars.githubusercontent.com/u/90809282?v=4
+    contributions: 1
+    company: "Self "
+    organizations: ""
+
+  - rank: 116
+    name: "Salieu Sesay"
+    login: "exoticallisticsm"
+    avatarUrl: https://avatars.githubusercontent.com/u/25461912?u=d43b6bfe47546de25eec7c65bf3dbb96e73fa4e7&v=4
+    contributions: 1
+    company: "Exotic SalmanTech"
+    organizations: ""
+
+  - rank: 117
+    name: "ALUSINE MANSARAY"
+    login: "luzayman"
+    avatarUrl: https://avatars.githubusercontent.com/u/81381837?u=fd9a00af13ef0275038ad6589bd81623e656adb9&v=4
+    contributions: 1
+    company: "Five Stars Solutions Centres"
+    organizations: ""
+
+  - rank: 118
+    name: "Isaac Foday"
+    login: "Isaacfoday1995"
+    avatarUrl: https://avatars.githubusercontent.com/u/83794307?u=29692afe5c4a67e0f4a0e08dc5f8fd2b270c19db&v=4
+    contributions: 1
+    company: ""
+    organizations: ""
+
+  - rank: 119
+    name: "Lemuel james fofanah"
+    login: "lemueljamesfofanah"
+    avatarUrl: https://avatars.githubusercontent.com/u/94551908?u=2a4cdfecc5ac371997054dd9a203fc86913ebb33&v=4
+    contributions: 1
+    company: ""
+    organizations: ""
+
+  - rank: 120
+    name: "CYPA-SL"
+    login: "cypa001-sl"
+    avatarUrl: https://avatars.githubusercontent.com/u/62938961?u=8c0ede5769bf9a5f2cee25050708e71aca15d9b4&v=4
+    contributions: 1
+    company: "@cypasl"
+    organizations: ""
+
+  - rank: 121
+    name: "Thomas Patrick Conteh"
+    login: "supremo999"
+    avatarUrl: https://avatars.githubusercontent.com/u/62599523?v=4
+    contributions: 1
+    company: "Bluecrest University College NIIT SL"
+    organizations: ""
+
+  - rank: 122
+    name: "Alpha Sorie Kargbo"
+    login: "coderPseudoCode"
+    avatarUrl: https://avatars.githubusercontent.com/u/30184937?u=1924bfc145637bbea90a90f2a5636f159cf380df&v=4
+    contributions: 1
+    company: "Next Step Company Limited Sierra Leone"
+    organizations: ""
+
+  - rank: 123
+    name: ""
+    login: "Mart1961"
+    avatarUrl: https://avatars.githubusercontent.com/u/79550245?v=4
+    contributions: 1
+    company: ""
+    organizations: ""
+
+  - rank: 124
+    name: "Hindolo Rogers"
+    login: "Hindolorogers"
+    avatarUrl: https://avatars.githubusercontent.com/u/54672476?u=8a8e576a74ead257b8a13dd1b7fbe57d5ce95217&v=4
+    contributions: 1
+    company: ""
+    organizations: ""
+
+  - rank: 125
+    name: "elder moses"
+    login: "TWOGSL1"
+    avatarUrl: https://avatars.githubusercontent.com/u/79336273?u=163f1270d665d7f9453ee362f7055da2748911da&v=4
+    contributions: 1
+    company: "The Word Of Grace Outreach Ministries"
+    organizations: ""
+
+  - rank: 126
+    name: "John Suluku"
+    login: "Jaybecs"
+    avatarUrl: https://avatars.githubusercontent.com/u/83507918?v=4
+    contributions: 1
+    company: "Lynex Company Limited"
+    organizations: ""
+
+  - rank: 127
     name: "Edward Momoh Turay"
     login: "edwardmomoh"
     avatarUrl: https://avatars.githubusercontent.com/u/91305175?u=0b49857d21fbb3e287e9b165f4108e44ea563783&v=4
     contributions: 1
     company: "Limkokwing University"
+    organizations: ""
+
+  - rank: 128
+    name: "sconteh"
+    login: "contehsaidue"
+    avatarUrl: https://avatars.githubusercontent.com/u/77689935?v=4
+    contributions: 1
+    company: ""
+    organizations: ""
+
+  - rank: 129
+    name: "Adikalie kholifa Kamara "
+    login: "Adikalie092003352"
+    avatarUrl: https://avatars.githubusercontent.com/u/96649877?v=4
+    contributions: 1
+    company: ""
+    organizations: ""
+
+  - rank: 130
+    name: "FODAY DUMBUYA"
+    login: "foday-dumbuya"
+    avatarUrl: https://avatars.githubusercontent.com/u/77495132?u=4298616e63a97b2c9c295ea17a7511a64cd271e8&v=4
+    contributions: 1
+    company: "UNIMTECH"
+    organizations: ""
+
+  - rank: 131
+    name: "TCRF Sierra Leone"
+    login: "TCRFSierraLeone"
+    avatarUrl: https://avatars.githubusercontent.com/u/21276527?v=4
+    contributions: 0
+    company: ""
     organizations: ""
 
   - rank: 132
@@ -5294,11 +5294,11 @@ private_users:
     organizations: ""
 
   - rank: 150
-    name: "TCRF Sierra Leone"
-    login: "TCRFSierraLeone"
-    avatarUrl: https://avatars.githubusercontent.com/u/21276527?v=4
+    name: "Ceekab"
+    login: "Patomaria"
+    avatarUrl: https://avatars.githubusercontent.com/u/35488664?u=0df3c2332f7c43609215a720fc608ddee826f189&v=4
     contributions: 0
-    company: ""
+    company: "Little Light Foundation"
     organizations: ""
 
   - rank: 151
@@ -5358,19 +5358,19 @@ private_users:
     organizations: ""
 
   - rank: 158
-    name: "Ceekab"
-    login: "Patomaria"
-    avatarUrl: https://avatars.githubusercontent.com/u/35488664?u=0df3c2332f7c43609215a720fc608ddee826f189&v=4
-    contributions: 0
-    company: "Little Light Foundation"
-    organizations: ""
-
-  - rank: 159
     name: "Kharifa Abdulai Kumara"
     login: "Kumar0531"
     avatarUrl: https://avatars.githubusercontent.com/u/35607420?v=4
     contributions: 0
     company: "DreamDay Technology"
+    organizations: ""
+
+  - rank: 159
+    name: "Abess Hussein"
+    login: "Abess0"
+    avatarUrl: https://avatars.githubusercontent.com/u/31619377?u=22c277db76578ede427262222cc849668fe17e01&v=4
+    contributions: 0
+    company: "Atom Inc"
     organizations: ""
 
   - rank: 160
@@ -5390,19 +5390,19 @@ private_users:
     organizations: ""
 
   - rank: 162
-    name: "Abess Hussein"
-    login: "Abess0"
-    avatarUrl: https://avatars.githubusercontent.com/u/31619377?u=22c277db76578ede427262222cc849668fe17e01&v=4
-    contributions: 0
-    company: "Atom Inc"
-    organizations: ""
-
-  - rank: 163
     name: "Cho"
     login: "chochoma"
     avatarUrl: https://avatars.githubusercontent.com/u/64731010?v=4
     contributions: 0
     company: " Kacho Solutions Ltd."
+    organizations: ""
+
+  - rank: 163
+    name: "Sorieba Daffae"
+    login: "sdaffae"
+    avatarUrl: https://avatars.githubusercontent.com/u/14101399?u=eac0d376d823dae0206841214b03d80a819d1015&v=4
+    contributions: 0
+    company: "@DigitalleGlobal @FixSolution "
     organizations: ""
 
   - rank: 164
@@ -5598,14 +5598,6 @@ private_users:
     organizations: ""
 
   - rank: 188
-    name: "Taleb"
-    login: "mtaleb1981"
-    avatarUrl: https://avatars.githubusercontent.com/u/9765302?u=f7cf9fd60036a16e16359fd9ec9b84507f1850fa&v=4
-    contributions: 0
-    company: ""
-    organizations: ""
-
-  - rank: 189
     name: "Gray Coding Sierra Leone "
     login: "graycodingsl"
     avatarUrl: https://avatars.githubusercontent.com/u/55925031?v=4
@@ -5613,18 +5605,26 @@ private_users:
     company: ""
     organizations: ""
 
-  - rank: 190
-    name: "Sorieba Daffae"
-    login: "sdaffae"
-    avatarUrl: https://avatars.githubusercontent.com/u/14101399?u=eac0d376d823dae0206841214b03d80a819d1015&v=4
-    contributions: 0
-    company: "@DigitalleGlobal @FixSolution "
-    organizations: ""
-
-  - rank: 191
+  - rank: 189
     name: "Hindolo D. Magbity"
     login: "HindoloMagbity"
     avatarUrl: https://avatars.githubusercontent.com/u/45057748?u=4712a6f14e4aa1294c4f4bb898e14da8fd89c938&v=4
+    contributions: 0
+    company: ""
+    organizations: ""
+
+  - rank: 190
+    name: "Taleb"
+    login: "mtaleb1981"
+    avatarUrl: https://avatars.githubusercontent.com/u/9765302?u=f7cf9fd60036a16e16359fd9ec9b84507f1850fa&v=4
+    contributions: 0
+    company: ""
+    organizations: ""
+
+  - rank: 191
+    name: "Augustine Feika"
+    login: "Augfek2020"
+    avatarUrl: https://avatars.githubusercontent.com/u/69980748?u=9fc53b8c9b88ea995bfa751bf82553978e982083&v=4
     contributions: 0
     company: ""
     organizations: ""
@@ -5702,14 +5702,6 @@ private_users:
     organizations: ""
 
   - rank: 201
-    name: "Augustine Feika"
-    login: "Augfek2020"
-    avatarUrl: https://avatars.githubusercontent.com/u/69980748?u=9fc53b8c9b88ea995bfa751bf82553978e982083&v=4
-    contributions: 0
-    company: ""
-    organizations: ""
-
-  - rank: 202
     name: "105621+aiah"
     login: "Aiah28moiwa"
     avatarUrl: https://avatars.githubusercontent.com/u/57301184?v=4
@@ -5717,7 +5709,7 @@ private_users:
     company: "@Njala-edu-sl Department of physics and computer science"
     organizations: ""
 
-  - rank: 203
+  - rank: 202
     name: "Fatimah"
     login: "Timah1999"
     avatarUrl: https://avatars.githubusercontent.com/u/57300012?v=4
@@ -5725,12 +5717,20 @@ private_users:
     company: ""
     organizations: ""
 
-  - rank: 204
+  - rank: 203
     name: "Kabie Abacha Konteh"
     login: "kkabie"
     avatarUrl: https://avatars.githubusercontent.com/u/57254860?v=4
     contributions: 0
     company: ""
+    organizations: ""
+
+  - rank: 204
+    name: "Bashiru Mansaray"
+    login: "mansaraybash"
+    avatarUrl: https://avatars.githubusercontent.com/u/20596963?v=4
+    contributions: 0
+    company: "OS Corp"
     organizations: ""
 
   - rank: 205
@@ -5790,14 +5790,6 @@ private_users:
     organizations: ""
 
   - rank: 212
-    name: "Bashiru Mansaray"
-    login: "mansaraybash"
-    avatarUrl: https://avatars.githubusercontent.com/u/20596963?v=4
-    contributions: 0
-    company: "OS Corp"
-    organizations: ""
-
-  - rank: 213
     name: "Oluwatosin B. Ayorinde"
     login: "eledalab"
     avatarUrl: https://avatars.githubusercontent.com/u/58771124?u=8f7804053b84275b0140251fda3d4ea724378be9&v=4
@@ -5805,12 +5797,20 @@ private_users:
     company: "Limkokwing University Sierra Leone"
     organizations: ""
 
-  - rank: 214
+  - rank: 213
     name: "Joseph Fallah Yondah"
     login: "Godraises"
     avatarUrl: https://avatars.githubusercontent.com/u/76961318?u=8148f20906107e0d269905ec9d89397df37a8c64&v=4
     contributions: 0
     company: ""
+    organizations: ""
+
+  - rank: 214
+    name: "Andrew Steven Boima"
+    login: "andrewstevenboima"
+    avatarUrl: https://avatars.githubusercontent.com/u/16258826?u=9206b02d43c1fe16db9669d7f71acf078dd8e659&v=4
+    contributions: 0
+    company: "Rising Academy Network"
     organizations: ""
 
   - rank: 215
@@ -5822,11 +5822,11 @@ private_users:
     organizations: ""
 
   - rank: 216
-    name: "Michael Bockarie"
-    login: "bockariegithub"
-    avatarUrl: https://avatars.githubusercontent.com/u/18660500?v=4
+    name: "Saccoh"
+    login: "Saccoh-1"
+    avatarUrl: https://avatars.githubusercontent.com/u/22425096?v=4
     contributions: 0
-    company: "Bountiful Invetsment"
+    company: ""
     organizations: ""
 
   - rank: 217
@@ -5878,6 +5878,14 @@ private_users:
     organizations: ""
 
   - rank: 223
+    name: "Michael Bockarie"
+    login: "bockariegithub"
+    avatarUrl: https://avatars.githubusercontent.com/u/18660500?v=4
+    contributions: 0
+    company: "Bountiful Invetsment"
+    organizations: ""
+
+  - rank: 224
     name: "Philip M Mornya"
     login: "philip1122"
     avatarUrl: https://avatars.githubusercontent.com/u/57179368?u=f46f525880c543cc48c9edcd13c80e5d93142be8&v=4
@@ -5885,7 +5893,15 @@ private_users:
     company: ""
     organizations: ""
 
-  - rank: 224
+  - rank: 225
+    name: "Ishmael Kargbo"
+    login: "dev-isho"
+    avatarUrl: https://avatars.githubusercontent.com/u/39510294?u=b3b455b6e6d82933b1bf7d706c06c48abf1589b3&v=4
+    contributions: 0
+    company: "Let Inspire"
+    organizations: ""
+
+  - rank: 226
     name: "Mohamed Yankson Sankoh"
     login: "syankson"
     avatarUrl: https://avatars.githubusercontent.com/u/51108373?v=4
@@ -5893,7 +5909,7 @@ private_users:
     company: "Mott Macdonald UK Aid"
     organizations: ""
 
-  - rank: 225
+  - rank: 227
     name: "Alpha Amadu Barrie"
     login: "Alpha-Accurate"
     avatarUrl: https://avatars.githubusercontent.com/u/27819681?u=0245d68f3b1aa303532e7f7b5599531d9c85f272&v=4
@@ -5901,7 +5917,7 @@ private_users:
     company: ""
     organizations: ""
 
-  - rank: 226
+  - rank: 228
     name: ""
     login: "ClementinaAkran"
     avatarUrl: https://avatars.githubusercontent.com/u/69197728?u=1d91fa6aed75747aa7591c816537597302ede22e&v=4
@@ -5909,7 +5925,7 @@ private_users:
     company: "Stats SL "
     organizations: ""
 
-  - rank: 227
+  - rank: 229
     name: "Mwah Bah"
     login: "MwahBah"
     avatarUrl: https://avatars.githubusercontent.com/u/65542393?v=4
@@ -5917,7 +5933,7 @@ private_users:
     company: "Mwahbah"
     organizations: ""
 
-  - rank: 228
+  - rank: 230
     name: "James"
     login: "derkinater"
     avatarUrl: https://avatars.githubusercontent.com/u/64073788?v=4
@@ -5925,7 +5941,7 @@ private_users:
     company: ""
     organizations: ""
 
-  - rank: 229
+  - rank: 231
     name: "Osman Bah"
     login: "Bahosman"
     avatarUrl: https://avatars.githubusercontent.com/u/75808420?v=4
@@ -5933,7 +5949,7 @@ private_users:
     company: ""
     organizations: ""
 
-  - rank: 230
+  - rank: 232
     name: "Alhaji A. Kargbo"
     login: "hajjkargbo"
     avatarUrl: https://avatars.githubusercontent.com/u/17002978?u=612a80a555918e7f15b62e4294c11fa1399ced45&v=4
@@ -5941,23 +5957,15 @@ private_users:
     company: "LamTech Consulting Enterprises"
     organizations: ""
 
-  - rank: 231
-    name: "Steven boima"
-    login: "STEVENBOIMA"
-    avatarUrl: https://avatars.githubusercontent.com/u/20893779?u=f2b39b8311858451cfa360466a20384bf03136a8&v=4
-    contributions: 0
-    company: "Creative tech Zone"
-    organizations: ""
-
-  - rank: 232
-    name: "Ivan Meshach Juan Sesay"
-    login: "juanimesh"
-    avatarUrl: https://avatars.githubusercontent.com/u/44885410?u=17d455312c35a4043700bafdc170184ec88d81ff&v=4
-    contributions: 0
-    company: "Freelance"
-    organizations: ""
-
   - rank: 233
+    name: "Ingletech"
+    login: "ingletech"
+    avatarUrl: https://avatars.githubusercontent.com/u/70138771?v=4
+    contributions: 0
+    company: ""
+    organizations: ""
+
+  - rank: 234
     name: "Lola Aforo"
     login: "LolaAforo"
     avatarUrl: https://avatars.githubusercontent.com/u/77402876?u=b1fc0ac5292fdfbd9b2db90edc14dfe389526b2a&v=4
@@ -5965,7 +5973,23 @@ private_users:
     company: "STUDENT"
     organizations: ""
 
-  - rank: 234
+  - rank: 235
+    name: "Steven boima"
+    login: "STEVENBOIMA"
+    avatarUrl: https://avatars.githubusercontent.com/u/20893779?u=f2b39b8311858451cfa360466a20384bf03136a8&v=4
+    contributions: 0
+    company: "Creative tech Zone"
+    organizations: ""
+
+  - rank: 236
+    name: "Ivan Meshach Juan Sesay"
+    login: "juanimesh"
+    avatarUrl: https://avatars.githubusercontent.com/u/44885410?u=17d455312c35a4043700bafdc170184ec88d81ff&v=4
+    contributions: 0
+    company: "Freelance"
+    organizations: ""
+
+  - rank: 237
     name: ""
     login: "vangamoh"
     avatarUrl: https://avatars.githubusercontent.com/u/71276123?v=4
@@ -5973,23 +5997,7 @@ private_users:
     company: "National Electoral Commission "
     organizations: ""
 
-  - rank: 235
-    name: "Louis Momodu Conteh"
-    login: "lmomodu"
-    avatarUrl: https://avatars.githubusercontent.com/u/50139877?u=4472c08a9b265605e1b057d4bc83f1141d879666&v=4
-    contributions: 0
-    company: "@UbuntuAfrika.com"
-    organizations: ""
-
-  - rank: 236
-    name: "Mohamed S Kamara"
-    login: "Mohamedskamara1967"
-    avatarUrl: https://avatars.githubusercontent.com/u/62678570?u=9145a8b4f2dff84c014ef96e4839b50b57b3c52a&v=4
-    contributions: 0
-    company: "nell"
-    organizations: ""
-
-  - rank: 237
+  - rank: 238
     name: ""
     login: "andrew3941"
     avatarUrl: https://avatars.githubusercontent.com/u/77746680?u=0375337fdc3007d0d766b6ece79a90c24a3d1d8f&v=4
@@ -5997,7 +6005,23 @@ private_users:
     company: ""
     organizations: ""
 
-  - rank: 238
+  - rank: 239
+    name: "Louis Momodu Conteh"
+    login: "lmomodu"
+    avatarUrl: https://avatars.githubusercontent.com/u/50139877?u=4472c08a9b265605e1b057d4bc83f1141d879666&v=4
+    contributions: 0
+    company: "@UbuntuAfrika.com"
+    organizations: ""
+
+  - rank: 240
+    name: "Mohamed S Kamara"
+    login: "Mohamedskamara1967"
+    avatarUrl: https://avatars.githubusercontent.com/u/62678570?u=9145a8b4f2dff84c014ef96e4839b50b57b3c52a&v=4
+    contributions: 0
+    company: "nell"
+    organizations: ""
+
+  - rank: 241
     name: "mondeh"
     login: "mondeh"
     avatarUrl: https://avatars.githubusercontent.com/u/40904498?v=4
@@ -6005,7 +6029,15 @@ private_users:
     company: "Limkoking University "
     organizations: ""
 
-  - rank: 239
+  - rank: 242
+    name: ""
+    login: "mkamarachernor"
+    avatarUrl: https://avatars.githubusercontent.com/u/78469375?v=4
+    contributions: 0
+    company: ""
+    organizations: ""
+
+  - rank: 243
     name: "Demo Volunteer"
     login: "sloepvolunteer"
     avatarUrl: https://avatars.githubusercontent.com/u/34882911?v=4
@@ -6013,7 +6045,7 @@ private_users:
     company: "LAM-TECH"
     organizations: ""
 
-  - rank: 240
+  - rank: 244
     name: "Rahim"
     login: "Rmukish"
     avatarUrl: https://avatars.githubusercontent.com/u/26299671?u=d8767b9d23dcf5e3c9448adc283bae2c00122444&v=4
@@ -6021,7 +6053,7 @@ private_users:
     company: ""
     organizations: ""
 
-  - rank: 241
+  - rank: 245
     name: "Med Cash"
     login: "AhmedSaiduKamara"
     avatarUrl: https://avatars.githubusercontent.com/u/51088767?u=033524b84eada420d75136459a6589cd023ad493&v=4
@@ -6029,7 +6061,7 @@ private_users:
     company: ""
     organizations: ""
 
-  - rank: 242
+  - rank: 246
     name: "Ahmed Elomar"
     login: "Elmo212"
     avatarUrl: https://avatars.githubusercontent.com/u/55789669?u=9e34765269f4a030b128aeaedf0a0db621dd599b&v=4
@@ -6037,7 +6069,7 @@ private_users:
     company: "Easy Solar"
     organizations: ""
 
-  - rank: 243
+  - rank: 247
     name: "Jabubakarr"
     login: "abubakarrjalloh"
     avatarUrl: https://avatars.githubusercontent.com/u/33560325?u=35fb7aeee06e7c28348350385c02d9ff26ac93a7&v=4
@@ -6045,7 +6077,7 @@ private_users:
     company: "Unique Tech"
     organizations: ""
 
-  - rank: 244
+  - rank: 248
     name: "Jeremiah Gbenga"
     login: "JeremiahGbenga"
     avatarUrl: https://avatars.githubusercontent.com/u/26901643?u=108b7328b146dcb0aa19644ba72e0d1d88c84f14&v=4
@@ -6053,7 +6085,7 @@ private_users:
     company: ""
     organizations: ""
 
-  - rank: 245
+  - rank: 249
     name: "Karl-el01"
     login: "Karl-el01"
     avatarUrl: https://avatars.githubusercontent.com/u/25665182?u=0fe6fcac8abc3a14b8e3627fc9c3b1d03a9efe67&v=4
@@ -6061,7 +6093,7 @@ private_users:
     company: ""
     organizations: ""
 
-  - rank: 246
+  - rank: 250
     name: "Buawah Jobo Samba"
     login: "jobosamba"
     avatarUrl: https://avatars.githubusercontent.com/u/16902200?u=1fbb58df4f97eca66e5a749c21de856724c600ad&v=4
@@ -6069,7 +6101,7 @@ private_users:
     company: "Ministry of Lands, Country Planning and The Environment"
     organizations: ""
 
-  - rank: 247
+  - rank: 251
     name: ""
     login: "alston332"
     avatarUrl: https://avatars.githubusercontent.com/u/20111568?v=4
@@ -6077,15 +6109,7 @@ private_users:
     company: "OPPORTUNITIES"
     organizations: ""
 
-  - rank: 248
-    name: "Dominic Bao"
-    login: "domobao1984"
-    avatarUrl: https://avatars.githubusercontent.com/u/71744867?u=57f302300517ed480580ffe285b45c0586613bf9&v=4
-    contributions: 0
-    company: "Ministry of Information & Communication - Government of SL"
-    organizations: ""
-
-  - rank: 249
+  - rank: 252
     name: "Ibrahim Pateh Bah"
     login: "Pateh-bah"
     avatarUrl: https://avatars.githubusercontent.com/u/63269864?u=aa2030aa53cc9af8ac71e4f189b99be6be3c995d&v=4
@@ -6093,7 +6117,7 @@ private_users:
     company: ""
     organizations: ""
 
-  - rank: 250
+  - rank: 253
     name: ""
     login: "Kargbo01"
     avatarUrl: https://avatars.githubusercontent.com/u/77402880?v=4
@@ -6101,7 +6125,15 @@ private_users:
     company: "STUDENT"
     organizations: ""
 
-  - rank: 251
+  - rank: 254
+    name: "Dominic Bao"
+    login: "domobao1984"
+    avatarUrl: https://avatars.githubusercontent.com/u/71744867?u=57f302300517ed480580ffe285b45c0586613bf9&v=4
+    contributions: 0
+    company: "Ministry of Information & Communication - Government of SL"
+    organizations: ""
+
+  - rank: 255
     name: "Ibrahim Sawaneh"
     login: "Ibrahim749"
     avatarUrl: https://avatars.githubusercontent.com/u/70407776?u=9016b140f46142e42c2cff2497257f19a257f24b&v=4
@@ -6109,7 +6141,7 @@ private_users:
     company: ""
     organizations: ""
 
-  - rank: 252
+  - rank: 256
     name: ""
     login: "ChristopherReffell"
     avatarUrl: https://avatars.githubusercontent.com/u/47862245?u=9a9e2e001a712ee4eae925f93f8a8bb9bc5ede9f&v=4
@@ -6117,76 +6149,44 @@ private_users:
     company: "Ubuntu Afrika Tech"
     organizations: ""
 
-  - rank: 253
-    name: "Sheku Armani Koroma"
-    login: "Hoppersk"
-    avatarUrl: https://avatars.githubusercontent.com/u/8056809?u=2afc068c52e5238d354f81e13858f4502ba1130c&v=4
-    contributions: 0
-    company: "iDT Labs"
-    organizations: ""
-
-  - rank: 254
-    name: "Moses VB"
-    login: "vbmo"
-    avatarUrl: https://avatars.githubusercontent.com/u/14352247?v=4
-    contributions: 0
-    company: "VB Technologies Solutions."
-    organizations: ""
-
-  - rank: 255
-    name: "Ceedique"
-    login: "Ceedique"
-    avatarUrl: https://avatars.githubusercontent.com/u/39308122?v=4
-    contributions: 0
-    company: ""
-    organizations: ""
-
-  - rank: 256
-    name: "hycent ibeneme"
-    login: "1988icent"
-    avatarUrl: https://avatars.githubusercontent.com/u/676926?v=4
-    contributions: 0
-    company: "EDDIE BONGO"
-    organizations: ""
-
 organizations:
 
   - rank: 1
-    name: "cypasl"
-    membercount: 1
-
-  - rank: 2
-    name: "cs50"
-    membercount: 1
-
-  - rank: 3
     name: "energicity"
     membercount: 1
 
-  - rank: 4
+  - rank: 2
     name: "zero-to-mastery"
     membercount: 1
 
-  - rank: 5
+  - rank: 3
     name: "www-alaskaxs-com"
+    membercount: 1
+
+  - rank: 4
+    name: "cypasl"
+    membercount: 1
+
+  - rank: 5
+    name: "cs50"
     membercount: 1
 
 public_contributions_organizations:
 
   - rank: 1
-    name: "energicity"
-    membercount: 1
-
-  - rank: 2
-    name: "zero-to-mastery"
-    membercount: 1
-
-  - rank: 3
     name: "cypasl"
     membercount: 1
 
-  - rank: 4
+  - rank: 2
     name: "www-alaskaxs-com"
+    membercount: 1
+
+  - rank: 3
+    name: "energicity"
+    membercount: 1
+
+  - rank: 4
+    name: "zero-to-mastery"
     membercount: 1
 
 private_organizations:
@@ -6210,6 +6210,6 @@ private_organizations:
   - rank: 5
     name: "www-alaskaxs-com"
     membercount: 1
-generated: 2022-01-25 05:11:37.506111114 +0000 UTC m=+34.371401764
+generated: 2022-02-08 04:39:54.686530576 +0000 UTC m=+29.045116860
 min_followers_required: 0
-total_user_count: 296
+total_user_count: 299
