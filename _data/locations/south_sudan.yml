@@ -6,7 +6,7 @@ users:
     name: "Ayume Francis"
     login: "francis556"
     avatarUrl: https://avatars.githubusercontent.com/u/60848250?u=1f76f4e659527d5a1a52fac36196703ca73ab140&v=4
-    contributions: 302
+    contributions: 351
     company: "@codejunub "
     organizations: "codejunub"
 
@@ -35,19 +35,19 @@ users:
     organizations: ""
 
   - rank: 5
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
-    contributions: 0
-    company: "Kampala university "
-    organizations: ""
-
-  - rank: 6
     name: ""
     login: "Kinqly"
     avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
     contributions: 0
     company: "Kinqly"
+    organizations: ""
+
+  - rank: 6
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
+    contributions: 0
+    company: "Kampala university "
     organizations: ""
 
   - rank: 7
@@ -87,7 +87,7 @@ users_public_contributions:
     name: "Ayume Francis"
     login: "francis556"
     avatarUrl: https://avatars.githubusercontent.com/u/60848250?u=1f76f4e659527d5a1a52fac36196703ca73ab140&v=4
-    contributions: 375
+    contributions: 425
     company: "@codejunub "
     organizations: "codejunub"
 
@@ -169,7 +169,7 @@ private_users:
     name: "Ayume Francis"
     login: "francis556"
     avatarUrl: https://avatars.githubusercontent.com/u/60848250?u=1f76f4e659527d5a1a52fac36196703ca73ab140&v=4
-    contributions: 467
+    contributions: 521
     company: "@codejunub "
     organizations: "codejunub"
 
@@ -262,6 +262,6 @@ private_organizations:
   - rank: 1
     name: "codejunub"
     membercount: 1
-generated: 2022-02-08 01:45:49.270756597 +0000 UTC m=+1.261432134
+generated: 2022-02-15 01:35:21.23490309 +0000 UTC m=+1.289460079
 min_followers_required: 0
 total_user_count: 10
