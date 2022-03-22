@@ -6,7 +6,7 @@ users:
     name: "Ayume Francis"
     login: "francis556"
     avatarUrl: https://avatars.githubusercontent.com/u/60848250?u=1f76f4e659527d5a1a52fac36196703ca73ab140&v=4
-    contributions: 360
+    contributions: 375
     company: "@codejunub "
     organizations: "codejunub"
 
@@ -19,14 +19,6 @@ users:
     organizations: ""
 
   - rank: 3
-    name: "Yak Kiir"
-    login: "Yak4-maker"
-    avatarUrl: https://avatars.githubusercontent.com/u/80614857?v=4
-    contributions: 1
-    company: ""
-    organizations: ""
-
-  - rank: 4
     name: "Junior Billkid "
     login: "JuniorBillkid"
     avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
@@ -34,15 +26,15 @@ users:
     company: "U,D,S revolutionary"
     organizations: ""
 
-  - rank: 5
-    name: ""
-    login: "Nunas455"
-    avatarUrl: https://avatars.githubusercontent.com/u/72599873?u=68b6cd2ddf9c79e424cb58a2534e1b90160e2065&v=4
+  - rank: 4
+    name: "Yak Kiir"
+    login: "Yak4-maker"
+    avatarUrl: https://avatars.githubusercontent.com/u/80614857?v=4
     contributions: 0
-    company: "Gogirlict"
+    company: ""
     organizations: ""
 
-  - rank: 6
+  - rank: 5
     name: "Yason "
     login: "yason-20"
     avatarUrl: https://avatars.githubusercontent.com/u/76183270?u=6924b7e1ccc54758b26aa178cd2e7cf1281104f2&v=4
@@ -50,12 +42,20 @@ users:
     company: "Codemate Tech "
     organizations: ""
 
-  - rank: 7
+  - rank: 6
     name: "gatkouth nyuel"
     login: "gatkouth20"
     avatarUrl: https://avatars.githubusercontent.com/u/14345598?u=d30b46e5b466e47197ee8f4e0e90bbcbafb4e5e8&v=4
     contributions: 0
     company: "st.lawrence university"
+    organizations: ""
+
+  - rank: 7
+    name: ""
+    login: "Nunas455"
+    avatarUrl: https://avatars.githubusercontent.com/u/72599873?u=68b6cd2ddf9c79e424cb58a2534e1b90160e2065&v=4
+    contributions: 0
+    company: "Gogirlict"
     organizations: ""
 
   - rank: 8
@@ -103,7 +103,7 @@ users_public_contributions:
     name: "Ayume Francis"
     login: "francis556"
     avatarUrl: https://avatars.githubusercontent.com/u/60848250?u=1f76f4e659527d5a1a52fac36196703ca73ab140&v=4
-    contributions: 433
+    contributions: 449
     company: "@codejunub "
     organizations: "codejunub"
 
@@ -116,14 +116,6 @@ users_public_contributions:
     organizations: ""
 
   - rank: 3
-    name: "Yak Kiir"
-    login: "Yak4-maker"
-    avatarUrl: https://avatars.githubusercontent.com/u/80614857?v=4
-    contributions: 3
-    company: ""
-    organizations: ""
-
-  - rank: 4
     name: "Junior Billkid "
     login: "JuniorBillkid"
     avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
@@ -131,7 +123,7 @@ users_public_contributions:
     company: "U,D,S revolutionary"
     organizations: ""
 
-  - rank: 5
+  - rank: 4
     name: ""
     login: "Kinqly"
     avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
@@ -139,15 +131,15 @@ users_public_contributions:
     company: "Kinqly"
     organizations: ""
 
-  - rank: 6
-    name: ""
-    login: "Nunas455"
-    avatarUrl: https://avatars.githubusercontent.com/u/72599873?u=68b6cd2ddf9c79e424cb58a2534e1b90160e2065&v=4
+  - rank: 5
+    name: "Yak Kiir"
+    login: "Yak4-maker"
+    avatarUrl: https://avatars.githubusercontent.com/u/80614857?v=4
     contributions: 0
-    company: "Gogirlict"
+    company: ""
     organizations: ""
 
-  - rank: 7
+  - rank: 6
     name: "Yason "
     login: "yason-20"
     avatarUrl: https://avatars.githubusercontent.com/u/76183270?u=6924b7e1ccc54758b26aa178cd2e7cf1281104f2&v=4
@@ -155,12 +147,20 @@ users_public_contributions:
     company: "Codemate Tech "
     organizations: ""
 
-  - rank: 8
+  - rank: 7
     name: "gatkouth nyuel"
     login: "gatkouth20"
     avatarUrl: https://avatars.githubusercontent.com/u/14345598?u=d30b46e5b466e47197ee8f4e0e90bbcbafb4e5e8&v=4
     contributions: 0
     company: "st.lawrence university"
+    organizations: ""
+
+  - rank: 8
+    name: ""
+    login: "Nunas455"
+    avatarUrl: https://avatars.githubusercontent.com/u/72599873?u=68b6cd2ddf9c79e424cb58a2534e1b90160e2065&v=4
+    contributions: 0
+    company: "Gogirlict"
     organizations: ""
 
   - rank: 9
@@ -201,7 +201,7 @@ private_users:
     name: "Ayume Francis"
     login: "francis556"
     avatarUrl: https://avatars.githubusercontent.com/u/60848250?u=1f76f4e659527d5a1a52fac36196703ca73ab140&v=4
-    contributions: 593
+    contributions: 615
     company: "@codejunub "
     organizations: "codejunub"
 
@@ -214,14 +214,6 @@ private_users:
     organizations: ""
 
   - rank: 3
-    name: "Yak Kiir"
-    login: "Yak4-maker"
-    avatarUrl: https://avatars.githubusercontent.com/u/80614857?v=4
-    contributions: 3
-    company: ""
-    organizations: ""
-
-  - rank: 4
     name: "Junior Billkid "
     login: "JuniorBillkid"
     avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
@@ -229,7 +221,7 @@ private_users:
     company: "U,D,S revolutionary"
     organizations: ""
 
-  - rank: 5
+  - rank: 4
     name: ""
     login: "Kinqly"
     avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
@@ -237,15 +229,15 @@ private_users:
     company: "Kinqly"
     organizations: ""
 
-  - rank: 6
-    name: ""
-    login: "Nunas455"
-    avatarUrl: https://avatars.githubusercontent.com/u/72599873?u=68b6cd2ddf9c79e424cb58a2534e1b90160e2065&v=4
+  - rank: 5
+    name: "Yak Kiir"
+    login: "Yak4-maker"
+    avatarUrl: https://avatars.githubusercontent.com/u/80614857?v=4
     contributions: 0
-    company: "Gogirlict"
+    company: ""
     organizations: ""
 
-  - rank: 7
+  - rank: 6
     name: "Yason "
     login: "yason-20"
     avatarUrl: https://avatars.githubusercontent.com/u/76183270?u=6924b7e1ccc54758b26aa178cd2e7cf1281104f2&v=4
@@ -253,12 +245,20 @@ private_users:
     company: "Codemate Tech "
     organizations: ""
 
-  - rank: 8
+  - rank: 7
     name: "gatkouth nyuel"
     login: "gatkouth20"
     avatarUrl: https://avatars.githubusercontent.com/u/14345598?u=d30b46e5b466e47197ee8f4e0e90bbcbafb4e5e8&v=4
     contributions: 0
     company: "st.lawrence university"
+    organizations: ""
+
+  - rank: 8
+    name: ""
+    login: "Nunas455"
+    avatarUrl: https://avatars.githubusercontent.com/u/72599873?u=68b6cd2ddf9c79e424cb58a2534e1b90160e2065&v=4
+    contributions: 0
+    company: "Gogirlict"
     organizations: ""
 
   - rank: 9
@@ -310,6 +310,6 @@ private_organizations:
   - rank: 1
     name: "codejunub"
     membercount: 1
-generated: 2022-03-15 01:38:39.508982944 +0000 UTC m=+1.502079210
+generated: 2022-03-22 02:03:49.597304201 +0000 UTC m=+1.813555135
 min_followers_required: 0
 total_user_count: 12
