@@ -6,7 +6,7 @@ users:
     name: "Ayume Francis"
     login: "francis556"
     avatarUrl: https://avatars.githubusercontent.com/u/60848250?u=1f76f4e659527d5a1a52fac36196703ca73ab140&v=4
-    contributions: 375
+    contributions: 379
     company: "@codejunub "
     organizations: "codejunub"
 
@@ -27,6 +27,14 @@ users:
     organizations: ""
 
   - rank: 4
+    name: ""
+    login: "Nunas455"
+    avatarUrl: https://avatars.githubusercontent.com/u/72599873?u=68b6cd2ddf9c79e424cb58a2534e1b90160e2065&v=4
+    contributions: 0
+    company: "Gogirlict"
+    organizations: ""
+
+  - rank: 5
     name: "Yak Kiir"
     login: "Yak4-maker"
     avatarUrl: https://avatars.githubusercontent.com/u/80614857?v=4
@@ -34,7 +42,7 @@ users:
     company: ""
     organizations: ""
 
-  - rank: 5
+  - rank: 6
     name: "Yason "
     login: "yason-20"
     avatarUrl: https://avatars.githubusercontent.com/u/76183270?u=6924b7e1ccc54758b26aa178cd2e7cf1281104f2&v=4
@@ -42,20 +50,12 @@ users:
     company: "Codemate Tech "
     organizations: ""
 
-  - rank: 6
+  - rank: 7
     name: "gatkouth nyuel"
     login: "gatkouth20"
     avatarUrl: https://avatars.githubusercontent.com/u/14345598?u=d30b46e5b466e47197ee8f4e0e90bbcbafb4e5e8&v=4
     contributions: 0
     company: "st.lawrence university"
-    organizations: ""
-
-  - rank: 7
-    name: ""
-    login: "Nunas455"
-    avatarUrl: https://avatars.githubusercontent.com/u/72599873?u=68b6cd2ddf9c79e424cb58a2534e1b90160e2065&v=4
-    contributions: 0
-    company: "Gogirlict"
     organizations: ""
 
   - rank: 8
@@ -103,7 +103,7 @@ users_public_contributions:
     name: "Ayume Francis"
     login: "francis556"
     avatarUrl: https://avatars.githubusercontent.com/u/60848250?u=1f76f4e659527d5a1a52fac36196703ca73ab140&v=4
-    contributions: 449
+    contributions: 456
     company: "@codejunub "
     organizations: "codejunub"
 
@@ -125,10 +125,10 @@ users_public_contributions:
 
   - rank: 4
     name: ""
-    login: "Kinqly"
-    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
-    contributions: 1
-    company: "Kinqly"
+    login: "Nunas455"
+    avatarUrl: https://avatars.githubusercontent.com/u/72599873?u=68b6cd2ddf9c79e424cb58a2534e1b90160e2065&v=4
+    contributions: 0
+    company: "Gogirlict"
     organizations: ""
 
   - rank: 5
@@ -156,19 +156,19 @@ users_public_contributions:
     organizations: ""
 
   - rank: 8
-    name: ""
-    login: "Nunas455"
-    avatarUrl: https://avatars.githubusercontent.com/u/72599873?u=68b6cd2ddf9c79e424cb58a2534e1b90160e2065&v=4
-    contributions: 0
-    company: "Gogirlict"
-    organizations: ""
-
-  - rank: 9
     name: "William Deng Lual Deng "
     login: "0912222213"
     avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
     contributions: 0
     company: "Kampala university "
+    organizations: ""
+
+  - rank: 9
+    name: ""
+    login: "Kinqly"
+    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
+    contributions: 0
+    company: "Kinqly"
     organizations: ""
 
   - rank: 10
@@ -201,7 +201,7 @@ private_users:
     name: "Ayume Francis"
     login: "francis556"
     avatarUrl: https://avatars.githubusercontent.com/u/60848250?u=1f76f4e659527d5a1a52fac36196703ca73ab140&v=4
-    contributions: 615
+    contributions: 632
     company: "@codejunub "
     organizations: "codejunub"
 
@@ -223,10 +223,10 @@ private_users:
 
   - rank: 4
     name: ""
-    login: "Kinqly"
-    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
-    contributions: 1
-    company: "Kinqly"
+    login: "Nunas455"
+    avatarUrl: https://avatars.githubusercontent.com/u/72599873?u=68b6cd2ddf9c79e424cb58a2534e1b90160e2065&v=4
+    contributions: 0
+    company: "Gogirlict"
     organizations: ""
 
   - rank: 5
@@ -254,19 +254,19 @@ private_users:
     organizations: ""
 
   - rank: 8
-    name: ""
-    login: "Nunas455"
-    avatarUrl: https://avatars.githubusercontent.com/u/72599873?u=68b6cd2ddf9c79e424cb58a2534e1b90160e2065&v=4
-    contributions: 0
-    company: "Gogirlict"
-    organizations: ""
-
-  - rank: 9
     name: "William Deng Lual Deng "
     login: "0912222213"
     avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
     contributions: 0
     company: "Kampala university "
+    organizations: ""
+
+  - rank: 9
+    name: ""
+    login: "Kinqly"
+    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
+    contributions: 0
+    company: "Kinqly"
     organizations: ""
 
   - rank: 10
@@ -310,6 +310,6 @@ private_organizations:
   - rank: 1
     name: "codejunub"
     membercount: 1
-generated: 2022-03-22 02:03:49.597304201 +0000 UTC m=+1.813555135
+generated: 2022-03-29 02:08:39.828953357 +0000 UTC m=+1.735139347
 min_followers_required: 0
 total_user_count: 12
