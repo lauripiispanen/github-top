@@ -3,22 +3,14 @@ title: South Sudan
 users:
 
   - rank: 1
-    name: "Ayume Francis"
-    login: "francis556"
-    avatarUrl: https://avatars.githubusercontent.com/u/60848250?u=1f76f4e659527d5a1a52fac36196703ca73ab140&v=4
-    contributions: 379
-    company: "@codejunub "
-    organizations: "codejunub"
-
-  - rank: 2
     name: "Codemate Tech"
     login: "codematetech"
     avatarUrl: https://avatars.githubusercontent.com/u/81685543?u=6e8d04b87a656f0c73d8277c534d89636242d84f&v=4
-    contributions: 26
+    contributions: 18
     company: "Codemate Tech "
     organizations: ""
 
-  - rank: 3
+  - rank: 2
     name: "Junior Billkid "
     login: "JuniorBillkid"
     avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
@@ -26,7 +18,7 @@ users:
     company: "U,D,S revolutionary"
     organizations: ""
 
-  - rank: 4
+  - rank: 3
     name: ""
     login: "Nunas455"
     avatarUrl: https://avatars.githubusercontent.com/u/72599873?u=68b6cd2ddf9c79e424cb58a2534e1b90160e2065&v=4
@@ -34,15 +26,7 @@ users:
     company: "Gogirlict"
     organizations: ""
 
-  - rank: 5
-    name: "Yak Kiir"
-    login: "Yak4-maker"
-    avatarUrl: https://avatars.githubusercontent.com/u/80614857?v=4
-    contributions: 0
-    company: ""
-    organizations: ""
-
-  - rank: 6
+  - rank: 4
     name: "Yason "
     login: "yason-20"
     avatarUrl: https://avatars.githubusercontent.com/u/76183270?u=6924b7e1ccc54758b26aa178cd2e7cf1281104f2&v=4
@@ -50,7 +34,7 @@ users:
     company: "Codemate Tech "
     organizations: ""
 
-  - rank: 7
+  - rank: 5
     name: "gatkouth nyuel"
     login: "gatkouth20"
     avatarUrl: https://avatars.githubusercontent.com/u/14345598?u=d30b46e5b466e47197ee8f4e0e90bbcbafb4e5e8&v=4
@@ -58,15 +42,7 @@ users:
     company: "st.lawrence university"
     organizations: ""
 
-  - rank: 8
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
-    contributions: 0
-    company: "Kampala university "
-    organizations: ""
-
-  - rank: 9
+  - rank: 6
     name: ""
     login: "Kinqly"
     avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
@@ -74,7 +50,23 @@ users:
     company: "Kinqly"
     organizations: ""
 
-  - rank: 10
+  - rank: 7
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
+    contributions: 0
+    company: "Kampala university "
+    organizations: ""
+
+  - rank: 8
+    name: "Yak Kiir"
+    login: "Yak4-maker"
+    avatarUrl: https://avatars.githubusercontent.com/u/80614857?v=4
+    contributions: 0
+    company: ""
+    organizations: ""
+
+  - rank: 9
     name: "Taban Denis Tabbi"
     login: "Tabandenis"
     avatarUrl: https://avatars.githubusercontent.com/u/62059466?v=4
@@ -82,7 +74,7 @@ users:
     company: "Agricola Interest national non governmental organizations"
     organizations: ""
 
-  - rank: 11
+  - rank: 10
     name: "zeko970"
     login: "Zeko970"
     avatarUrl: https://avatars.githubusercontent.com/u/63145452?u=9c70ff1c3cc007df8bc31cd67a38325801d93cb4&v=4
@@ -90,7 +82,7 @@ users:
     company: "Zakaria & Borthers co LIT"
     organizations: ""
 
-  - rank: 12
+  - rank: 11
     name: "Dut Majak"
     login: "DutM"
     avatarUrl: https://avatars.githubusercontent.com/u/42735905?u=846456d29e7f3a4b195c43b0c88887fd99161823&v=4
@@ -100,22 +92,14 @@ users:
 users_public_contributions:
 
   - rank: 1
-    name: "Ayume Francis"
-    login: "francis556"
-    avatarUrl: https://avatars.githubusercontent.com/u/60848250?u=1f76f4e659527d5a1a52fac36196703ca73ab140&v=4
-    contributions: 456
-    company: "@codejunub "
-    organizations: "codejunub"
-
-  - rank: 2
     name: "Codemate Tech"
     login: "codematetech"
     avatarUrl: https://avatars.githubusercontent.com/u/81685543?u=6e8d04b87a656f0c73d8277c534d89636242d84f&v=4
-    contributions: 29
+    contributions: 19
     company: "Codemate Tech "
     organizations: ""
 
-  - rank: 3
+  - rank: 2
     name: "Junior Billkid "
     login: "JuniorBillkid"
     avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
@@ -123,7 +107,7 @@ users_public_contributions:
     company: "U,D,S revolutionary"
     organizations: ""
 
-  - rank: 4
+  - rank: 3
     name: ""
     login: "Nunas455"
     avatarUrl: https://avatars.githubusercontent.com/u/72599873?u=68b6cd2ddf9c79e424cb58a2534e1b90160e2065&v=4
@@ -131,15 +115,7 @@ users_public_contributions:
     company: "Gogirlict"
     organizations: ""
 
-  - rank: 5
-    name: "Yak Kiir"
-    login: "Yak4-maker"
-    avatarUrl: https://avatars.githubusercontent.com/u/80614857?v=4
-    contributions: 0
-    company: ""
-    organizations: ""
-
-  - rank: 6
+  - rank: 4
     name: "Yason "
     login: "yason-20"
     avatarUrl: https://avatars.githubusercontent.com/u/76183270?u=6924b7e1ccc54758b26aa178cd2e7cf1281104f2&v=4
@@ -147,7 +123,7 @@ users_public_contributions:
     company: "Codemate Tech "
     organizations: ""
 
-  - rank: 7
+  - rank: 5
     name: "gatkouth nyuel"
     login: "gatkouth20"
     avatarUrl: https://avatars.githubusercontent.com/u/14345598?u=d30b46e5b466e47197ee8f4e0e90bbcbafb4e5e8&v=4
@@ -155,15 +131,7 @@ users_public_contributions:
     company: "st.lawrence university"
     organizations: ""
 
-  - rank: 8
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
-    contributions: 0
-    company: "Kampala university "
-    organizations: ""
-
-  - rank: 9
+  - rank: 6
     name: ""
     login: "Kinqly"
     avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
@@ -171,7 +139,23 @@ users_public_contributions:
     company: "Kinqly"
     organizations: ""
 
-  - rank: 10
+  - rank: 7
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
+    contributions: 0
+    company: "Kampala university "
+    organizations: ""
+
+  - rank: 8
+    name: "Yak Kiir"
+    login: "Yak4-maker"
+    avatarUrl: https://avatars.githubusercontent.com/u/80614857?v=4
+    contributions: 0
+    company: ""
+    organizations: ""
+
+  - rank: 9
     name: "Taban Denis Tabbi"
     login: "Tabandenis"
     avatarUrl: https://avatars.githubusercontent.com/u/62059466?v=4
@@ -179,7 +163,7 @@ users_public_contributions:
     company: "Agricola Interest national non governmental organizations"
     organizations: ""
 
-  - rank: 11
+  - rank: 10
     name: "zeko970"
     login: "Zeko970"
     avatarUrl: https://avatars.githubusercontent.com/u/63145452?u=9c70ff1c3cc007df8bc31cd67a38325801d93cb4&v=4
@@ -187,7 +171,7 @@ users_public_contributions:
     company: "Zakaria & Borthers co LIT"
     organizations: ""
 
-  - rank: 12
+  - rank: 11
     name: "Dut Majak"
     login: "DutM"
     avatarUrl: https://avatars.githubusercontent.com/u/42735905?u=846456d29e7f3a4b195c43b0c88887fd99161823&v=4
@@ -198,22 +182,14 @@ users_public_contributions:
 private_users:
 
   - rank: 1
-    name: "Ayume Francis"
-    login: "francis556"
-    avatarUrl: https://avatars.githubusercontent.com/u/60848250?u=1f76f4e659527d5a1a52fac36196703ca73ab140&v=4
-    contributions: 632
-    company: "@codejunub "
-    organizations: "codejunub"
-
-  - rank: 2
     name: "Codemate Tech"
     login: "codematetech"
     avatarUrl: https://avatars.githubusercontent.com/u/81685543?u=6e8d04b87a656f0c73d8277c534d89636242d84f&v=4
-    contributions: 29
+    contributions: 19
     company: "Codemate Tech "
     organizations: ""
 
-  - rank: 3
+  - rank: 2
     name: "Junior Billkid "
     login: "JuniorBillkid"
     avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
@@ -221,7 +197,7 @@ private_users:
     company: "U,D,S revolutionary"
     organizations: ""
 
-  - rank: 4
+  - rank: 3
     name: ""
     login: "Nunas455"
     avatarUrl: https://avatars.githubusercontent.com/u/72599873?u=68b6cd2ddf9c79e424cb58a2534e1b90160e2065&v=4
@@ -229,15 +205,7 @@ private_users:
     company: "Gogirlict"
     organizations: ""
 
-  - rank: 5
-    name: "Yak Kiir"
-    login: "Yak4-maker"
-    avatarUrl: https://avatars.githubusercontent.com/u/80614857?v=4
-    contributions: 0
-    company: ""
-    organizations: ""
-
-  - rank: 6
+  - rank: 4
     name: "Yason "
     login: "yason-20"
     avatarUrl: https://avatars.githubusercontent.com/u/76183270?u=6924b7e1ccc54758b26aa178cd2e7cf1281104f2&v=4
@@ -245,7 +213,7 @@ private_users:
     company: "Codemate Tech "
     organizations: ""
 
-  - rank: 7
+  - rank: 5
     name: "gatkouth nyuel"
     login: "gatkouth20"
     avatarUrl: https://avatars.githubusercontent.com/u/14345598?u=d30b46e5b466e47197ee8f4e0e90bbcbafb4e5e8&v=4
@@ -253,15 +221,7 @@ private_users:
     company: "st.lawrence university"
     organizations: ""
 
-  - rank: 8
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
-    contributions: 0
-    company: "Kampala university "
-    organizations: ""
-
-  - rank: 9
+  - rank: 6
     name: ""
     login: "Kinqly"
     avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
@@ -269,7 +229,23 @@ private_users:
     company: "Kinqly"
     organizations: ""
 
-  - rank: 10
+  - rank: 7
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
+    contributions: 0
+    company: "Kampala university "
+    organizations: ""
+
+  - rank: 8
+    name: "Yak Kiir"
+    login: "Yak4-maker"
+    avatarUrl: https://avatars.githubusercontent.com/u/80614857?v=4
+    contributions: 0
+    company: ""
+    organizations: ""
+
+  - rank: 9
     name: "Taban Denis Tabbi"
     login: "Tabandenis"
     avatarUrl: https://avatars.githubusercontent.com/u/62059466?v=4
@@ -277,7 +253,7 @@ private_users:
     company: "Agricola Interest national non governmental organizations"
     organizations: ""
 
-  - rank: 11
+  - rank: 10
     name: "zeko970"
     login: "Zeko970"
     avatarUrl: https://avatars.githubusercontent.com/u/63145452?u=9c70ff1c3cc007df8bc31cd67a38325801d93cb4&v=4
@@ -285,7 +261,7 @@ private_users:
     company: "Zakaria & Borthers co LIT"
     organizations: ""
 
-  - rank: 12
+  - rank: 11
     name: "Dut Majak"
     login: "DutM"
     avatarUrl: https://avatars.githubusercontent.com/u/42735905?u=846456d29e7f3a4b195c43b0c88887fd99161823&v=4
@@ -295,21 +271,9 @@ private_users:
 
 organizations:
 
-  - rank: 1
-    name: "codejunub"
-    membercount: 1
-
 public_contributions_organizations:
 
-  - rank: 1
-    name: "codejunub"
-    membercount: 1
-
 private_organizations:
-
-  - rank: 1
-    name: "codejunub"
-    membercount: 1
-generated: 2022-03-29 02:08:39.828953357 +0000 UTC m=+1.735139347
+generated: 2022-04-05 02:06:00.260735699 +0000 UTC m=+1.630897019
 min_followers_required: 0
-total_user_count: 12
+total_user_count: 11
