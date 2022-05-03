@@ -6,11 +6,19 @@ users:
     name: "Codemate Tech"
     login: "codematetech"
     avatarUrl: https://avatars.githubusercontent.com/u/81685543?u=6e8d04b87a656f0c73d8277c534d89636242d84f&v=4
-    contributions: 10
+    contributions: 13
     company: "Codemate Tech "
     organizations: ""
 
   - rank: 2
+    name: "Yason "
+    login: "yason-20"
+    avatarUrl: https://avatars.githubusercontent.com/u/76183270?u=6924b7e1ccc54758b26aa178cd2e7cf1281104f2&v=4
+    contributions: 2
+    company: "Codemate Tech "
+    organizations: ""
+
+  - rank: 3
     name: "Junior Billkid "
     login: "JuniorBillkid"
     avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
@@ -18,7 +26,7 @@ users:
     company: "U,D,S revolutionary"
     organizations: ""
 
-  - rank: 3
+  - rank: 4
     name: ""
     login: "Nunas455"
     avatarUrl: https://avatars.githubusercontent.com/u/72599873?u=68b6cd2ddf9c79e424cb58a2534e1b90160e2065&v=4
@@ -26,20 +34,12 @@ users:
     company: "Gogirlict"
     organizations: ""
 
-  - rank: 4
+  - rank: 5
     name: "Yak Kiir"
     login: "Yak4-maker"
     avatarUrl: https://avatars.githubusercontent.com/u/80614857?v=4
     contributions: 0
     company: ""
-    organizations: ""
-
-  - rank: 5
-    name: "Yason "
-    login: "yason-20"
-    avatarUrl: https://avatars.githubusercontent.com/u/76183270?u=6924b7e1ccc54758b26aa178cd2e7cf1281104f2&v=4
-    contributions: 0
-    company: "Codemate Tech "
     organizations: ""
 
   - rank: 6
@@ -51,19 +51,19 @@ users:
     organizations: ""
 
   - rank: 7
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
-    contributions: 0
-    company: "Kampala university "
-    organizations: ""
-
-  - rank: 8
     name: ""
     login: "Kinqly"
     avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
     contributions: 0
     company: "Kinqly"
+    organizations: ""
+
+  - rank: 8
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
+    contributions: 0
+    company: "Kampala university "
     organizations: ""
 
   - rank: 9
@@ -95,11 +95,19 @@ users_public_contributions:
     name: "Codemate Tech"
     login: "codematetech"
     avatarUrl: https://avatars.githubusercontent.com/u/81685543?u=6e8d04b87a656f0c73d8277c534d89636242d84f&v=4
-    contributions: 15
+    contributions: 19
     company: "Codemate Tech "
     organizations: ""
 
   - rank: 2
+    name: "Yason "
+    login: "yason-20"
+    avatarUrl: https://avatars.githubusercontent.com/u/76183270?u=6924b7e1ccc54758b26aa178cd2e7cf1281104f2&v=4
+    contributions: 3
+    company: "Codemate Tech "
+    organizations: ""
+
+  - rank: 3
     name: "Junior Billkid "
     login: "JuniorBillkid"
     avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
@@ -107,7 +115,7 @@ users_public_contributions:
     company: "U,D,S revolutionary"
     organizations: ""
 
-  - rank: 3
+  - rank: 4
     name: ""
     login: "Nunas455"
     avatarUrl: https://avatars.githubusercontent.com/u/72599873?u=68b6cd2ddf9c79e424cb58a2534e1b90160e2065&v=4
@@ -115,20 +123,12 @@ users_public_contributions:
     company: "Gogirlict"
     organizations: ""
 
-  - rank: 4
+  - rank: 5
     name: "Yak Kiir"
     login: "Yak4-maker"
     avatarUrl: https://avatars.githubusercontent.com/u/80614857?v=4
     contributions: 0
     company: ""
-    organizations: ""
-
-  - rank: 5
-    name: "Yason "
-    login: "yason-20"
-    avatarUrl: https://avatars.githubusercontent.com/u/76183270?u=6924b7e1ccc54758b26aa178cd2e7cf1281104f2&v=4
-    contributions: 0
-    company: "Codemate Tech "
     organizations: ""
 
   - rank: 6
@@ -140,19 +140,19 @@ users_public_contributions:
     organizations: ""
 
   - rank: 7
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
-    contributions: 0
-    company: "Kampala university "
-    organizations: ""
-
-  - rank: 8
     name: ""
     login: "Kinqly"
     avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
     contributions: 0
     company: "Kinqly"
+    organizations: ""
+
+  - rank: 8
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
+    contributions: 0
+    company: "Kampala university "
     organizations: ""
 
   - rank: 9
@@ -185,11 +185,19 @@ private_users:
     name: "Codemate Tech"
     login: "codematetech"
     avatarUrl: https://avatars.githubusercontent.com/u/81685543?u=6e8d04b87a656f0c73d8277c534d89636242d84f&v=4
-    contributions: 15
+    contributions: 19
     company: "Codemate Tech "
     organizations: ""
 
   - rank: 2
+    name: "Yason "
+    login: "yason-20"
+    avatarUrl: https://avatars.githubusercontent.com/u/76183270?u=6924b7e1ccc54758b26aa178cd2e7cf1281104f2&v=4
+    contributions: 3
+    company: "Codemate Tech "
+    organizations: ""
+
+  - rank: 3
     name: "Junior Billkid "
     login: "JuniorBillkid"
     avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
@@ -197,7 +205,7 @@ private_users:
     company: "U,D,S revolutionary"
     organizations: ""
 
-  - rank: 3
+  - rank: 4
     name: ""
     login: "Nunas455"
     avatarUrl: https://avatars.githubusercontent.com/u/72599873?u=68b6cd2ddf9c79e424cb58a2534e1b90160e2065&v=4
@@ -205,20 +213,12 @@ private_users:
     company: "Gogirlict"
     organizations: ""
 
-  - rank: 4
+  - rank: 5
     name: "Yak Kiir"
     login: "Yak4-maker"
     avatarUrl: https://avatars.githubusercontent.com/u/80614857?v=4
     contributions: 0
     company: ""
-    organizations: ""
-
-  - rank: 5
-    name: "Yason "
-    login: "yason-20"
-    avatarUrl: https://avatars.githubusercontent.com/u/76183270?u=6924b7e1ccc54758b26aa178cd2e7cf1281104f2&v=4
-    contributions: 0
-    company: "Codemate Tech "
     organizations: ""
 
   - rank: 6
@@ -230,19 +230,19 @@ private_users:
     organizations: ""
 
   - rank: 7
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
-    contributions: 0
-    company: "Kampala university "
-    organizations: ""
-
-  - rank: 8
     name: ""
     login: "Kinqly"
     avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
     contributions: 0
     company: "Kinqly"
+    organizations: ""
+
+  - rank: 8
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
+    contributions: 0
+    company: "Kampala university "
     organizations: ""
 
   - rank: 9
@@ -274,6 +274,6 @@ organizations:
 public_contributions_organizations:
 
 private_organizations:
-generated: 2022-04-26 01:34:28.052131247 +0000 UTC m=+1.453548751
+generated: 2022-05-03 01:06:51.228710408 +0000 UTC m=+1.218404815
 min_followers_required: 0
 total_user_count: 11
