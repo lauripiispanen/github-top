@@ -1,2 +1,6279 @@
 page: albania.html
 title: Albania
+users:
+
+  - rank: 1
+    name: "Erjon Gjino"
+    login: "erjongjino324"
+    avatarUrl: https://avatars.githubusercontent.com/u/92048933?v=4
+    contributions: 2352
+    company: "Vox Media Tirana"
+    organizations: ""
+
+  - rank: 2
+    name: "Xhuljo Dede"
+    login: "xhul10"
+    avatarUrl: https://avatars.githubusercontent.com/u/98643591?u=8ce47a956b4807a10956ee3a75d739953fbc1c82&v=4
+    contributions: 1787
+    company: ""
+    organizations: ""
+
+  - rank: 3
+    name: "Kristi"
+    login: "KristiSeraj"
+    avatarUrl: https://avatars.githubusercontent.com/u/65773022?u=811d31188155fc50407a5032d09a32259b1e636e&v=4
+    contributions: 1239
+    company: ""
+    organizations: "zero-to-mastery,MrMothDevs"
+
+  - rank: 4
+    name: "Endrit Novaku"
+    login: "endritNovaku"
+    avatarUrl: https://avatars.githubusercontent.com/u/62180779?v=4
+    contributions: 1165
+    company: ""
+    organizations: ""
+
+  - rank: 5
+    name: "Emilian Kasemi"
+    login: "theringsofsaturn"
+    avatarUrl: https://avatars.githubusercontent.com/u/60050952?u=a71ba48be64a96bb9c122597e605e3215f4730e0&v=4
+    contributions: 1116
+    company: ""
+    organizations: ""
+
+  - rank: 6
+    name: "Dionis Senja"
+    login: "d1once"
+    avatarUrl: https://avatars.githubusercontent.com/u/73392670?u=3f0d424c1c321d2803b4477d5c449df899c399de&v=4
+    contributions: 1039
+    company: "division5"
+    organizations: ""
+
+  - rank: 7
+    name: "Arenc"
+    login: "Arenc10"
+    avatarUrl: https://avatars.githubusercontent.com/u/77469839?v=4
+    contributions: 823
+    company: ""
+    organizations: ""
+
+  - rank: 8
+    name: "Klejvi Kapaj"
+    login: "kl3jvi"
+    avatarUrl: https://avatars.githubusercontent.com/u/40796367?u=5dbcd51e9e323e6d330799cd8233ce12500f9e75&v=4
+    contributions: 684
+    company: "@TheMobileLife"
+    organizations: ""
+
+  - rank: 9
+    name: "Glaukio"
+    login: "glaukiol1"
+    avatarUrl: https://avatars.githubusercontent.com/u/70211498?u=afa4c430beb78b96a03afe6df570f1f62fe514c1&v=4
+    contributions: 655
+    company: ""
+    organizations: "SpectreTechnologiesLLC"
+
+  - rank: 10
+    name: "Florian Nika"
+    login: "florianika"
+    avatarUrl: https://avatars.githubusercontent.com/u/7765263?u=c221e2f0b9e7cb72e50dd19bc78e3deebd01cade&v=4
+    contributions: 563
+    company: ""
+    organizations: ""
+
+  - rank: 11
+    name: "Anxhelo Lushka"
+    login: "AnXh3L0"
+    avatarUrl: https://avatars.githubusercontent.com/u/25004151?u=7df02207550901c767e2392f455c988f56678866&v=4
+    contributions: 478
+    company: "@uracreative "
+    organizations: "k9mail,AnySoftKeyboard,opensourcedesign,OpenLabsHackerspace,AdAway,uracreative,CityZenApp,Librefox"
+
+  - rank: 12
+    name: "Dashamir Hoxha"
+    login: "dashohoxha"
+    avatarUrl: https://avatars.githubusercontent.com/u/1495805?v=4
+    contributions: 468
+    company: ""
+    organizations: "B-Translator,Q-Translate,docker-scripts-archived,EasyGnuPG"
+
+  - rank: 13
+    name: "Emirjeta V"
+    login: "myelin0"
+    avatarUrl: https://avatars.githubusercontent.com/u/88782702?u=dda2182a84ec7732a031d781d27b3377712a5477&v=4
+    contributions: 392
+    company: " Full-Stack Developer"
+    organizations: ""
+
+  - rank: 14
+    name: "Gentjan Koli\u00e7aj"
+    login: "gentjankolicaj"
+    avatarUrl: https://avatars.githubusercontent.com/u/18643945?u=41b2d58a2ed0ca21a5dedc9f25cff60aba655141&v=4
+    contributions: 387
+    company: ""
+    organizations: ""
+
+  - rank: 15
+    name: "Mateo Malaj"
+    login: "911mateo911"
+    avatarUrl: https://avatars.githubusercontent.com/u/68548704?v=4
+    contributions: 382
+    company: ""
+    organizations: ""
+
+  - rank: 16
+    name: "Albdroid.AL"
+    login: "SxtBox"
+    avatarUrl: https://avatars.githubusercontent.com/u/60861585?u=b6f1aa1382c67ce06dff922c4896c8950be34ece&v=4
+    contributions: 374
+    company: "PHP Framework"
+    organizations: "Albdroid-AL"
+
+  - rank: 17
+    name: "Denald Hushi"
+    login: "denaldhushi"
+    avatarUrl: https://avatars.githubusercontent.com/u/20266205?u=25ca4d9da8bdce46dfc8a9214c2f046f5eee2e25&v=4
+    contributions: 341
+    company: ""
+    organizations: ""
+
+  - rank: 18
+    name: "Valentin Lica"
+    login: "ValentinHLica"
+    avatarUrl: https://avatars.githubusercontent.com/u/74852397?u=301bf74d1726006af65097b937068725bc7f228c&v=4
+    contributions: 329
+    company: ""
+    organizations: ""
+
+  - rank: 19
+    name: "\u304a\u308b\u3052\u3059"
+    login: "orges"
+    avatarUrl: https://avatars.githubusercontent.com/u/23742757?u=96dd3362862d1aebafdf7a3f58b7123f4f3feec8&v=4
+    contributions: 313
+    company: ""
+    organizations: "aospa-whyred,proton-whyred,proton-vayu"
+
+  - rank: 20
+    name: "Vjola Shtishi"
+    login: "vshtishi"
+    avatarUrl: https://avatars.githubusercontent.com/u/62517004?u=c10df1fa081f9506ed9bd705a409c4926118cfd3&v=4
+    contributions: 310
+    company: ""
+    organizations: ""
+
+  - rank: 21
+    name: "Julian \u00c7uni"
+    login: "juliancuni"
+    avatarUrl: https://avatars.githubusercontent.com/u/8204040?u=d68da1bc2b70d417caca647e4be1d498be3cb4d4&v=4
+    contributions: 248
+    company: "MicroServices Albania"
+    organizations: ""
+
+  - rank: 22
+    name: "Klajdi \u00c7aushi"
+    login: "klajdicaushi"
+    avatarUrl: https://avatars.githubusercontent.com/u/76052877?u=8e571bd379bb8fe921c829623fbd781ca988a033&v=4
+    contributions: 242
+    company: "CardoAI"
+    organizations: ""
+
+  - rank: 23
+    name: "Sheni Hamitaj"
+    login: "jajosheni"
+    avatarUrl: https://avatars.githubusercontent.com/u/23244572?u=e8d899811b3ae6d298bebdb3bba2910203e5abab&v=4
+    contributions: 240
+    company: "@circuly-dev"
+    organizations: "circuly-dev"
+
+  - rank: 24
+    name: "Orlando Malo"
+    login: "OrlandoMalo505"
+    avatarUrl: https://avatars.githubusercontent.com/u/82452307?u=dee7fa78745d752cc9c2060a3f90f01a41f98155&v=4
+    contributions: 239
+    company: "TeamSystem"
+    organizations: ""
+
+  - rank: 25
+    name: "Joan Sk\u00ebnderi"
+    login: "joanskenderi"
+    avatarUrl: https://avatars.githubusercontent.com/u/86119045?u=af149a0b357aa0711f173344c5a67b4956dd441d&v=4
+    contributions: 238
+    company: "Helius Systems"
+    organizations: ""
+
+  - rank: 26
+    name: "Klodian shaba"
+    login: "klodianshaba"
+    avatarUrl: https://avatars.githubusercontent.com/u/24659571?u=c5b0b2a6c3ed71a08cad38da752817140a52714e&v=4
+    contributions: 233
+    company: ""
+    organizations: ""
+
+  - rank: 27
+    name: "Sadri"
+    login: "sadripervana"
+    avatarUrl: https://avatars.githubusercontent.com/u/89244938?u=d7fb3f3cadb90225e864732c9bdd816c67ba9141&v=4
+    contributions: 227
+    company: ""
+    organizations: ""
+
+  - rank: 28
+    name: "Hideki Natsumi"
+    login: "HidekiNatsumi"
+    avatarUrl: https://avatars.githubusercontent.com/u/96385473?u=b30c2d7ec89cfc61933f8e32d9e5952aa79f1159&v=4
+    contributions: 220
+    company: "UNYT"
+    organizations: ""
+
+  - rank: 29
+    name: "Joni Baboci"
+    login: "dbaboci"
+    avatarUrl: https://avatars.githubusercontent.com/u/2484152?u=10b75e8923d6424dd0a9851617f1337782a4e14c&v=4
+    contributions: 214
+    company: "getlayer.xyz"
+    organizations: "bashkiatirane"
+
+  - rank: 30
+    name: "undefined"
+    login: "nikolliervin"
+    avatarUrl: https://avatars.githubusercontent.com/u/45341025?u=c3a087722d4ce8e2285d53d542c4f123e8aeec02&v=4
+    contributions: 201
+    company: ""
+    organizations: ""
+
+  - rank: 31
+    name: ""
+    login: "Edes2128"
+    avatarUrl: https://avatars.githubusercontent.com/u/51410696?u=6c64326b83508fb93b73ae9d72e42ee05a06cf76&v=4
+    contributions: 200
+    company: "Sulce"
+    organizations: ""
+
+  - rank: 32
+    name: "Ergin"
+    login: "ErginDapaj"
+    avatarUrl: https://avatars.githubusercontent.com/u/39377884?u=f90e339d076f470db5a8566eefe3bf2162d3fd1e&v=4
+    contributions: 191
+    company: ""
+    organizations: "MrMothDevs,CrypTipp"
+
+  - rank: 33
+    name: ""
+    login: "xhiti"
+    avatarUrl: https://avatars.githubusercontent.com/u/51859550?v=4
+    contributions: 184
+    company: "Remote"
+    organizations: ""
+
+  - rank: 34
+    name: "Sokol Paja"
+    login: "kolpaja"
+    avatarUrl: https://avatars.githubusercontent.com/u/79046681?u=8ccb77be4bc5a37a9251ec746f4dea5c9d3a6d87&v=4
+    contributions: 183
+    company: "Codevider"
+    organizations: ""
+
+  - rank: 35
+    name: "Ermal"
+    login: "lamre96"
+    avatarUrl: https://avatars.githubusercontent.com/u/63654158?v=4
+    contributions: 176
+    company: ""
+    organizations: ""
+
+  - rank: 36
+    name: "Jurgen Gjon\u00e7ari"
+    login: "jurgengjoncari"
+    avatarUrl: https://avatars.githubusercontent.com/u/14801240?u=2ca33b76d1faef77ddc13ae3cc17adff009546cc&v=4
+    contributions: 175
+    company: ""
+    organizations: ""
+
+  - rank: 37
+    name: "Fabricio Pashaj"
+    login: "fabriciopashaj"
+    avatarUrl: https://avatars.githubusercontent.com/u/79104733?u=c66507b3e23ecde57fe2df0ab523ee3081b722c0&v=4
+    contributions: 168
+    company: ""
+    organizations: ""
+
+  - rank: 38
+    name: "Roland Doda"
+    login: "Rolanddoda"
+    avatarUrl: https://avatars.githubusercontent.com/u/18482346?u=9edc330c7815a52c4438ba9827af194dde186bff&v=4
+    contributions: 159
+    company: ""
+    organizations: ""
+
+  - rank: 39
+    name: "Enea Jahollari"
+    login: "eneajaho"
+    avatarUrl: https://avatars.githubusercontent.com/u/25394362?u=85a8502a531b6b9c71683baef3018f59919b9c8b&v=4
+    contributions: 155
+    company: "ATIS"
+    organizations: ""
+
+  - rank: 40
+    name: "Xhoel Bano"
+    login: "xhoel-bano"
+    avatarUrl: https://avatars.githubusercontent.com/u/77228132?u=c8e5a32801fcd3a86f2ab1caadd3c3c9bb45dbe4&v=4
+    contributions: 152
+    company: ""
+    organizations: ""
+
+  - rank: 41
+    name: ""
+    login: "igiann"
+    avatarUrl: https://avatars.githubusercontent.com/u/15004989?u=9c2a99544e2fb5aa3b1b008f13a4a9133ef1479e&v=4
+    contributions: 145
+    company: "UPT"
+    organizations: ""
+
+  - rank: 42
+    name: "Saimir Baraj"
+    login: "Akirozen"
+    avatarUrl: https://avatars.githubusercontent.com/u/84786341?u=454f2d211816daf4b9915d2792287c38deb2efc0&v=4
+    contributions: 139
+    company: ""
+    organizations: ""
+
+  - rank: 43
+    name: "Suljot Gjoka"
+    login: "pi0x73"
+    avatarUrl: https://avatars.githubusercontent.com/u/58447776?u=f94d95cbe6924ab6f5541efd3103ba89714e295b&v=4
+    contributions: 139
+    company: ""
+    organizations: ""
+
+  - rank: 44
+    name: "Ebubeker"
+    login: "Ebubeker"
+    avatarUrl: https://avatars.githubusercontent.com/u/60944813?v=4
+    contributions: 138
+    company: ""
+    organizations: ""
+
+  - rank: 45
+    name: "Rando Shtishi"
+    login: "rshtishi"
+    avatarUrl: https://avatars.githubusercontent.com/u/42577665?u=d1c4d52226a5a08395021652ecb4fb6ad459fde3&v=4
+    contributions: 133
+    company: ""
+    organizations: ""
+
+  - rank: 46
+    name: "Elton Memishaj"
+    login: "Elton47"
+    avatarUrl: https://avatars.githubusercontent.com/u/11498437?u=12baa054ca4a4a857ca9187c8d19102484f3bf30&v=4
+    contributions: 132
+    company: ""
+    organizations: ""
+
+  - rank: 47
+    name: "Lejdi Koci"
+    login: "tigone"
+    avatarUrl: https://avatars.githubusercontent.com/u/76665911?v=4
+    contributions: 129
+    company: "Kreatx"
+    organizations: ""
+
+  - rank: 48
+    name: "Kevin Shehu"
+    login: "kevinshehu"
+    avatarUrl: https://avatars.githubusercontent.com/u/57314395?u=a2793cb75ed650f99802bfe422ea1865ca4f31e7&v=4
+    contributions: 128
+    company: ""
+    organizations: ""
+
+  - rank: 49
+    name: "Edison Ponari"
+    login: "eponari"
+    avatarUrl: https://avatars.githubusercontent.com/u/61910013?u=318ed7435aaaef48cacb7cd6f0e09a35263b9231&v=4
+    contributions: 126
+    company: ""
+    organizations: ""
+
+  - rank: 50
+    name: "Samir Vlla\u00e7o"
+    login: "samiscold"
+    avatarUrl: https://avatars.githubusercontent.com/u/62956581?u=83c85c0bbf5393033c8742ed151a294b55798120&v=4
+    contributions: 124
+    company: "@Spinaton"
+    organizations: ""
+
+  - rank: 51
+    name: "Malfor Saja"
+    login: "malforsaja"
+    avatarUrl: https://avatars.githubusercontent.com/u/20798247?u=3ed1166547abad87554347afd746335f7bbbfc89&v=4
+    contributions: 122
+    company: "Airfind"
+    organizations: ""
+
+  - rank: 52
+    name: "Michael Shollaj"
+    login: "Michael-Shollaj"
+    avatarUrl: https://avatars.githubusercontent.com/u/55102646?u=2a0f029dda4d1c9197dd0e910a90dc25c74a0f07&v=4
+    contributions: 116
+    company: ""
+    organizations: ""
+
+  - rank: 53
+    name: "Vena Llanaj"
+    login: "Venallanaj"
+    avatarUrl: https://avatars.githubusercontent.com/u/71196658?u=f7c456642846459dcb21aceb4058799b205637b5&v=4
+    contributions: 114
+    company: "Freelencer"
+    organizations: ""
+
+  - rank: 54
+    name: "Edis Hasaj"
+    login: "edisnord"
+    avatarUrl: https://avatars.githubusercontent.com/u/87529116?v=4
+    contributions: 112
+    company: "iKons"
+    organizations: ""
+
+  - rank: 55
+    name: "Algent Albrahimi"
+    login: "algent-al"
+    avatarUrl: https://avatars.githubusercontent.com/u/46356616?u=c488ce6f1089332191ca2e85c1d37ef7dd5488bb&v=4
+    contributions: 112
+    company: ""
+    organizations: ""
+
+  - rank: 56
+    name: "Alban Loku"
+    login: "91alban"
+    avatarUrl: https://avatars.githubusercontent.com/u/71338813?u=96ab9e054e1f3b1a0224157e2946401d36d84c8b&v=4
+    contributions: 112
+    company: "SabaNet"
+    organizations: ""
+
+  - rank: 57
+    name: ""
+    login: "evisvasiu"
+    avatarUrl: https://avatars.githubusercontent.com/u/45014223?v=4
+    contributions: 110
+    company: "S2 Global"
+    organizations: ""
+
+  - rank: 58
+    name: "Enerida Lama"
+    login: "eneridalama"
+    avatarUrl: https://avatars.githubusercontent.com/u/65872895?u=0ef50f8240d83926aef6984a3e5669be15a2e084&v=4
+    contributions: 110
+    company: ""
+    organizations: ""
+
+  - rank: 59
+    name: "Oerd Bej"
+    login: "OerdBej"
+    avatarUrl: https://avatars.githubusercontent.com/u/69147540?u=acc2e2b5f0850907de627739714022133484f483&v=4
+    contributions: 107
+    company: ""
+    organizations: ""
+
+  - rank: 60
+    name: "Kilton Pisli"
+    login: "kiltonpisli"
+    avatarUrl: https://avatars.githubusercontent.com/u/59768393?u=5ddb985b966bf77dfca58f1075ed3f76fa7da5fe&v=4
+    contributions: 106
+    company: "Smartwork"
+    organizations: ""
+
+  - rank: 61
+    name: "Redjon Zaci"
+    login: "redjonzaci"
+    avatarUrl: https://avatars.githubusercontent.com/u/73707194?v=4
+    contributions: 106
+    company: "Ritech International AG"
+    organizations: ""
+
+  - rank: 62
+    name: "Vitaliy K."
+    login: "vk-en"
+    avatarUrl: https://avatars.githubusercontent.com/u/17083974?u=1a36b4d09a074578c10fa6d1a1b8f1631d4778dd&v=4
+    contributions: 104
+    company: "AI Solutions"
+    organizations: ""
+
+  - rank: 63
+    name: "Dhimiter Gero"
+    login: "dgero22"
+    avatarUrl: https://avatars.githubusercontent.com/u/59712073?v=4
+    contributions: 103
+    company: ""
+    organizations: ""
+
+  - rank: 64
+    name: "Loren Meta"
+    login: "LorenMeta"
+    avatarUrl: https://avatars.githubusercontent.com/u/74499033?u=c0de8a60347983bd57a07fbde448963ce8064ada&v=4
+    contributions: 98
+    company: "Facilization"
+    organizations: ""
+
+  - rank: 65
+    name: "erjusstafa"
+    login: "erjusstafa"
+    avatarUrl: https://avatars.githubusercontent.com/u/74688301?u=9caf1130c2edfc688061e1756a4b80386029a890&v=4
+    contributions: 98
+    company: ""
+    organizations: ""
+
+  - rank: 66
+    name: "Arian Kapllanaj"
+    login: "Arian27Kapllanaj"
+    avatarUrl: https://avatars.githubusercontent.com/u/62213586?u=fe1e8e308dc1484d272372e016f32c956b28ba20&v=4
+    contributions: 97
+    company: "Aladini"
+    organizations: ""
+
+  - rank: 67
+    name: "Betim Beja"
+    login: "BetimBeja"
+    avatarUrl: https://avatars.githubusercontent.com/u/11160171?u=b90556136c915d545eb2cc97fde8d3486f9a802a&v=4
+    contributions: 97
+    company: "Shko Online"
+    organizations: "Shko-Online"
+
+  - rank: 68
+    name: "Rei Ikonomi"
+    login: "onomdev"
+    avatarUrl: https://avatars.githubusercontent.com/u/94234882?u=fa6be52a8ebfd65db1be651946cf2bb7b38ff00e&v=4
+    contributions: 96
+    company: "Idealdevs"
+    organizations: ""
+
+  - rank: 69
+    name: "ILIOS"
+    login: "treshi"
+    avatarUrl: https://avatars.githubusercontent.com/u/9460646?u=605e0aa2fc8d39a1932597b5bd4fdc00405ad574&v=4
+    contributions: 95
+    company: "strong iptv"
+    organizations: ""
+
+  - rank: 70
+    name: "Euglen Mulaj"
+    login: "euglen-mulaj"
+    avatarUrl: https://avatars.githubusercontent.com/u/97746080?u=7b43c3144acad10a9aea132147bbb428e83150c9&v=4
+    contributions: 95
+    company: "DOT"
+    organizations: ""
+
+  - rank: 71
+    name: "Daniele Llazo"
+    login: "DaNiElE-1999"
+    avatarUrl: https://avatars.githubusercontent.com/u/87183305?u=ced385754ccd7ce1808525e2caa05ad8d31e2855&v=4
+    contributions: 95
+    company: ""
+    organizations: ""
+
+  - rank: 72
+    name: "\u01acHE \u042fAW \u2623"
+    login: "theraw"
+    avatarUrl: https://avatars.githubusercontent.com/u/32969774?u=6b359971e15685fb0359e6a8c065a399b40dc228&v=4
+    contributions: 94
+    company: "@nasa (The Dream)"
+    organizations: "SantaBarbaraCityCollege"
+
+  - rank: 73
+    name: "Denis Ismailaj"
+    login: "denis-ismailaj"
+    avatarUrl: https://avatars.githubusercontent.com/u/20902736?u=8a638811801b1aec953a5153a6b13223ae65a292&v=4
+    contributions: 90
+    company: ""
+    organizations: "oficina-hacker-team"
+
+  - rank: 74
+    name: "Fatjon Rami"
+    login: "sly503"
+    avatarUrl: https://avatars.githubusercontent.com/u/67649108?v=4
+    contributions: 88
+    company: ""
+    organizations: ""
+
+  - rank: 75
+    name: "Aldison Lluka"
+    login: "aldisonll"
+    avatarUrl: https://avatars.githubusercontent.com/u/34491203?u=bc6517f13df20d0f29acc8116a6af7abe82c7d5f&v=4
+    contributions: 86
+    company: ""
+    organizations: ""
+
+  - rank: 76
+    name: "Arbis Malasi"
+    login: "arbiss1"
+    avatarUrl: https://avatars.githubusercontent.com/u/58811995?u=223c667e3795022acdf82294e5fae129b7491a5e&v=4
+    contributions: 86
+    company: "Teamsystem"
+    organizations: ""
+
+  - rank: 77
+    name: "KlementBinaj"
+    login: "BlitzBlitz"
+    avatarUrl: https://avatars.githubusercontent.com/u/19191469?u=affa53c0e42fba4a2cffd933aadda90e75358f31&v=4
+    contributions: 86
+    company: ""
+    organizations: ""
+
+  - rank: 78
+    name: "Rexhino Kovaci"
+    login: "rexhinokovaci"
+    avatarUrl: https://avatars.githubusercontent.com/u/55946528?u=e9de3d84d08dfbb898b4131b7a655adee02c3f22&v=4
+    contributions: 84
+    company: "@modexgit"
+    organizations: "modexgit"
+
+  - rank: 79
+    name: "Eris Adhami"
+    login: "eriadhami"
+    avatarUrl: https://avatars.githubusercontent.com/u/45641379?v=4
+    contributions: 83
+    company: "Akvelon, Inc."
+    organizations: ""
+
+  - rank: 80
+    name: "Fatjon Rrapaj"
+    login: "FatjonRrapaj"
+    avatarUrl: https://avatars.githubusercontent.com/u/38084457?u=37b8c15c78f98f0395e6e9a1918b3aff898de015&v=4
+    contributions: 82
+    company: "Proxify"
+    organizations: ""
+
+  - rank: 81
+    name: "Nadia"
+    login: "nadia77-a"
+    avatarUrl: https://avatars.githubusercontent.com/u/52795973?v=4
+    contributions: 81
+    company: "Moveo Albania"
+    organizations: ""
+
+  - rank: 82
+    name: "Klement Omeri"
+    login: "klement97"
+    avatarUrl: https://avatars.githubusercontent.com/u/44920963?u=f294f2bc8c5aab7dbea0465a66f76546be197a3c&v=4
+    contributions: 80
+    company: "@CardoAI"
+    organizations: ""
+
+  - rank: 83
+    name: "arsildo"
+    login: "arsildo"
+    avatarUrl: https://avatars.githubusercontent.com/u/51417052?u=4ce52b767ffa4eca2877fb039fe54949cdfcc4f7&v=4
+    contributions: 79
+    company: ""
+    organizations: ""
+
+  - rank: 84
+    name: ""
+    login: "erdodule"
+    avatarUrl: https://avatars.githubusercontent.com/u/17169667?u=6cebe20ef4e0412a09b30c1fa204ac0941a7c0bb&v=4
+    contributions: 79
+    company: ""
+    organizations: ""
+
+  - rank: 85
+    name: "Besjana Jacaj"
+    login: "besatb21"
+    avatarUrl: https://avatars.githubusercontent.com/u/81251239?v=4
+    contributions: 77
+    company: ""
+    organizations: ""
+
+  - rank: 86
+    name: "Valon Januzaj"
+    login: "vjanz"
+    avatarUrl: https://avatars.githubusercontent.com/u/25842655?u=9748136eb1b13b497b5719bed61b6752d2378b32&v=4
+    contributions: 75
+    company: ""
+    organizations: ""
+
+  - rank: 87
+    name: "Gerald Haxhi"
+    login: "zeroabsolute"
+    avatarUrl: https://avatars.githubusercontent.com/u/24575333?u=fad63f0bad930d3066fa2e7c9ab16e97d1b8a03c&v=4
+    contributions: 73
+    company: "Softup Technologies (https://softup.co/)"
+    organizations: ""
+
+  - rank: 88
+    name: "Rinald Shabani"
+    login: "rinald"
+    avatarUrl: https://avatars.githubusercontent.com/u/30338022?u=73aa53856ad44af0c7026c0fa3ca990883e99be2&v=4
+    contributions: 72
+    company: ""
+    organizations: "dsc-epoka"
+
+  - rank: 89
+    name: "Redian Marku"
+    login: "redianmarku"
+    avatarUrl: https://avatars.githubusercontent.com/u/42848358?u=d767bb9f46c873abc19dbce23da48ca4fa359dce&v=4
+    contributions: 72
+    company: "TopNotch Programmer"
+    organizations: ""
+
+  - rank: 90
+    name: "Flavio Pernoj"
+    login: "BlackHat2024"
+    avatarUrl: https://avatars.githubusercontent.com/u/57356228?u=89463f59bbae5585fa61f833590db56070e5ead6&v=4
+    contributions: 72
+    company: ""
+    organizations: ""
+
+  - rank: 91
+    name: "Detjon Mataj"
+    login: "detjonmataj"
+    avatarUrl: https://avatars.githubusercontent.com/u/84277348?u=10e0cfdb3afc2055fc4396bccbd2a404eee12db0&v=4
+    contributions: 71
+    company: ""
+    organizations: ""
+
+  - rank: 92
+    name: "Gabriel"
+    login: "GabrielKuka"
+    avatarUrl: https://avatars.githubusercontent.com/u/17888328?u=9a422b8992bd9059db9bea3fefc6ba411d4e8fa8&v=4
+    contributions: 71
+    company: ""
+    organizations: ""
+
+  - rank: 93
+    name: "Samuel Bushi"
+    login: "samuelbushi"
+    avatarUrl: https://avatars.githubusercontent.com/u/43500751?u=0819206426bc95226ede5162ddfd4a91a38c758d&v=4
+    contributions: 68
+    company: "Blispy Co."
+    organizations: "wildfild,dlabdesigns,EssDB,zitpal"
+
+  - rank: 94
+    name: "Rubin Elezi"
+    login: "RUBINELEZI"
+    avatarUrl: https://avatars.githubusercontent.com/u/57372143?u=6551c29f72805b485b6eeffe78d2b46f52dea2ec&v=4
+    contributions: 65
+    company: "Freelance "
+    organizations: ""
+
+  - rank: 95
+    name: "Arbri \u00e7o\u00e7ka"
+    login: "cocka11"
+    avatarUrl: https://avatars.githubusercontent.com/u/35626219?u=e480a0ec036e694eba02e45648a55e3b7bcb8117&v=4
+    contributions: 64
+    company: ""
+    organizations: ""
+
+  - rank: 96
+    name: ""
+    login: "ropapermaker"
+    avatarUrl: https://avatars.githubusercontent.com/u/58087674?u=f201b9e9f3709475368a75c89f106fc38f60fe08&v=4
+    contributions: 64
+    company: ""
+    organizations: ""
+
+  - rank: 97
+    name: ""
+    login: "KullaA"
+    avatarUrl: https://avatars.githubusercontent.com/u/44673003?u=9fb75823ed71f82ef7e44ed9edf1a59abbfc6c8e&v=4
+    contributions: 63
+    company: ""
+    organizations: ""
+
+  - rank: 98
+    name: "Jozi Bashaj"
+    login: "CodeAlb"
+    avatarUrl: https://avatars.githubusercontent.com/u/21162347?u=59141703410d43f3f14b3765892cddfd30500214&v=4
+    contributions: 62
+    company: "Freelance"
+    organizations: ""
+
+  - rank: 99
+    name: "Edon Abdullahu"
+    login: "imedonii"
+    avatarUrl: https://avatars.githubusercontent.com/u/64871089?u=158c535367aa97de8ec31f6965a0d394e41020e0&v=4
+    contributions: 62
+    company: ""
+    organizations: ""
+
+  - rank: 100
+    name: "Izabela Bakollari"
+    login: "IzabelaBakollari"
+    avatarUrl: https://avatars.githubusercontent.com/u/7606423?u=017f7c54500b679e2a418468447b9020d6702c21&v=4
+    contributions: 62
+    company: ""
+    organizations: ""
+
+  - rank: 101
+    name: "Marvin Hoxha"
+    login: "marvinhoxha"
+    avatarUrl: https://avatars.githubusercontent.com/u/64254074?u=130efb0180696318a0ad95a206d6c1121df0aff8&v=4
+    contributions: 62
+    company: "@data-max-hq"
+    organizations: "data-max-hq"
+
+  - rank: 102
+    name: "Erges Mema"
+    login: "ergesmema"
+    avatarUrl: https://avatars.githubusercontent.com/u/77251761?v=4
+    contributions: 60
+    company: "University of New York Tirana"
+    organizations: ""
+
+  - rank: 103
+    name: "Webverse"
+    login: "thewebverse"
+    avatarUrl: https://avatars.githubusercontent.com/u/32201875?u=b48e05d77b5a9b8bc5bba86787f2a229cdbaeec7&v=4
+    contributions: 58
+    company: ""
+    organizations: ""
+
+  - rank: 104
+    name: "Rinor Hoxha"
+    login: "rinor"
+    avatarUrl: https://avatars.githubusercontent.com/u/1160245?u=8a05f38742ebad245297f85e494cffa932d49f14&v=4
+    contributions: 57
+    company: "BAITS sh.p.k"
+    organizations: "baits-al"
+
+  - rank: 105
+    name: "Jon Mukaj"
+    login: "JonMukaj"
+    avatarUrl: https://avatars.githubusercontent.com/u/78703349?v=4
+    contributions: 55
+    company: ""
+    organizations: ""
+
+  - rank: 106
+    name: ""
+    login: "geni94"
+    avatarUrl: https://avatars.githubusercontent.com/u/13197721?u=439ffdbf496766c2eb2200833050d62bd91d5b08&v=4
+    contributions: 55
+    company: "Ritech Solutions"
+    organizations: ""
+
+  - rank: 107
+    name: "Emiljan Dusha"
+    login: "goneHaywire"
+    avatarUrl: https://avatars.githubusercontent.com/u/57961738?u=f894945c69e8f08f66fa5d6644204f1aaa2a24b6&v=4
+    contributions: 55
+    company: ""
+    organizations: ""
+
+  - rank: 108
+    name: "Polina"
+    login: "owosrl"
+    avatarUrl: https://avatars.githubusercontent.com/u/31825825?u=c2682347033b7fc38331e6dbb37d6d0632662210&v=4
+    contributions: 54
+    company: ""
+    organizations: ""
+
+  - rank: 109
+    name: "Arlindi"
+    login: "arlind-shkrela"
+    avatarUrl: https://avatars.githubusercontent.com/u/26505746?u=c04358f224cb22dee28de4bea063ad4dc53cadc1&v=4
+    contributions: 53
+    company: "MCT, Senior Software Engineer specialised in .NET, React, Azure and DevOps (Freelance Consultant)"
+    organizations: ""
+
+  - rank: 110
+    name: "Orhan Asllani"
+    login: "orhanasllani"
+    avatarUrl: https://avatars.githubusercontent.com/u/48629225?v=4
+    contributions: 53
+    company: ""
+    organizations: ""
+
+  - rank: 111
+    name: "Kristian Dhimitri"
+    login: "kristerus"
+    avatarUrl: https://avatars.githubusercontent.com/u/74469079?u=dfd48c3facb699dcf74e6fadfdcf3a7b2a88232d&v=4
+    contributions: 52
+    company: "Cyclus Corporations"
+    organizations: ""
+
+  - rank: 112
+    name: "Gledi Caushaj"
+    login: "gledi"
+    avatarUrl: https://avatars.githubusercontent.com/u/411820?u=4cc80e5b76d24b46d3a89aa8df69c13da428e016&v=4
+    contributions: 52
+    company: "Ritech Solutions"
+    organizations: ""
+
+  - rank: 113
+    name: "Anastasia Fadeeva"
+    login: "AnFD99"
+    avatarUrl: https://avatars.githubusercontent.com/u/95511071?u=38d5f241fb7868a4a9e27fe8ce5c15b4fb59cf46&v=4
+    contributions: 51
+    company: ""
+    organizations: ""
+
+  - rank: 114
+    name: "Edison Neza"
+    login: "edisonneza"
+    avatarUrl: https://avatars.githubusercontent.com/u/21251453?u=01b85152a84b5c283b1ee03072ee80b25a5ad357&v=4
+    contributions: 50
+    company: "Vivido Software"
+    organizations: ""
+
+  - rank: 115
+    name: "Oraldo Hysaj"
+    login: "oraldo666"
+    avatarUrl: https://avatars.githubusercontent.com/u/87261813?v=4
+    contributions: 50
+    company: ""
+    organizations: ""
+
+  - rank: 116
+    name: "mshevroja"
+    login: "mshevroja"
+    avatarUrl: https://avatars.githubusercontent.com/u/47557332?u=ed4e5c1cdcacc5fb6ec4a5989884ca7addc9ba4a&v=4
+    contributions: 50
+    company: "@morixshpk"
+    organizations: ""
+
+  - rank: 117
+    name: "Ledio Ko\u00e7i"
+    login: "lediokoci1"
+    avatarUrl: https://avatars.githubusercontent.com/u/63104818?u=2328dfc5bf387228c2c0d63de05997b4f968b6ec&v=4
+    contributions: 49
+    company: ""
+    organizations: ""
+
+  - rank: 118
+    name: "Elvjo Fejzo"
+    login: "efejzo20"
+    avatarUrl: https://avatars.githubusercontent.com/u/77446151?u=abc08e860d2fb32b2ec66a80a77b41121ba937f8&v=4
+    contributions: 49
+    company: "Epoka University"
+    organizations: "data-max-hq"
+
+  - rank: 119
+    name: "Joralda Molla"
+    login: "JoraldaM"
+    avatarUrl: https://avatars.githubusercontent.com/u/64036982?u=6b9b4d165ad7609fe7267bf13368ef7bccfdebb1&v=4
+    contributions: 49
+    company: "ATIS"
+    organizations: ""
+
+  - rank: 120
+    name: "Xhoni Shega"
+    login: "xhoni01"
+    avatarUrl: https://avatars.githubusercontent.com/u/61250993?u=e3603c74832af199cd8752bd7a9b730d6dd9a9ed&v=4
+    contributions: 49
+    company: "First Security Systems Integrator"
+    organizations: ""
+
+  - rank: 121
+    name: "Astrit Demiri"
+    login: "astritdemiri11"
+    avatarUrl: https://avatars.githubusercontent.com/u/11302890?u=00c1c4012166090ca2e27df6ffbcef7fd0825b93&v=4
+    contributions: 48
+    company: "BlackSoft"
+    organizations: ""
+
+  - rank: 122
+    name: "Marsel Sotiri"
+    login: "marselsotiri"
+    avatarUrl: https://avatars.githubusercontent.com/u/71046101?u=d297ccfa00e0155c773f905e7bdc602c083e9e9f&v=4
+    contributions: 48
+    company: ""
+    organizations: ""
+
+  - rank: 123
+    name: "Kostandin Vllahu"
+    login: "kostandinvllahu"
+    avatarUrl: https://avatars.githubusercontent.com/u/33177557?u=e553eb7c8d31485b485284f179429ec41cddc353&v=4
+    contributions: 47
+    company: ""
+    organizations: ""
+
+  - rank: 124
+    name: "Algert Shevroja"
+    login: "algert072"
+    avatarUrl: https://avatars.githubusercontent.com/u/91168326?u=f3cd0770fb45dd5264155ce2e261f68456ed6adf&v=4
+    contributions: 47
+    company: ""
+    organizations: ""
+
+  - rank: 125
+    name: "Nail"
+    login: "HexClan-dev"
+    avatarUrl: https://avatars.githubusercontent.com/u/24881973?u=1b64b20509c54f6a644863e75e6bbec84cc409a2&v=4
+    contributions: 46
+    company: "@Brizo-Consulting-gmbh"
+    organizations: ""
+
+  - rank: 126
+    name: "Aleksander"
+    login: "AleksanderDishnica"
+    avatarUrl: https://avatars.githubusercontent.com/u/2512342?u=6613ba5b45c5cef851693406415da739c6283994&v=4
+    contributions: 45
+    company: ""
+    organizations: ""
+
+  - rank: 127
+    name: "Joan Janku"
+    login: "joanjanku2000"
+    avatarUrl: https://avatars.githubusercontent.com/u/78973605?u=6f7c8d1dfce6248a250641574eaf832de991b3d0&v=4
+    contributions: 45
+    company: ""
+    organizations: ""
+
+  - rank: 128
+    name: "Erlis Balla"
+    login: "erlisb"
+    avatarUrl: https://avatars.githubusercontent.com/u/40136986?u=87c77147daf36e71e319ac38c6e4f7606195d3fc&v=4
+    contributions: 44
+    company: "Lufthansa Industry Solutions"
+    organizations: ""
+
+  - rank: 129
+    name: "Qinx"
+    login: "qxzzxq"
+    avatarUrl: https://avatars.githubusercontent.com/u/17144939?v=4
+    contributions: 43
+    company: ""
+    organizations: "SETL-Framework"
+
+  - rank: 130
+    name: "Hugues BUREAU"
+    login: "8byr0"
+    avatarUrl: https://avatars.githubusercontent.com/u/21955112?u=b42afb656077bf036681a367626d10cc45fc3d9f&v=4
+    contributions: 43
+    company: "Uwizy"
+    organizations: ""
+
+  - rank: 131
+    name: "Enea Xharau"
+    login: "giteneaxharau"
+    avatarUrl: https://avatars.githubusercontent.com/u/95291297?v=4
+    contributions: 42
+    company: ""
+    organizations: ""
+
+  - rank: 132
+    name: "Mateo Kurti"
+    login: "mateokurti"
+    avatarUrl: https://avatars.githubusercontent.com/u/29175219?u=65ec553a53125f65a83003b391e4564e56053d4a&v=4
+    contributions: 41
+    company: "division5"
+    organizations: ""
+
+  - rank: 133
+    name: "Gerald Nika"
+    login: "itsnika"
+    avatarUrl: https://avatars.githubusercontent.com/u/91494864?v=4
+    contributions: 41
+    company: ""
+    organizations: ""
+
+  - rank: 134
+    name: "Nids"
+    login: "nidabaci"
+    avatarUrl: https://avatars.githubusercontent.com/u/60344290?u=c09badccf6c7c99cf959b15e7cb24b0719a89f8d&v=4
+    contributions: 39
+    company: ""
+    organizations: ""
+
+  - rank: 135
+    name: "Jon Jakova"
+    login: "JonJakova"
+    avatarUrl: https://avatars.githubusercontent.com/u/50449118?v=4
+    contributions: 39
+    company: "Developer at Sabanet s.r.l."
+    organizations: ""
+
+  - rank: 136
+    name: "Sajmir Doko"
+    login: "sajdoko"
+    avatarUrl: https://avatars.githubusercontent.com/u/8860056?u=8094fd963ce3d31f4e0ee9f46ff7a8aa7bd9ea2d&v=4
+    contributions: 39
+    company: "@LocalWebsrl @WordPress"
+    organizations: "LocalWebsrl"
+
+  - rank: 137
+    name: "Holti Kryemadhi"
+    login: "holtik"
+    avatarUrl: https://avatars.githubusercontent.com/u/55942828?u=c34ac745ca7bd63b00836d790573b22a3b728deb&v=4
+    contributions: 38
+    company: ""
+    organizations: ""
+
+  - rank: 138
+    name: "Mustafa Aga"
+    login: "mustafaag"
+    avatarUrl: https://avatars.githubusercontent.com/u/36820880?u=a3eeeaac85019a81e2a7d275c99b438245849dc9&v=4
+    contributions: 38
+    company: "Sisal Group"
+    organizations: ""
+
+  - rank: 139
+    name: "Archx0Mas"
+    login: "Archx0Mas"
+    avatarUrl: https://avatars.githubusercontent.com/u/70807598?u=fca4c3d2aa990bc03191717568831d38f842187a&v=4
+    contributions: 38
+    company: ""
+    organizations: ""
+
+  - rank: 140
+    name: "Kris Beka"
+    login: "KRIS13-GIF"
+    avatarUrl: https://avatars.githubusercontent.com/u/71281629?u=ef45fb09c2216fa33025afbf074739dd3b3f5d10&v=4
+    contributions: 37
+    company: "UNYT"
+    organizations: ""
+
+  - rank: 141
+    name: "arbso"
+    login: "arbso"
+    avatarUrl: https://avatars.githubusercontent.com/u/62308239?u=9009ab9ae960c35bb581aedd7d06a42ab8e04277&v=4
+    contributions: 37
+    company: ""
+    organizations: ""
+
+  - rank: 142
+    name: "Frenci Rama"
+    login: "frenci"
+    avatarUrl: https://avatars.githubusercontent.com/u/13355808?u=6c3f73421c2206eff305a1eb25d4003487a27355&v=4
+    contributions: 37
+    company: ""
+    organizations: ""
+
+  - rank: 143
+    name: "Boris Budini"
+    login: "kominoshja"
+    avatarUrl: https://avatars.githubusercontent.com/u/11447306?v=4
+    contributions: 36
+    company: "Cloud68.co"
+    organizations: "OpenLabsHackerspace"
+
+  - rank: 144
+    name: "Albi"
+    login: "albi2"
+    avatarUrl: https://avatars.githubusercontent.com/u/53710410?v=4
+    contributions: 36
+    company: "Lufthansa Industry Solutions"
+    organizations: ""
+
+  - rank: 145
+    name: "Klint"
+    login: "klintmane"
+    avatarUrl: https://avatars.githubusercontent.com/u/9338536?u=203cf1a8c21c20f8a33ed7c5c3847fc45fa1143d&v=4
+    contributions: 35
+    company: ""
+    organizations: "depoja"
+
+  - rank: 146
+    name: "Edmirjano Preci"
+    login: "edmirjano"
+    avatarUrl: https://avatars.githubusercontent.com/u/48261411?u=b7f189aadafabd14467fa1f1ea8a440039468852&v=4
+    contributions: 35
+    company: ""
+    organizations: ""
+
+  - rank: 147
+    name: "Rigers"
+    login: "rigersleka"
+    avatarUrl: https://avatars.githubusercontent.com/u/42070495?u=843372e65d9f7460ab55f7956fc64aaa9b272050&v=4
+    contributions: 34
+    company: "Remote"
+    organizations: ""
+
+  - rank: 148
+    name: "Alfred Korra"
+    login: "alfredkorra"
+    avatarUrl: https://avatars.githubusercontent.com/u/101050024?v=4
+    contributions: 34
+    company: ""
+    organizations: ""
+
+  - rank: 149
+    name: "Rigers Allaraj"
+    login: "rigers-allaraj"
+    avatarUrl: https://avatars.githubusercontent.com/u/74452104?u=de7f492916cfc721c61ee695f4af0533a7017a00&v=4
+    contributions: 33
+    company: ""
+    organizations: ""
+
+  - rank: 150
+    name: "Klevis Ndoka"
+    login: "klevisndoka"
+    avatarUrl: https://avatars.githubusercontent.com/u/3813023?v=4
+    contributions: 32
+    company: ""
+    organizations: ""
+
+  - rank: 151
+    name: "Ardit Xhanaj"
+    login: "young-stoner-life"
+    avatarUrl: https://avatars.githubusercontent.com/u/87133189?u=834c40d23409b00ee7eaa6401680c031aa7e88f7&v=4
+    contributions: 32
+    company: ""
+    organizations: ""
+
+  - rank: 152
+    name: "Admirim Korici"
+    login: "admirimkorici"
+    avatarUrl: https://avatars.githubusercontent.com/u/82025628?u=4ed50aa43b16e9586a00694e43eb943c72f116f8&v=4
+    contributions: 32
+    company: ""
+    organizations: ""
+
+  - rank: 153
+    name: "suelap"
+    login: "suelaP"
+    avatarUrl: https://avatars.githubusercontent.com/u/22301998?v=4
+    contributions: 32
+    company: ""
+    organizations: "phpList,lightmeterio"
+
+  - rank: 154
+    name: "Elitjon Metaliaj"
+    login: "emetaliaj-dev"
+    avatarUrl: https://avatars.githubusercontent.com/u/76097212?u=5bf7d0a52bf343612963bf9a5ddcf7634954d8b5&v=4
+    contributions: 31
+    company: "CardoAi"
+    organizations: ""
+
+  - rank: 155
+    name: "Aredio Vani"
+    login: "arediovani"
+    avatarUrl: https://avatars.githubusercontent.com/u/37985831?u=5c55022b16c3f779b6bbf810306aebdd85392a82&v=4
+    contributions: 31
+    company: "Mat Televizion"
+    organizations: ""
+
+  - rank: 156
+    name: "Silvester Hasani"
+    login: "Silvester-H"
+    avatarUrl: https://avatars.githubusercontent.com/u/36986878?u=9d52acc850f4333d03152074d7e34fd13703efd4&v=4
+    contributions: 31
+    company: ""
+    organizations: ""
+
+  - rank: 157
+    name: "Nikolin Andoni"
+    login: "N1k0l1n"
+    avatarUrl: https://avatars.githubusercontent.com/u/97979235?u=47073d302ee06fb5c90a4d0df2b9de2996759aa7&v=4
+    contributions: 31
+    company: ""
+    organizations: ""
+
+  - rank: 158
+    name: "Soni Lamkaj"
+    login: "Soni-L"
+    avatarUrl: https://avatars.githubusercontent.com/u/7612859?u=3bbb1a9ace524bfbba8db06773054a51939ff5f4&v=4
+    contributions: 30
+    company: "@dexiio"
+    organizations: ""
+
+  - rank: 159
+    name: ""
+    login: "bernardkllogjri"
+    avatarUrl: https://avatars.githubusercontent.com/u/24844955?v=4
+    contributions: 30
+    company: ""
+    organizations: ""
+
+  - rank: 160
+    name: "Albina Peposhi"
+    login: "codergirl-al"
+    avatarUrl: https://avatars.githubusercontent.com/u/52979210?u=5d4dfa7d8cc505037cb9b71b309fc6ce029c1f08&v=4
+    contributions: 29
+    company: ""
+    organizations: ""
+
+  - rank: 161
+    name: "Elton"
+    login: "Tonii1993"
+    avatarUrl: https://avatars.githubusercontent.com/u/96661796?u=6bc410f2e6a4828d6ad2c074d2be46245b219d32&v=4
+    contributions: 29
+    company: ""
+    organizations: ""
+
+  - rank: 162
+    name: "Ger Zbobo"
+    login: "gerboli666"
+    avatarUrl: https://avatars.githubusercontent.com/u/60276205?v=4
+    contributions: 29
+    company: ""
+    organizations: ""
+
+  - rank: 163
+    name: ""
+    login: "loridacito"
+    avatarUrl: https://avatars.githubusercontent.com/u/9430573?u=009eab24085fe07622fe449620096b31e339ae2a&v=4
+    contributions: 29
+    company: ""
+    organizations: ""
+
+  - rank: 164
+    name: "Kevin Tervoli"
+    login: "kevintervoli"
+    avatarUrl: https://avatars.githubusercontent.com/u/65734031?u=291fe538a18324c8ac51536a7b9affb62477a176&v=4
+    contributions: 29
+    company: ""
+    organizations: ""
+
+  - rank: 165
+    name: "olsi.qatipi"
+    login: "olsi2984"
+    avatarUrl: https://avatars.githubusercontent.com/u/46634475?u=33d21050f48d65d2a52f844adb94fc2f5db3b817&v=4
+    contributions: 27
+    company: "SV Filter-Technik"
+    organizations: ""
+
+  - rank: 166
+    name: ""
+    login: "0rxa"
+    avatarUrl: https://avatars.githubusercontent.com/u/34451117?u=b7b96fa4c427b27650404d5e4f13093cb3ef0855&v=4
+    contributions: 27
+    company: ""
+    organizations: ""
+
+  - rank: 167
+    name: "Olsi Hoxha"
+    login: "olsihoxha"
+    avatarUrl: https://avatars.githubusercontent.com/u/66084880?u=3d155e322905998d9f05c5bbd0500091891d875f&v=4
+    contributions: 27
+    company: "@ Sciant"
+    organizations: ""
+
+  - rank: 168
+    name: "Jurgen Kruja"
+    login: "sayjin93"
+    avatarUrl: https://avatars.githubusercontent.com/u/5080745?u=8e6b93f55938d39ed8454e9982bbc86b92ab0b33&v=4
+    contributions: 27
+    company: "Morix"
+    organizations: ""
+
+  - rank: 169
+    name: "Klajver \u00c7ela"
+    login: "almighty704"
+    avatarUrl: https://avatars.githubusercontent.com/u/80696988?u=bbfc076720701924136153a2878c7c51255040da&v=4
+    contributions: 26
+    company: ""
+    organizations: ""
+
+  - rank: 170
+    name: ""
+    login: "arti-lab"
+    avatarUrl: https://avatars.githubusercontent.com/u/83023253?u=5642f0e6abc3d52e7fd08cfb4553b853453f40be&v=4
+    contributions: 25
+    company: ""
+    organizations: ""
+
+  - rank: 171
+    name: "Emanuel "
+    login: "manodroid"
+    avatarUrl: https://avatars.githubusercontent.com/u/73133812?u=ffaca6b28f1dfa18874e9941cc09f420733816b8&v=4
+    contributions: 25
+    company: ""
+    organizations: ""
+
+  - rank: 172
+    name: "Adela Thomaj"
+    login: "adelathomaj"
+    avatarUrl: https://avatars.githubusercontent.com/u/87237785?u=6a04f71ccf7c34520be40fd9a907f18e468c9874&v=4
+    contributions: 25
+    company: ""
+    organizations: ""
+
+  - rank: 173
+    name: "Ken"
+    login: "thehydrogen"
+    avatarUrl: https://avatars.githubusercontent.com/u/34059898?u=2f16046ed77f048bf6a7a8815347d32f2bf7b061&v=4
+    contributions: 24
+    company: ""
+    organizations: "artemisac,AstridDiscord,AnticheatMarket,Cursed-GG,CosmicMedia"
+
+  - rank: 174
+    name: "Mariglen Doda"
+    login: "Mariglendoda"
+    avatarUrl: https://avatars.githubusercontent.com/u/47455332?u=96fba58578a62b55a2c29abaef952f5ee1479ad5&v=4
+    contributions: 24
+    company: ""
+    organizations: ""
+
+  - rank: 175
+    name: ""
+    login: "northern-polaris"
+    avatarUrl: https://avatars.githubusercontent.com/u/44084291?u=0b43923024bdc650f4b7fee9ac527fe10fa7a9af&v=4
+    contributions: 24
+    company: ""
+    organizations: ""
+
+  - rank: 176
+    name: "Edra Tabaku"
+    login: "edratabaku"
+    avatarUrl: https://avatars.githubusercontent.com/u/68347994?u=d28575debb919fe64b5af813bed2e155a332e4ce&v=4
+    contributions: 24
+    company: "@Pragmatic-Software"
+    organizations: ""
+
+  - rank: 177
+    name: "Regis Sinjari"
+    login: "RegisSinjari"
+    avatarUrl: https://avatars.githubusercontent.com/u/21318196?v=4
+    contributions: 24
+    company: ""
+    organizations: ""
+
+  - rank: 178
+    name: "Albin Gjonaj"
+    login: "heartagram22"
+    avatarUrl: https://avatars.githubusercontent.com/u/92172913?u=27fe25d46b3f2772ac52bbab02f68863d00ab3fb&v=4
+    contributions: 23
+    company: "BattleNet3dTirana"
+    organizations: ""
+
+  - rank: 179
+    name: "iridaballiu"
+    login: "helloira-al"
+    avatarUrl: https://avatars.githubusercontent.com/u/8350995?u=6ead2fb1f4618237d94efafdcc90e1b62dc007e5&v=4
+    contributions: 23
+    company: ""
+    organizations: ""
+
+  - rank: 180
+    name: "Arvin Xamo"
+    login: "VaderXami"
+    avatarUrl: https://avatars.githubusercontent.com/u/34593873?u=4b967311bd9af76a35ec9bcc29621103a0a5f03d&v=4
+    contributions: 22
+    company: "Epitech"
+    organizations: ""
+
+  - rank: 181
+    name: "Rrok Luli"
+    login: "gcrrokluli94"
+    avatarUrl: https://avatars.githubusercontent.com/u/58312327?v=4
+    contributions: 21
+    company: "Independent"
+    organizations: ""
+
+  - rank: 182
+    name: "Vabjol Tafo"
+    login: "vabjoltafo"
+    avatarUrl: https://avatars.githubusercontent.com/u/11981792?v=4
+    contributions: 21
+    company: ""
+    organizations: ""
+
+  - rank: 183
+    name: "Helgi"
+    login: "helggii"
+    avatarUrl: https://avatars.githubusercontent.com/u/41377909?u=d00c6389a9f92530b82fe648f4e5dc536afe3ca4&v=4
+    contributions: 21
+    company: ""
+    organizations: ""
+
+  - rank: 184
+    name: "Amarilda Koka"
+    login: "AmyCoding1"
+    avatarUrl: https://avatars.githubusercontent.com/u/91567973?u=d1f36050327b55d44801f1a04d573fd4ea8fcf6e&v=4
+    contributions: 21
+    company: "Students Life"
+    organizations: ""
+
+  - rank: 185
+    name: "Skerdi Berberi"
+    login: "keke1210"
+    avatarUrl: https://avatars.githubusercontent.com/u/44743904?u=885c06ce46156340e5d07349ab70944a6b3058d4&v=4
+    contributions: 20
+    company: ""
+    organizations: ""
+
+  - rank: 186
+    name: " Code With Enea Ruka"
+    login: "EneaRuka"
+    avatarUrl: https://avatars.githubusercontent.com/u/96395906?u=3c423c49473312a15c7937421671c7ff816bf091&v=4
+    contributions: 20
+    company: ""
+    organizations: ""
+
+  - rank: 187
+    name: "Elisa Pashku"
+    login: "elisa-pashku"
+    avatarUrl: https://avatars.githubusercontent.com/u/66138877?v=4
+    contributions: 20
+    company: ""
+    organizations: ""
+
+  - rank: 188
+    name: "Alvin Konda"
+    login: "alvinkonda"
+    avatarUrl: https://avatars.githubusercontent.com/u/273284?u=489c5340df2251ff544a38f5030d651179ce457d&v=4
+    contributions: 20
+    company: "KondaSoft"
+    organizations: ""
+
+  - rank: 189
+    name: ""
+    login: "kpsh"
+    avatarUrl: https://avatars.githubusercontent.com/u/48776346?u=8e8685c4853576be7d968038126015fdf86d8cc1&v=4
+    contributions: 20
+    company: ""
+    organizations: ""
+
+  - rank: 190
+    name: "Aldo Ziflaj"
+    login: "aziflaj"
+    avatarUrl: https://avatars.githubusercontent.com/u/5219775?u=950cd9ac64caee20c96df6805938ae55739363a3&v=4
+    contributions: 19
+    company: "@Leadfeeder"
+    organizations: "Leadfeeder,balodb"
+
+  - rank: 191
+    name: "Ivi Berberi"
+    login: "Mr-randomize"
+    avatarUrl: https://avatars.githubusercontent.com/u/41192491?v=4
+    contributions: 19
+    company: ""
+    organizations: ""
+
+  - rank: 192
+    name: "Emanuel Zhupa"
+    login: "ezhupa99"
+    avatarUrl: https://avatars.githubusercontent.com/u/34006441?u=01216868d7ddbbe3f7938b08d517dddc68a48c1c&v=4
+    contributions: 19
+    company: "PwC"
+    organizations: ""
+
+  - rank: 193
+    name: "Enes Hamzaj"
+    login: "eneshamzaj328"
+    avatarUrl: https://avatars.githubusercontent.com/u/48931439?u=2ed6574008cebaf4853f8544fbff1b6021bcde87&v=4
+    contributions: 19
+    company: ""
+    organizations: ""
+
+  - rank: 194
+    name: "Albina Boshku"
+    login: "albinaboshku"
+    avatarUrl: https://avatars.githubusercontent.com/u/81375658?u=ccb1ef41cbe20c821ba38ee61181d2ae6b0c93ba&v=4
+    contributions: 19
+    company: ""
+    organizations: ""
+
+  - rank: 195
+    name: "Edmond Alimehmeti"
+    login: "edmondalimehmeti"
+    avatarUrl: https://avatars.githubusercontent.com/u/43119699?v=4
+    contributions: 19
+    company: ""
+    organizations: ""
+
+  - rank: 196
+    name: "Klodian Lula"
+    login: "KlodianLula"
+    avatarUrl: https://avatars.githubusercontent.com/u/19667616?u=315dceaea02ce9e52677c9454188f41c8d3946ac&v=4
+    contributions: 19
+    company: "101.AL"
+    organizations: ""
+
+  - rank: 197
+    name: "Sidorela Uku"
+    login: "sidorelauku"
+    avatarUrl: https://avatars.githubusercontent.com/u/24439184?u=201e802855ea204f7493e603d2baaae07c578202&v=4
+    contributions: 19
+    company: ""
+    organizations: "OpenLabsHackerspace,CityZenApp,PoFletValbona"
+
+  - rank: 198
+    name: "Oerd Cukalla"
+    login: "oerd"
+    avatarUrl: https://avatars.githubusercontent.com/u/56891?v=4
+    contributions: 19
+    company: ""
+    organizations: "albatrans"
+
+  - rank: 199
+    name: "Betim Shala"
+    login: "BetimShala"
+    avatarUrl: https://avatars.githubusercontent.com/u/27002582?u=01b9630048f27c42d537948f120dea0ab5938cfc&v=4
+    contributions: 19
+    company: "Likvido"
+    organizations: ""
+
+  - rank: 200
+    name: "Dorian Rina"
+    login: "drinaxtech"
+    avatarUrl: https://avatars.githubusercontent.com/u/68124788?u=37dce40fcf17ddbf928c68682ecc353cb69faa44&v=4
+    contributions: 18
+    company: ""
+    organizations: ""
+
+  - rank: 201
+    name: "Julian"
+    login: "tabakuj"
+    avatarUrl: https://avatars.githubusercontent.com/u/29838180?u=cb7bbce7e2b6fe224b169c43f51262dc7fee954e&v=4
+    contributions: 18
+    company: "Atrax"
+    organizations: ""
+
+  - rank: 202
+    name: "Roxhei Fraholli"
+    login: "roxheifraholli1"
+    avatarUrl: https://avatars.githubusercontent.com/u/82265524?u=987e3ba0cbab3ce08829d5c054c2bc104026652a&v=4
+    contributions: 18
+    company: "Gilded"
+    organizations: ""
+
+  - rank: 203
+    name: "Altin Karaulli"
+    login: "akaraulli"
+    avatarUrl: https://avatars.githubusercontent.com/u/94201903?u=c0bb71e614bd7354982bbc60476df18819674b23&v=4
+    contributions: 18
+    company: "DATAPLUS"
+    organizations: ""
+
+  - rank: 204
+    name: "Ardi Goxhaj"
+    login: "goxhaj"
+    avatarUrl: https://avatars.githubusercontent.com/u/5362555?u=4753528a74629987222757461aafa76274711957&v=4
+    contributions: 18
+    company: ""
+    organizations: ""
+
+  - rank: 205
+    name: "Adalen Vladi"
+    login: "adalenv"
+    avatarUrl: https://avatars.githubusercontent.com/u/7238874?v=4
+    contributions: 18
+    company: "@albsector "
+    organizations: ""
+
+  - rank: 206
+    name: "Xhoi"
+    login: "xhoibeshiri"
+    avatarUrl: https://avatars.githubusercontent.com/u/98668649?v=4
+    contributions: 18
+    company: ""
+    organizations: ""
+
+  - rank: 207
+    name: "Kevin Haxhi"
+    login: "h-kevin"
+    avatarUrl: https://avatars.githubusercontent.com/u/51535794?u=66728d691e96a2ca9665dc63100e2c214f87ac5f&v=4
+    contributions: 18
+    company: ""
+    organizations: ""
+
+  - rank: 208
+    name: "Ervis Hajdari"
+    login: "ervis-hajdari"
+    avatarUrl: https://avatars.githubusercontent.com/u/61877979?u=ddfffe0a063e3ade3d0e6fb90f5eac84223f40d0&v=4
+    contributions: 17
+    company: ""
+    organizations: ""
+
+  - rank: 209
+    name: "Elian Ibaj"
+    login: "microbouji"
+    avatarUrl: https://avatars.githubusercontent.com/u/2972085?u=4ed93701256b5810567fc6be6df4ec5ee50c06da&v=4
+    contributions: 17
+    company: ""
+    organizations: "babel"
+
+  - rank: 210
+    name: "Kamber Peka"
+    login: "kamberpeka"
+    avatarUrl: https://avatars.githubusercontent.com/u/16142760?u=70ec59a0f3429022800a6026ba094fcf5c871d1c&v=4
+    contributions: 17
+    company: ""
+    organizations: ""
+
+  - rank: 211
+    name: "Gerald Nako"
+    login: "geraldnako"
+    avatarUrl: https://avatars.githubusercontent.com/u/5095859?u=2abf6b191c5b01a49e740e28224f697080d4c49d&v=4
+    contributions: 17
+    company: ""
+    organizations: ""
+
+  - rank: 212
+    name: "Ilirjan Rexho"
+    login: "ilrexho2011"
+    avatarUrl: https://avatars.githubusercontent.com/u/61479363?v=4
+    contributions: 17
+    company: "Computer House AL"
+    organizations: ""
+
+  - rank: 213
+    name: "Ledio"
+    login: "LedioPapa"
+    avatarUrl: https://avatars.githubusercontent.com/u/24372673?u=8cea53653f267c2293ced8768fe79712aa4cc204&v=4
+    contributions: 17
+    company: ""
+    organizations: ""
+
+  - rank: 214
+    name: "Vaska"
+    login: "vaskastambolliu"
+    avatarUrl: https://avatars.githubusercontent.com/u/33496849?v=4
+    contributions: 17
+    company: ""
+    organizations: ""
+
+  - rank: 215
+    name: "Lirim Shala"
+    login: "rooflexx"
+    avatarUrl: https://avatars.githubusercontent.com/u/58993673?u=f8ba450460f1aea18430ed1e4a3889049a3b4dfa&v=4
+    contributions: 17
+    company: "@CardoAI "
+    organizations: ""
+
+  - rank: 216
+    name: "Marti Belegu"
+    login: "mgbelegu"
+    avatarUrl: https://avatars.githubusercontent.com/u/48526054?u=93ba95b3b23462d380ebf1f81d4353e30eeda881&v=4
+    contributions: 16
+    company: "SheroCommerce"
+    organizations: ""
+
+  - rank: 217
+    name: "Elio"
+    login: "eliodecolli"
+    avatarUrl: https://avatars.githubusercontent.com/u/12433846?u=9caa62381909c04238e5bfe455c70bd20f7ef5b0&v=4
+    contributions: 16
+    company: ""
+    organizations: ""
+
+  - rank: 218
+    name: "Mariglen Pupa"
+    login: "mariglenpupa"
+    avatarUrl: https://avatars.githubusercontent.com/u/62464064?u=6fa1a0e1dbfc8830c159453a16274783c3d0685d&v=4
+    contributions: 16
+    company: ""
+    organizations: ""
+
+  - rank: 219
+    name: "Endri"
+    login: "EndriDulellari"
+    avatarUrl: https://avatars.githubusercontent.com/u/61636248?u=025a3fce802f2b9dcac69117da3f77671595bf90&v=4
+    contributions: 16
+    company: "Corvallis"
+    organizations: ""
+
+  - rank: 220
+    name: "Baki Goxhaj"
+    login: "banago"
+    avatarUrl: https://avatars.githubusercontent.com/u/339914?v=4
+    contributions: 16
+    company: "WPlancer.Com"
+    organizations: ""
+
+  - rank: 221
+    name: "Erion Maxhari"
+    login: "mexiro"
+    avatarUrl: https://avatars.githubusercontent.com/u/979113?u=8132b8552224b0b5de73f5baa1cb4a91855c275f&v=4
+    contributions: 16
+    company: "Fibank Albania"
+    organizations: ""
+
+  - rank: 222
+    name: "Amanti Lulo"
+    login: "diskmanti"
+    avatarUrl: https://avatars.githubusercontent.com/u/6141105?u=68871459b4c842e2747d4f97abf286dd33940764&v=4
+    contributions: 15
+    company: ""
+    organizations: "maptime"
+
+  - rank: 223
+    name: "Unejsi Muca"
+    login: "EbuYasir"
+    avatarUrl: https://avatars.githubusercontent.com/u/96514270?u=e5fef8e15aa05e3900cf244dadbca462e89becd8&v=4
+    contributions: 15
+    company: ""
+    organizations: ""
+
+  - rank: 224
+    name: "Gentian Shkembi"
+    login: "Gentian28"
+    avatarUrl: https://avatars.githubusercontent.com/u/23237203?v=4
+    contributions: 15
+    company: "Smartwork"
+    organizations: ""
+
+  - rank: 225
+    name: "Keltin Mesonjesi"
+    login: "keltinMesonjesi"
+    avatarUrl: https://avatars.githubusercontent.com/u/59123033?v=4
+    contributions: 14
+    company: ""
+    organizations: ""
+
+  - rank: 226
+    name: "Silvjo Tringoski"
+    login: "lethalbonsai"
+    avatarUrl: https://avatars.githubusercontent.com/u/67462300?u=0c68cf893983f2b9956dd744196e00789f27003a&v=4
+    contributions: 13
+    company: ""
+    organizations: ""
+
+  - rank: 227
+    name: "Daniel Bello"
+    login: "bellodaniel"
+    avatarUrl: https://avatars.githubusercontent.com/u/38752939?u=3b70d835248edfd2d61c8dda97acc0d0e151ffc7&v=4
+    contributions: 13
+    company: "@SheroCommerce "
+    organizations: ""
+
+  - rank: 228
+    name: "Eledi Dyrkaj"
+    login: "edyrkaj"
+    avatarUrl: https://avatars.githubusercontent.com/u/2579367?u=034f07bef5f2cdffee6f462bdd13787b55b59e82&v=4
+    contributions: 13
+    company: "Gilded Inc."
+    organizations: ""
+
+  - rank: 229
+    name: "Guido Xhindoli"
+    login: "guido-lab"
+    avatarUrl: https://avatars.githubusercontent.com/u/57273001?u=bc10c5f6c874a2c24843f017e9e2f9a68b391c11&v=4
+    contributions: 13
+    company: ""
+    organizations: ""
+
+  - rank: 230
+    name: "Klaudio Lamaj"
+    login: "klaudiolamaj"
+    avatarUrl: https://avatars.githubusercontent.com/u/50968299?u=7ddb8a4c9a0da19ec864dfb8d114e9548e49f25e&v=4
+    contributions: 12
+    company: ""
+    organizations: ""
+
+  - rank: 231
+    name: "vilson isaku"
+    login: "vilsonisaku"
+    avatarUrl: https://avatars.githubusercontent.com/u/5845678?u=82548467a04f94597b70bed2b14678d015151672&v=4
+    contributions: 12
+    company: ""
+    organizations: ""
+
+  - rank: 232
+    name: "Emanuel Gjini"
+    login: "emanuel-gjini"
+    avatarUrl: https://avatars.githubusercontent.com/u/28897985?u=3b3b0b12020e5778b6a19ee151e8de8c76cf4bf0&v=4
+    contributions: 12
+    company: "@critias-io"
+    organizations: "Nestio,overloop-io,critias-io"
+
+  - rank: 233
+    name: "Ergi Minga"
+    login: "ergi-m"
+    avatarUrl: https://avatars.githubusercontent.com/u/72209284?v=4
+    contributions: 12
+    company: ""
+    organizations: ""
+
+  - rank: 234
+    name: "Enes Jashari"
+    login: "NS404"
+    avatarUrl: https://avatars.githubusercontent.com/u/82181439?u=9e4d1f4ecc7fdfa0c98f44f67572612839abc2da&v=4
+    contributions: 12
+    company: ""
+    organizations: ""
+
+  - rank: 235
+    name: "Skerd Mullaj"
+    login: "skerd2498"
+    avatarUrl: https://avatars.githubusercontent.com/u/92816889?u=e2b1c2e1235122bd7f641c741321b95c25042556&v=4
+    contributions: 12
+    company: ""
+    organizations: ""
+
+  - rank: 236
+    name: "Besart Marku"
+    login: "besartmarku"
+    avatarUrl: https://avatars.githubusercontent.com/u/34649952?u=9f9a05c482ebfcc3d27a7b4dc6fe9fdf48850ff5&v=4
+    contributions: 12
+    company: "Spike Associates"
+    organizations: "spikeassociates"
+
+  - rank: 237
+    name: "Mateo"
+    login: "mateodemirlika"
+    avatarUrl: https://avatars.githubusercontent.com/u/75898421?u=4f2df0f07dbba74ed63299cfdb009fc882906213&v=4
+    contributions: 11
+    company: ""
+    organizations: ""
+
+  - rank: 238
+    name: "Loren K."
+    login: "lor1x"
+    avatarUrl: https://avatars.githubusercontent.com/u/22913459?u=b2997cbaabf6c99bdceff3ef7c04224b0d4ee2bb&v=4
+    contributions: 11
+    company: ""
+    organizations: ""
+
+  - rank: 239
+    name: "elian"
+    login: "elianbraja"
+    avatarUrl: https://avatars.githubusercontent.com/u/22617897?u=c2b1da9df9891f71f6d5d9937950fd5f8b2f8704&v=4
+    contributions: 11
+    company: ""
+    organizations: ""
+
+  - rank: 240
+    name: "Olken Merxira"
+    login: "Omega-me"
+    avatarUrl: https://avatars.githubusercontent.com/u/40502479?u=9766c644816e693ecbf3098bbfb417d38b974442&v=4
+    contributions: 11
+    company: "Omega-me"
+    organizations: ""
+
+  - rank: 241
+    name: "Narasimha Rao Vajjhala"
+    login: "narasimharaonarasimha"
+    avatarUrl: https://avatars.githubusercontent.com/u/25825151?u=0944da52ebacc82faf26cc17faad14a722bbb59b&v=4
+    contributions: 11
+    company: "University of New York Tirana"
+    organizations: ""
+
+  - rank: 242
+    name: "Klevis"
+    login: "KlevisMema"
+    avatarUrl: https://avatars.githubusercontent.com/u/88836204?u=446934ae26ae5e805a738e7807febc72463c04bd&v=4
+    contributions: 11
+    company: ""
+    organizations: ""
+
+  - rank: 243
+    name: "Evisa Cankaj"
+    login: "evissa"
+    avatarUrl: https://avatars.githubusercontent.com/u/52082258?v=4
+    contributions: 11
+    company: "Digital Product Manager"
+    organizations: ""
+
+  - rank: 244
+    name: "Eduard Lleshi"
+    login: "eduardlleshi"
+    avatarUrl: https://avatars.githubusercontent.com/u/6278258?u=02157f4c100d5015c59ae14d4409fca349071d30&v=4
+    contributions: 11
+    company: "Toptal"
+    organizations: ""
+
+  - rank: 245
+    name: "Kendi Gjepali"
+    login: "K3nd1"
+    avatarUrl: https://avatars.githubusercontent.com/u/42900883?u=052374ea96abb8ff2928b4b401c9530881d209bc&v=4
+    contributions: 11
+    company: ""
+    organizations: ""
+
+  - rank: 246
+    name: "Besnik Hysaj"
+    login: "besnikhysaj"
+    avatarUrl: https://avatars.githubusercontent.com/u/2910983?v=4
+    contributions: 11
+    company: "@besnikhysaj"
+    organizations: ""
+
+  - rank: 247
+    name: "Abdulla Fahem"
+    login: "abdullafahem"
+    avatarUrl: https://avatars.githubusercontent.com/u/49653818?u=6d5ae30ca33ca8b5c30bcb7a8ea550bc49321499&v=4
+    contributions: 11
+    company: "FahemSoft"
+    organizations: ""
+
+  - rank: 248
+    name: "Ledian Leka"
+    login: "Ledian63S"
+    avatarUrl: https://avatars.githubusercontent.com/u/85931733?u=cc831077cd5ebdb9de3136b84c13d9b8d2b62db3&v=4
+    contributions: 10
+    company: "IBS"
+    organizations: ""
+
+  - rank: 249
+    name: "Bedri Allkja"
+    login: "bedri-allkja"
+    avatarUrl: https://avatars.githubusercontent.com/u/40234089?u=61b980a83a6910895d5423274dbcad3b270ff0c9&v=4
+    contributions: 10
+    company: ""
+    organizations: ""
+
+  - rank: 250
+    name: "Olta Dedej"
+    login: "oltadedej"
+    avatarUrl: https://avatars.githubusercontent.com/u/35349342?v=4
+    contributions: 10
+    company: ""
+    organizations: ""
+
+  - rank: 251
+    name: "Uendi Hoxha"
+    login: "uendihoxha"
+    avatarUrl: https://avatars.githubusercontent.com/u/46974210?u=27694f46b445446706c1563c803b019cbb762630&v=4
+    contributions: 10
+    company: ""
+    organizations: ""
+
+  - rank: 252
+    name: "Gazmir Pisha"
+    login: "gazmirpisha12"
+    avatarUrl: https://avatars.githubusercontent.com/u/88835953?u=565ef6080efe9c54ec98d2aab54f2529caabfed1&v=4
+    contributions: 10
+    company: ""
+    organizations: ""
+
+  - rank: 253
+    name: "laura toska"
+    login: "laura165"
+    avatarUrl: https://avatars.githubusercontent.com/u/65419989?u=90153326544830aa5fdb11603860ed61abceb7b2&v=4
+    contributions: 10
+    company: ""
+    organizations: ""
+
+  - rank: 254
+    name: ""
+    login: "beri14"
+    avatarUrl: https://avatars.githubusercontent.com/u/48594621?u=6f707462c0e46c64e7601890c44dd6255c91bfe8&v=4
+    contributions: 10
+    company: ""
+    organizations: ""
+
+  - rank: 255
+    name: "Fjorela Veliu"
+    login: "FjorelaV"
+    avatarUrl: https://avatars.githubusercontent.com/u/25348342?u=cb4397fd7807a9586c74dd4231de60682a6e90c1&v=4
+    contributions: 10
+    company: "@sabicom "
+    organizations: ""
+
+  - rank: 256
+    name: "Aida"
+    login: "aida94"
+    avatarUrl: https://avatars.githubusercontent.com/u/36128248?u=817c9b156305a63de2e23fcd8f240a87888d5c3b&v=4
+    contributions: 9
+    company: "Landmark.al"
+    organizations: ""
+users_public_contributions:
+
+  - rank: 1
+    name: "Erjon Gjino"
+    login: "erjongjino324"
+    avatarUrl: https://avatars.githubusercontent.com/u/92048933?v=4
+    contributions: 2361
+    company: "Vox Media Tirana"
+    organizations: ""
+
+  - rank: 2
+    name: "Xhuljo Dede"
+    login: "xhul10"
+    avatarUrl: https://avatars.githubusercontent.com/u/98643591?u=8ce47a956b4807a10956ee3a75d739953fbc1c82&v=4
+    contributions: 1831
+    company: ""
+    organizations: ""
+
+  - rank: 3
+    name: "Emilian Kasemi"
+    login: "theringsofsaturn"
+    avatarUrl: https://avatars.githubusercontent.com/u/60050952?u=a71ba48be64a96bb9c122597e605e3215f4730e0&v=4
+    contributions: 1299
+    company: ""
+    organizations: ""
+
+  - rank: 4
+    name: "Kristi"
+    login: "KristiSeraj"
+    avatarUrl: https://avatars.githubusercontent.com/u/65773022?u=811d31188155fc50407a5032d09a32259b1e636e&v=4
+    contributions: 1266
+    company: ""
+    organizations: "zero-to-mastery,MrMothDevs"
+
+  - rank: 5
+    name: "Endrit Novaku"
+    login: "endritNovaku"
+    avatarUrl: https://avatars.githubusercontent.com/u/62180779?v=4
+    contributions: 1178
+    company: ""
+    organizations: ""
+
+  - rank: 6
+    name: "Dionis Senja"
+    login: "d1once"
+    avatarUrl: https://avatars.githubusercontent.com/u/73392670?u=3f0d424c1c321d2803b4477d5c449df899c399de&v=4
+    contributions: 1116
+    company: "division5"
+    organizations: ""
+
+  - rank: 7
+    name: "Arenc"
+    login: "Arenc10"
+    avatarUrl: https://avatars.githubusercontent.com/u/77469839?v=4
+    contributions: 838
+    company: ""
+    organizations: ""
+
+  - rank: 8
+    name: "Klejvi Kapaj"
+    login: "kl3jvi"
+    avatarUrl: https://avatars.githubusercontent.com/u/40796367?u=5dbcd51e9e323e6d330799cd8233ce12500f9e75&v=4
+    contributions: 738
+    company: "@TheMobileLife"
+    organizations: ""
+
+  - rank: 9
+    name: "Glaukio"
+    login: "glaukiol1"
+    avatarUrl: https://avatars.githubusercontent.com/u/70211498?u=afa4c430beb78b96a03afe6df570f1f62fe514c1&v=4
+    contributions: 732
+    company: ""
+    organizations: "SpectreTechnologiesLLC"
+
+  - rank: 10
+    name: "Florian Nika"
+    login: "florianika"
+    avatarUrl: https://avatars.githubusercontent.com/u/7765263?u=c221e2f0b9e7cb72e50dd19bc78e3deebd01cade&v=4
+    contributions: 693
+    company: ""
+    organizations: ""
+
+  - rank: 11
+    name: "Anxhelo Lushka"
+    login: "AnXh3L0"
+    avatarUrl: https://avatars.githubusercontent.com/u/25004151?u=7df02207550901c767e2392f455c988f56678866&v=4
+    contributions: 620
+    company: "@uracreative "
+    organizations: "k9mail,AnySoftKeyboard,opensourcedesign,OpenLabsHackerspace,AdAway,uracreative,CityZenApp,Librefox"
+
+  - rank: 12
+    name: "Emirjeta V"
+    login: "myelin0"
+    avatarUrl: https://avatars.githubusercontent.com/u/88782702?u=dda2182a84ec7732a031d781d27b3377712a5477&v=4
+    contributions: 535
+    company: " Full-Stack Developer"
+    organizations: ""
+
+  - rank: 13
+    name: "Dashamir Hoxha"
+    login: "dashohoxha"
+    avatarUrl: https://avatars.githubusercontent.com/u/1495805?v=4
+    contributions: 513
+    company: ""
+    organizations: "B-Translator,Q-Translate,docker-scripts-archived,EasyGnuPG"
+
+  - rank: 14
+    name: "Mateo Malaj"
+    login: "911mateo911"
+    avatarUrl: https://avatars.githubusercontent.com/u/68548704?v=4
+    contributions: 460
+    company: ""
+    organizations: ""
+
+  - rank: 15
+    name: "Gentjan Koli\u00e7aj"
+    login: "gentjankolicaj"
+    avatarUrl: https://avatars.githubusercontent.com/u/18643945?u=41b2d58a2ed0ca21a5dedc9f25cff60aba655141&v=4
+    contributions: 411
+    company: ""
+    organizations: ""
+
+  - rank: 16
+    name: "Albdroid.AL"
+    login: "SxtBox"
+    avatarUrl: https://avatars.githubusercontent.com/u/60861585?u=b6f1aa1382c67ce06dff922c4896c8950be34ece&v=4
+    contributions: 408
+    company: "PHP Framework"
+    organizations: "Albdroid-AL"
+
+  - rank: 17
+    name: "Denald Hushi"
+    login: "denaldhushi"
+    avatarUrl: https://avatars.githubusercontent.com/u/20266205?u=25ca4d9da8bdce46dfc8a9214c2f046f5eee2e25&v=4
+    contributions: 393
+    company: ""
+    organizations: ""
+
+  - rank: 18
+    name: "Valentin Lica"
+    login: "ValentinHLica"
+    avatarUrl: https://avatars.githubusercontent.com/u/74852397?u=301bf74d1726006af65097b937068725bc7f228c&v=4
+    contributions: 338
+    company: ""
+    organizations: ""
+
+  - rank: 19
+    name: "Vjola Shtishi"
+    login: "vshtishi"
+    avatarUrl: https://avatars.githubusercontent.com/u/62517004?u=c10df1fa081f9506ed9bd705a409c4926118cfd3&v=4
+    contributions: 319
+    company: ""
+    organizations: ""
+
+  - rank: 20
+    name: "\u304a\u308b\u3052\u3059"
+    login: "orges"
+    avatarUrl: https://avatars.githubusercontent.com/u/23742757?u=96dd3362862d1aebafdf7a3f58b7123f4f3feec8&v=4
+    contributions: 316
+    company: ""
+    organizations: "aospa-whyred,proton-whyred,proton-vayu"
+
+  - rank: 21
+    name: "Julian \u00c7uni"
+    login: "juliancuni"
+    avatarUrl: https://avatars.githubusercontent.com/u/8204040?u=d68da1bc2b70d417caca647e4be1d498be3cb4d4&v=4
+    contributions: 267
+    company: "MicroServices Albania"
+    organizations: ""
+
+  - rank: 22
+    name: "Orlando Malo"
+    login: "OrlandoMalo505"
+    avatarUrl: https://avatars.githubusercontent.com/u/82452307?u=dee7fa78745d752cc9c2060a3f90f01a41f98155&v=4
+    contributions: 261
+    company: "TeamSystem"
+    organizations: ""
+
+  - rank: 23
+    name: "Sheni Hamitaj"
+    login: "jajosheni"
+    avatarUrl: https://avatars.githubusercontent.com/u/23244572?u=e8d899811b3ae6d298bebdb3bba2910203e5abab&v=4
+    contributions: 256
+    company: "@circuly-dev"
+    organizations: "circuly-dev"
+
+  - rank: 24
+    name: "Klajdi \u00c7aushi"
+    login: "klajdicaushi"
+    avatarUrl: https://avatars.githubusercontent.com/u/76052877?u=8e571bd379bb8fe921c829623fbd781ca988a033&v=4
+    contributions: 254
+    company: "CardoAI"
+    organizations: ""
+
+  - rank: 25
+    name: "Joan Sk\u00ebnderi"
+    login: "joanskenderi"
+    avatarUrl: https://avatars.githubusercontent.com/u/86119045?u=af149a0b357aa0711f173344c5a67b4956dd441d&v=4
+    contributions: 246
+    company: "Helius Systems"
+    organizations: ""
+
+  - rank: 26
+    name: "Sadri"
+    login: "sadripervana"
+    avatarUrl: https://avatars.githubusercontent.com/u/89244938?u=d7fb3f3cadb90225e864732c9bdd816c67ba9141&v=4
+    contributions: 241
+    company: ""
+    organizations: ""
+
+  - rank: 27
+    name: "Klodian shaba"
+    login: "klodianshaba"
+    avatarUrl: https://avatars.githubusercontent.com/u/24659571?u=c5b0b2a6c3ed71a08cad38da752817140a52714e&v=4
+    contributions: 239
+    company: ""
+    organizations: ""
+
+  - rank: 28
+    name: "Hideki Natsumi"
+    login: "HidekiNatsumi"
+    avatarUrl: https://avatars.githubusercontent.com/u/96385473?u=b30c2d7ec89cfc61933f8e32d9e5952aa79f1159&v=4
+    contributions: 227
+    company: "UNYT"
+    organizations: ""
+
+  - rank: 29
+    name: "Joni Baboci"
+    login: "dbaboci"
+    avatarUrl: https://avatars.githubusercontent.com/u/2484152?u=10b75e8923d6424dd0a9851617f1337782a4e14c&v=4
+    contributions: 219
+    company: "getlayer.xyz"
+    organizations: "bashkiatirane"
+
+  - rank: 30
+    name: "Roland Doda"
+    login: "Rolanddoda"
+    avatarUrl: https://avatars.githubusercontent.com/u/18482346?u=9edc330c7815a52c4438ba9827af194dde186bff&v=4
+    contributions: 218
+    company: ""
+    organizations: ""
+
+  - rank: 31
+    name: "undefined"
+    login: "nikolliervin"
+    avatarUrl: https://avatars.githubusercontent.com/u/45341025?u=c3a087722d4ce8e2285d53d542c4f123e8aeec02&v=4
+    contributions: 218
+    company: ""
+    organizations: ""
+
+  - rank: 32
+    name: "Jurgen Gjon\u00e7ari"
+    login: "jurgengjoncari"
+    avatarUrl: https://avatars.githubusercontent.com/u/14801240?u=2ca33b76d1faef77ddc13ae3cc17adff009546cc&v=4
+    contributions: 217
+    company: ""
+    organizations: ""
+
+  - rank: 33
+    name: "Ergin"
+    login: "ErginDapaj"
+    avatarUrl: https://avatars.githubusercontent.com/u/39377884?u=f90e339d076f470db5a8566eefe3bf2162d3fd1e&v=4
+    contributions: 214
+    company: ""
+    organizations: "MrMothDevs,CrypTipp"
+
+  - rank: 34
+    name: "Sokol Paja"
+    login: "kolpaja"
+    avatarUrl: https://avatars.githubusercontent.com/u/79046681?u=8ccb77be4bc5a37a9251ec746f4dea5c9d3a6d87&v=4
+    contributions: 214
+    company: "Codevider"
+    organizations: ""
+
+  - rank: 35
+    name: "Enea Jahollari"
+    login: "eneajaho"
+    avatarUrl: https://avatars.githubusercontent.com/u/25394362?u=85a8502a531b6b9c71683baef3018f59919b9c8b&v=4
+    contributions: 213
+    company: "ATIS"
+    organizations: ""
+
+  - rank: 36
+    name: ""
+    login: "xhiti"
+    avatarUrl: https://avatars.githubusercontent.com/u/51859550?v=4
+    contributions: 208
+    company: "Remote"
+    organizations: ""
+
+  - rank: 37
+    name: ""
+    login: "Edes2128"
+    avatarUrl: https://avatars.githubusercontent.com/u/51410696?u=6c64326b83508fb93b73ae9d72e42ee05a06cf76&v=4
+    contributions: 203
+    company: "Sulce"
+    organizations: ""
+
+  - rank: 38
+    name: "Fabricio Pashaj"
+    login: "fabriciopashaj"
+    avatarUrl: https://avatars.githubusercontent.com/u/79104733?u=c66507b3e23ecde57fe2df0ab523ee3081b722c0&v=4
+    contributions: 191
+    company: ""
+    organizations: ""
+
+  - rank: 39
+    name: "Ermal"
+    login: "lamre96"
+    avatarUrl: https://avatars.githubusercontent.com/u/63654158?v=4
+    contributions: 177
+    company: ""
+    organizations: ""
+
+  - rank: 40
+    name: "Arbri \u00e7o\u00e7ka"
+    login: "cocka11"
+    avatarUrl: https://avatars.githubusercontent.com/u/35626219?u=e480a0ec036e694eba02e45648a55e3b7bcb8117&v=4
+    contributions: 174
+    company: ""
+    organizations: ""
+
+  - rank: 41
+    name: "Ebubeker"
+    login: "Ebubeker"
+    avatarUrl: https://avatars.githubusercontent.com/u/60944813?v=4
+    contributions: 167
+    company: ""
+    organizations: ""
+
+  - rank: 42
+    name: "Algent Albrahimi"
+    login: "algent-al"
+    avatarUrl: https://avatars.githubusercontent.com/u/46356616?u=c488ce6f1089332191ca2e85c1d37ef7dd5488bb&v=4
+    contributions: 162
+    company: ""
+    organizations: ""
+
+  - rank: 43
+    name: "Enerida Lama"
+    login: "eneridalama"
+    avatarUrl: https://avatars.githubusercontent.com/u/65872895?u=0ef50f8240d83926aef6984a3e5669be15a2e084&v=4
+    contributions: 157
+    company: ""
+    organizations: ""
+
+  - rank: 44
+    name: "Xhoel Bano"
+    login: "xhoel-bano"
+    avatarUrl: https://avatars.githubusercontent.com/u/77228132?u=c8e5a32801fcd3a86f2ab1caadd3c3c9bb45dbe4&v=4
+    contributions: 154
+    company: ""
+    organizations: ""
+
+  - rank: 45
+    name: "Saimir Baraj"
+    login: "Akirozen"
+    avatarUrl: https://avatars.githubusercontent.com/u/84786341?u=454f2d211816daf4b9915d2792287c38deb2efc0&v=4
+    contributions: 152
+    company: ""
+    organizations: ""
+
+  - rank: 46
+    name: "Suljot Gjoka"
+    login: "pi0x73"
+    avatarUrl: https://avatars.githubusercontent.com/u/58447776?u=f94d95cbe6924ab6f5541efd3103ba89714e295b&v=4
+    contributions: 150
+    company: ""
+    organizations: ""
+
+  - rank: 47
+    name: ""
+    login: "igiann"
+    avatarUrl: https://avatars.githubusercontent.com/u/15004989?u=9c2a99544e2fb5aa3b1b008f13a4a9133ef1479e&v=4
+    contributions: 149
+    company: "UPT"
+    organizations: ""
+
+  - rank: 48
+    name: "Vitaliy K."
+    login: "vk-en"
+    avatarUrl: https://avatars.githubusercontent.com/u/17083974?u=1a36b4d09a074578c10fa6d1a1b8f1631d4778dd&v=4
+    contributions: 145
+    company: "AI Solutions"
+    organizations: ""
+
+  - rank: 49
+    name: "Alban Loku"
+    login: "91alban"
+    avatarUrl: https://avatars.githubusercontent.com/u/71338813?u=96ab9e054e1f3b1a0224157e2946401d36d84c8b&v=4
+    contributions: 144
+    company: "SabaNet"
+    organizations: ""
+
+  - rank: 50
+    name: "Michael Shollaj"
+    login: "Michael-Shollaj"
+    avatarUrl: https://avatars.githubusercontent.com/u/55102646?u=2a0f029dda4d1c9197dd0e910a90dc25c74a0f07&v=4
+    contributions: 143
+    company: ""
+    organizations: ""
+
+  - rank: 51
+    name: "Samir Vlla\u00e7o"
+    login: "samiscold"
+    avatarUrl: https://avatars.githubusercontent.com/u/62956581?u=83c85c0bbf5393033c8742ed151a294b55798120&v=4
+    contributions: 143
+    company: "@Spinaton"
+    organizations: ""
+
+  - rank: 52
+    name: "Kevin Shehu"
+    login: "kevinshehu"
+    avatarUrl: https://avatars.githubusercontent.com/u/57314395?u=a2793cb75ed650f99802bfe422ea1865ca4f31e7&v=4
+    contributions: 140
+    company: ""
+    organizations: ""
+
+  - rank: 53
+    name: "Vena Llanaj"
+    login: "Venallanaj"
+    avatarUrl: https://avatars.githubusercontent.com/u/71196658?u=f7c456642846459dcb21aceb4058799b205637b5&v=4
+    contributions: 139
+    company: "Freelencer"
+    organizations: ""
+
+  - rank: 54
+    name: "Rando Shtishi"
+    login: "rshtishi"
+    avatarUrl: https://avatars.githubusercontent.com/u/42577665?u=d1c4d52226a5a08395021652ecb4fb6ad459fde3&v=4
+    contributions: 136
+    company: ""
+    organizations: ""
+
+  - rank: 55
+    name: "Elton Memishaj"
+    login: "Elton47"
+    avatarUrl: https://avatars.githubusercontent.com/u/11498437?u=12baa054ca4a4a857ca9187c8d19102484f3bf30&v=4
+    contributions: 134
+    company: ""
+    organizations: ""
+
+  - rank: 56
+    name: "Edison Ponari"
+    login: "eponari"
+    avatarUrl: https://avatars.githubusercontent.com/u/61910013?u=318ed7435aaaef48cacb7cd6f0e09a35263b9231&v=4
+    contributions: 133
+    company: ""
+    organizations: ""
+
+  - rank: 57
+    name: "Malfor Saja"
+    login: "malforsaja"
+    avatarUrl: https://avatars.githubusercontent.com/u/20798247?u=3ed1166547abad87554347afd746335f7bbbfc89&v=4
+    contributions: 131
+    company: "Airfind"
+    organizations: ""
+
+  - rank: 58
+    name: "Betim Beja"
+    login: "BetimBeja"
+    avatarUrl: https://avatars.githubusercontent.com/u/11160171?u=b90556136c915d545eb2cc97fde8d3486f9a802a&v=4
+    contributions: 131
+    company: "Shko Online"
+    organizations: "Shko-Online"
+
+  - rank: 59
+    name: "Lejdi Koci"
+    login: "tigone"
+    avatarUrl: https://avatars.githubusercontent.com/u/76665911?v=4
+    contributions: 130
+    company: "Kreatx"
+    organizations: ""
+
+  - rank: 60
+    name: "Oerd Bej"
+    login: "OerdBej"
+    avatarUrl: https://avatars.githubusercontent.com/u/69147540?u=acc2e2b5f0850907de627739714022133484f483&v=4
+    contributions: 127
+    company: ""
+    organizations: ""
+
+  - rank: 61
+    name: "Edis Hasaj"
+    login: "edisnord"
+    avatarUrl: https://avatars.githubusercontent.com/u/87529116?v=4
+    contributions: 122
+    company: "iKons"
+    organizations: ""
+
+  - rank: 62
+    name: "Euglen Mulaj"
+    login: "euglen-mulaj"
+    avatarUrl: https://avatars.githubusercontent.com/u/97746080?u=7b43c3144acad10a9aea132147bbb428e83150c9&v=4
+    contributions: 119
+    company: "DOT"
+    organizations: ""
+
+  - rank: 63
+    name: ""
+    login: "evisvasiu"
+    avatarUrl: https://avatars.githubusercontent.com/u/45014223?v=4
+    contributions: 117
+    company: "S2 Global"
+    organizations: ""
+
+  - rank: 64
+    name: "Redjon Zaci"
+    login: "redjonzaci"
+    avatarUrl: https://avatars.githubusercontent.com/u/73707194?v=4
+    contributions: 115
+    company: "Ritech International AG"
+    organizations: ""
+
+  - rank: 65
+    name: "Arian Kapllanaj"
+    login: "Arian27Kapllanaj"
+    avatarUrl: https://avatars.githubusercontent.com/u/62213586?u=fe1e8e308dc1484d272372e016f32c956b28ba20&v=4
+    contributions: 113
+    company: "Aladini"
+    organizations: ""
+
+  - rank: 66
+    name: "Kilton Pisli"
+    login: "kiltonpisli"
+    avatarUrl: https://avatars.githubusercontent.com/u/59768393?u=5ddb985b966bf77dfca58f1075ed3f76fa7da5fe&v=4
+    contributions: 110
+    company: "Smartwork"
+    organizations: ""
+
+  - rank: 67
+    name: "Daniele Llazo"
+    login: "DaNiElE-1999"
+    avatarUrl: https://avatars.githubusercontent.com/u/87183305?u=ced385754ccd7ce1808525e2caa05ad8d31e2855&v=4
+    contributions: 109
+    company: ""
+    organizations: ""
+
+  - rank: 68
+    name: "Rei Ikonomi"
+    login: "onomdev"
+    avatarUrl: https://avatars.githubusercontent.com/u/94234882?u=fa6be52a8ebfd65db1be651946cf2bb7b38ff00e&v=4
+    contributions: 109
+    company: "Idealdevs"
+    organizations: ""
+
+  - rank: 69
+    name: "Florian"
+    login: "hummans"
+    avatarUrl: https://avatars.githubusercontent.com/u/8291792?u=1040f27bef92d43097a6c574fa317f8f3f0491cb&v=4
+    contributions: 107
+    company: "Synapse Systems"
+    organizations: ""
+
+  - rank: 70
+    name: "Arbis Malasi"
+    login: "arbiss1"
+    avatarUrl: https://avatars.githubusercontent.com/u/58811995?u=223c667e3795022acdf82294e5fae129b7491a5e&v=4
+    contributions: 106
+    company: "Teamsystem"
+    organizations: ""
+
+  - rank: 71
+    name: "Rubin Elezi"
+    login: "RUBINELEZI"
+    avatarUrl: https://avatars.githubusercontent.com/u/57372143?u=6551c29f72805b485b6eeffe78d2b46f52dea2ec&v=4
+    contributions: 105
+    company: "Freelance "
+    organizations: ""
+
+  - rank: 72
+    name: "erjusstafa"
+    login: "erjusstafa"
+    avatarUrl: https://avatars.githubusercontent.com/u/74688301?u=9caf1130c2edfc688061e1756a4b80386029a890&v=4
+    contributions: 105
+    company: ""
+    organizations: ""
+
+  - rank: 73
+    name: "\u01acHE \u042fAW \u2623"
+    login: "theraw"
+    avatarUrl: https://avatars.githubusercontent.com/u/32969774?u=6b359971e15685fb0359e6a8c065a399b40dc228&v=4
+    contributions: 104
+    company: "@nasa (The Dream)"
+    organizations: "SantaBarbaraCityCollege"
+
+  - rank: 74
+    name: "Rexhino Kovaci"
+    login: "rexhinokovaci"
+    avatarUrl: https://avatars.githubusercontent.com/u/55946528?u=e9de3d84d08dfbb898b4131b7a655adee02c3f22&v=4
+    contributions: 104
+    company: "@modexgit"
+    organizations: "modexgit"
+
+  - rank: 75
+    name: "KlementBinaj"
+    login: "BlitzBlitz"
+    avatarUrl: https://avatars.githubusercontent.com/u/19191469?u=affa53c0e42fba4a2cffd933aadda90e75358f31&v=4
+    contributions: 104
+    company: ""
+    organizations: ""
+
+  - rank: 76
+    name: "Dhimiter Gero"
+    login: "dgero22"
+    avatarUrl: https://avatars.githubusercontent.com/u/59712073?v=4
+    contributions: 104
+    company: ""
+    organizations: ""
+
+  - rank: 77
+    name: "Loren Meta"
+    login: "LorenMeta"
+    avatarUrl: https://avatars.githubusercontent.com/u/74499033?u=c0de8a60347983bd57a07fbde448963ce8064ada&v=4
+    contributions: 103
+    company: "Facilization"
+    organizations: ""
+
+  - rank: 78
+    name: "Rinor Hoxha"
+    login: "rinor"
+    avatarUrl: https://avatars.githubusercontent.com/u/1160245?u=8a05f38742ebad245297f85e494cffa932d49f14&v=4
+    contributions: 102
+    company: "BAITS sh.p.k"
+    organizations: "baits-al"
+
+  - rank: 79
+    name: "Marsel Sotiri"
+    login: "marselsotiri"
+    avatarUrl: https://avatars.githubusercontent.com/u/71046101?u=d297ccfa00e0155c773f905e7bdc602c083e9e9f&v=4
+    contributions: 102
+    company: ""
+    organizations: ""
+
+  - rank: 80
+    name: "Aldison Lluka"
+    login: "aldisonll"
+    avatarUrl: https://avatars.githubusercontent.com/u/34491203?u=bc6517f13df20d0f29acc8116a6af7abe82c7d5f&v=4
+    contributions: 100
+    company: ""
+    organizations: ""
+
+  - rank: 81
+    name: "Denis Ismailaj"
+    login: "denis-ismailaj"
+    avatarUrl: https://avatars.githubusercontent.com/u/20902736?u=8a638811801b1aec953a5153a6b13223ae65a292&v=4
+    contributions: 100
+    company: ""
+    organizations: "oficina-hacker-team"
+
+  - rank: 82
+    name: "Valon Januzaj"
+    login: "vjanz"
+    avatarUrl: https://avatars.githubusercontent.com/u/25842655?u=9748136eb1b13b497b5719bed61b6752d2378b32&v=4
+    contributions: 99
+    company: ""
+    organizations: ""
+
+  - rank: 83
+    name: "Eris Adhami"
+    login: "eriadhami"
+    avatarUrl: https://avatars.githubusercontent.com/u/45641379?v=4
+    contributions: 99
+    company: "Akvelon, Inc."
+    organizations: ""
+
+  - rank: 84
+    name: "Fatjon Rami"
+    login: "sly503"
+    avatarUrl: https://avatars.githubusercontent.com/u/67649108?v=4
+    contributions: 97
+    company: ""
+    organizations: ""
+
+  - rank: 85
+    name: "Fatjon Rrapaj"
+    login: "FatjonRrapaj"
+    avatarUrl: https://avatars.githubusercontent.com/u/38084457?u=37b8c15c78f98f0395e6e9a1918b3aff898de015&v=4
+    contributions: 97
+    company: "Proxify"
+    organizations: ""
+
+  - rank: 86
+    name: "ILIOS"
+    login: "treshi"
+    avatarUrl: https://avatars.githubusercontent.com/u/9460646?u=605e0aa2fc8d39a1932597b5bd4fdc00405ad574&v=4
+    contributions: 95
+    company: "strong iptv"
+    organizations: ""
+
+  - rank: 87
+    name: ""
+    login: "KullaA"
+    avatarUrl: https://avatars.githubusercontent.com/u/44673003?u=9fb75823ed71f82ef7e44ed9edf1a59abbfc6c8e&v=4
+    contributions: 91
+    company: ""
+    organizations: ""
+
+  - rank: 88
+    name: "Samuel Bushi"
+    login: "samuelbushi"
+    avatarUrl: https://avatars.githubusercontent.com/u/43500751?u=0819206426bc95226ede5162ddfd4a91a38c758d&v=4
+    contributions: 90
+    company: "Blispy Co."
+    organizations: "wildfild,dlabdesigns,EssDB,zitpal"
+
+  - rank: 89
+    name: "arsildo"
+    login: "arsildo"
+    avatarUrl: https://avatars.githubusercontent.com/u/51417052?u=4ce52b767ffa4eca2877fb039fe54949cdfcc4f7&v=4
+    contributions: 89
+    company: ""
+    organizations: ""
+
+  - rank: 90
+    name: "Detjon Mataj"
+    login: "detjonmataj"
+    avatarUrl: https://avatars.githubusercontent.com/u/84277348?u=10e0cfdb3afc2055fc4396bccbd2a404eee12db0&v=4
+    contributions: 86
+    company: ""
+    organizations: ""
+
+  - rank: 91
+    name: ""
+    login: "erdodule"
+    avatarUrl: https://avatars.githubusercontent.com/u/17169667?u=6cebe20ef4e0412a09b30c1fa204ac0941a7c0bb&v=4
+    contributions: 86
+    company: ""
+    organizations: ""
+
+  - rank: 92
+    name: "Redian Marku"
+    login: "redianmarku"
+    avatarUrl: https://avatars.githubusercontent.com/u/42848358?u=d767bb9f46c873abc19dbce23da48ca4fa359dce&v=4
+    contributions: 85
+    company: "TopNotch Programmer"
+    organizations: ""
+
+  - rank: 93
+    name: "Klement Omeri"
+    login: "klement97"
+    avatarUrl: https://avatars.githubusercontent.com/u/44920963?u=f294f2bc8c5aab7dbea0465a66f76546be197a3c&v=4
+    contributions: 85
+    company: "@CardoAI"
+    organizations: ""
+
+  - rank: 94
+    name: "Nadia"
+    login: "nadia77-a"
+    avatarUrl: https://avatars.githubusercontent.com/u/52795973?v=4
+    contributions: 84
+    company: "Moveo Albania"
+    organizations: ""
+
+  - rank: 95
+    name: "Flavio Pernoj"
+    login: "BlackHat2024"
+    avatarUrl: https://avatars.githubusercontent.com/u/57356228?u=89463f59bbae5585fa61f833590db56070e5ead6&v=4
+    contributions: 83
+    company: ""
+    organizations: ""
+
+  - rank: 96
+    name: "Jozi Bashaj"
+    login: "CodeAlb"
+    avatarUrl: https://avatars.githubusercontent.com/u/21162347?u=59141703410d43f3f14b3765892cddfd30500214&v=4
+    contributions: 81
+    company: "Freelance"
+    organizations: ""
+
+  - rank: 97
+    name: "Gabriel"
+    login: "GabrielKuka"
+    avatarUrl: https://avatars.githubusercontent.com/u/17888328?u=9a422b8992bd9059db9bea3fefc6ba411d4e8fa8&v=4
+    contributions: 81
+    company: ""
+    organizations: ""
+
+  - rank: 98
+    name: "Gerald Haxhi"
+    login: "zeroabsolute"
+    avatarUrl: https://avatars.githubusercontent.com/u/24575333?u=fad63f0bad930d3066fa2e7c9ab16e97d1b8a03c&v=4
+    contributions: 81
+    company: "Softup Technologies (https://softup.co/)"
+    organizations: ""
+
+  - rank: 99
+    name: "Argert Boja"
+    login: "argertboja"
+    avatarUrl: https://avatars.githubusercontent.com/u/17032718?u=96f912bd25babed553a10014d709e8d3a690ecd7&v=4
+    contributions: 80
+    company: "BMW"
+    organizations: ""
+
+  - rank: 100
+    name: "Besjana Jacaj"
+    login: "besatb21"
+    avatarUrl: https://avatars.githubusercontent.com/u/81251239?v=4
+    contributions: 79
+    company: ""
+    organizations: ""
+
+  - rank: 101
+    name: "Webverse"
+    login: "thewebverse"
+    avatarUrl: https://avatars.githubusercontent.com/u/32201875?u=b48e05d77b5a9b8bc5bba86787f2a229cdbaeec7&v=4
+    contributions: 79
+    company: ""
+    organizations: ""
+
+  - rank: 102
+    name: "Rinald Shabani"
+    login: "rinald"
+    avatarUrl: https://avatars.githubusercontent.com/u/30338022?u=73aa53856ad44af0c7026c0fa3ca990883e99be2&v=4
+    contributions: 75
+    company: ""
+    organizations: "dsc-epoka"
+
+  - rank: 103
+    name: "Kristian Dhimitri"
+    login: "kristerus"
+    avatarUrl: https://avatars.githubusercontent.com/u/74469079?u=dfd48c3facb699dcf74e6fadfdcf3a7b2a88232d&v=4
+    contributions: 73
+    company: "Cyclus Corporations"
+    organizations: ""
+
+  - rank: 104
+    name: "Hugues BUREAU"
+    login: "8byr0"
+    avatarUrl: https://avatars.githubusercontent.com/u/21955112?u=b42afb656077bf036681a367626d10cc45fc3d9f&v=4
+    contributions: 73
+    company: "Uwizy"
+    organizations: ""
+
+  - rank: 105
+    name: "Erlis Balla"
+    login: "erlisb"
+    avatarUrl: https://avatars.githubusercontent.com/u/40136986?u=87c77147daf36e71e319ac38c6e4f7606195d3fc&v=4
+    contributions: 71
+    company: "Lufthansa Industry Solutions"
+    organizations: ""
+
+  - rank: 106
+    name: ""
+    login: "geni94"
+    avatarUrl: https://avatars.githubusercontent.com/u/13197721?u=439ffdbf496766c2eb2200833050d62bd91d5b08&v=4
+    contributions: 71
+    company: "Ritech Solutions"
+    organizations: ""
+
+  - rank: 107
+    name: "Marvin Hoxha"
+    login: "marvinhoxha"
+    avatarUrl: https://avatars.githubusercontent.com/u/64254074?u=130efb0180696318a0ad95a206d6c1121df0aff8&v=4
+    contributions: 70
+    company: "@data-max-hq"
+    organizations: "data-max-hq"
+
+  - rank: 108
+    name: ""
+    login: "ropapermaker"
+    avatarUrl: https://avatars.githubusercontent.com/u/58087674?u=f201b9e9f3709475368a75c89f106fc38f60fe08&v=4
+    contributions: 70
+    company: ""
+    organizations: ""
+
+  - rank: 109
+    name: "Izabela Bakollari"
+    login: "IzabelaBakollari"
+    avatarUrl: https://avatars.githubusercontent.com/u/7606423?u=017f7c54500b679e2a418468447b9020d6702c21&v=4
+    contributions: 69
+    company: ""
+    organizations: ""
+
+  - rank: 110
+    name: "Algert Shevroja"
+    login: "algert072"
+    avatarUrl: https://avatars.githubusercontent.com/u/91168326?u=f3cd0770fb45dd5264155ce2e261f68456ed6adf&v=4
+    contributions: 69
+    company: ""
+    organizations: ""
+
+  - rank: 111
+    name: "Edon Abdullahu"
+    login: "imedonii"
+    avatarUrl: https://avatars.githubusercontent.com/u/64871089?u=158c535367aa97de8ec31f6965a0d394e41020e0&v=4
+    contributions: 69
+    company: ""
+    organizations: ""
+
+  - rank: 112
+    name: "Erges Mema"
+    login: "ergesmema"
+    avatarUrl: https://avatars.githubusercontent.com/u/77251761?v=4
+    contributions: 67
+    company: "University of New York Tirana"
+    organizations: ""
+
+  - rank: 113
+    name: "Gledi Caushaj"
+    login: "gledi"
+    avatarUrl: https://avatars.githubusercontent.com/u/411820?u=4cc80e5b76d24b46d3a89aa8df69c13da428e016&v=4
+    contributions: 65
+    company: "Ritech Solutions"
+    organizations: ""
+
+  - rank: 114
+    name: "Qinx"
+    login: "qxzzxq"
+    avatarUrl: https://avatars.githubusercontent.com/u/17144939?v=4
+    contributions: 63
+    company: ""
+    organizations: "SETL-Framework"
+
+  - rank: 115
+    name: "Mateo Kurti"
+    login: "mateokurti"
+    avatarUrl: https://avatars.githubusercontent.com/u/29175219?u=65ec553a53125f65a83003b391e4564e56053d4a&v=4
+    contributions: 62
+    company: "division5"
+    organizations: ""
+
+  - rank: 116
+    name: "Nail"
+    login: "HexClan-dev"
+    avatarUrl: https://avatars.githubusercontent.com/u/24881973?u=1b64b20509c54f6a644863e75e6bbec84cc409a2&v=4
+    contributions: 61
+    company: "@Brizo-Consulting-gmbh"
+    organizations: ""
+
+  - rank: 117
+    name: "Jon Mukaj"
+    login: "JonMukaj"
+    avatarUrl: https://avatars.githubusercontent.com/u/78703349?v=4
+    contributions: 61
+    company: ""
+    organizations: ""
+
+  - rank: 118
+    name: "Oraldo Hysaj"
+    login: "oraldo666"
+    avatarUrl: https://avatars.githubusercontent.com/u/87261813?v=4
+    contributions: 60
+    company: ""
+    organizations: ""
+
+  - rank: 119
+    name: "Arlindi"
+    login: "arlind-shkrela"
+    avatarUrl: https://avatars.githubusercontent.com/u/26505746?u=c04358f224cb22dee28de4bea063ad4dc53cadc1&v=4
+    contributions: 60
+    company: "MCT, Senior Software Engineer specialised in .NET, React, Azure and DevOps (Freelance Consultant)"
+    organizations: ""
+
+  - rank: 120
+    name: "Orhan Asllani"
+    login: "orhanasllani"
+    avatarUrl: https://avatars.githubusercontent.com/u/48629225?v=4
+    contributions: 60
+    company: ""
+    organizations: ""
+
+  - rank: 121
+    name: "Ervis Hajdari"
+    login: "ervis-hajdari"
+    avatarUrl: https://avatars.githubusercontent.com/u/61877979?u=ddfffe0a063e3ade3d0e6fb90f5eac84223f40d0&v=4
+    contributions: 59
+    company: ""
+    organizations: ""
+
+  - rank: 122
+    name: "Kostandin Vllahu"
+    login: "kostandinvllahu"
+    avatarUrl: https://avatars.githubusercontent.com/u/33177557?u=e553eb7c8d31485b485284f179429ec41cddc353&v=4
+    contributions: 59
+    company: ""
+    organizations: ""
+
+  - rank: 123
+    name: "Polina"
+    login: "owosrl"
+    avatarUrl: https://avatars.githubusercontent.com/u/31825825?u=c2682347033b7fc38331e6dbb37d6d0632662210&v=4
+    contributions: 58
+    company: ""
+    organizations: ""
+
+  - rank: 124
+    name: "Anastasia Fadeeva"
+    login: "AnFD99"
+    avatarUrl: https://avatars.githubusercontent.com/u/95511071?u=38d5f241fb7868a4a9e27fe8ce5c15b4fb59cf46&v=4
+    contributions: 58
+    company: ""
+    organizations: ""
+
+  - rank: 125
+    name: "Frenci Rama"
+    login: "frenci"
+    avatarUrl: https://avatars.githubusercontent.com/u/13355808?u=6c3f73421c2206eff305a1eb25d4003487a27355&v=4
+    contributions: 57
+    company: ""
+    organizations: ""
+
+  - rank: 126
+    name: "Astrit Demiri"
+    login: "astritdemiri11"
+    avatarUrl: https://avatars.githubusercontent.com/u/11302890?u=00c1c4012166090ca2e27df6ffbcef7fd0825b93&v=4
+    contributions: 57
+    company: "BlackSoft"
+    organizations: ""
+
+  - rank: 127
+    name: "Emiljan Dusha"
+    login: "goneHaywire"
+    avatarUrl: https://avatars.githubusercontent.com/u/57961738?u=f894945c69e8f08f66fa5d6644204f1aaa2a24b6&v=4
+    contributions: 56
+    company: ""
+    organizations: ""
+
+  - rank: 128
+    name: "Joan Janku"
+    login: "joanjanku2000"
+    avatarUrl: https://avatars.githubusercontent.com/u/78973605?u=6f7c8d1dfce6248a250641574eaf832de991b3d0&v=4
+    contributions: 56
+    company: ""
+    organizations: ""
+
+  - rank: 129
+    name: "Aleksander"
+    login: "AleksanderDishnica"
+    avatarUrl: https://avatars.githubusercontent.com/u/2512342?u=6613ba5b45c5cef851693406415da739c6283994&v=4
+    contributions: 55
+    company: ""
+    organizations: ""
+
+  - rank: 130
+    name: "Elvjo Fejzo"
+    login: "efejzo20"
+    avatarUrl: https://avatars.githubusercontent.com/u/77446151?u=abc08e860d2fb32b2ec66a80a77b41121ba937f8&v=4
+    contributions: 55
+    company: "Epoka University"
+    organizations: "data-max-hq"
+
+  - rank: 131
+    name: "Ledio Ko\u00e7i"
+    login: "lediokoci1"
+    avatarUrl: https://avatars.githubusercontent.com/u/63104818?u=2328dfc5bf387228c2c0d63de05997b4f968b6ec&v=4
+    contributions: 54
+    company: ""
+    organizations: ""
+
+  - rank: 132
+    name: "Albi"
+    login: "albi2"
+    avatarUrl: https://avatars.githubusercontent.com/u/53710410?v=4
+    contributions: 53
+    company: "Lufthansa Industry Solutions"
+    organizations: ""
+
+  - rank: 133
+    name: "Xhoni Shega"
+    login: "xhoni01"
+    avatarUrl: https://avatars.githubusercontent.com/u/61250993?u=e3603c74832af199cd8752bd7a9b730d6dd9a9ed&v=4
+    contributions: 53
+    company: "First Security Systems Integrator"
+    organizations: ""
+
+  - rank: 134
+    name: "Edison Neza"
+    login: "edisonneza"
+    avatarUrl: https://avatars.githubusercontent.com/u/21251453?u=01b85152a84b5c283b1ee03072ee80b25a5ad357&v=4
+    contributions: 53
+    company: "Vivido Software"
+    organizations: ""
+
+  - rank: 135
+    name: "Joralda Molla"
+    login: "JoraldaM"
+    avatarUrl: https://avatars.githubusercontent.com/u/64036982?u=6b9b4d165ad7609fe7267bf13368ef7bccfdebb1&v=4
+    contributions: 52
+    company: "ATIS"
+    organizations: ""
+
+  - rank: 136
+    name: "mshevroja"
+    login: "mshevroja"
+    avatarUrl: https://avatars.githubusercontent.com/u/47557332?u=ed4e5c1cdcacc5fb6ec4a5989884ca7addc9ba4a&v=4
+    contributions: 51
+    company: "@morixshpk"
+    organizations: ""
+
+  - rank: 137
+    name: "Rigers"
+    login: "rigersleka"
+    avatarUrl: https://avatars.githubusercontent.com/u/42070495?u=843372e65d9f7460ab55f7956fc64aaa9b272050&v=4
+    contributions: 50
+    company: "Remote"
+    organizations: ""
+
+  - rank: 138
+    name: "Klint"
+    login: "klintmane"
+    avatarUrl: https://avatars.githubusercontent.com/u/9338536?u=203cf1a8c21c20f8a33ed7c5c3847fc45fa1143d&v=4
+    contributions: 48
+    company: ""
+    organizations: "depoja"
+
+  - rank: 139
+    name: "Enea Xharau"
+    login: "giteneaxharau"
+    avatarUrl: https://avatars.githubusercontent.com/u/95291297?v=4
+    contributions: 47
+    company: ""
+    organizations: ""
+
+  - rank: 140
+    name: "Gerald Nika"
+    login: "itsnika"
+    avatarUrl: https://avatars.githubusercontent.com/u/91494864?v=4
+    contributions: 47
+    company: ""
+    organizations: ""
+
+  - rank: 141
+    name: "Klevis Ndoka"
+    login: "klevisndoka"
+    avatarUrl: https://avatars.githubusercontent.com/u/3813023?v=4
+    contributions: 46
+    company: ""
+    organizations: ""
+
+  - rank: 142
+    name: "Ger Zbobo"
+    login: "gerboli666"
+    avatarUrl: https://avatars.githubusercontent.com/u/60276205?v=4
+    contributions: 46
+    company: ""
+    organizations: ""
+
+  - rank: 143
+    name: "Mustafa Aga"
+    login: "mustafaag"
+    avatarUrl: https://avatars.githubusercontent.com/u/36820880?u=a3eeeaac85019a81e2a7d275c99b438245849dc9&v=4
+    contributions: 45
+    company: "Sisal Group"
+    organizations: ""
+
+  - rank: 144
+    name: "Boris Budini"
+    login: "kominoshja"
+    avatarUrl: https://avatars.githubusercontent.com/u/11447306?v=4
+    contributions: 45
+    company: "Cloud68.co"
+    organizations: "OpenLabsHackerspace"
+
+  - rank: 145
+    name: "Kris Beka"
+    login: "KRIS13-GIF"
+    avatarUrl: https://avatars.githubusercontent.com/u/71281629?u=ef45fb09c2216fa33025afbf074739dd3b3f5d10&v=4
+    contributions: 44
+    company: "UNYT"
+    organizations: ""
+
+  - rank: 146
+    name: "Jon Jakova"
+    login: "JonJakova"
+    avatarUrl: https://avatars.githubusercontent.com/u/50449118?v=4
+    contributions: 44
+    company: "Developer at Sabanet s.r.l."
+    organizations: ""
+
+  - rank: 147
+    name: "Ken"
+    login: "thehydrogen"
+    avatarUrl: https://avatars.githubusercontent.com/u/34059898?u=2f16046ed77f048bf6a7a8815347d32f2bf7b061&v=4
+    contributions: 44
+    company: ""
+    organizations: "artemisac,AstridDiscord,AnticheatMarket,Cursed-GG,CosmicMedia"
+
+  - rank: 148
+    name: "Nikolin Andoni"
+    login: "N1k0l1n"
+    avatarUrl: https://avatars.githubusercontent.com/u/97979235?u=47073d302ee06fb5c90a4d0df2b9de2996759aa7&v=4
+    contributions: 44
+    company: ""
+    organizations: ""
+
+  - rank: 149
+    name: "Alfred Korra"
+    login: "alfredkorra"
+    avatarUrl: https://avatars.githubusercontent.com/u/101050024?v=4
+    contributions: 43
+    company: ""
+    organizations: ""
+
+  - rank: 150
+    name: "Sajmir Doko"
+    login: "sajdoko"
+    avatarUrl: https://avatars.githubusercontent.com/u/8860056?u=8094fd963ce3d31f4e0ee9f46ff7a8aa7bd9ea2d&v=4
+    contributions: 43
+    company: "@LocalWebsrl @WordPress"
+    organizations: "LocalWebsrl"
+
+  - rank: 151
+    name: "arbso"
+    login: "arbso"
+    avatarUrl: https://avatars.githubusercontent.com/u/62308239?u=9009ab9ae960c35bb581aedd7d06a42ab8e04277&v=4
+    contributions: 43
+    company: ""
+    organizations: ""
+
+  - rank: 152
+    name: "Edmirjano Preci"
+    login: "edmirjano"
+    avatarUrl: https://avatars.githubusercontent.com/u/48261411?u=b7f189aadafabd14467fa1f1ea8a440039468852&v=4
+    contributions: 42
+    company: ""
+    organizations: ""
+
+  - rank: 153
+    name: "Ardit Xhanaj"
+    login: "young-stoner-life"
+    avatarUrl: https://avatars.githubusercontent.com/u/87133189?u=834c40d23409b00ee7eaa6401680c031aa7e88f7&v=4
+    contributions: 42
+    company: ""
+    organizations: ""
+
+  - rank: 154
+    name: "Nids"
+    login: "nidabaci"
+    avatarUrl: https://avatars.githubusercontent.com/u/60344290?u=c09badccf6c7c99cf959b15e7cb24b0719a89f8d&v=4
+    contributions: 42
+    company: ""
+    organizations: ""
+
+  - rank: 155
+    name: "Archx0Mas"
+    login: "Archx0Mas"
+    avatarUrl: https://avatars.githubusercontent.com/u/70807598?u=fca4c3d2aa990bc03191717568831d38f842187a&v=4
+    contributions: 41
+    company: ""
+    organizations: ""
+
+  - rank: 156
+    name: ""
+    login: "loridacito"
+    avatarUrl: https://avatars.githubusercontent.com/u/9430573?u=009eab24085fe07622fe449620096b31e339ae2a&v=4
+    contributions: 40
+    company: ""
+    organizations: ""
+
+  - rank: 157
+    name: "Alvin Konda"
+    login: "alvinkonda"
+    avatarUrl: https://avatars.githubusercontent.com/u/273284?u=489c5340df2251ff544a38f5030d651179ce457d&v=4
+    contributions: 40
+    company: "KondaSoft"
+    organizations: ""
+
+  - rank: 158
+    name: ""
+    login: "bernardkllogjri"
+    avatarUrl: https://avatars.githubusercontent.com/u/24844955?v=4
+    contributions: 39
+    company: ""
+    organizations: ""
+
+  - rank: 159
+    name: "Kevin Haxhi"
+    login: "h-kevin"
+    avatarUrl: https://avatars.githubusercontent.com/u/51535794?u=66728d691e96a2ca9665dc63100e2c214f87ac5f&v=4
+    contributions: 39
+    company: ""
+    organizations: ""
+
+  - rank: 160
+    name: "Holti Kryemadhi"
+    login: "holtik"
+    avatarUrl: https://avatars.githubusercontent.com/u/55942828?u=c34ac745ca7bd63b00836d790573b22a3b728deb&v=4
+    contributions: 39
+    company: ""
+    organizations: ""
+
+  - rank: 161
+    name: "Admirim Korici"
+    login: "admirimkorici"
+    avatarUrl: https://avatars.githubusercontent.com/u/82025628?u=4ed50aa43b16e9586a00694e43eb943c72f116f8&v=4
+    contributions: 38
+    company: ""
+    organizations: ""
+
+  - rank: 162
+    name: "Rigers Allaraj"
+    login: "rigers-allaraj"
+    avatarUrl: https://avatars.githubusercontent.com/u/74452104?u=de7f492916cfc721c61ee695f4af0533a7017a00&v=4
+    contributions: 38
+    company: ""
+    organizations: ""
+
+  - rank: 163
+    name: "Adela Thomaj"
+    login: "adelathomaj"
+    avatarUrl: https://avatars.githubusercontent.com/u/87237785?u=6a04f71ccf7c34520be40fd9a907f18e468c9874&v=4
+    contributions: 37
+    company: ""
+    organizations: ""
+
+  - rank: 164
+    name: "Silvester Hasani"
+    login: "Silvester-H"
+    avatarUrl: https://avatars.githubusercontent.com/u/36986878?u=9d52acc850f4333d03152074d7e34fd13703efd4&v=4
+    contributions: 36
+    company: ""
+    organizations: ""
+
+  - rank: 165
+    name: "Albin Gjonaj"
+    login: "heartagram22"
+    avatarUrl: https://avatars.githubusercontent.com/u/92172913?u=27fe25d46b3f2772ac52bbab02f68863d00ab3fb&v=4
+    contributions: 35
+    company: "BattleNet3dTirana"
+    organizations: ""
+
+  - rank: 166
+    name: "Olsi Hoxha"
+    login: "olsihoxha"
+    avatarUrl: https://avatars.githubusercontent.com/u/66084880?u=3d155e322905998d9f05c5bbd0500091891d875f&v=4
+    contributions: 35
+    company: "@ Sciant"
+    organizations: ""
+
+  - rank: 167
+    name: "Albina Peposhi"
+    login: "codergirl-al"
+    avatarUrl: https://avatars.githubusercontent.com/u/52979210?u=5d4dfa7d8cc505037cb9b71b309fc6ce029c1f08&v=4
+    contributions: 35
+    company: ""
+    organizations: ""
+
+  - rank: 168
+    name: "Ivi Berberi"
+    login: "Mr-randomize"
+    avatarUrl: https://avatars.githubusercontent.com/u/41192491?v=4
+    contributions: 35
+    company: ""
+    organizations: ""
+
+  - rank: 169
+    name: ""
+    login: "0rxa"
+    avatarUrl: https://avatars.githubusercontent.com/u/34451117?u=b7b96fa4c427b27650404d5e4f13093cb3ef0855&v=4
+    contributions: 35
+    company: ""
+    organizations: ""
+
+  - rank: 170
+    name: ""
+    login: "arti-lab"
+    avatarUrl: https://avatars.githubusercontent.com/u/83023253?u=5642f0e6abc3d52e7fd08cfb4553b853453f40be&v=4
+    contributions: 34
+    company: ""
+    organizations: ""
+
+  - rank: 171
+    name: "suelap"
+    login: "suelaP"
+    avatarUrl: https://avatars.githubusercontent.com/u/22301998?v=4
+    contributions: 34
+    company: ""
+    organizations: "phpList,lightmeterio"
+
+  - rank: 172
+    name: "Aredio Vani"
+    login: "arediovani"
+    avatarUrl: https://avatars.githubusercontent.com/u/37985831?u=5c55022b16c3f779b6bbf810306aebdd85392a82&v=4
+    contributions: 34
+    company: "Mat Televizion"
+    organizations: ""
+
+  - rank: 173
+    name: "Kevin Tervoli"
+    login: "kevintervoli"
+    avatarUrl: https://avatars.githubusercontent.com/u/65734031?u=291fe538a18324c8ac51536a7b9affb62477a176&v=4
+    contributions: 33
+    company: ""
+    organizations: ""
+
+  - rank: 174
+    name: "Elton"
+    login: "Tonii1993"
+    avatarUrl: https://avatars.githubusercontent.com/u/96661796?u=6bc410f2e6a4828d6ad2c074d2be46245b219d32&v=4
+    contributions: 33
+    company: ""
+    organizations: ""
+
+  - rank: 175
+    name: "Soni Lamkaj"
+    login: "Soni-L"
+    avatarUrl: https://avatars.githubusercontent.com/u/7612859?u=3bbb1a9ace524bfbba8db06773054a51939ff5f4&v=4
+    contributions: 32
+    company: "@dexiio"
+    organizations: ""
+
+  - rank: 176
+    name: "Mariglen Doda"
+    login: "Mariglendoda"
+    avatarUrl: https://avatars.githubusercontent.com/u/47455332?u=96fba58578a62b55a2c29abaef952f5ee1479ad5&v=4
+    contributions: 32
+    company: ""
+    organizations: ""
+
+  - rank: 177
+    name: "Klajver \u00c7ela"
+    login: "almighty704"
+    avatarUrl: https://avatars.githubusercontent.com/u/80696988?u=bbfc076720701924136153a2878c7c51255040da&v=4
+    contributions: 31
+    company: ""
+    organizations: ""
+
+  - rank: 178
+    name: "Elitjon Metaliaj"
+    login: "emetaliaj-dev"
+    avatarUrl: https://avatars.githubusercontent.com/u/76097212?u=5bf7d0a52bf343612963bf9a5ddcf7634954d8b5&v=4
+    contributions: 31
+    company: "CardoAi"
+    organizations: ""
+
+  - rank: 179
+    name: " Code With Enea Ruka"
+    login: "EneaRuka"
+    avatarUrl: https://avatars.githubusercontent.com/u/96395906?u=3c423c49473312a15c7937421671c7ff816bf091&v=4
+    contributions: 31
+    company: ""
+    organizations: ""
+
+  - rank: 180
+    name: "Keltin Mesonjesi"
+    login: "keltinMesonjesi"
+    avatarUrl: https://avatars.githubusercontent.com/u/59123033?v=4
+    contributions: 31
+    company: ""
+    organizations: ""
+
+  - rank: 181
+    name: "Rrok Luli"
+    login: "gcrrokluli94"
+    avatarUrl: https://avatars.githubusercontent.com/u/58312327?v=4
+    contributions: 30
+    company: "Independent"
+    organizations: ""
+
+  - rank: 182
+    name: "iridaballiu"
+    login: "helloira-al"
+    avatarUrl: https://avatars.githubusercontent.com/u/8350995?u=6ead2fb1f4618237d94efafdcc90e1b62dc007e5&v=4
+    contributions: 30
+    company: ""
+    organizations: ""
+
+  - rank: 183
+    name: ""
+    login: "northern-polaris"
+    avatarUrl: https://avatars.githubusercontent.com/u/44084291?u=0b43923024bdc650f4b7fee9ac527fe10fa7a9af&v=4
+    contributions: 30
+    company: ""
+    organizations: ""
+
+  - rank: 184
+    name: "Emanuel "
+    login: "manodroid"
+    avatarUrl: https://avatars.githubusercontent.com/u/73133812?u=ffaca6b28f1dfa18874e9941cc09f420733816b8&v=4
+    contributions: 29
+    company: ""
+    organizations: ""
+
+  - rank: 185
+    name: "Emanuel Zhupa"
+    login: "ezhupa99"
+    avatarUrl: https://avatars.githubusercontent.com/u/34006441?u=01216868d7ddbbe3f7938b08d517dddc68a48c1c&v=4
+    contributions: 29
+    company: "PwC"
+    organizations: ""
+
+  - rank: 186
+    name: "Regis Sinjari"
+    login: "RegisSinjari"
+    avatarUrl: https://avatars.githubusercontent.com/u/21318196?v=4
+    contributions: 29
+    company: ""
+    organizations: ""
+
+  - rank: 187
+    name: "Jurgen Kruja"
+    login: "sayjin93"
+    avatarUrl: https://avatars.githubusercontent.com/u/5080745?u=8e6b93f55938d39ed8454e9982bbc86b92ab0b33&v=4
+    contributions: 28
+    company: "Morix"
+    organizations: ""
+
+  - rank: 188
+    name: "Oerd Cukalla"
+    login: "oerd"
+    avatarUrl: https://avatars.githubusercontent.com/u/56891?v=4
+    contributions: 28
+    company: ""
+    organizations: "albatrans"
+
+  - rank: 189
+    name: "Amanti Lulo"
+    login: "diskmanti"
+    avatarUrl: https://avatars.githubusercontent.com/u/6141105?u=68871459b4c842e2747d4f97abf286dd33940764&v=4
+    contributions: 28
+    company: ""
+    organizations: "maptime"
+
+  - rank: 190
+    name: "Eledi Dyrkaj"
+    login: "edyrkaj"
+    avatarUrl: https://avatars.githubusercontent.com/u/2579367?u=034f07bef5f2cdffee6f462bdd13787b55b59e82&v=4
+    contributions: 28
+    company: "Gilded Inc."
+    organizations: ""
+
+  - rank: 191
+    name: "olsi.qatipi"
+    login: "olsi2984"
+    avatarUrl: https://avatars.githubusercontent.com/u/46634475?u=33d21050f48d65d2a52f844adb94fc2f5db3b817&v=4
+    contributions: 28
+    company: "SV Filter-Technik"
+    organizations: ""
+
+  - rank: 192
+    name: "Ardi Goxhaj"
+    login: "goxhaj"
+    avatarUrl: https://avatars.githubusercontent.com/u/5362555?u=4753528a74629987222757461aafa76274711957&v=4
+    contributions: 28
+    company: ""
+    organizations: ""
+
+  - rank: 193
+    name: "Vabjol Tafo"
+    login: "vabjoltafo"
+    avatarUrl: https://avatars.githubusercontent.com/u/11981792?v=4
+    contributions: 27
+    company: ""
+    organizations: ""
+
+  - rank: 194
+    name: "Edra Tabaku"
+    login: "edratabaku"
+    avatarUrl: https://avatars.githubusercontent.com/u/68347994?u=d28575debb919fe64b5af813bed2e155a332e4ce&v=4
+    contributions: 27
+    company: "@Pragmatic-Software"
+    organizations: ""
+
+  - rank: 195
+    name: "Amarilda Koka"
+    login: "AmyCoding1"
+    avatarUrl: https://avatars.githubusercontent.com/u/91567973?u=d1f36050327b55d44801f1a04d573fd4ea8fcf6e&v=4
+    contributions: 26
+    company: "Students Life"
+    organizations: ""
+
+  - rank: 196
+    name: "Aulona Kolicaj"
+    login: "aulona1"
+    avatarUrl: https://avatars.githubusercontent.com/u/28823367?v=4
+    contributions: 26
+    company: ""
+    organizations: ""
+
+  - rank: 197
+    name: "Adalen Vladi"
+    login: "adalenv"
+    avatarUrl: https://avatars.githubusercontent.com/u/7238874?v=4
+    contributions: 25
+    company: "@albsector "
+    organizations: ""
+
+  - rank: 198
+    name: "Enes Hamzaj"
+    login: "eneshamzaj328"
+    avatarUrl: https://avatars.githubusercontent.com/u/48931439?u=2ed6574008cebaf4853f8544fbff1b6021bcde87&v=4
+    contributions: 25
+    company: ""
+    organizations: ""
+
+  - rank: 199
+    name: "Helgi"
+    login: "helggii"
+    avatarUrl: https://avatars.githubusercontent.com/u/41377909?u=d00c6389a9f92530b82fe648f4e5dc536afe3ca4&v=4
+    contributions: 25
+    company: ""
+    organizations: ""
+
+  - rank: 200
+    name: "Redjan Shabani"
+    login: "redishabani"
+    avatarUrl: https://avatars.githubusercontent.com/u/15490927?v=4
+    contributions: 24
+    company: "REDIS I.T."
+    organizations: ""
+
+  - rank: 201
+    name: "Erion Maxhari"
+    login: "mexiro"
+    avatarUrl: https://avatars.githubusercontent.com/u/979113?u=8132b8552224b0b5de73f5baa1cb4a91855c275f&v=4
+    contributions: 24
+    company: "Fibank Albania"
+    organizations: ""
+
+  - rank: 202
+    name: "Elisa Pashku"
+    login: "elisa-pashku"
+    avatarUrl: https://avatars.githubusercontent.com/u/66138877?v=4
+    contributions: 24
+    company: ""
+    organizations: ""
+
+  - rank: 203
+    name: ""
+    login: "kpsh"
+    avatarUrl: https://avatars.githubusercontent.com/u/48776346?u=8e8685c4853576be7d968038126015fdf86d8cc1&v=4
+    contributions: 24
+    company: ""
+    organizations: ""
+
+  - rank: 204
+    name: "Unejsi Muca"
+    login: "EbuYasir"
+    avatarUrl: https://avatars.githubusercontent.com/u/96514270?u=e5fef8e15aa05e3900cf244dadbca462e89becd8&v=4
+    contributions: 24
+    company: ""
+    organizations: ""
+
+  - rank: 205
+    name: "Lirim Shala"
+    login: "rooflexx"
+    avatarUrl: https://avatars.githubusercontent.com/u/58993673?u=f8ba450460f1aea18430ed1e4a3889049a3b4dfa&v=4
+    contributions: 24
+    company: "@CardoAI "
+    organizations: ""
+
+  - rank: 206
+    name: "Dorian Rina"
+    login: "drinaxtech"
+    avatarUrl: https://avatars.githubusercontent.com/u/68124788?u=37dce40fcf17ddbf928c68682ecc353cb69faa44&v=4
+    contributions: 23
+    company: ""
+    organizations: ""
+
+  - rank: 207
+    name: "Kamber Peka"
+    login: "kamberpeka"
+    avatarUrl: https://avatars.githubusercontent.com/u/16142760?u=70ec59a0f3429022800a6026ba094fcf5c871d1c&v=4
+    contributions: 23
+    company: ""
+    organizations: ""
+
+  - rank: 208
+    name: "Gerald Nako"
+    login: "geraldnako"
+    avatarUrl: https://avatars.githubusercontent.com/u/5095859?u=2abf6b191c5b01a49e740e28224f697080d4c49d&v=4
+    contributions: 23
+    company: ""
+    organizations: ""
+
+  - rank: 209
+    name: "Betim Shala"
+    login: "BetimShala"
+    avatarUrl: https://avatars.githubusercontent.com/u/27002582?u=01b9630048f27c42d537948f120dea0ab5938cfc&v=4
+    contributions: 23
+    company: "Likvido"
+    organizations: ""
+
+  - rank: 210
+    name: "Arvin Xamo"
+    login: "VaderXami"
+    avatarUrl: https://avatars.githubusercontent.com/u/34593873?u=4b967311bd9af76a35ec9bcc29621103a0a5f03d&v=4
+    contributions: 23
+    company: "Epitech"
+    organizations: ""
+
+  - rank: 211
+    name: "Skerdi Berberi"
+    login: "keke1210"
+    avatarUrl: https://avatars.githubusercontent.com/u/44743904?u=885c06ce46156340e5d07349ab70944a6b3058d4&v=4
+    contributions: 23
+    company: ""
+    organizations: ""
+
+  - rank: 212
+    name: "Roxhei Fraholli"
+    login: "roxheifraholli1"
+    avatarUrl: https://avatars.githubusercontent.com/u/82265524?u=987e3ba0cbab3ce08829d5c054c2bc104026652a&v=4
+    contributions: 22
+    company: "Gilded"
+    organizations: ""
+
+  - rank: 213
+    name: "Albina Boshku"
+    login: "albinaboshku"
+    avatarUrl: https://avatars.githubusercontent.com/u/81375658?u=ccb1ef41cbe20c821ba38ee61181d2ae6b0c93ba&v=4
+    contributions: 22
+    company: ""
+    organizations: ""
+
+  - rank: 214
+    name: "Altin Karaulli"
+    login: "akaraulli"
+    avatarUrl: https://avatars.githubusercontent.com/u/94201903?u=c0bb71e614bd7354982bbc60476df18819674b23&v=4
+    contributions: 21
+    company: "DATAPLUS"
+    organizations: ""
+
+  - rank: 215
+    name: "Aldo Ziflaj"
+    login: "aziflaj"
+    avatarUrl: https://avatars.githubusercontent.com/u/5219775?u=950cd9ac64caee20c96df6805938ae55739363a3&v=4
+    contributions: 21
+    company: "@Leadfeeder"
+    organizations: "Leadfeeder,balodb"
+
+  - rank: 216
+    name: "Sidorela Uku"
+    login: "sidorelauku"
+    avatarUrl: https://avatars.githubusercontent.com/u/24439184?u=201e802855ea204f7493e603d2baaae07c578202&v=4
+    contributions: 21
+    company: ""
+    organizations: "OpenLabsHackerspace,CityZenApp,PoFletValbona"
+
+  - rank: 217
+    name: "Edmond Alimehmeti"
+    login: "edmondalimehmeti"
+    avatarUrl: https://avatars.githubusercontent.com/u/43119699?v=4
+    contributions: 21
+    company: ""
+    organizations: ""
+
+  - rank: 218
+    name: "Enxhi Tabaku"
+    login: "enxhitabaku"
+    avatarUrl: https://avatars.githubusercontent.com/u/43711393?u=19c032ca0442ce2098a4b47a28c3997cb4c4b1de&v=4
+    contributions: 20
+    company: ""
+    organizations: ""
+
+  - rank: 219
+    name: "Olken Merxira"
+    login: "Omega-me"
+    avatarUrl: https://avatars.githubusercontent.com/u/40502479?u=9766c644816e693ecbf3098bbfb417d38b974442&v=4
+    contributions: 20
+    company: "Omega-me"
+    organizations: ""
+
+  - rank: 220
+    name: "Mariglen Pupa"
+    login: "mariglenpupa"
+    avatarUrl: https://avatars.githubusercontent.com/u/62464064?u=6fa1a0e1dbfc8830c159453a16274783c3d0685d&v=4
+    contributions: 20
+    company: ""
+    organizations: ""
+
+  - rank: 221
+    name: "Klodian Lula"
+    login: "KlodianLula"
+    avatarUrl: https://avatars.githubusercontent.com/u/19667616?u=315dceaea02ce9e52677c9454188f41c8d3946ac&v=4
+    contributions: 20
+    company: "101.AL"
+    organizations: ""
+
+  - rank: 222
+    name: "Xhoi"
+    login: "xhoibeshiri"
+    avatarUrl: https://avatars.githubusercontent.com/u/98668649?v=4
+    contributions: 20
+    company: ""
+    organizations: ""
+
+  - rank: 223
+    name: "Ledio"
+    login: "LedioPapa"
+    avatarUrl: https://avatars.githubusercontent.com/u/24372673?u=8cea53653f267c2293ced8768fe79712aa4cc204&v=4
+    contributions: 19
+    company: ""
+    organizations: ""
+
+  - rank: 224
+    name: "Ledian Leka"
+    login: "Ledian63S"
+    avatarUrl: https://avatars.githubusercontent.com/u/85931733?u=cc831077cd5ebdb9de3136b84c13d9b8d2b62db3&v=4
+    contributions: 19
+    company: "IBS"
+    organizations: ""
+
+  - rank: 225
+    name: "Endri"
+    login: "EndriDulellari"
+    avatarUrl: https://avatars.githubusercontent.com/u/61636248?u=025a3fce802f2b9dcac69117da3f77671595bf90&v=4
+    contributions: 19
+    company: "Corvallis"
+    organizations: ""
+
+  - rank: 226
+    name: "Ilirjan Rexho"
+    login: "ilrexho2011"
+    avatarUrl: https://avatars.githubusercontent.com/u/61479363?v=4
+    contributions: 19
+    company: "Computer House AL"
+    organizations: ""
+
+  - rank: 227
+    name: "Julian"
+    login: "tabakuj"
+    avatarUrl: https://avatars.githubusercontent.com/u/29838180?u=cb7bbce7e2b6fe224b169c43f51262dc7fee954e&v=4
+    contributions: 19
+    company: "Atrax"
+    organizations: ""
+
+  - rank: 228
+    name: "Baki Goxhaj"
+    login: "banago"
+    avatarUrl: https://avatars.githubusercontent.com/u/339914?v=4
+    contributions: 19
+    company: "WPlancer.Com"
+    organizations: ""
+
+  - rank: 229
+    name: "Elian Ibaj"
+    login: "microbouji"
+    avatarUrl: https://avatars.githubusercontent.com/u/2972085?u=4ed93701256b5810567fc6be6df4ec5ee50c06da&v=4
+    contributions: 19
+    company: ""
+    organizations: "babel"
+
+  - rank: 230
+    name: "Eric Stemmler"
+    login: "rcst"
+    avatarUrl: https://avatars.githubusercontent.com/u/14731447?u=b9db3caf95e075741d1e8e156f0f2690743e4158&v=4
+    contributions: 18
+    company: ""
+    organizations: ""
+
+  - rank: 231
+    name: "Enes Jashari"
+    login: "NS404"
+    avatarUrl: https://avatars.githubusercontent.com/u/82181439?u=9e4d1f4ecc7fdfa0c98f44f67572612839abc2da&v=4
+    contributions: 18
+    company: ""
+    organizations: ""
+
+  - rank: 232
+    name: "Romarjo Balukja"
+    login: "rbalukja15"
+    avatarUrl: https://avatars.githubusercontent.com/u/37499914?u=ffd2120b98478eaf480a53d614a9f9ab73f22207&v=4
+    contributions: 18
+    company: ""
+    organizations: ""
+
+  - rank: 233
+    name: "Vaska"
+    login: "vaskastambolliu"
+    avatarUrl: https://avatars.githubusercontent.com/u/33496849?v=4
+    contributions: 18
+    company: ""
+    organizations: ""
+
+  - rank: 234
+    name: "Loren K."
+    login: "lor1x"
+    avatarUrl: https://avatars.githubusercontent.com/u/22913459?u=b2997cbaabf6c99bdceff3ef7c04224b0d4ee2bb&v=4
+    contributions: 18
+    company: ""
+    organizations: ""
+
+  - rank: 235
+    name: "Guido Xhindoli"
+    login: "guido-lab"
+    avatarUrl: https://avatars.githubusercontent.com/u/57273001?u=bc10c5f6c874a2c24843f017e9e2f9a68b391c11&v=4
+    contributions: 18
+    company: ""
+    organizations: ""
+
+  - rank: 236
+    name: "Elio"
+    login: "eliodecolli"
+    avatarUrl: https://avatars.githubusercontent.com/u/12433846?u=9caa62381909c04238e5bfe455c70bd20f7ef5b0&v=4
+    contributions: 18
+    company: ""
+    organizations: ""
+
+  - rank: 237
+    name: "Gazmir Sulcaj"
+    login: "gazmi82"
+    avatarUrl: https://avatars.githubusercontent.com/u/47264949?v=4
+    contributions: 17
+    company: ""
+    organizations: ""
+
+  - rank: 238
+    name: "endri xhukellari"
+    login: "endrixh7"
+    avatarUrl: https://avatars.githubusercontent.com/u/32928261?u=d0ebd389bbcf4120ef8d6ae893a355aec5c45862&v=4
+    contributions: 17
+    company: ""
+    organizations: ""
+
+  - rank: 239
+    name: "Daniel Bello"
+    login: "bellodaniel"
+    avatarUrl: https://avatars.githubusercontent.com/u/38752939?u=3b70d835248edfd2d61c8dda97acc0d0e151ffc7&v=4
+    contributions: 17
+    company: "@SheroCommerce "
+    organizations: ""
+
+  - rank: 240
+    name: "Skerd Mullaj"
+    login: "skerd2498"
+    avatarUrl: https://avatars.githubusercontent.com/u/92816889?u=e2b1c2e1235122bd7f641c741321b95c25042556&v=4
+    contributions: 17
+    company: ""
+    organizations: ""
+
+  - rank: 241
+    name: "Emin Kokalari"
+    login: "eakteam"
+    avatarUrl: https://avatars.githubusercontent.com/u/8820741?v=4
+    contributions: 16
+    company: "EAK TEAM Electronics"
+    organizations: ""
+
+  - rank: 242
+    name: "Alexander"
+    login: "whoyax"
+    avatarUrl: https://avatars.githubusercontent.com/u/3963686?u=1ebf037182e581e749249a55865dea3cb50439b6&v=4
+    contributions: 16
+    company: ""
+    organizations: ""
+
+  - rank: 243
+    name: "Marti Belegu"
+    login: "mgbelegu"
+    avatarUrl: https://avatars.githubusercontent.com/u/48526054?u=93ba95b3b23462d380ebf1f81d4353e30eeda881&v=4
+    contributions: 16
+    company: "SheroCommerce"
+    organizations: ""
+
+  - rank: 244
+    name: "Eduard Lleshi"
+    login: "eduardlleshi"
+    avatarUrl: https://avatars.githubusercontent.com/u/6278258?u=02157f4c100d5015c59ae14d4409fca349071d30&v=4
+    contributions: 16
+    company: "Toptal"
+    organizations: ""
+
+  - rank: 245
+    name: "Klaudio Lamaj"
+    login: "klaudiolamaj"
+    avatarUrl: https://avatars.githubusercontent.com/u/50968299?u=7ddb8a4c9a0da19ec864dfb8d114e9548e49f25e&v=4
+    contributions: 15
+    company: ""
+    organizations: ""
+
+  - rank: 246
+    name: "Ergi Minga"
+    login: "ergi-m"
+    avatarUrl: https://avatars.githubusercontent.com/u/72209284?v=4
+    contributions: 15
+    company: ""
+    organizations: ""
+
+  - rank: 247
+    name: "Bedri Allkja"
+    login: "bedri-allkja"
+    avatarUrl: https://avatars.githubusercontent.com/u/40234089?u=61b980a83a6910895d5423274dbcad3b270ff0c9&v=4
+    contributions: 15
+    company: ""
+    organizations: ""
+
+  - rank: 248
+    name: "Erlis Dhima"
+    login: "erlisdhima"
+    avatarUrl: https://avatars.githubusercontent.com/u/7734108?u=9edd2680773075bfbbe6bdc8803feeeb09e1a0f6&v=4
+    contributions: 15
+    company: ""
+    organizations: ""
+
+  - rank: 249
+    name: "Gentian Shkembi"
+    login: "Gentian28"
+    avatarUrl: https://avatars.githubusercontent.com/u/23237203?v=4
+    contributions: 15
+    company: "Smartwork"
+    organizations: ""
+
+  - rank: 250
+    name: "Klevis"
+    login: "KlevisMema"
+    avatarUrl: https://avatars.githubusercontent.com/u/88836204?u=446934ae26ae5e805a738e7807febc72463c04bd&v=4
+    contributions: 15
+    company: ""
+    organizations: ""
+
+  - rank: 251
+    name: "Naun Telo"
+    login: "NuniTelo"
+    avatarUrl: https://avatars.githubusercontent.com/u/24767579?u=7c64b44c87538bdd7d94e0853704de6e299836de&v=4
+    contributions: 15
+    company: ""
+    organizations: ""
+
+  - rank: 252
+    name: "Xhoni"
+    login: "Xhoni96"
+    avatarUrl: https://avatars.githubusercontent.com/u/29339199?u=29e52e3c6e6c86bf826c6d617bca04b42cff0096&v=4
+    contributions: 15
+    company: ""
+    organizations: ""
+
+  - rank: 253
+    name: "Olta Dedej"
+    login: "oltadedej"
+    avatarUrl: https://avatars.githubusercontent.com/u/35349342?v=4
+    contributions: 15
+    company: ""
+    organizations: ""
+
+  - rank: 254
+    name: "Besart Marku"
+    login: "besartmarku"
+    avatarUrl: https://avatars.githubusercontent.com/u/34649952?u=9f9a05c482ebfcc3d27a7b4dc6fe9fdf48850ff5&v=4
+    contributions: 15
+    company: "Spike Associates"
+    organizations: "spikeassociates"
+
+  - rank: 255
+    name: "Mateo"
+    login: "mateodemirlika"
+    avatarUrl: https://avatars.githubusercontent.com/u/75898421?u=4f2df0f07dbba74ed63299cfdb009fc882906213&v=4
+    contributions: 15
+    company: ""
+    organizations: ""
+
+  - rank: 256
+    name: "Silvjo Tringoski"
+    login: "lethalbonsai"
+    avatarUrl: https://avatars.githubusercontent.com/u/67462300?u=0c68cf893983f2b9956dd744196e00789f27003a&v=4
+    contributions: 15
+    company: ""
+    organizations: ""
+
+private_users:
+
+  - rank: 1
+    name: "Emanuel Gjini"
+    login: "emanuel-gjini"
+    avatarUrl: https://avatars.githubusercontent.com/u/28897985?u=3b3b0b12020e5778b6a19ee151e8de8c76cf4bf0&v=4
+    contributions: 9079
+    company: "@critias-io"
+    organizations: "Nestio,overloop-io,critias-io"
+
+  - rank: 2
+    name: "Glaukio"
+    login: "glaukiol1"
+    avatarUrl: https://avatars.githubusercontent.com/u/70211498?u=afa4c430beb78b96a03afe6df570f1f62fe514c1&v=4
+    contributions: 5856
+    company: ""
+    organizations: "SpectreTechnologiesLLC"
+
+  - rank: 3
+    name: "Sheni Hamitaj"
+    login: "jajosheni"
+    avatarUrl: https://avatars.githubusercontent.com/u/23244572?u=e8d899811b3ae6d298bebdb3bba2910203e5abab&v=4
+    contributions: 3713
+    company: "@circuly-dev"
+    organizations: "circuly-dev"
+
+  - rank: 4
+    name: "Roland Doda"
+    login: "Rolanddoda"
+    avatarUrl: https://avatars.githubusercontent.com/u/18482346?u=9edc330c7815a52c4438ba9827af194dde186bff&v=4
+    contributions: 3611
+    company: ""
+    organizations: ""
+
+  - rank: 5
+    name: "Eledi Dyrkaj"
+    login: "edyrkaj"
+    avatarUrl: https://avatars.githubusercontent.com/u/2579367?u=034f07bef5f2cdffee6f462bdd13787b55b59e82&v=4
+    contributions: 2844
+    company: "Gilded Inc."
+    organizations: ""
+
+  - rank: 6
+    name: "Fitim Vata"
+    login: "fitimvata"
+    avatarUrl: https://avatars.githubusercontent.com/u/12052390?u=17540c82d27e89cbd198aca8a52c6a754a0b143d&v=4
+    contributions: 2749
+    company: "@new-media-communications "
+    organizations: "new-media-communications,alpine-crew"
+
+  - rank: 7
+    name: "Dorian Rina"
+    login: "drinaxtech"
+    avatarUrl: https://avatars.githubusercontent.com/u/68124788?u=37dce40fcf17ddbf928c68682ecc353cb69faa44&v=4
+    contributions: 2467
+    company: ""
+    organizations: ""
+
+  - rank: 8
+    name: "Erjon Gjino"
+    login: "erjongjino324"
+    avatarUrl: https://avatars.githubusercontent.com/u/92048933?v=4
+    contributions: 2361
+    company: "Vox Media Tirana"
+    organizations: ""
+
+  - rank: 9
+    name: "Eraldo Forgoli"
+    login: "eraldoforgoli"
+    avatarUrl: https://avatars.githubusercontent.com/u/24622515?u=5ce9fb86724a4b5f9b23b7f2807ff7448506f312&v=4
+    contributions: 2134
+    company: "Toptal"
+    organizations: ""
+
+  - rank: 10
+    name: "Klajdi \u00c7aushi"
+    login: "klajdicaushi"
+    avatarUrl: https://avatars.githubusercontent.com/u/76052877?u=8e571bd379bb8fe921c829623fbd781ca988a033&v=4
+    contributions: 2003
+    company: "CardoAI"
+    organizations: ""
+
+  - rank: 11
+    name: "Nertil Poci"
+    login: "nertilpoci"
+    avatarUrl: https://avatars.githubusercontent.com/u/6430264?u=f5464af5abff4c5b2ba8768a064bbc5dc8f57b58&v=4
+    contributions: 1919
+    company: ""
+    organizations: ""
+
+  - rank: 12
+    name: "Terri Prifti"
+    login: "tprifti"
+    avatarUrl: https://avatars.githubusercontent.com/u/12113615?u=817cf7bd3c8b2ee07dfbdbcacb1ac0a2cee8316a&v=4
+    contributions: 1869
+    company: "www.homepocket.io"
+    organizations: "helius-software,Ventrise"
+
+  - rank: 13
+    name: "Xhuljo Dede"
+    login: "xhul10"
+    avatarUrl: https://avatars.githubusercontent.com/u/98643591?u=8ce47a956b4807a10956ee3a75d739953fbc1c82&v=4
+    contributions: 1831
+    company: ""
+    organizations: ""
+
+  - rank: 14
+    name: "Ilir  Hushi"
+    login: "ilirhushi"
+    avatarUrl: https://avatars.githubusercontent.com/u/10850562?u=88ef67c60bf8dd5c154e12f296a76a1dd423bb0b&v=4
+    contributions: 1645
+    company: ""
+    organizations: ""
+
+  - rank: 15
+    name: "Eduard Lleshi"
+    login: "eduardlleshi"
+    avatarUrl: https://avatars.githubusercontent.com/u/6278258?u=02157f4c100d5015c59ae14d4409fca349071d30&v=4
+    contributions: 1638
+    company: "Toptal"
+    organizations: ""
+
+  - rank: 16
+    name: "Eren"
+    login: "erenbertr"
+    avatarUrl: https://avatars.githubusercontent.com/u/3104911?u=6f3118727617e3d72629eaab68f6c9ac5aa2ea6c&v=4
+    contributions: 1621
+    company: ""
+    organizations: ""
+
+  - rank: 17
+    name: "K.Veliu"
+    login: "klausveliu"
+    avatarUrl: https://avatars.githubusercontent.com/u/6373413?u=c7f64538dfc773d53c87b5b6872eeeb1287613a8&v=4
+    contributions: 1584
+    company: "1Up Labs"
+    organizations: ""
+
+  - rank: 18
+    name: "Emilian Kasemi"
+    login: "theringsofsaturn"
+    avatarUrl: https://avatars.githubusercontent.com/u/60050952?u=a71ba48be64a96bb9c122597e605e3215f4730e0&v=4
+    contributions: 1572
+    company: ""
+    organizations: ""
+
+  - rank: 19
+    name: "Aleksander Nasto"
+    login: "anasto-cardo"
+    avatarUrl: https://avatars.githubusercontent.com/u/80337529?u=e3c75b45dd181739c562c145372698ec1f276b71&v=4
+    contributions: 1519
+    company: "@CardoAI "
+    organizations: ""
+
+  - rank: 20
+    name: "Eduard Milushi"
+    login: "emilushi"
+    avatarUrl: https://avatars.githubusercontent.com/u/3394343?v=4
+    contributions: 1493
+    company: "Big Orange Lab"
+    organizations: "Laravel-Backpack,BigOrangeLab"
+
+  - rank: 21
+    name: "Aldo Ziflaj"
+    login: "aziflaj"
+    avatarUrl: https://avatars.githubusercontent.com/u/5219775?u=950cd9ac64caee20c96df6805938ae55739363a3&v=4
+    contributions: 1484
+    company: "@Leadfeeder"
+    organizations: "Leadfeeder,balodb"
+
+  - rank: 22
+    name: "Gerald Nako"
+    login: "geraldnako"
+    avatarUrl: https://avatars.githubusercontent.com/u/5095859?u=2abf6b191c5b01a49e740e28224f697080d4c49d&v=4
+    contributions: 1447
+    company: ""
+    organizations: ""
+
+  - rank: 23
+    name: "Gjergji Ramku"
+    login: "Gjergj"
+    avatarUrl: https://avatars.githubusercontent.com/u/6172287?u=e63aaa6339314f7fee78d1012e55d010e7a29320&v=4
+    contributions: 1394
+    company: "Glofox"
+    organizations: ""
+
+  - rank: 24
+    name: "Betim Shala"
+    login: "BetimShala"
+    avatarUrl: https://avatars.githubusercontent.com/u/27002582?u=01b9630048f27c42d537948f120dea0ab5938cfc&v=4
+    contributions: 1380
+    company: "Likvido"
+    organizations: ""
+
+  - rank: 25
+    name: "Kristi"
+    login: "KristiSeraj"
+    avatarUrl: https://avatars.githubusercontent.com/u/65773022?u=811d31188155fc50407a5032d09a32259b1e636e&v=4
+    contributions: 1266
+    company: ""
+    organizations: "zero-to-mastery,MrMothDevs"
+
+  - rank: 26
+    name: "Dionis Senja"
+    login: "d1once"
+    avatarUrl: https://avatars.githubusercontent.com/u/73392670?u=3f0d424c1c321d2803b4477d5c449df899c399de&v=4
+    contributions: 1195
+    company: "division5"
+    organizations: ""
+
+  - rank: 27
+    name: "Edmond Cukalla"
+    login: "ecukalla"
+    avatarUrl: https://avatars.githubusercontent.com/u/775064?u=5b5dd00f7bb7cc82742dcecd1d1a477e1224acc1&v=4
+    contributions: 1191
+    company: ""
+    organizations: ""
+
+  - rank: 28
+    name: "Ina Qirko"
+    login: "inaqirko"
+    avatarUrl: https://avatars.githubusercontent.com/u/10404841?u=203a686c29d4a7ae70c56fc95f2a687014f360bf&v=4
+    contributions: 1183
+    company: "@teachaway "
+    organizations: ""
+
+  - rank: 29
+    name: "Jurgen Kruja"
+    login: "sayjin93"
+    avatarUrl: https://avatars.githubusercontent.com/u/5080745?u=8e6b93f55938d39ed8454e9982bbc86b92ab0b33&v=4
+    contributions: 1178
+    company: "Morix"
+    organizations: ""
+
+  - rank: 30
+    name: "Endrit Novaku"
+    login: "endritNovaku"
+    avatarUrl: https://avatars.githubusercontent.com/u/62180779?v=4
+    contributions: 1178
+    company: ""
+    organizations: ""
+
+  - rank: 31
+    name: "Erand Laci"
+    login: "lacieri"
+    avatarUrl: https://avatars.githubusercontent.com/u/12892121?u=4e6dd5f5a5a29a78f9357d09b7c4069c8f806a25&v=4
+    contributions: 1160
+    company: "@kirschbaum-development"
+    organizations: "kirschbaum-development"
+
+  - rank: 32
+    name: "Erlind Bylykbashi"
+    login: "erlindbylykbashi"
+    avatarUrl: https://avatars.githubusercontent.com/u/39137815?u=0fcc8351cbb2506d7fecc92049d461a639b4a469&v=4
+    contributions: 1147
+    company: "@GildedFinance "
+    organizations: ""
+
+  - rank: 33
+    name: "Enea Dede"
+    login: "en3a"
+    avatarUrl: https://avatars.githubusercontent.com/u/32363946?u=edd6ea1068b232699a486665939ad6c5cbf28a80&v=4
+    contributions: 1131
+    company: "Elite Studio"
+    organizations: ""
+
+  - rank: 34
+    name: "Flamur Deliu"
+    login: "fdeliu"
+    avatarUrl: https://avatars.githubusercontent.com/u/43107323?v=4
+    contributions: 1111
+    company: ""
+    organizations: ""
+
+  - rank: 35
+    name: "Redjan Ymeraj"
+    login: "redjanym"
+    avatarUrl: https://avatars.githubusercontent.com/u/15679866?u=f5a9d9050d7e9b0f8fa8ffd04bffacfc0642d90a&v=4
+    contributions: 1017
+    company: "Wellness+"
+    organizations: ""
+
+  - rank: 36
+    name: "Ergin"
+    login: "ErginDapaj"
+    avatarUrl: https://avatars.githubusercontent.com/u/39377884?u=f90e339d076f470db5a8566eefe3bf2162d3fd1e&v=4
+    contributions: 974
+    company: ""
+    organizations: "MrMothDevs,CrypTipp"
+
+  - rank: 37
+    name: "Saimir Baraj"
+    login: "Akirozen"
+    avatarUrl: https://avatars.githubusercontent.com/u/84786341?u=454f2d211816daf4b9915d2792287c38deb2efc0&v=4
+    contributions: 937
+    company: ""
+    organizations: ""
+
+  - rank: 38
+    name: "Everest Gjonaj"
+    login: "ogodeverest"
+    avatarUrl: https://avatars.githubusercontent.com/u/22114017?u=c14306bd417aafda44436cdad869893a6a7ac1ea&v=4
+    contributions: 899
+    company: ""
+    organizations: ""
+
+  - rank: 39
+    name: "Sara Makishti"
+    login: "sara-makishti"
+    avatarUrl: https://avatars.githubusercontent.com/u/76097257?v=4
+    contributions: 869
+    company: "CardoAI"
+    organizations: ""
+
+  - rank: 40
+    name: "Mariglen Pupa"
+    login: "mariglenpupa"
+    avatarUrl: https://avatars.githubusercontent.com/u/62464064?u=6fa1a0e1dbfc8830c159453a16274783c3d0685d&v=4
+    contributions: 847
+    company: ""
+    organizations: ""
+
+  - rank: 41
+    name: "Klodian shaba"
+    login: "klodianshaba"
+    avatarUrl: https://avatars.githubusercontent.com/u/24659571?u=c5b0b2a6c3ed71a08cad38da752817140a52714e&v=4
+    contributions: 846
+    company: ""
+    organizations: ""
+
+  - rank: 42
+    name: "Arenc"
+    login: "Arenc10"
+    avatarUrl: https://avatars.githubusercontent.com/u/77469839?v=4
+    contributions: 838
+    company: ""
+    organizations: ""
+
+  - rank: 43
+    name: "Fatjon Rrapaj"
+    login: "FatjonRrapaj"
+    avatarUrl: https://avatars.githubusercontent.com/u/38084457?u=37b8c15c78f98f0395e6e9a1918b3aff898de015&v=4
+    contributions: 836
+    company: "Proxify"
+    organizations: ""
+
+  - rank: 44
+    name: "Joana Karanxha"
+    login: "karanxhajoana"
+    avatarUrl: https://avatars.githubusercontent.com/u/35038616?v=4
+    contributions: 796
+    company: ""
+    organizations: ""
+
+  - rank: 45
+    name: "Amarildo Gje\u00e7aj"
+    login: "Amarildoo"
+    avatarUrl: https://avatars.githubusercontent.com/u/34867366?u=570814e30f05367f41f38cafc0a55b062e32423b&v=4
+    contributions: 779
+    company: "Freelance"
+    organizations: ""
+
+  - rank: 46
+    name: "Klejvi Kapaj"
+    login: "kl3jvi"
+    avatarUrl: https://avatars.githubusercontent.com/u/40796367?u=5dbcd51e9e323e6d330799cd8233ce12500f9e75&v=4
+    contributions: 764
+    company: "@TheMobileLife"
+    organizations: ""
+
+  - rank: 47
+    name: "Frencis"
+    login: "frnc96"
+    avatarUrl: https://avatars.githubusercontent.com/u/40387295?u=90a361b2a645b24e8eacf0f7a75ee3e02106fb38&v=4
+    contributions: 740
+    company: "upcoach"
+    organizations: ""
+
+  - rank: 48
+    name: "Alban Afmeti"
+    login: "albanafmeti"
+    avatarUrl: https://avatars.githubusercontent.com/u/11160896?u=a6fc86d6447ab198d69dc4eacfb0c9bd582d02c7&v=4
+    contributions: 724
+    company: "Devoluper"
+    organizations: ""
+
+  - rank: 49
+    name: "Anxhelo Lushka"
+    login: "AnXh3L0"
+    avatarUrl: https://avatars.githubusercontent.com/u/25004151?u=7df02207550901c767e2392f455c988f56678866&v=4
+    contributions: 702
+    company: "@uracreative "
+    organizations: "k9mail,AnySoftKeyboard,opensourcedesign,OpenLabsHackerspace,AdAway,uracreative,CityZenApp,Librefox"
+
+  - rank: 50
+    name: "Florian Nika"
+    login: "florianika"
+    avatarUrl: https://avatars.githubusercontent.com/u/7765263?u=c221e2f0b9e7cb72e50dd19bc78e3deebd01cade&v=4
+    contributions: 693
+    company: ""
+    organizations: ""
+
+  - rank: 51
+    name: "Sajmir Doko"
+    login: "sajdoko"
+    avatarUrl: https://avatars.githubusercontent.com/u/8860056?u=8094fd963ce3d31f4e0ee9f46ff7a8aa7bd9ea2d&v=4
+    contributions: 675
+    company: "@LocalWebsrl @WordPress"
+    organizations: "LocalWebsrl"
+
+  - rank: 52
+    name: "Klement Omeri"
+    login: "klement97"
+    avatarUrl: https://avatars.githubusercontent.com/u/44920963?u=f294f2bc8c5aab7dbea0465a66f76546be197a3c&v=4
+    contributions: 622
+    company: "@CardoAI"
+    organizations: ""
+
+  - rank: 53
+    name: "Joni Baboci"
+    login: "dbaboci"
+    avatarUrl: https://avatars.githubusercontent.com/u/2484152?u=10b75e8923d6424dd0a9851617f1337782a4e14c&v=4
+    contributions: 619
+    company: "getlayer.xyz"
+    organizations: "bashkiatirane"
+
+  - rank: 54
+    name: "Mateo Malaj"
+    login: "911mateo911"
+    avatarUrl: https://avatars.githubusercontent.com/u/68548704?v=4
+    contributions: 618
+    company: ""
+    organizations: ""
+
+  - rank: 55
+    name: ""
+    login: "igiann"
+    avatarUrl: https://avatars.githubusercontent.com/u/15004989?u=9c2a99544e2fb5aa3b1b008f13a4a9133ef1479e&v=4
+    contributions: 616
+    company: "UPT"
+    organizations: ""
+
+  - rank: 56
+    name: "Elitjon Metaliaj"
+    login: "emetaliaj-dev"
+    avatarUrl: https://avatars.githubusercontent.com/u/76097212?u=5bf7d0a52bf343612963bf9a5ddcf7634954d8b5&v=4
+    contributions: 616
+    company: "CardoAi"
+    organizations: ""
+
+  - rank: 57
+    name: "Rushan Xhaja"
+    login: "ani12321"
+    avatarUrl: https://avatars.githubusercontent.com/u/3965508?v=4
+    contributions: 605
+    company: ""
+    organizations: ""
+
+  - rank: 58
+    name: "Soni Lamkaj"
+    login: "Soni-L"
+    avatarUrl: https://avatars.githubusercontent.com/u/7612859?u=3bbb1a9ace524bfbba8db06773054a51939ff5f4&v=4
+    contributions: 601
+    company: "@dexiio"
+    organizations: ""
+
+  - rank: 59
+    name: "Klevis Ndoka"
+    login: "klevisndoka"
+    avatarUrl: https://avatars.githubusercontent.com/u/3813023?v=4
+    contributions: 601
+    company: ""
+    organizations: ""
+
+  - rank: 60
+    name: "Emirjeta V"
+    login: "myelin0"
+    avatarUrl: https://avatars.githubusercontent.com/u/88782702?u=dda2182a84ec7732a031d781d27b3377712a5477&v=4
+    contributions: 596
+    company: " Full-Stack Developer"
+    organizations: ""
+
+  - rank: 61
+    name: ""
+    login: "eltonbasha"
+    avatarUrl: https://avatars.githubusercontent.com/u/29661640?v=4
+    contributions: 594
+    company: ""
+    organizations: ""
+
+  - rank: 62
+    name: "Samuel Bushi"
+    login: "samuelbushi"
+    avatarUrl: https://avatars.githubusercontent.com/u/43500751?u=0819206426bc95226ede5162ddfd4a91a38c758d&v=4
+    contributions: 573
+    company: "Blispy Co."
+    organizations: "wildfild,dlabdesigns,EssDB,zitpal"
+
+  - rank: 63
+    name: "Ken"
+    login: "thehydrogen"
+    avatarUrl: https://avatars.githubusercontent.com/u/34059898?u=2f16046ed77f048bf6a7a8815347d32f2bf7b061&v=4
+    contributions: 563
+    company: ""
+    organizations: "artemisac,AstridDiscord,AnticheatMarket,Cursed-GG,CosmicMedia"
+
+  - rank: 64
+    name: "Belisar Hoxholli"
+    login: "belisarh"
+    avatarUrl: https://avatars.githubusercontent.com/u/11684453?u=d39d4c6ffcd7553e9a2929d5e68b96665ddc71f9&v=4
+    contributions: 557
+    company: "Kirschbaum Development"
+    organizations: "kirschbaum-development"
+
+  - rank: 65
+    name: "Marsel Beqiri"
+    login: "marselbeqiri"
+    avatarUrl: https://avatars.githubusercontent.com/u/53948154?u=46e36553e2965dd0d9f6b0deb536791cde0d073d&v=4
+    contributions: 550
+    company: ""
+    organizations: ""
+
+  - rank: 66
+    name: "Eris Adhami"
+    login: "eriadhami"
+    avatarUrl: https://avatars.githubusercontent.com/u/45641379?v=4
+    contributions: 541
+    company: "Akvelon, Inc."
+    organizations: ""
+
+  - rank: 67
+    name: "Arlind Qirjazi"
+    login: "arlind87"
+    avatarUrl: https://avatars.githubusercontent.com/u/36760848?u=93ef6e4f3c5723ec18516ee3f813e866515a4fc8&v=4
+    contributions: 538
+    company: "Crunch-io"
+    organizations: ""
+
+  - rank: 68
+    name: "Rinald"
+    login: "rinald-ta"
+    avatarUrl: https://avatars.githubusercontent.com/u/92527147?u=3c0cf55c9bf1d143266d7ec673b640dc0cf2fb1b&v=4
+    contributions: 538
+    company: "Teach Away"
+    organizations: ""
+
+  - rank: 69
+    name: "Arber Gjonaj"
+    login: "ArberGjonaj"
+    avatarUrl: https://avatars.githubusercontent.com/u/71523972?v=4
+    contributions: 531
+    company: ""
+    organizations: ""
+
+  - rank: 70
+    name: "Oerd Cukalla"
+    login: "oerd"
+    avatarUrl: https://avatars.githubusercontent.com/u/56891?v=4
+    contributions: 523
+    company: ""
+    organizations: "albatrans"
+
+  - rank: 71
+    name: "Dashamir Hoxha"
+    login: "dashohoxha"
+    avatarUrl: https://avatars.githubusercontent.com/u/1495805?v=4
+    contributions: 513
+    company: ""
+    organizations: "B-Translator,Q-Translate,docker-scripts-archived,EasyGnuPG"
+
+  - rank: 72
+    name: "Brendon Le\u00e7ka"
+    login: "brendonV2"
+    avatarUrl: https://avatars.githubusercontent.com/u/16626628?v=4
+    contributions: 506
+    company: ""
+    organizations: ""
+
+  - rank: 73
+    name: "Emil Kadilli"
+    login: "Emil1997"
+    avatarUrl: https://avatars.githubusercontent.com/u/16655006?v=4
+    contributions: 495
+    company: "Elitestudio"
+    organizations: ""
+
+  - rank: 74
+    name: "Rezart Durmishi"
+    login: "RezartDurmishi"
+    avatarUrl: https://avatars.githubusercontent.com/u/90687160?v=4
+    contributions: 491
+    company: ""
+    organizations: ""
+
+  - rank: 75
+    name: ""
+    login: "beri14"
+    avatarUrl: https://avatars.githubusercontent.com/u/48594621?u=6f707462c0e46c64e7601890c44dd6255c91bfe8&v=4
+    contributions: 488
+    company: ""
+    organizations: ""
+
+  - rank: 76
+    name: "Gentjan Koli\u00e7aj"
+    login: "gentjankolicaj"
+    avatarUrl: https://avatars.githubusercontent.com/u/18643945?u=41b2d58a2ed0ca21a5dedc9f25cff60aba655141&v=4
+    contributions: 484
+    company: ""
+    organizations: ""
+
+  - rank: 77
+    name: "Klint"
+    login: "klintmane"
+    avatarUrl: https://avatars.githubusercontent.com/u/9338536?u=203cf1a8c21c20f8a33ed7c5c3847fc45fa1143d&v=4
+    contributions: 466
+    company: ""
+    organizations: "depoja"
+
+  - rank: 78
+    name: "Jozi Bashaj"
+    login: "CodeAlb"
+    avatarUrl: https://avatars.githubusercontent.com/u/21162347?u=59141703410d43f3f14b3765892cddfd30500214&v=4
+    contributions: 444
+    company: "Freelance"
+    organizations: ""
+
+  - rank: 79
+    name: "Albdroid.AL"
+    login: "SxtBox"
+    avatarUrl: https://avatars.githubusercontent.com/u/60861585?u=b6f1aa1382c67ce06dff922c4896c8950be34ece&v=4
+    contributions: 408
+    company: "PHP Framework"
+    organizations: "Albdroid-AL"
+
+  - rank: 80
+    name: "Erlis Dhima"
+    login: "erlisdhima"
+    avatarUrl: https://avatars.githubusercontent.com/u/7734108?u=9edd2680773075bfbbe6bdc8803feeeb09e1a0f6&v=4
+    contributions: 399
+    company: ""
+    organizations: ""
+
+  - rank: 81
+    name: "Albina Peposhi"
+    login: "codergirl-al"
+    avatarUrl: https://avatars.githubusercontent.com/u/52979210?u=5d4dfa7d8cc505037cb9b71b309fc6ce029c1f08&v=4
+    contributions: 396
+    company: ""
+    organizations: ""
+
+  - rank: 82
+    name: "Denald Hushi"
+    login: "denaldhushi"
+    avatarUrl: https://avatars.githubusercontent.com/u/20266205?u=25ca4d9da8bdce46dfc8a9214c2f046f5eee2e25&v=4
+    contributions: 393
+    company: ""
+    organizations: ""
+
+  - rank: 83
+    name: "Gerti Ozuni"
+    login: "Gertiozuni"
+    avatarUrl: https://avatars.githubusercontent.com/u/26062255?v=4
+    contributions: 366
+    company: "ASH"
+    organizations: ""
+
+  - rank: 84
+    name: "Sokol Paja"
+    login: "kolpaja"
+    avatarUrl: https://avatars.githubusercontent.com/u/79046681?u=8ccb77be4bc5a37a9251ec746f4dea5c9d3a6d87&v=4
+    contributions: 353
+    company: "Codevider"
+    organizations: ""
+
+  - rank: 85
+    name: "Hideki Natsumi"
+    login: "HidekiNatsumi"
+    avatarUrl: https://avatars.githubusercontent.com/u/96385473?u=b30c2d7ec89cfc61933f8e32d9e5952aa79f1159&v=4
+    contributions: 348
+    company: "UNYT"
+    organizations: ""
+
+  - rank: 86
+    name: "\u304a\u308b\u3052\u3059"
+    login: "orges"
+    avatarUrl: https://avatars.githubusercontent.com/u/23742757?u=96dd3362862d1aebafdf7a3f58b7123f4f3feec8&v=4
+    contributions: 344
+    company: ""
+    organizations: "aospa-whyred,proton-whyred,proton-vayu"
+
+  - rank: 87
+    name: "Valentin Lica"
+    login: "ValentinHLica"
+    avatarUrl: https://avatars.githubusercontent.com/u/74852397?u=301bf74d1726006af65097b937068725bc7f228c&v=4
+    contributions: 338
+    company: ""
+    organizations: ""
+
+  - rank: 88
+    name: "Orlando Malo"
+    login: "OrlandoMalo505"
+    avatarUrl: https://avatars.githubusercontent.com/u/82452307?u=dee7fa78745d752cc9c2060a3f90f01a41f98155&v=4
+    contributions: 327
+    company: "TeamSystem"
+    organizations: ""
+
+  - rank: 89
+    name: "Vjola Shtishi"
+    login: "vshtishi"
+    avatarUrl: https://avatars.githubusercontent.com/u/62517004?u=c10df1fa081f9506ed9bd705a409c4926118cfd3&v=4
+    contributions: 326
+    company: ""
+    organizations: ""
+
+  - rank: 90
+    name: "Klevis Cipi"
+    login: "kleviscipi"
+    avatarUrl: https://avatars.githubusercontent.com/u/14005403?u=fc1ed7bb507c2980dce61f833d57b1ec0c085c06&v=4
+    contributions: 322
+    company: ""
+    organizations: "emojics"
+
+  - rank: 91
+    name: "Emanuel Zhupa"
+    login: "ezhupa99"
+    avatarUrl: https://avatars.githubusercontent.com/u/34006441?u=01216868d7ddbbe3f7938b08d517dddc68a48c1c&v=4
+    contributions: 315
+    company: "PwC"
+    organizations: ""
+
+  - rank: 92
+    name: "Denis Ismailaj"
+    login: "denis-ismailaj"
+    avatarUrl: https://avatars.githubusercontent.com/u/20902736?u=8a638811801b1aec953a5153a6b13223ae65a292&v=4
+    contributions: 310
+    company: ""
+    organizations: "oficina-hacker-team"
+
+  - rank: 93
+    name: "Gjergji Dojce"
+    login: "gjergjidojce"
+    avatarUrl: https://avatars.githubusercontent.com/u/44404641?u=73cbc00199286eb3309fb9dd228c91fa4407f1a9&v=4
+    contributions: 295
+    company: "crunch-io"
+    organizations: ""
+
+  - rank: 94
+    name: "Daniele Llazo"
+    login: "DaNiElE-1999"
+    avatarUrl: https://avatars.githubusercontent.com/u/87183305?u=ced385754ccd7ce1808525e2caa05ad8d31e2855&v=4
+    contributions: 291
+    company: ""
+    organizations: ""
+
+  - rank: 95
+    name: "Qinx"
+    login: "qxzzxq"
+    avatarUrl: https://avatars.githubusercontent.com/u/17144939?v=4
+    contributions: 290
+    company: ""
+    organizations: "SETL-Framework"
+
+  - rank: 96
+    name: "Anxhela Alushi"
+    login: "anxhelaalushi"
+    avatarUrl: https://avatars.githubusercontent.com/u/66495692?u=52f9d1e1001a5f634e95d342d41528259f52a79c&v=4
+    contributions: 287
+    company: ""
+    organizations: ""
+
+  - rank: 97
+    name: "Enea Jahollari"
+    login: "eneajaho"
+    avatarUrl: https://avatars.githubusercontent.com/u/25394362?u=85a8502a531b6b9c71683baef3018f59919b9c8b&v=4
+    contributions: 274
+    company: "ATIS"
+    organizations: ""
+
+  - rank: 98
+    name: "Ergis Mullai"
+    login: "ergism"
+    avatarUrl: https://avatars.githubusercontent.com/u/47216303?u=b3b76b03cfa49471acaee1cd08f4a5c08d0d0c4e&v=4
+    contributions: 273
+    company: ""
+    organizations: ""
+
+  - rank: 99
+    name: "Mario Nebiaj"
+    login: "mario-neb"
+    avatarUrl: https://avatars.githubusercontent.com/u/50882870?u=d20eaebee844d76f60d3fb66b038c6657ede87aa&v=4
+    contributions: 268
+    company: "PwC"
+    organizations: ""
+
+  - rank: 100
+    name: "Julian \u00c7uni"
+    login: "juliancuni"
+    avatarUrl: https://avatars.githubusercontent.com/u/8204040?u=d68da1bc2b70d417caca647e4be1d498be3cb4d4&v=4
+    contributions: 267
+    company: "MicroServices Albania"
+    organizations: ""
+
+  - rank: 101
+    name: "Olken Merxira"
+    login: "Omega-me"
+    avatarUrl: https://avatars.githubusercontent.com/u/40502479?u=9766c644816e693ecbf3098bbfb417d38b974442&v=4
+    contributions: 264
+    company: "Omega-me"
+    organizations: ""
+
+  - rank: 102
+    name: "JonaHysaj"
+    login: "JonaHysaj"
+    avatarUrl: https://avatars.githubusercontent.com/u/73343216?v=4
+    contributions: 261
+    company: "1UP Interactive Services"
+    organizations: ""
+
+  - rank: 103
+    name: "Anastasia Fadeeva"
+    login: "AnFD99"
+    avatarUrl: https://avatars.githubusercontent.com/u/95511071?u=38d5f241fb7868a4a9e27fe8ce5c15b4fb59cf46&v=4
+    contributions: 256
+    company: ""
+    organizations: ""
+
+  - rank: 104
+    name: "Joan Sk\u00ebnderi"
+    login: "joanskenderi"
+    avatarUrl: https://avatars.githubusercontent.com/u/86119045?u=af149a0b357aa0711f173344c5a67b4956dd441d&v=4
+    contributions: 246
+    company: "Helius Systems"
+    organizations: ""
+
+  - rank: 105
+    name: "Tarzan Prenga"
+    login: "tars17"
+    avatarUrl: https://avatars.githubusercontent.com/u/8302947?u=cef76f13e1d8cceaa3a18483db9cc1c299e6aa4b&v=4
+    contributions: 245
+    company: ""
+    organizations: ""
+
+  - rank: 106
+    name: "Joan Kabello"
+    login: "joankabello"
+    avatarUrl: https://avatars.githubusercontent.com/u/38832279?u=5ec2d1066e29748c9fc1b433038f488e646734db&v=4
+    contributions: 243
+    company: "Scaling Parrots"
+    organizations: ""
+
+  - rank: 107
+    name: "Sadri"
+    login: "sadripervana"
+    avatarUrl: https://avatars.githubusercontent.com/u/89244938?u=d7fb3f3cadb90225e864732c9bdd816c67ba9141&v=4
+    contributions: 241
+    company: ""
+    organizations: ""
+
+  - rank: 108
+    name: "Aldison Lluka"
+    login: "aldisonll"
+    avatarUrl: https://avatars.githubusercontent.com/u/34491203?u=bc6517f13df20d0f29acc8116a6af7abe82c7d5f&v=4
+    contributions: 240
+    company: ""
+    organizations: ""
+
+  - rank: 109
+    name: "Ervis Hajdari"
+    login: "ervis-hajdari"
+    avatarUrl: https://avatars.githubusercontent.com/u/61877979?u=ddfffe0a063e3ade3d0e6fb90f5eac84223f40d0&v=4
+    contributions: 236
+    company: ""
+    organizations: ""
+
+  - rank: 110
+    name: "Rei Bengu"
+    login: "reibengu"
+    avatarUrl: https://avatars.githubusercontent.com/u/4273878?u=c80f008ff223761026991efebf93225e05c495c4&v=4
+    contributions: 235
+    company: ""
+    organizations: ""
+
+  - rank: 111
+    name: "RediMuharremi"
+    login: "RediMuharremi"
+    avatarUrl: https://avatars.githubusercontent.com/u/29483149?u=a4d1857bb41593511be2a2a02316c584f11f9023&v=4
+    contributions: 233
+    company: ""
+    organizations: ""
+
+  - rank: 112
+    name: "Edvin Hysenllari"
+    login: "edvin-hysenllari"
+    avatarUrl: https://avatars.githubusercontent.com/u/24521547?u=7d4b8b64f0e077dd4d4256738d247ed23aef25fa&v=4
+    contributions: 218
+    company: ""
+    organizations: ""
+
+  - rank: 113
+    name: "undefined"
+    login: "nikolliervin"
+    avatarUrl: https://avatars.githubusercontent.com/u/45341025?u=c3a087722d4ce8e2285d53d542c4f123e8aeec02&v=4
+    contributions: 218
+    company: ""
+    organizations: ""
+
+  - rank: 114
+    name: "Jurgen Gjon\u00e7ari"
+    login: "jurgengjoncari"
+    avatarUrl: https://avatars.githubusercontent.com/u/14801240?u=2ca33b76d1faef77ddc13ae3cc17adff009546cc&v=4
+    contributions: 217
+    company: ""
+    organizations: ""
+
+  - rank: 115
+    name: "Rando Shtishi"
+    login: "rshtishi"
+    avatarUrl: https://avatars.githubusercontent.com/u/42577665?u=d1c4d52226a5a08395021652ecb4fb6ad459fde3&v=4
+    contributions: 215
+    company: ""
+    organizations: ""
+
+  - rank: 116
+    name: "Edison Neza"
+    login: "edisonneza"
+    avatarUrl: https://avatars.githubusercontent.com/u/21251453?u=01b85152a84b5c283b1ee03072ee80b25a5ad357&v=4
+    contributions: 214
+    company: "Vivido Software"
+    organizations: ""
+
+  - rank: 117
+    name: "erjusstafa"
+    login: "erjusstafa"
+    avatarUrl: https://avatars.githubusercontent.com/u/74688301?u=9caf1130c2edfc688061e1756a4b80386029a890&v=4
+    contributions: 211
+    company: ""
+    organizations: ""
+
+  - rank: 118
+    name: "Betim Beja"
+    login: "BetimBeja"
+    avatarUrl: https://avatars.githubusercontent.com/u/11160171?u=b90556136c915d545eb2cc97fde8d3486f9a802a&v=4
+    contributions: 209
+    company: "Shko Online"
+    organizations: "Shko-Online"
+
+  - rank: 119
+    name: ""
+    login: "xhiti"
+    avatarUrl: https://avatars.githubusercontent.com/u/51859550?v=4
+    contributions: 208
+    company: "Remote"
+    organizations: ""
+
+  - rank: 120
+    name: "Fjorela Veliu"
+    login: "FjorelaV"
+    avatarUrl: https://avatars.githubusercontent.com/u/25348342?u=cb4397fd7807a9586c74dd4231de60682a6e90c1&v=4
+    contributions: 205
+    company: "@sabicom "
+    organizations: ""
+
+  - rank: 121
+    name: "Lejdi Koci"
+    login: "tigone"
+    avatarUrl: https://avatars.githubusercontent.com/u/76665911?v=4
+    contributions: 203
+    company: "Kreatx"
+    organizations: ""
+
+  - rank: 122
+    name: ""
+    login: "Edes2128"
+    avatarUrl: https://avatars.githubusercontent.com/u/51410696?u=6c64326b83508fb93b73ae9d72e42ee05a06cf76&v=4
+    contributions: 203
+    company: "Sulce"
+    organizations: ""
+
+  - rank: 123
+    name: "Amarildo Bitri"
+    login: "amarildobitri"
+    avatarUrl: https://avatars.githubusercontent.com/u/32959281?u=1c4767922ec4d0667a6b104308463bff35227494&v=4
+    contributions: 201
+    company: ""
+    organizations: ""
+
+  - rank: 124
+    name: "Shpetim Shala"
+    login: "shpetimshala"
+    avatarUrl: https://avatars.githubusercontent.com/u/6706681?u=db81b1c3a4c0b5569c5f63674e9ad7a13c0e79f6&v=4
+    contributions: 194
+    company: ""
+    organizations: ""
+
+  - rank: 125
+    name: "Elton Memishaj"
+    login: "Elton47"
+    avatarUrl: https://avatars.githubusercontent.com/u/11498437?u=12baa054ca4a4a857ca9187c8d19102484f3bf30&v=4
+    contributions: 194
+    company: ""
+    organizations: ""
+
+  - rank: 126
+    name: "Fabricio Pashaj"
+    login: "fabriciopashaj"
+    avatarUrl: https://avatars.githubusercontent.com/u/79104733?u=c66507b3e23ecde57fe2df0ab523ee3081b722c0&v=4
+    contributions: 191
+    company: ""
+    organizations: ""
+
+  - rank: 127
+    name: "\u01acHE \u042fAW \u2623"
+    login: "theraw"
+    avatarUrl: https://avatars.githubusercontent.com/u/32969774?u=6b359971e15685fb0359e6a8c065a399b40dc228&v=4
+    contributions: 186
+    company: "@nasa (The Dream)"
+    organizations: "SantaBarbaraCityCollege"
+
+  - rank: 128
+    name: "Kilton Pisli"
+    login: "kiltonpisli"
+    avatarUrl: https://avatars.githubusercontent.com/u/59768393?u=5ddb985b966bf77dfca58f1075ed3f76fa7da5fe&v=4
+    contributions: 185
+    company: "Smartwork"
+    organizations: ""
+
+  - rank: 129
+    name: "arsildo"
+    login: "arsildo"
+    avatarUrl: https://avatars.githubusercontent.com/u/51417052?u=4ce52b767ffa4eca2877fb039fe54949cdfcc4f7&v=4
+    contributions: 182
+    company: ""
+    organizations: ""
+
+  - rank: 130
+    name: "Jon Jakova"
+    login: "JonJakova"
+    avatarUrl: https://avatars.githubusercontent.com/u/50449118?v=4
+    contributions: 180
+    company: "Developer at Sabanet s.r.l."
+    organizations: ""
+
+  - rank: 131
+    name: "Ermal"
+    login: "lamre96"
+    avatarUrl: https://avatars.githubusercontent.com/u/63654158?v=4
+    contributions: 177
+    company: ""
+    organizations: ""
+
+  - rank: 132
+    name: "Arbri \u00e7o\u00e7ka"
+    login: "cocka11"
+    avatarUrl: https://avatars.githubusercontent.com/u/35626219?u=e480a0ec036e694eba02e45648a55e3b7bcb8117&v=4
+    contributions: 174
+    company: ""
+    organizations: ""
+
+  - rank: 133
+    name: "Ebubeker"
+    login: "Ebubeker"
+    avatarUrl: https://avatars.githubusercontent.com/u/60944813?v=4
+    contributions: 167
+    company: ""
+    organizations: ""
+
+  - rank: 134
+    name: "Marvin Hoxha"
+    login: "marvinhoxha"
+    avatarUrl: https://avatars.githubusercontent.com/u/64254074?u=130efb0180696318a0ad95a206d6c1121df0aff8&v=4
+    contributions: 166
+    company: "@data-max-hq"
+    organizations: "data-max-hq"
+
+  - rank: 135
+    name: "Enerida Lama"
+    login: "eneridalama"
+    avatarUrl: https://avatars.githubusercontent.com/u/65872895?u=0ef50f8240d83926aef6984a3e5669be15a2e084&v=4
+    contributions: 165
+    company: ""
+    organizations: ""
+
+  - rank: 136
+    name: "Mustafa Aga"
+    login: "mustafaag"
+    avatarUrl: https://avatars.githubusercontent.com/u/36820880?u=a3eeeaac85019a81e2a7d275c99b438245849dc9&v=4
+    contributions: 162
+    company: "Sisal Group"
+    organizations: ""
+
+  - rank: 137
+    name: "Algent Albrahimi"
+    login: "algent-al"
+    avatarUrl: https://avatars.githubusercontent.com/u/46356616?u=c488ce6f1089332191ca2e85c1d37ef7dd5488bb&v=4
+    contributions: 162
+    company: ""
+    organizations: ""
+
+  - rank: 138
+    name: "Samir Vlla\u00e7o"
+    login: "samiscold"
+    avatarUrl: https://avatars.githubusercontent.com/u/62956581?u=83c85c0bbf5393033c8742ed151a294b55798120&v=4
+    contributions: 161
+    company: "@Spinaton"
+    organizations: ""
+
+  - rank: 139
+    name: "Edis Hasaj"
+    login: "edisnord"
+    avatarUrl: https://avatars.githubusercontent.com/u/87529116?v=4
+    contributions: 159
+    company: "iKons"
+    organizations: ""
+
+  - rank: 140
+    name: "Gorian Driza"
+    login: "GorianDriza"
+    avatarUrl: https://avatars.githubusercontent.com/u/6632644?u=9071c2af83d6ac8acab80c1749cc05525b37921e&v=4
+    contributions: 158
+    company: ""
+    organizations: ""
+
+  - rank: 141
+    name: "Arber Braja"
+    login: "arberbr"
+    avatarUrl: https://avatars.githubusercontent.com/u/44669082?v=4
+    contributions: 157
+    company: ""
+    organizations: ""
+
+  - rank: 142
+    name: "Xhoel Bano"
+    login: "xhoel-bano"
+    avatarUrl: https://avatars.githubusercontent.com/u/77228132?u=c8e5a32801fcd3a86f2ab1caadd3c3c9bb45dbe4&v=4
+    contributions: 154
+    company: ""
+    organizations: ""
+
+  - rank: 143
+    name: "Oerd Bej"
+    login: "OerdBej"
+    avatarUrl: https://avatars.githubusercontent.com/u/69147540?u=acc2e2b5f0850907de627739714022133484f483&v=4
+    contributions: 152
+    company: ""
+    organizations: ""
+
+  - rank: 144
+    name: "Suljot Gjoka"
+    login: "pi0x73"
+    avatarUrl: https://avatars.githubusercontent.com/u/58447776?u=f94d95cbe6924ab6f5541efd3103ba89714e295b&v=4
+    contributions: 150
+    company: ""
+    organizations: ""
+
+  - rank: 145
+    name: "Fatjon Rami"
+    login: "sly503"
+    avatarUrl: https://avatars.githubusercontent.com/u/67649108?v=4
+    contributions: 149
+    company: ""
+    organizations: ""
+
+  - rank: 146
+    name: "Vitaliy K."
+    login: "vk-en"
+    avatarUrl: https://avatars.githubusercontent.com/u/17083974?u=1a36b4d09a074578c10fa6d1a1b8f1631d4778dd&v=4
+    contributions: 145
+    company: "AI Solutions"
+    organizations: ""
+
+  - rank: 147
+    name: ""
+    login: "0rxa"
+    avatarUrl: https://avatars.githubusercontent.com/u/34451117?u=b7b96fa4c427b27650404d5e4f13093cb3ef0855&v=4
+    contributions: 144
+    company: ""
+    organizations: ""
+
+  - rank: 148
+    name: "Alban Loku"
+    login: "91alban"
+    avatarUrl: https://avatars.githubusercontent.com/u/71338813?u=96ab9e054e1f3b1a0224157e2946401d36d84c8b&v=4
+    contributions: 144
+    company: "SabaNet"
+    organizations: ""
+
+  - rank: 149
+    name: "Michael Shollaj"
+    login: "Michael-Shollaj"
+    avatarUrl: https://avatars.githubusercontent.com/u/55102646?u=2a0f029dda4d1c9197dd0e910a90dc25c74a0f07&v=4
+    contributions: 143
+    company: ""
+    organizations: ""
+
+  - rank: 150
+    name: "Kevin Shehu"
+    login: "kevinshehu"
+    avatarUrl: https://avatars.githubusercontent.com/u/57314395?u=a2793cb75ed650f99802bfe422ea1865ca4f31e7&v=4
+    contributions: 140
+    company: ""
+    organizations: ""
+
+  - rank: 151
+    name: "Vena Llanaj"
+    login: "Venallanaj"
+    avatarUrl: https://avatars.githubusercontent.com/u/71196658?u=f7c456642846459dcb21aceb4058799b205637b5&v=4
+    contributions: 139
+    company: "Freelencer"
+    organizations: ""
+
+  - rank: 152
+    name: ""
+    login: "northern-polaris"
+    avatarUrl: https://avatars.githubusercontent.com/u/44084291?u=0b43923024bdc650f4b7fee9ac527fe10fa7a9af&v=4
+    contributions: 137
+    company: ""
+    organizations: ""
+
+  - rank: 153
+    name: "KlementBinaj"
+    login: "BlitzBlitz"
+    avatarUrl: https://avatars.githubusercontent.com/u/19191469?u=affa53c0e42fba4a2cffd933aadda90e75358f31&v=4
+    contributions: 137
+    company: ""
+    organizations: ""
+
+  - rank: 154
+    name: "Eni Bunguri"
+    login: "enibunguri"
+    avatarUrl: https://avatars.githubusercontent.com/u/50134975?v=4
+    contributions: 135
+    company: "Gutenberg-Technology"
+    organizations: ""
+
+  - rank: 155
+    name: "Edison Ponari"
+    login: "eponari"
+    avatarUrl: https://avatars.githubusercontent.com/u/61910013?u=318ed7435aaaef48cacb7cd6f0e09a35263b9231&v=4
+    contributions: 133
+    company: ""
+    organizations: ""
+
+  - rank: 156
+    name: "Malfor Saja"
+    login: "malforsaja"
+    avatarUrl: https://avatars.githubusercontent.com/u/20798247?u=3ed1166547abad87554347afd746335f7bbbfc89&v=4
+    contributions: 131
+    company: "Airfind"
+    organizations: ""
+
+  - rank: 157
+    name: "\u00c7lirim Furriku"
+    login: "clirimfurriku"
+    avatarUrl: https://avatars.githubusercontent.com/u/24798164?u=af7f25d3bd8f366811a55ac5e5f34be147b5adff&v=4
+    contributions: 129
+    company: ""
+    organizations: ""
+
+  - rank: 158
+    name: "Gerald Haxhi"
+    login: "zeroabsolute"
+    avatarUrl: https://avatars.githubusercontent.com/u/24575333?u=fad63f0bad930d3066fa2e7c9ab16e97d1b8a03c&v=4
+    contributions: 126
+    company: "Softup Technologies (https://softup.co/)"
+    organizations: ""
+
+  - rank: 159
+    name: "Edvin"
+    login: "urick"
+    avatarUrl: https://avatars.githubusercontent.com/u/1382291?v=4
+    contributions: 126
+    company: "ActiveBit"
+    organizations: ""
+
+  - rank: 160
+    name: "Besart Marku"
+    login: "besartmarku"
+    avatarUrl: https://avatars.githubusercontent.com/u/34649952?u=9f9a05c482ebfcc3d27a7b4dc6fe9fdf48850ff5&v=4
+    contributions: 125
+    company: "Spike Associates"
+    organizations: "spikeassociates"
+
+  - rank: 161
+    name: "Rubin Elezi"
+    login: "RUBINELEZI"
+    avatarUrl: https://avatars.githubusercontent.com/u/57372143?u=6551c29f72805b485b6eeffe78d2b46f52dea2ec&v=4
+    contributions: 124
+    company: "Freelance "
+    organizations: ""
+
+  - rank: 162
+    name: "Klajver \u00c7ela"
+    login: "almighty704"
+    avatarUrl: https://avatars.githubusercontent.com/u/80696988?u=bbfc076720701924136153a2878c7c51255040da&v=4
+    contributions: 124
+    company: ""
+    organizations: ""
+
+  - rank: 163
+    name: "Aldo Tahirllari"
+    login: "AldoTahirllari"
+    avatarUrl: https://avatars.githubusercontent.com/u/21014286?u=f52f8ce6eff72d73a85f6784f5f4c29d44011728&v=4
+    contributions: 123
+    company: "Svea Solar"
+    organizations: ""
+
+  - rank: 164
+    name: "Endrit Gjeta"
+    login: "endrit91"
+    avatarUrl: https://avatars.githubusercontent.com/u/13084540?v=4
+    contributions: 122
+    company: ""
+    organizations: ""
+
+  - rank: 165
+    name: ""
+    login: "geni94"
+    avatarUrl: https://avatars.githubusercontent.com/u/13197721?u=439ffdbf496766c2eb2200833050d62bd91d5b08&v=4
+    contributions: 122
+    company: "Ritech Solutions"
+    organizations: ""
+
+  - rank: 166
+    name: "Euglen Mulaj"
+    login: "euglen-mulaj"
+    avatarUrl: https://avatars.githubusercontent.com/u/97746080?u=7b43c3144acad10a9aea132147bbb428e83150c9&v=4
+    contributions: 119
+    company: "DOT"
+    organizations: ""
+
+  - rank: 167
+    name: ""
+    login: "evisvasiu"
+    avatarUrl: https://avatars.githubusercontent.com/u/45014223?v=4
+    contributions: 117
+    company: "S2 Global"
+    organizations: ""
+
+  - rank: 168
+    name: "Rexhino Kovaci"
+    login: "rexhinokovaci"
+    avatarUrl: https://avatars.githubusercontent.com/u/55946528?u=e9de3d84d08dfbb898b4131b7a655adee02c3f22&v=4
+    contributions: 117
+    company: "@modexgit"
+    organizations: "modexgit"
+
+  - rank: 169
+    name: "Edmirjano Preci"
+    login: "edmirjano"
+    avatarUrl: https://avatars.githubusercontent.com/u/48261411?u=b7f189aadafabd14467fa1f1ea8a440039468852&v=4
+    contributions: 116
+    company: ""
+    organizations: ""
+
+  - rank: 170
+    name: "Redjon Zaci"
+    login: "redjonzaci"
+    avatarUrl: https://avatars.githubusercontent.com/u/73707194?v=4
+    contributions: 115
+    company: "Ritech International AG"
+    organizations: ""
+
+  - rank: 171
+    name: "Erion Maxhari"
+    login: "mexiro"
+    avatarUrl: https://avatars.githubusercontent.com/u/979113?u=8132b8552224b0b5de73f5baa1cb4a91855c275f&v=4
+    contributions: 114
+    company: "Fibank Albania"
+    organizations: ""
+
+  - rank: 172
+    name: "Arian Kapllanaj"
+    login: "Arian27Kapllanaj"
+    avatarUrl: https://avatars.githubusercontent.com/u/62213586?u=fe1e8e308dc1484d272372e016f32c956b28ba20&v=4
+    contributions: 113
+    company: "Aladini"
+    organizations: ""
+
+  - rank: 173
+    name: "Mariglen Doda"
+    login: "Mariglendoda"
+    avatarUrl: https://avatars.githubusercontent.com/u/47455332?u=96fba58578a62b55a2c29abaef952f5ee1479ad5&v=4
+    contributions: 113
+    company: ""
+    organizations: ""
+
+  - rank: 174
+    name: "Aleksander"
+    login: "AleksanderDishnica"
+    avatarUrl: https://avatars.githubusercontent.com/u/2512342?u=6613ba5b45c5cef851693406415da739c6283994&v=4
+    contributions: 113
+    company: ""
+    organizations: ""
+
+  - rank: 175
+    name: "Rei Ikonomi"
+    login: "onomdev"
+    avatarUrl: https://avatars.githubusercontent.com/u/94234882?u=fa6be52a8ebfd65db1be651946cf2bb7b38ff00e&v=4
+    contributions: 109
+    company: "Idealdevs"
+    organizations: ""
+
+  - rank: 176
+    name: "Gerald Nika"
+    login: "itsnika"
+    avatarUrl: https://avatars.githubusercontent.com/u/91494864?v=4
+    contributions: 109
+    company: ""
+    organizations: ""
+
+  - rank: 177
+    name: "Klendi Goci"
+    login: "klendi"
+    avatarUrl: https://avatars.githubusercontent.com/u/20234738?u=99ae8d0ff1ec450ba7ca9a60a0ac3671546206a3&v=4
+    contributions: 109
+    company: "Ritech"
+    organizations: ""
+
+  - rank: 178
+    name: "Klajdi Zmalaj"
+    login: "KlajdiZmalaj"
+    avatarUrl: https://avatars.githubusercontent.com/u/32370399?u=aa2ce3d1f07cc2ef05715657abd09058c55928a3&v=4
+    contributions: 107
+    company: ""
+    organizations: ""
+
+  - rank: 179
+    name: "Florian"
+    login: "hummans"
+    avatarUrl: https://avatars.githubusercontent.com/u/8291792?u=1040f27bef92d43097a6c574fa317f8f3f0491cb&v=4
+    contributions: 107
+    company: "Synapse Systems"
+    organizations: ""
+
+  - rank: 180
+    name: "Klevin Delimeta"
+    login: "klevinism"
+    avatarUrl: https://avatars.githubusercontent.com/u/566916?u=42f5ee72e86df3516d87d26fbf9ae88d7075bc7d&v=4
+    contributions: 107
+    company: ""
+    organizations: ""
+
+  - rank: 181
+    name: "Arbis Malasi"
+    login: "arbiss1"
+    avatarUrl: https://avatars.githubusercontent.com/u/58811995?u=223c667e3795022acdf82294e5fae129b7491a5e&v=4
+    contributions: 106
+    company: "Teamsystem"
+    organizations: ""
+
+  - rank: 182
+    name: "Esli Agolli"
+    login: "esliagolli"
+    avatarUrl: https://avatars.githubusercontent.com/u/22226476?u=7aba263d974222f616b222dda4f4330dd8064267&v=4
+    contributions: 105
+    company: "Sisal Group, @0chain"
+    organizations: ""
+
+  - rank: 183
+    name: "Erka Hysi"
+    login: "erkah"
+    avatarUrl: https://avatars.githubusercontent.com/u/31308882?u=673201141b31613827d6ca855830c16857b8e5bc&v=4
+    contributions: 104
+    company: ""
+    organizations: ""
+
+  - rank: 184
+    name: "Dhimiter Gero"
+    login: "dgero22"
+    avatarUrl: https://avatars.githubusercontent.com/u/59712073?v=4
+    contributions: 104
+    company: ""
+    organizations: ""
+
+  - rank: 185
+    name: "Loren Meta"
+    login: "LorenMeta"
+    avatarUrl: https://avatars.githubusercontent.com/u/74499033?u=c0de8a60347983bd57a07fbde448963ce8064ada&v=4
+    contributions: 103
+    company: "Facilization"
+    organizations: ""
+
+  - rank: 186
+    name: "Marsel Sotiri"
+    login: "marselsotiri"
+    avatarUrl: https://avatars.githubusercontent.com/u/71046101?u=d297ccfa00e0155c773f905e7bdc602c083e9e9f&v=4
+    contributions: 102
+    company: ""
+    organizations: ""
+
+  - rank: 187
+    name: "Rinor Hoxha"
+    login: "rinor"
+    avatarUrl: https://avatars.githubusercontent.com/u/1160245?u=8a05f38742ebad245297f85e494cffa932d49f14&v=4
+    contributions: 102
+    company: "BAITS sh.p.k"
+    organizations: "baits-al"
+
+  - rank: 188
+    name: "Valon Januzaj"
+    login: "vjanz"
+    avatarUrl: https://avatars.githubusercontent.com/u/25842655?u=9748136eb1b13b497b5719bed61b6752d2378b32&v=4
+    contributions: 99
+    company: ""
+    organizations: ""
+
+  - rank: 189
+    name: "Rigerta X"
+    login: "Rigertax"
+    avatarUrl: https://avatars.githubusercontent.com/u/46707853?u=544c273ab29f54e61ba4128c53618c823f1c21f1&v=4
+    contributions: 97
+    company: ""
+    organizations: ""
+
+  - rank: 190
+    name: ""
+    login: "redjonmata"
+    avatarUrl: https://avatars.githubusercontent.com/u/43063926?u=283790017eb56de5199db9e5af6f8657ffa92b2e&v=4
+    contributions: 97
+    company: "ATIS Software Factory"
+    organizations: ""
+
+  - rank: 191
+    name: "Elvjo Fejzo"
+    login: "efejzo20"
+    avatarUrl: https://avatars.githubusercontent.com/u/77446151?u=abc08e860d2fb32b2ec66a80a77b41121ba937f8&v=4
+    contributions: 96
+    company: "Epoka University"
+    organizations: "data-max-hq"
+
+  - rank: 192
+    name: "ILIOS"
+    login: "treshi"
+    avatarUrl: https://avatars.githubusercontent.com/u/9460646?u=605e0aa2fc8d39a1932597b5bd4fdc00405ad574&v=4
+    contributions: 95
+    company: "strong iptv"
+    organizations: ""
+
+  - rank: 193
+    name: ""
+    login: "KullaA"
+    avatarUrl: https://avatars.githubusercontent.com/u/44673003?u=9fb75823ed71f82ef7e44ed9edf1a59abbfc6c8e&v=4
+    contributions: 91
+    company: ""
+    organizations: ""
+
+  - rank: 194
+    name: "Memi Allamani"
+    login: "MemiAllamani"
+    avatarUrl: https://avatars.githubusercontent.com/u/15231960?v=4
+    contributions: 91
+    company: ""
+    organizations: ""
+
+  - rank: 195
+    name: "Ervin Kurushi"
+    login: "ArchaicDebugger"
+    avatarUrl: https://avatars.githubusercontent.com/u/13509956?u=429d7f885627c284d9122aaf77f4acc10748e51d&v=4
+    contributions: 89
+    company: ""
+    organizations: ""
+
+  - rank: 196
+    name: "Erges Mema"
+    login: "ergesmema"
+    avatarUrl: https://avatars.githubusercontent.com/u/77251761?v=4
+    contributions: 89
+    company: "University of New York Tirana"
+    organizations: ""
+
+  - rank: 197
+    name: "Getson Cela"
+    login: "getson"
+    avatarUrl: https://avatars.githubusercontent.com/u/10776429?u=d2bd9862aae9b33074f109a6741dce73e3a33952&v=4
+    contributions: 86
+    company: ""
+    organizations: ""
+
+  - rank: 198
+    name: ""
+    login: "erdodule"
+    avatarUrl: https://avatars.githubusercontent.com/u/17169667?u=6cebe20ef4e0412a09b30c1fa204ac0941a7c0bb&v=4
+    contributions: 86
+    company: ""
+    organizations: ""
+
+  - rank: 199
+    name: "Detjon Mataj"
+    login: "detjonmataj"
+    avatarUrl: https://avatars.githubusercontent.com/u/84277348?u=10e0cfdb3afc2055fc4396bccbd2a404eee12db0&v=4
+    contributions: 86
+    company: ""
+    organizations: ""
+
+  - rank: 200
+    name: "Joel Bollo"
+    login: "joelbollo97"
+    avatarUrl: https://avatars.githubusercontent.com/u/34944311?u=ff27823291f4a397746eb62c81ae2845c459a2b6&v=4
+    contributions: 86
+    company: ""
+    organizations: ""
+
+  - rank: 201
+    name: "Redian Marku"
+    login: "redianmarku"
+    avatarUrl: https://avatars.githubusercontent.com/u/42848358?u=d767bb9f46c873abc19dbce23da48ca4fa359dce&v=4
+    contributions: 85
+    company: "TopNotch Programmer"
+    organizations: ""
+
+  - rank: 202
+    name: "Nadia"
+    login: "nadia77-a"
+    avatarUrl: https://avatars.githubusercontent.com/u/52795973?v=4
+    contributions: 84
+    company: "Moveo Albania"
+    organizations: ""
+
+  - rank: 203
+    name: "Enio Vrushi"
+    login: "eniogit"
+    avatarUrl: https://avatars.githubusercontent.com/u/38871050?u=f85b1f0c502089889ed931fe9a077e8f842b21b6&v=4
+    contributions: 83
+    company: "Landmark Technologies"
+    organizations: ""
+
+  - rank: 204
+    name: "Flavio Pernoj"
+    login: "BlackHat2024"
+    avatarUrl: https://avatars.githubusercontent.com/u/57356228?u=89463f59bbae5585fa61f833590db56070e5ead6&v=4
+    contributions: 83
+    company: ""
+    organizations: ""
+
+  - rank: 205
+    name: "Gabriel"
+    login: "GabrielKuka"
+    avatarUrl: https://avatars.githubusercontent.com/u/17888328?u=9a422b8992bd9059db9bea3fefc6ba411d4e8fa8&v=4
+    contributions: 81
+    company: ""
+    organizations: ""
+
+  - rank: 206
+    name: "Kamber Peka"
+    login: "kamberpeka"
+    avatarUrl: https://avatars.githubusercontent.com/u/16142760?u=70ec59a0f3429022800a6026ba094fcf5c871d1c&v=4
+    contributions: 80
+    company: ""
+    organizations: ""
+
+  - rank: 207
+    name: "Argert Boja"
+    login: "argertboja"
+    avatarUrl: https://avatars.githubusercontent.com/u/17032718?u=96f912bd25babed553a10014d709e8d3a690ecd7&v=4
+    contributions: 80
+    company: "BMW"
+    organizations: ""
+
+  - rank: 208
+    name: "Webverse"
+    login: "thewebverse"
+    avatarUrl: https://avatars.githubusercontent.com/u/32201875?u=b48e05d77b5a9b8bc5bba86787f2a229cdbaeec7&v=4
+    contributions: 79
+    company: ""
+    organizations: ""
+
+  - rank: 209
+    name: "Besjana Jacaj"
+    login: "besatb21"
+    avatarUrl: https://avatars.githubusercontent.com/u/81251239?v=4
+    contributions: 79
+    company: ""
+    organizations: ""
+
+  - rank: 210
+    name: "Kristian Dhimitri"
+    login: "kristerus"
+    avatarUrl: https://avatars.githubusercontent.com/u/74469079?u=dfd48c3facb699dcf74e6fadfdcf3a7b2a88232d&v=4
+    contributions: 76
+    company: "Cyclus Corporations"
+    organizations: ""
+
+  - rank: 211
+    name: "Rinald Shabani"
+    login: "rinald"
+    avatarUrl: https://avatars.githubusercontent.com/u/30338022?u=73aa53856ad44af0c7026c0fa3ca990883e99be2&v=4
+    contributions: 75
+    company: ""
+    organizations: "dsc-epoka"
+
+  - rank: 212
+    name: "Hugues BUREAU"
+    login: "8byr0"
+    avatarUrl: https://avatars.githubusercontent.com/u/21955112?u=b42afb656077bf036681a367626d10cc45fc3d9f&v=4
+    contributions: 73
+    company: "Uwizy"
+    organizations: ""
+
+  - rank: 213
+    name: "Geart Ferhati"
+    login: "geartprogrammer"
+    avatarUrl: https://avatars.githubusercontent.com/u/55233184?u=fa45629877cac2840dc0c930cb8fe1ee4402c109&v=4
+    contributions: 72
+    company: ""
+    organizations: ""
+
+  - rank: 214
+    name: "Erlis Balla"
+    login: "erlisb"
+    avatarUrl: https://avatars.githubusercontent.com/u/40136986?u=87c77147daf36e71e319ac38c6e4f7606195d3fc&v=4
+    contributions: 71
+    company: "Lufthansa Industry Solutions"
+    organizations: ""
+
+  - rank: 215
+    name: "Nail"
+    login: "HexClan-dev"
+    avatarUrl: https://avatars.githubusercontent.com/u/24881973?u=1b64b20509c54f6a644863e75e6bbec84cc409a2&v=4
+    contributions: 71
+    company: "@Brizo-Consulting-gmbh"
+    organizations: ""
+
+  - rank: 216
+    name: "Arlind Hoxha"
+    login: "ArlindH"
+    avatarUrl: https://avatars.githubusercontent.com/u/4660435?u=a8d430d7c31d9d011a9a679d3d8a729212b83e20&v=4
+    contributions: 71
+    company: ""
+    organizations: ""
+
+  - rank: 217
+    name: ""
+    login: "ropapermaker"
+    avatarUrl: https://avatars.githubusercontent.com/u/58087674?u=f201b9e9f3709475368a75c89f106fc38f60fe08&v=4
+    contributions: 70
+    company: ""
+    organizations: ""
+
+  - rank: 218
+    name: "Edon Abdullahu"
+    login: "imedonii"
+    avatarUrl: https://avatars.githubusercontent.com/u/64871089?u=158c535367aa97de8ec31f6965a0d394e41020e0&v=4
+    contributions: 69
+    company: ""
+    organizations: ""
+
+  - rank: 219
+    name: "Algert Shevroja"
+    login: "algert072"
+    avatarUrl: https://avatars.githubusercontent.com/u/91168326?u=f3cd0770fb45dd5264155ce2e261f68456ed6adf&v=4
+    contributions: 69
+    company: ""
+    organizations: ""
+
+  - rank: 220
+    name: "Izabela Bakollari"
+    login: "IzabelaBakollari"
+    avatarUrl: https://avatars.githubusercontent.com/u/7606423?u=017f7c54500b679e2a418468447b9020d6702c21&v=4
+    contributions: 69
+    company: ""
+    organizations: ""
+
+  - rank: 221
+    name: "Julian"
+    login: "tabakuj"
+    avatarUrl: https://avatars.githubusercontent.com/u/29838180?u=cb7bbce7e2b6fe224b169c43f51262dc7fee954e&v=4
+    contributions: 68
+    company: "Atrax"
+    organizations: ""
+
+  - rank: 222
+    name: "vilson isaku"
+    login: "vilsonisaku"
+    avatarUrl: https://avatars.githubusercontent.com/u/5845678?u=82548467a04f94597b70bed2b14678d015151672&v=4
+    contributions: 68
+    company: ""
+    organizations: ""
+
+  - rank: 223
+    name: "Skerdi Berberi"
+    login: "keke1210"
+    avatarUrl: https://avatars.githubusercontent.com/u/44743904?u=885c06ce46156340e5d07349ab70944a6b3058d4&v=4
+    contributions: 66
+    company: ""
+    organizations: ""
+
+  - rank: 224
+    name: "Xhoni"
+    login: "Xhoni96"
+    avatarUrl: https://avatars.githubusercontent.com/u/29339199?u=29e52e3c6e6c86bf826c6d617bca04b42cff0096&v=4
+    contributions: 65
+    company: ""
+    organizations: ""
+
+  - rank: 225
+    name: "Gledi Caushaj"
+    login: "gledi"
+    avatarUrl: https://avatars.githubusercontent.com/u/411820?u=4cc80e5b76d24b46d3a89aa8df69c13da428e016&v=4
+    contributions: 65
+    company: "Ritech Solutions"
+    organizations: ""
+
+  - rank: 226
+    name: "Polina"
+    login: "owosrl"
+    avatarUrl: https://avatars.githubusercontent.com/u/31825825?u=c2682347033b7fc38331e6dbb37d6d0632662210&v=4
+    contributions: 63
+    company: ""
+    organizations: ""
+
+  - rank: 227
+    name: "Mateo Kurti"
+    login: "mateokurti"
+    avatarUrl: https://avatars.githubusercontent.com/u/29175219?u=65ec553a53125f65a83003b391e4564e56053d4a&v=4
+    contributions: 62
+    company: "division5"
+    organizations: ""
+
+  - rank: 228
+    name: "Jon Mukaj"
+    login: "JonMukaj"
+    avatarUrl: https://avatars.githubusercontent.com/u/78703349?v=4
+    contributions: 61
+    company: ""
+    organizations: ""
+
+  - rank: 229
+    name: "Oraldo Hysaj"
+    login: "oraldo666"
+    avatarUrl: https://avatars.githubusercontent.com/u/87261813?v=4
+    contributions: 60
+    company: ""
+    organizations: ""
+
+  - rank: 230
+    name: "Orhan Asllani"
+    login: "orhanasllani"
+    avatarUrl: https://avatars.githubusercontent.com/u/48629225?v=4
+    contributions: 60
+    company: ""
+    organizations: ""
+
+  - rank: 231
+    name: "Arlindi"
+    login: "arlind-shkrela"
+    avatarUrl: https://avatars.githubusercontent.com/u/26505746?u=c04358f224cb22dee28de4bea063ad4dc53cadc1&v=4
+    contributions: 60
+    company: "MCT, Senior Software Engineer specialised in .NET, React, Azure and DevOps (Freelance Consultant)"
+    organizations: ""
+
+  - rank: 232
+    name: "Kostandin Vllahu"
+    login: "kostandinvllahu"
+    avatarUrl: https://avatars.githubusercontent.com/u/33177557?u=e553eb7c8d31485b485284f179429ec41cddc353&v=4
+    contributions: 59
+    company: ""
+    organizations: ""
+
+  - rank: 233
+    name: "Astrit Demiri"
+    login: "astritdemiri11"
+    avatarUrl: https://avatars.githubusercontent.com/u/11302890?u=00c1c4012166090ca2e27df6ffbcef7fd0825b93&v=4
+    contributions: 57
+    company: "BlackSoft"
+    organizations: ""
+
+  - rank: 234
+    name: "Ger Zbobo"
+    login: "gerboli666"
+    avatarUrl: https://avatars.githubusercontent.com/u/60276205?v=4
+    contributions: 57
+    company: ""
+    organizations: ""
+
+  - rank: 235
+    name: "Frenci Rama"
+    login: "frenci"
+    avatarUrl: https://avatars.githubusercontent.com/u/13355808?u=6c3f73421c2206eff305a1eb25d4003487a27355&v=4
+    contributions: 57
+    company: ""
+    organizations: ""
+
+  - rank: 236
+    name: "Joan Janku"
+    login: "joanjanku2000"
+    avatarUrl: https://avatars.githubusercontent.com/u/78973605?u=6f7c8d1dfce6248a250641574eaf832de991b3d0&v=4
+    contributions: 56
+    company: ""
+    organizations: ""
+
+  - rank: 237
+    name: "Emiljan Dusha"
+    login: "goneHaywire"
+    avatarUrl: https://avatars.githubusercontent.com/u/57961738?u=f894945c69e8f08f66fa5d6644204f1aaa2a24b6&v=4
+    contributions: 56
+    company: ""
+    organizations: ""
+
+  - rank: 238
+    name: "Ledio Ko\u00e7i"
+    login: "lediokoci1"
+    avatarUrl: https://avatars.githubusercontent.com/u/63104818?u=2328dfc5bf387228c2c0d63de05997b4f968b6ec&v=4
+    contributions: 54
+    company: ""
+    organizations: ""
+
+  - rank: 239
+    name: "Albi"
+    login: "albi2"
+    avatarUrl: https://avatars.githubusercontent.com/u/53710410?v=4
+    contributions: 53
+    company: "Lufthansa Industry Solutions"
+    organizations: ""
+
+  - rank: 240
+    name: "Xhoni Shega"
+    login: "xhoni01"
+    avatarUrl: https://avatars.githubusercontent.com/u/61250993?u=e3603c74832af199cd8752bd7a9b730d6dd9a9ed&v=4
+    contributions: 53
+    company: "First Security Systems Integrator"
+    organizations: ""
+
+  - rank: 241
+    name: "Joralda Molla"
+    login: "JoraldaM"
+    avatarUrl: https://avatars.githubusercontent.com/u/64036982?u=6b9b4d165ad7609fe7267bf13368ef7bccfdebb1&v=4
+    contributions: 52
+    company: "ATIS"
+    organizations: ""
+
+  - rank: 242
+    name: "mshevroja"
+    login: "mshevroja"
+    avatarUrl: https://avatars.githubusercontent.com/u/47557332?u=ed4e5c1cdcacc5fb6ec4a5989884ca7addc9ba4a&v=4
+    contributions: 51
+    company: "@morixshpk"
+    organizations: ""
+
+  - rank: 243
+    name: "Martina Karalliu"
+    login: "murdsy"
+    avatarUrl: https://avatars.githubusercontent.com/u/60017300?v=4
+    contributions: 50
+    company: ""
+    organizations: ""
+
+  - rank: 244
+    name: "Rigers"
+    login: "rigersleka"
+    avatarUrl: https://avatars.githubusercontent.com/u/42070495?u=843372e65d9f7460ab55f7956fc64aaa9b272050&v=4
+    contributions: 50
+    company: "Remote"
+    organizations: ""
+
+  - rank: 245
+    name: "Aredio Vani"
+    login: "arediovani"
+    avatarUrl: https://avatars.githubusercontent.com/u/37985831?u=5c55022b16c3f779b6bbf810306aebdd85392a82&v=4
+    contributions: 49
+    company: "Mat Televizion"
+    organizations: ""
+
+  - rank: 246
+    name: "Enea Xharau"
+    login: "giteneaxharau"
+    avatarUrl: https://avatars.githubusercontent.com/u/95291297?v=4
+    contributions: 47
+    company: ""
+    organizations: ""
+
+  - rank: 247
+    name: "Xhino-Kurtaj"
+    login: "XhinoKurtaj"
+    avatarUrl: https://avatars.githubusercontent.com/u/28669133?u=b970849d0bf9b2ccf158321aa337e54ddfa5c2e8&v=4
+    contributions: 45
+    company: "RageTech"
+    organizations: ""
+
+  - rank: 248
+    name: "Boris Budini"
+    login: "kominoshja"
+    avatarUrl: https://avatars.githubusercontent.com/u/11447306?v=4
+    contributions: 45
+    company: "Cloud68.co"
+    organizations: "OpenLabsHackerspace"
+
+  - rank: 249
+    name: "Nikolin Andoni"
+    login: "N1k0l1n"
+    avatarUrl: https://avatars.githubusercontent.com/u/97979235?u=47073d302ee06fb5c90a4d0df2b9de2996759aa7&v=4
+    contributions: 44
+    company: ""
+    organizations: ""
+
+  - rank: 250
+    name: "Kris Beka"
+    login: "KRIS13-GIF"
+    avatarUrl: https://avatars.githubusercontent.com/u/71281629?u=ef45fb09c2216fa33025afbf074739dd3b3f5d10&v=4
+    contributions: 44
+    company: "UNYT"
+    organizations: ""
+
+  - rank: 251
+    name: "arbso"
+    login: "arbso"
+    avatarUrl: https://avatars.githubusercontent.com/u/62308239?u=9009ab9ae960c35bb581aedd7d06a42ab8e04277&v=4
+    contributions: 43
+    company: ""
+    organizations: ""
+
+  - rank: 252
+    name: "Aldo Cano"
+    login: "aldocano"
+    avatarUrl: https://avatars.githubusercontent.com/u/8085145?u=7b813da0b0494e3451f1abc31312a3c6011e4141&v=4
+    contributions: 43
+    company: ""
+    organizations: ""
+
+  - rank: 253
+    name: "Alfred Korra"
+    login: "alfredkorra"
+    avatarUrl: https://avatars.githubusercontent.com/u/101050024?v=4
+    contributions: 43
+    company: ""
+    organizations: ""
+
+  - rank: 254
+    name: "Nids"
+    login: "nidabaci"
+    avatarUrl: https://avatars.githubusercontent.com/u/60344290?u=c09badccf6c7c99cf959b15e7cb24b0719a89f8d&v=4
+    contributions: 42
+    company: ""
+    organizations: ""
+
+  - rank: 255
+    name: "Ardit Xhanaj"
+    login: "young-stoner-life"
+    avatarUrl: https://avatars.githubusercontent.com/u/87133189?u=834c40d23409b00ee7eaa6401680c031aa7e88f7&v=4
+    contributions: 42
+    company: ""
+    organizations: ""
+
+  - rank: 256
+    name: "Archx0Mas"
+    login: "Archx0Mas"
+    avatarUrl: https://avatars.githubusercontent.com/u/70807598?u=fca4c3d2aa990bc03191717568831d38f842187a&v=4
+    contributions: 41
+    company: ""
+    organizations: ""
+
+organizations:
+
+  - rank: 1
+    name: "openlabshackerspace"
+    membercount: 3
+
+  - rank: 2
+    name: "cardoai"
+    membercount: 2
+
+  - rank: 3
+    name: "cityzenapp"
+    membercount: 2
+
+  - rank: 4
+    name: "data-max-hq"
+    membercount: 2
+
+  - rank: 5
+    name: "mrmothdevs"
+    membercount: 2
+
+  - rank: 6
+    name: "proton-whyred"
+    membercount: 1
+
+  - rank: 7
+    name: "bashkiatirane"
+    membercount: 1
+
+  - rank: 8
+    name: "albdroid-al"
+    membercount: 1
+
+  - rank: 9
+    name: "themobilelife"
+    membercount: 1
+
+  - rank: 10
+    name: "oficina-hacker-team"
+    membercount: 1
+
+public_contributions_organizations:
+
+  - rank: 1
+    name: "openlabshackerspace"
+    membercount: 3
+
+  - rank: 2
+    name: "mrmothdevs"
+    membercount: 2
+
+  - rank: 3
+    name: "cityzenapp"
+    membercount: 2
+
+  - rank: 4
+    name: "cardoai"
+    membercount: 2
+
+  - rank: 5
+    name: "data-max-hq"
+    membercount: 2
+
+  - rank: 6
+    name: "easygnupg"
+    membercount: 1
+
+  - rank: 7
+    name: "dsc-epoka"
+    membercount: 1
+
+  - rank: 8
+    name: "maptime"
+    membercount: 1
+
+  - rank: 9
+    name: "morixshpk"
+    membercount: 1
+
+  - rank: 10
+    name: "k9mail"
+    membercount: 1
+
+private_organizations:
+
+  - rank: 1
+    name: "mrmothdevs"
+    membercount: 2
+
+  - rank: 2
+    name: "kirschbaum-development"
+    membercount: 2
+
+  - rank: 3
+    name: "data-max-hq"
+    membercount: 2
+
+  - rank: 4
+    name: "openlabshackerspace"
+    membercount: 2
+
+  - rank: 5
+    name: "cardoai"
+    membercount: 2
+
+  - rank: 6
+    name: "dlabdesigns"
+    membercount: 1
+
+  - rank: 7
+    name: "spectretechnologiesllc"
+    membercount: 1
+
+  - rank: 8
+    name: "alpine-crew"
+    membercount: 1
+
+  - rank: 9
+    name: "leadfeeder"
+    membercount: 1
+
+  - rank: 10
+    name: "spinaton"
+    membercount: 1
+generated: 2022-06-20 15:31:55.11379159 +0000 UTC m=+194.379357517
+min_followers_required: 0
+total_user_count: 1443
