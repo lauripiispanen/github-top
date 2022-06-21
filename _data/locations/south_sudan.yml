@@ -35,14 +35,6 @@ users:
     organizations: ""
 
   - rank: 5
-    name: "Yak Kiir"
-    login: "Yak4-maker"
-    avatarUrl: https://avatars.githubusercontent.com/u/80614857?v=4
-    contributions: 0
-    company: ""
-    organizations: ""
-
-  - rank: 6
     name: "gatkouth nyuel"
     login: "gatkouth20"
     avatarUrl: https://avatars.githubusercontent.com/u/14345598?u=d30b46e5b466e47197ee8f4e0e90bbcbafb4e5e8&v=4
@@ -50,7 +42,7 @@ users:
     company: "st.lawrence university"
     organizations: ""
 
-  - rank: 7
+  - rank: 6
     name: ""
     login: "Kinqly"
     avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
@@ -58,12 +50,20 @@ users:
     company: "Kinqly"
     organizations: ""
 
-  - rank: 8
+  - rank: 7
     name: "Taban Denis Tabbi"
     login: "Tabandenis"
     avatarUrl: https://avatars.githubusercontent.com/u/62059466?v=4
     contributions: 0
     company: "Agricola Interest national non governmental organizations"
+    organizations: ""
+
+  - rank: 8
+    name: "Yak Kiir"
+    login: "Yak4-maker"
+    avatarUrl: https://avatars.githubusercontent.com/u/80614857?v=4
+    contributions: 0
+    company: ""
     organizations: ""
 
   - rank: 9
@@ -100,19 +100,19 @@ users_public_contributions:
     organizations: ""
 
   - rank: 2
-    name: "Yason "
-    login: "yason-20"
-    avatarUrl: https://avatars.githubusercontent.com/u/76183270?u=6924b7e1ccc54758b26aa178cd2e7cf1281104f2&v=4
-    contributions: 3
-    company: "Codemate Tech "
-    organizations: ""
-
-  - rank: 3
     name: "Junior Billkid "
     login: "JuniorBillkid"
     avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
     contributions: 3
     company: "U,D,S revolutionary"
+    organizations: ""
+
+  - rank: 3
+    name: "Yason "
+    login: "yason-20"
+    avatarUrl: https://avatars.githubusercontent.com/u/76183270?u=6924b7e1ccc54758b26aa178cd2e7cf1281104f2&v=4
+    contributions: 3
+    company: "Codemate Tech "
     organizations: ""
 
   - rank: 4
@@ -124,14 +124,6 @@ users_public_contributions:
     organizations: ""
 
   - rank: 5
-    name: "Yak Kiir"
-    login: "Yak4-maker"
-    avatarUrl: https://avatars.githubusercontent.com/u/80614857?v=4
-    contributions: 0
-    company: ""
-    organizations: ""
-
-  - rank: 6
     name: "gatkouth nyuel"
     login: "gatkouth20"
     avatarUrl: https://avatars.githubusercontent.com/u/14345598?u=d30b46e5b466e47197ee8f4e0e90bbcbafb4e5e8&v=4
@@ -139,7 +131,7 @@ users_public_contributions:
     company: "st.lawrence university"
     organizations: ""
 
-  - rank: 7
+  - rank: 6
     name: ""
     login: "Kinqly"
     avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
@@ -147,12 +139,20 @@ users_public_contributions:
     company: "Kinqly"
     organizations: ""
 
-  - rank: 8
+  - rank: 7
     name: "Taban Denis Tabbi"
     login: "Tabandenis"
     avatarUrl: https://avatars.githubusercontent.com/u/62059466?v=4
     contributions: 0
     company: "Agricola Interest national non governmental organizations"
+    organizations: ""
+
+  - rank: 8
+    name: "Yak Kiir"
+    login: "Yak4-maker"
+    avatarUrl: https://avatars.githubusercontent.com/u/80614857?v=4
+    contributions: 0
+    company: ""
     organizations: ""
 
   - rank: 9
@@ -190,19 +190,19 @@ private_users:
     organizations: ""
 
   - rank: 2
-    name: "Yason "
-    login: "yason-20"
-    avatarUrl: https://avatars.githubusercontent.com/u/76183270?u=6924b7e1ccc54758b26aa178cd2e7cf1281104f2&v=4
-    contributions: 3
-    company: "Codemate Tech "
-    organizations: ""
-
-  - rank: 3
     name: "Junior Billkid "
     login: "JuniorBillkid"
     avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
     contributions: 3
     company: "U,D,S revolutionary"
+    organizations: ""
+
+  - rank: 3
+    name: "Yason "
+    login: "yason-20"
+    avatarUrl: https://avatars.githubusercontent.com/u/76183270?u=6924b7e1ccc54758b26aa178cd2e7cf1281104f2&v=4
+    contributions: 3
+    company: "Codemate Tech "
     organizations: ""
 
   - rank: 4
@@ -214,14 +214,6 @@ private_users:
     organizations: ""
 
   - rank: 5
-    name: "Yak Kiir"
-    login: "Yak4-maker"
-    avatarUrl: https://avatars.githubusercontent.com/u/80614857?v=4
-    contributions: 0
-    company: ""
-    organizations: ""
-
-  - rank: 6
     name: "gatkouth nyuel"
     login: "gatkouth20"
     avatarUrl: https://avatars.githubusercontent.com/u/14345598?u=d30b46e5b466e47197ee8f4e0e90bbcbafb4e5e8&v=4
@@ -229,7 +221,7 @@ private_users:
     company: "st.lawrence university"
     organizations: ""
 
-  - rank: 7
+  - rank: 6
     name: ""
     login: "Kinqly"
     avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
@@ -237,12 +229,20 @@ private_users:
     company: "Kinqly"
     organizations: ""
 
-  - rank: 8
+  - rank: 7
     name: "Taban Denis Tabbi"
     login: "Tabandenis"
     avatarUrl: https://avatars.githubusercontent.com/u/62059466?v=4
     contributions: 0
     company: "Agricola Interest national non governmental organizations"
+    organizations: ""
+
+  - rank: 8
+    name: "Yak Kiir"
+    login: "Yak4-maker"
+    avatarUrl: https://avatars.githubusercontent.com/u/80614857?v=4
+    contributions: 0
+    company: ""
     organizations: ""
 
   - rank: 9
@@ -274,6 +274,6 @@ organizations:
 public_contributions_organizations:
 
 private_organizations:
-generated: 2022-06-14 01:46:13.122657963 +0000 UTC m=+1.569734905
+generated: 2022-06-21 01:18:43.584837495 +0000 UTC m=+1.265665060
 min_followers_required: 0
 total_user_count: 11
