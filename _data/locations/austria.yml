@@ -514,14 +514,6 @@ users:
     company: "Sulu GmbH (@sulu)"
     organizations: "massiveart,massiveart-webservices,sulu,php-task,nanbando,handcraftedinthealps,pucene,PHP-CMSIG,php-runtime"
 
-  - rank: 65
-    name: "Janos Bonic"
-    login: "janosdebugs"
-    avatarUrl: https://avatars.githubusercontent.com/u/86970079?u=c3e94f25e27f2c3d443ecb3218c599086760444c&v=4
-    contributions: 892
-    company: "@RedHatOfficial"
-    organizations: "openshift,oVirt,ContainerSSH,haveyoudebuggedit"
-
   - rank: 66
     name: ""
     login: "mbillingr"
@@ -2298,14 +2290,6 @@ users_public_contributions:
     contributions: 1662
     company: "University of Innsbruck"
     organizations: "Homebrew,Caskroom,oc-reith,editiontirol,rust-embedded,maintainers,cross-rs"
-
-  - rank: 32
-    name: "Janos Bonic"
-    login: "janosdebugs"
-    avatarUrl: https://avatars.githubusercontent.com/u/86970079?u=c3e94f25e27f2c3d443ecb3218c599086760444c&v=4
-    contributions: 1601
-    company: "@RedHatOfficial"
-    organizations: "openshift,oVirt,ContainerSSH,haveyoudebuggedit"
 
   - rank: 33
     name: "Gregor Sturm"
@@ -4956,14 +4940,6 @@ private_users:
     contributions: 1630
     company: ""
     organizations: ""
-
-  - rank: 108
-    name: "Janos Bonic"
-    login: "janosdebugs"
-    avatarUrl: https://avatars.githubusercontent.com/u/86970079?u=c3e94f25e27f2c3d443ecb3218c599086760444c&v=4
-    contributions: 1617
-    company: "@RedHatOfficial"
-    organizations: "openshift,oVirt,ContainerSSH,haveyoudebuggedit"
 
   - rank: 109
     name: "Martin Ausw\u00f6ger"
