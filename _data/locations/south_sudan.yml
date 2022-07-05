@@ -59,19 +59,19 @@ users:
     organizations: ""
 
   - rank: 8
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
-    contributions: 0
-    company: "Kampala university "
-    organizations: ""
-
-  - rank: 9
     name: "Taban Denis Tabbi"
     login: "Tabandenis"
     avatarUrl: https://avatars.githubusercontent.com/u/62059466?v=4
     contributions: 0
     company: "Agricola Interest national non governmental organizations"
+    organizations: ""
+
+  - rank: 9
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
+    contributions: 0
+    company: "Kampala university "
     organizations: ""
 
   - rank: 10
@@ -148,19 +148,19 @@ users_public_contributions:
     organizations: ""
 
   - rank: 8
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
-    contributions: 0
-    company: "Kampala university "
-    organizations: ""
-
-  - rank: 9
     name: "Taban Denis Tabbi"
     login: "Tabandenis"
     avatarUrl: https://avatars.githubusercontent.com/u/62059466?v=4
     contributions: 0
     company: "Agricola Interest national non governmental organizations"
+    organizations: ""
+
+  - rank: 9
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
+    contributions: 0
+    company: "Kampala university "
     organizations: ""
 
   - rank: 10
@@ -238,19 +238,19 @@ private_users:
     organizations: ""
 
   - rank: 8
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
-    contributions: 0
-    company: "Kampala university "
-    organizations: ""
-
-  - rank: 9
     name: "Taban Denis Tabbi"
     login: "Tabandenis"
     avatarUrl: https://avatars.githubusercontent.com/u/62059466?v=4
     contributions: 0
     company: "Agricola Interest national non governmental organizations"
+    organizations: ""
+
+  - rank: 9
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
+    contributions: 0
+    company: "Kampala university "
     organizations: ""
 
   - rank: 10
@@ -274,6 +274,6 @@ organizations:
 public_contributions_organizations:
 
 private_organizations:
-generated: 2022-06-28 01:35:53.933353445 +0000 UTC m=+1.505151836
+generated: 2022-07-05 01:43:16.276904934 +0000 UTC m=+1.498796619
 min_followers_required: 0
 total_user_count: 11
