@@ -6,7 +6,7 @@ users:
     name: "Codemate Tech"
     login: "codematetech"
     avatarUrl: https://avatars.githubusercontent.com/u/81685543?u=6e8d04b87a656f0c73d8277c534d89636242d84f&v=4
-    contributions: 12
+    contributions: 21
     company: "Codemate Tech "
     organizations: ""
 
@@ -51,14 +51,6 @@ users:
     organizations: ""
 
   - rank: 7
-    name: ""
-    login: "Kinqly"
-    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
-    contributions: 0
-    company: "Kinqly"
-    organizations: ""
-
-  - rank: 8
     name: "William Deng Lual Deng "
     login: "0912222213"
     avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
@@ -66,12 +58,20 @@ users:
     company: "Kampala university "
     organizations: ""
 
-  - rank: 9
+  - rank: 8
     name: "Taban Denis Tabbi"
     login: "Tabandenis"
     avatarUrl: https://avatars.githubusercontent.com/u/62059466?v=4
     contributions: 0
     company: "Agricola Interest national non governmental organizations"
+    organizations: ""
+
+  - rank: 9
+    name: ""
+    login: "Kinqly"
+    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
+    contributions: 0
+    company: "Kinqly"
     organizations: ""
 
   - rank: 10
@@ -100,19 +100,19 @@ users:
 users_public_contributions:
 
   - rank: 1
+    name: "Codemate Tech"
+    login: "codematetech"
+    avatarUrl: https://avatars.githubusercontent.com/u/81685543?u=6e8d04b87a656f0c73d8277c534d89636242d84f&v=4
+    contributions: 33
+    company: "Codemate Tech "
+    organizations: ""
+
+  - rank: 2
     name: "Kual Louis"
     login: "Louis12345642"
     avatarUrl: https://avatars.githubusercontent.com/u/65467434?u=e09384dbf89bb6220a36ca54e3df7934745912ba&v=4
     contributions: 21
     company: ""
-    organizations: ""
-
-  - rank: 2
-    name: "Codemate Tech"
-    login: "codematetech"
-    avatarUrl: https://avatars.githubusercontent.com/u/81685543?u=6e8d04b87a656f0c73d8277c534d89636242d84f&v=4
-    contributions: 17
-    company: "Codemate Tech "
     organizations: ""
 
   - rank: 3
@@ -148,14 +148,6 @@ users_public_contributions:
     organizations: ""
 
   - rank: 7
-    name: ""
-    login: "Kinqly"
-    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
-    contributions: 0
-    company: "Kinqly"
-    organizations: ""
-
-  - rank: 8
     name: "William Deng Lual Deng "
     login: "0912222213"
     avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
@@ -163,12 +155,20 @@ users_public_contributions:
     company: "Kampala university "
     organizations: ""
 
-  - rank: 9
+  - rank: 8
     name: "Taban Denis Tabbi"
     login: "Tabandenis"
     avatarUrl: https://avatars.githubusercontent.com/u/62059466?v=4
     contributions: 0
     company: "Agricola Interest national non governmental organizations"
+    organizations: ""
+
+  - rank: 9
+    name: ""
+    login: "Kinqly"
+    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
+    contributions: 0
+    company: "Kinqly"
     organizations: ""
 
   - rank: 10
@@ -198,19 +198,19 @@ users_public_contributions:
 private_users:
 
   - rank: 1
+    name: "Codemate Tech"
+    login: "codematetech"
+    avatarUrl: https://avatars.githubusercontent.com/u/81685543?u=6e8d04b87a656f0c73d8277c534d89636242d84f&v=4
+    contributions: 33
+    company: "Codemate Tech "
+    organizations: ""
+
+  - rank: 2
     name: "Kual Louis"
     login: "Louis12345642"
     avatarUrl: https://avatars.githubusercontent.com/u/65467434?u=e09384dbf89bb6220a36ca54e3df7934745912ba&v=4
     contributions: 21
     company: ""
-    organizations: ""
-
-  - rank: 2
-    name: "Codemate Tech"
-    login: "codematetech"
-    avatarUrl: https://avatars.githubusercontent.com/u/81685543?u=6e8d04b87a656f0c73d8277c534d89636242d84f&v=4
-    contributions: 17
-    company: "Codemate Tech "
     organizations: ""
 
   - rank: 3
@@ -246,14 +246,6 @@ private_users:
     organizations: ""
 
   - rank: 7
-    name: ""
-    login: "Kinqly"
-    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
-    contributions: 0
-    company: "Kinqly"
-    organizations: ""
-
-  - rank: 8
     name: "William Deng Lual Deng "
     login: "0912222213"
     avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
@@ -261,12 +253,20 @@ private_users:
     company: "Kampala university "
     organizations: ""
 
-  - rank: 9
+  - rank: 8
     name: "Taban Denis Tabbi"
     login: "Tabandenis"
     avatarUrl: https://avatars.githubusercontent.com/u/62059466?v=4
     contributions: 0
     company: "Agricola Interest national non governmental organizations"
+    organizations: ""
+
+  - rank: 9
+    name: ""
+    login: "Kinqly"
+    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
+    contributions: 0
+    company: "Kinqly"
     organizations: ""
 
   - rank: 10
@@ -298,6 +298,6 @@ organizations:
 public_contributions_organizations:
 
 private_organizations:
-generated: 2022-09-06 02:13:23.054584971 +0000 UTC m=+1.524022457
+generated: 2022-09-13 02:06:16.067690105 +0000 UTC m=+1.380621940
 min_followers_required: 0
 total_user_count: 12
