@@ -51,14 +51,6 @@ users:
     organizations: ""
 
   - rank: 7
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
-    contributions: 0
-    company: "Kampala university "
-    organizations: ""
-
-  - rank: 8
     name: ""
     login: "Kinqly"
     avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
@@ -66,20 +58,28 @@ users:
     company: "Kinqly"
     organizations: ""
 
-  - rank: 9
-    name: "Junior Billkid "
-    login: "JuniorBillkid"
-    avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
+  - rank: 8
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
     contributions: 0
-    company: "U,D,S revolutionary"
+    company: "Kampala university "
     organizations: ""
 
-  - rank: 10
+  - rank: 9
     name: "Taban Denis Tabbi"
     login: "Tabandenis"
     avatarUrl: https://avatars.githubusercontent.com/u/62059466?v=4
     contributions: 0
     company: "Agricola Interest national non governmental organizations"
+    organizations: ""
+
+  - rank: 10
+    name: "Junior Billkid "
+    login: "JuniorBillkid"
+    avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
+    contributions: 0
+    company: "U,D,S revolutionary"
     organizations: ""
 
   - rank: 11
@@ -111,7 +111,7 @@ users_public_contributions:
     name: "Kual Louis"
     login: "Louis12345642"
     avatarUrl: https://avatars.githubusercontent.com/u/65467434?u=e09384dbf89bb6220a36ca54e3df7934745912ba&v=4
-    contributions: 22
+    contributions: 24
     company: ""
     organizations: ""
 
@@ -148,14 +148,6 @@ users_public_contributions:
     organizations: ""
 
   - rank: 7
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
-    contributions: 0
-    company: "Kampala university "
-    organizations: ""
-
-  - rank: 8
     name: ""
     login: "Kinqly"
     avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
@@ -163,20 +155,28 @@ users_public_contributions:
     company: "Kinqly"
     organizations: ""
 
-  - rank: 9
-    name: "Junior Billkid "
-    login: "JuniorBillkid"
-    avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
+  - rank: 8
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
     contributions: 0
-    company: "U,D,S revolutionary"
+    company: "Kampala university "
     organizations: ""
 
-  - rank: 10
+  - rank: 9
     name: "Taban Denis Tabbi"
     login: "Tabandenis"
     avatarUrl: https://avatars.githubusercontent.com/u/62059466?v=4
     contributions: 0
     company: "Agricola Interest national non governmental organizations"
+    organizations: ""
+
+  - rank: 10
+    name: "Junior Billkid "
+    login: "JuniorBillkid"
+    avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
+    contributions: 0
+    company: "U,D,S revolutionary"
     organizations: ""
 
   - rank: 11
@@ -209,7 +209,7 @@ private_users:
     name: "Kual Louis"
     login: "Louis12345642"
     avatarUrl: https://avatars.githubusercontent.com/u/65467434?u=e09384dbf89bb6220a36ca54e3df7934745912ba&v=4
-    contributions: 22
+    contributions: 24
     company: ""
     organizations: ""
 
@@ -246,14 +246,6 @@ private_users:
     organizations: ""
 
   - rank: 7
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
-    contributions: 0
-    company: "Kampala university "
-    organizations: ""
-
-  - rank: 8
     name: ""
     login: "Kinqly"
     avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
@@ -261,20 +253,28 @@ private_users:
     company: "Kinqly"
     organizations: ""
 
-  - rank: 9
-    name: "Junior Billkid "
-    login: "JuniorBillkid"
-    avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
+  - rank: 8
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
     contributions: 0
-    company: "U,D,S revolutionary"
+    company: "Kampala university "
     organizations: ""
 
-  - rank: 10
+  - rank: 9
     name: "Taban Denis Tabbi"
     login: "Tabandenis"
     avatarUrl: https://avatars.githubusercontent.com/u/62059466?v=4
     contributions: 0
     company: "Agricola Interest national non governmental organizations"
+    organizations: ""
+
+  - rank: 10
+    name: "Junior Billkid "
+    login: "JuniorBillkid"
+    avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
+    contributions: 0
+    company: "U,D,S revolutionary"
     organizations: ""
 
   - rank: 11
@@ -298,6 +298,6 @@ organizations:
 public_contributions_organizations:
 
 private_organizations:
-generated: 2022-10-04 02:05:00.769893943 +0000 UTC m=+2.047916035
+generated: 2022-10-11 02:13:22.127919018 +0000 UTC m=+1.574761047
 min_followers_required: 0
 total_user_count: 12
