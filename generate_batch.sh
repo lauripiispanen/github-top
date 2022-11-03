@@ -119,6 +119,7 @@ elif [ "$1" = "7" ]; then
     ./generate.sh $GITHUB_TOKEN "dominican republic" "Dominican Republic"
     ./generate.sh $GITHUB_TOKEN "czech republic" "Czech Republic"
     ./generate.sh $GITHUB_TOKEN jordan Jordan
+    ./generate.sh $GITHUB_TOKEN palestine Palestine
     ./generate.sh $GITHUB_TOKEN azerbaijan Azerbaijan
     ./generate.sh $GITHUB_TOKEN uae UAE
     ./generate.sh $GITHUB_TOKEN honduras Honduras
