@@ -27,11 +27,11 @@ users:
     organizations: ""
 
   - rank: 4
-    name: ""
-    login: "Nunas455"
-    avatarUrl: https://avatars.githubusercontent.com/u/72599873?u=68b6cd2ddf9c79e424cb58a2534e1b90160e2065&v=4
+    name: "gatkouth nyuel"
+    login: "gatkouth20"
+    avatarUrl: https://avatars.githubusercontent.com/u/14345598?u=d30b46e5b466e47197ee8f4e0e90bbcbafb4e5e8&v=4
     contributions: 0
-    company: "Gogirlict"
+    company: "st.lawrence university"
     organizations: ""
 
   - rank: 5
@@ -51,11 +51,11 @@ users:
     organizations: ""
 
   - rank: 7
-    name: "gatkouth nyuel"
-    login: "gatkouth20"
-    avatarUrl: https://avatars.githubusercontent.com/u/14345598?u=d30b46e5b466e47197ee8f4e0e90bbcbafb4e5e8&v=4
+    name: ""
+    login: "Nunas455"
+    avatarUrl: https://avatars.githubusercontent.com/u/72599873?u=68b6cd2ddf9c79e424cb58a2534e1b90160e2065&v=4
     contributions: 0
-    company: "st.lawrence university"
+    company: "Gogirlict"
     organizations: ""
 
   - rank: 8
@@ -119,7 +119,7 @@ users_public_contributions:
     name: "Kual Louis"
     login: "Louis12345642"
     avatarUrl: https://avatars.githubusercontent.com/u/65467434?u=e09384dbf89bb6220a36ca54e3df7934745912ba&v=4
-    contributions: 29
+    contributions: 30
     company: ""
     organizations: ""
 
@@ -140,11 +140,11 @@ users_public_contributions:
     organizations: ""
 
   - rank: 5
-    name: ""
-    login: "Nunas455"
-    avatarUrl: https://avatars.githubusercontent.com/u/72599873?u=68b6cd2ddf9c79e424cb58a2534e1b90160e2065&v=4
+    name: "gatkouth nyuel"
+    login: "gatkouth20"
+    avatarUrl: https://avatars.githubusercontent.com/u/14345598?u=d30b46e5b466e47197ee8f4e0e90bbcbafb4e5e8&v=4
     contributions: 0
-    company: "Gogirlict"
+    company: "st.lawrence university"
     organizations: ""
 
   - rank: 6
@@ -156,11 +156,11 @@ users_public_contributions:
     organizations: ""
 
   - rank: 7
-    name: "gatkouth nyuel"
-    login: "gatkouth20"
-    avatarUrl: https://avatars.githubusercontent.com/u/14345598?u=d30b46e5b466e47197ee8f4e0e90bbcbafb4e5e8&v=4
+    name: ""
+    login: "Nunas455"
+    avatarUrl: https://avatars.githubusercontent.com/u/72599873?u=68b6cd2ddf9c79e424cb58a2534e1b90160e2065&v=4
     contributions: 0
-    company: "st.lawrence university"
+    company: "Gogirlict"
     organizations: ""
 
   - rank: 8
@@ -225,7 +225,7 @@ private_users:
     name: "Kual Louis"
     login: "Louis12345642"
     avatarUrl: https://avatars.githubusercontent.com/u/65467434?u=e09384dbf89bb6220a36ca54e3df7934745912ba&v=4
-    contributions: 29
+    contributions: 30
     company: ""
     organizations: ""
 
@@ -233,7 +233,7 @@ private_users:
     name: "kevinzhuang79928"
     login: "Clatt79928"
     avatarUrl: https://avatars.githubusercontent.com/u/103288943?u=eee504f34670da9d5733c4a04366c8a1829ccd83&v=4
-    contributions: 23
+    contributions: 24
     company: "Amazon"
     organizations: ""
 
@@ -246,11 +246,11 @@ private_users:
     organizations: ""
 
   - rank: 5
-    name: ""
-    login: "Nunas455"
-    avatarUrl: https://avatars.githubusercontent.com/u/72599873?u=68b6cd2ddf9c79e424cb58a2534e1b90160e2065&v=4
+    name: "gatkouth nyuel"
+    login: "gatkouth20"
+    avatarUrl: https://avatars.githubusercontent.com/u/14345598?u=d30b46e5b466e47197ee8f4e0e90bbcbafb4e5e8&v=4
     contributions: 0
-    company: "Gogirlict"
+    company: "st.lawrence university"
     organizations: ""
 
   - rank: 6
@@ -262,11 +262,11 @@ private_users:
     organizations: ""
 
   - rank: 7
-    name: "gatkouth nyuel"
-    login: "gatkouth20"
-    avatarUrl: https://avatars.githubusercontent.com/u/14345598?u=d30b46e5b466e47197ee8f4e0e90bbcbafb4e5e8&v=4
+    name: ""
+    login: "Nunas455"
+    avatarUrl: https://avatars.githubusercontent.com/u/72599873?u=68b6cd2ddf9c79e424cb58a2534e1b90160e2065&v=4
     contributions: 0
-    company: "st.lawrence university"
+    company: "Gogirlict"
     organizations: ""
 
   - rank: 8
@@ -322,6 +322,6 @@ organizations:
 public_contributions_organizations:
 
 private_organizations:
-generated: 2022-11-08 02:30:13.10066832 +0000 UTC m=+1.857740052
+generated: 2022-11-15 02:31:19.765002484 +0000 UTC m=+2.005760957
 min_followers_required: 0
 total_user_count: 13
