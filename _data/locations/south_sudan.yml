@@ -51,19 +51,19 @@ users:
     organizations: ""
 
   - rank: 7
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
-    contributions: 0
-    company: "Kampala university "
-    organizations: ""
-
-  - rank: 8
     name: "Junior Billkid "
     login: "JuniorBillkid"
     avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
     contributions: 0
     company: "U,D,S revolutionary"
+    organizations: ""
+
+  - rank: 8
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
+    contributions: 0
+    company: "Kampala university "
     organizations: ""
 
   - rank: 9
@@ -148,19 +148,19 @@ users_public_contributions:
     organizations: ""
 
   - rank: 7
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
-    contributions: 0
-    company: "Kampala university "
-    organizations: ""
-
-  - rank: 8
     name: "Junior Billkid "
     login: "JuniorBillkid"
     avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
     contributions: 0
     company: "U,D,S revolutionary"
+    organizations: ""
+
+  - rank: 8
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
+    contributions: 0
+    company: "Kampala university "
     organizations: ""
 
   - rank: 9
@@ -246,19 +246,19 @@ private_users:
     organizations: ""
 
   - rank: 7
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
-    contributions: 0
-    company: "Kampala university "
-    organizations: ""
-
-  - rank: 8
     name: "Junior Billkid "
     login: "JuniorBillkid"
     avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
     contributions: 0
     company: "U,D,S revolutionary"
+    organizations: ""
+
+  - rank: 8
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
+    contributions: 0
+    company: "Kampala university "
     organizations: ""
 
   - rank: 9
@@ -298,6 +298,6 @@ organizations:
 public_contributions_organizations:
 
 private_organizations:
-generated: 2023-01-03 01:54:13.593132368 +0000 UTC m=+1.544959605
+generated: 2023-01-10 02:22:28.160892024 +0000 UTC m=+1.690673372
 min_followers_required: 0
 total_user_count: 12
