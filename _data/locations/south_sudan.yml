@@ -51,6 +51,14 @@ users:
     organizations: ""
 
   - rank: 7
+    name: ""
+    login: "Kinqly"
+    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
+    contributions: 0
+    company: "Kinqly"
+    organizations: ""
+
+  - rank: 8
     name: "Junior Billkid "
     login: "JuniorBillkid"
     avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
@@ -58,20 +66,12 @@ users:
     company: "U,D,S revolutionary"
     organizations: ""
 
-  - rank: 8
+  - rank: 9
     name: "William Deng Lual Deng "
     login: "0912222213"
     avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
     contributions: 0
     company: "Kampala university "
-    organizations: ""
-
-  - rank: 9
-    name: ""
-    login: "Kinqly"
-    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
-    contributions: 0
-    company: "Kinqly"
     organizations: ""
 
   - rank: 10
@@ -148,6 +148,14 @@ users_public_contributions:
     organizations: ""
 
   - rank: 7
+    name: ""
+    login: "Kinqly"
+    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
+    contributions: 0
+    company: "Kinqly"
+    organizations: ""
+
+  - rank: 8
     name: "Junior Billkid "
     login: "JuniorBillkid"
     avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
@@ -155,20 +163,12 @@ users_public_contributions:
     company: "U,D,S revolutionary"
     organizations: ""
 
-  - rank: 8
+  - rank: 9
     name: "William Deng Lual Deng "
     login: "0912222213"
     avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
     contributions: 0
     company: "Kampala university "
-    organizations: ""
-
-  - rank: 9
-    name: ""
-    login: "Kinqly"
-    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
-    contributions: 0
-    company: "Kinqly"
     organizations: ""
 
   - rank: 10
@@ -246,6 +246,14 @@ private_users:
     organizations: ""
 
   - rank: 7
+    name: ""
+    login: "Kinqly"
+    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
+    contributions: 0
+    company: "Kinqly"
+    organizations: ""
+
+  - rank: 8
     name: "Junior Billkid "
     login: "JuniorBillkid"
     avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
@@ -253,20 +261,12 @@ private_users:
     company: "U,D,S revolutionary"
     organizations: ""
 
-  - rank: 8
+  - rank: 9
     name: "William Deng Lual Deng "
     login: "0912222213"
     avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
     contributions: 0
     company: "Kampala university "
-    organizations: ""
-
-  - rank: 9
-    name: ""
-    login: "Kinqly"
-    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
-    contributions: 0
-    company: "Kinqly"
     organizations: ""
 
   - rank: 10
@@ -298,6 +298,6 @@ organizations:
 public_contributions_organizations:
 
 private_organizations:
-generated: 2023-01-10 02:22:28.160892024 +0000 UTC m=+1.690673372
+generated: 2023-01-17 02:55:40.438802337 +0000 UTC m=+1.855871081
 min_followers_required: 0
 total_user_count: 12
