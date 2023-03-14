@@ -67,11 +67,11 @@ users:
     organizations: ""
 
   - rank: 9
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
+    name: "Junior Billkid "
+    login: "JuniorBillkid"
+    avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
     contributions: 0
-    company: "Kampala university "
+    company: "U,D,S revolutionary"
     organizations: ""
 
   - rank: 10
@@ -99,11 +99,11 @@ users:
     organizations: ""
 
   - rank: 13
-    name: "Junior Billkid "
-    login: "JuniorBillkid"
-    avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
     contributions: 0
-    company: "U,D,S revolutionary"
+    company: "Kampala university "
     organizations: ""
 users_public_contributions:
 
@@ -172,11 +172,11 @@ users_public_contributions:
     organizations: ""
 
   - rank: 9
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
+    name: "Junior Billkid "
+    login: "JuniorBillkid"
+    avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
     contributions: 0
-    company: "Kampala university "
+    company: "U,D,S revolutionary"
     organizations: ""
 
   - rank: 10
@@ -204,11 +204,11 @@ users_public_contributions:
     organizations: ""
 
   - rank: 13
-    name: "Junior Billkid "
-    login: "JuniorBillkid"
-    avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
     contributions: 0
-    company: "U,D,S revolutionary"
+    company: "Kampala university "
     organizations: ""
 
 private_users:
@@ -278,11 +278,11 @@ private_users:
     organizations: ""
 
   - rank: 9
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
+    name: "Junior Billkid "
+    login: "JuniorBillkid"
+    avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
     contributions: 0
-    company: "Kampala university "
+    company: "U,D,S revolutionary"
     organizations: ""
 
   - rank: 10
@@ -310,11 +310,11 @@ private_users:
     organizations: ""
 
   - rank: 13
-    name: "Junior Billkid "
-    login: "JuniorBillkid"
-    avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
     contributions: 0
-    company: "U,D,S revolutionary"
+    company: "Kampala university "
     organizations: ""
 
 organizations:
@@ -322,6 +322,6 @@ organizations:
 public_contributions_organizations:
 
 private_organizations:
-generated: 2023-03-07 00:09:30.328515839 +0000 UTC m=+1.807663270
+generated: 2023-03-14 00:00:37.537949362 +0000 UTC m=+1.811961454
 min_followers_required: 0
 total_user_count: 13
