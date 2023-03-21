@@ -27,19 +27,19 @@ users:
     organizations: ""
 
   - rank: 4
+    name: "Chol Peter"
+    login: "cholbol"
+    avatarUrl: https://avatars.githubusercontent.com/u/128136033?v=4
+    contributions: 2
+    company: "charly rio "
+    organizations: ""
+
+  - rank: 5
     name: "James Maluak "
     login: "Jmnb2023"
     avatarUrl: https://avatars.githubusercontent.com/u/127028099?v=4
     contributions: 1
     company: "Media news company "
-    organizations: ""
-
-  - rank: 5
-    name: "Yak Kiir"
-    login: "Yak4-maker"
-    avatarUrl: https://avatars.githubusercontent.com/u/80614857?v=4
-    contributions: 0
-    company: ""
     organizations: ""
 
   - rank: 6
@@ -52,18 +52,18 @@ users:
 
   - rank: 7
     name: ""
-    login: "Nunas455"
-    avatarUrl: https://avatars.githubusercontent.com/u/72599873?u=68b6cd2ddf9c79e424cb58a2534e1b90160e2065&v=4
-    contributions: 0
-    company: "Gogirlict"
-    organizations: ""
-
-  - rank: 8
-    name: ""
     login: "Kinqly"
     avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
     contributions: 0
     company: "Kinqly"
+    organizations: ""
+
+  - rank: 8
+    name: "Yak Kiir"
+    login: "Yak4-maker"
+    avatarUrl: https://avatars.githubusercontent.com/u/80614857?v=4
+    contributions: 0
+    company: ""
     organizations: ""
 
   - rank: 9
@@ -83,6 +83,14 @@ users:
     organizations: ""
 
   - rank: 11
+    name: ""
+    login: "Nunas455"
+    avatarUrl: https://avatars.githubusercontent.com/u/72599873?u=68b6cd2ddf9c79e424cb58a2534e1b90160e2065&v=4
+    contributions: 0
+    company: "Gogirlict"
+    organizations: ""
+
+  - rank: 12
     name: "zeko970"
     login: "Zeko970"
     avatarUrl: https://avatars.githubusercontent.com/u/63145452?u=9c70ff1c3cc007df8bc31cd67a38325801d93cb4&v=4
@@ -90,7 +98,7 @@ users:
     company: "Zakaria & Borthers co LIT"
     organizations: ""
 
-  - rank: 12
+  - rank: 13
     name: "Dut Majak"
     login: "DutM"
     avatarUrl: https://avatars.githubusercontent.com/u/42735905?u=846456d29e7f3a4b195c43b0c88887fd99161823&v=4
@@ -98,7 +106,7 @@ users:
     company: "SSICI Project"
     organizations: ""
 
-  - rank: 13
+  - rank: 14
     name: "William Deng Lual Deng "
     login: "0912222213"
     avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
@@ -124,6 +132,14 @@ users_public_contributions:
     organizations: ""
 
   - rank: 3
+    name: "Chol Peter"
+    login: "cholbol"
+    avatarUrl: https://avatars.githubusercontent.com/u/128136033?v=4
+    contributions: 4
+    company: "charly rio "
+    organizations: ""
+
+  - rank: 4
     name: "Yason "
     login: "yason-20"
     avatarUrl: https://avatars.githubusercontent.com/u/76183270?u=6924b7e1ccc54758b26aa178cd2e7cf1281104f2&v=4
@@ -131,20 +147,12 @@ users_public_contributions:
     company: "Codemate Tech "
     organizations: ""
 
-  - rank: 4
+  - rank: 5
     name: "James Maluak "
     login: "Jmnb2023"
     avatarUrl: https://avatars.githubusercontent.com/u/127028099?v=4
     contributions: 3
     company: "Media news company "
-    organizations: ""
-
-  - rank: 5
-    name: "Yak Kiir"
-    login: "Yak4-maker"
-    avatarUrl: https://avatars.githubusercontent.com/u/80614857?v=4
-    contributions: 0
-    company: ""
     organizations: ""
 
   - rank: 6
@@ -157,18 +165,18 @@ users_public_contributions:
 
   - rank: 7
     name: ""
-    login: "Nunas455"
-    avatarUrl: https://avatars.githubusercontent.com/u/72599873?u=68b6cd2ddf9c79e424cb58a2534e1b90160e2065&v=4
-    contributions: 0
-    company: "Gogirlict"
-    organizations: ""
-
-  - rank: 8
-    name: ""
     login: "Kinqly"
     avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
     contributions: 0
     company: "Kinqly"
+    organizations: ""
+
+  - rank: 8
+    name: "Yak Kiir"
+    login: "Yak4-maker"
+    avatarUrl: https://avatars.githubusercontent.com/u/80614857?v=4
+    contributions: 0
+    company: ""
     organizations: ""
 
   - rank: 9
@@ -188,6 +196,14 @@ users_public_contributions:
     organizations: ""
 
   - rank: 11
+    name: ""
+    login: "Nunas455"
+    avatarUrl: https://avatars.githubusercontent.com/u/72599873?u=68b6cd2ddf9c79e424cb58a2534e1b90160e2065&v=4
+    contributions: 0
+    company: "Gogirlict"
+    organizations: ""
+
+  - rank: 12
     name: "zeko970"
     login: "Zeko970"
     avatarUrl: https://avatars.githubusercontent.com/u/63145452?u=9c70ff1c3cc007df8bc31cd67a38325801d93cb4&v=4
@@ -195,7 +211,7 @@ users_public_contributions:
     company: "Zakaria & Borthers co LIT"
     organizations: ""
 
-  - rank: 12
+  - rank: 13
     name: "Dut Majak"
     login: "DutM"
     avatarUrl: https://avatars.githubusercontent.com/u/42735905?u=846456d29e7f3a4b195c43b0c88887fd99161823&v=4
@@ -203,7 +219,7 @@ users_public_contributions:
     company: "SSICI Project"
     organizations: ""
 
-  - rank: 13
+  - rank: 14
     name: "William Deng Lual Deng "
     login: "0912222213"
     avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
@@ -230,6 +246,14 @@ private_users:
     organizations: ""
 
   - rank: 3
+    name: "Chol Peter"
+    login: "cholbol"
+    avatarUrl: https://avatars.githubusercontent.com/u/128136033?v=4
+    contributions: 4
+    company: "charly rio "
+    organizations: ""
+
+  - rank: 4
     name: "Yason "
     login: "yason-20"
     avatarUrl: https://avatars.githubusercontent.com/u/76183270?u=6924b7e1ccc54758b26aa178cd2e7cf1281104f2&v=4
@@ -237,20 +261,12 @@ private_users:
     company: "Codemate Tech "
     organizations: ""
 
-  - rank: 4
+  - rank: 5
     name: "James Maluak "
     login: "Jmnb2023"
     avatarUrl: https://avatars.githubusercontent.com/u/127028099?v=4
     contributions: 3
     company: "Media news company "
-    organizations: ""
-
-  - rank: 5
-    name: "Yak Kiir"
-    login: "Yak4-maker"
-    avatarUrl: https://avatars.githubusercontent.com/u/80614857?v=4
-    contributions: 0
-    company: ""
     organizations: ""
 
   - rank: 6
@@ -263,18 +279,18 @@ private_users:
 
   - rank: 7
     name: ""
-    login: "Nunas455"
-    avatarUrl: https://avatars.githubusercontent.com/u/72599873?u=68b6cd2ddf9c79e424cb58a2534e1b90160e2065&v=4
-    contributions: 0
-    company: "Gogirlict"
-    organizations: ""
-
-  - rank: 8
-    name: ""
     login: "Kinqly"
     avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
     contributions: 0
     company: "Kinqly"
+    organizations: ""
+
+  - rank: 8
+    name: "Yak Kiir"
+    login: "Yak4-maker"
+    avatarUrl: https://avatars.githubusercontent.com/u/80614857?v=4
+    contributions: 0
+    company: ""
     organizations: ""
 
   - rank: 9
@@ -294,6 +310,14 @@ private_users:
     organizations: ""
 
   - rank: 11
+    name: ""
+    login: "Nunas455"
+    avatarUrl: https://avatars.githubusercontent.com/u/72599873?u=68b6cd2ddf9c79e424cb58a2534e1b90160e2065&v=4
+    contributions: 0
+    company: "Gogirlict"
+    organizations: ""
+
+  - rank: 12
     name: "zeko970"
     login: "Zeko970"
     avatarUrl: https://avatars.githubusercontent.com/u/63145452?u=9c70ff1c3cc007df8bc31cd67a38325801d93cb4&v=4
@@ -301,7 +325,7 @@ private_users:
     company: "Zakaria & Borthers co LIT"
     organizations: ""
 
-  - rank: 12
+  - rank: 13
     name: "Dut Majak"
     login: "DutM"
     avatarUrl: https://avatars.githubusercontent.com/u/42735905?u=846456d29e7f3a4b195c43b0c88887fd99161823&v=4
@@ -309,7 +333,7 @@ private_users:
     company: "SSICI Project"
     organizations: ""
 
-  - rank: 13
+  - rank: 14
     name: "William Deng Lual Deng "
     login: "0912222213"
     avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
@@ -322,6 +346,6 @@ organizations:
 public_contributions_organizations:
 
 private_organizations:
-generated: 2023-03-14 00:00:37.537949362 +0000 UTC m=+1.811961454
+generated: 2023-03-20 23:40:12.859559289 +0000 UTC m=+2.014392508
 min_followers_required: 0
-total_user_count: 13
+total_user_count: 14
