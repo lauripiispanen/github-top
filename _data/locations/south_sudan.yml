@@ -51,11 +51,11 @@ users:
     organizations: ""
 
   - rank: 7
-    name: ""
-    login: "Kinqly"
-    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
     contributions: 0
-    company: "Kinqly"
+    company: "Kampala university "
     organizations: ""
 
   - rank: 8
@@ -107,11 +107,11 @@ users:
     organizations: ""
 
   - rank: 14
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
+    name: ""
+    login: "Kinqly"
+    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
     contributions: 0
-    company: "Kampala university "
+    company: "Kinqly"
     organizations: ""
 users_public_contributions:
 
@@ -164,11 +164,11 @@ users_public_contributions:
     organizations: ""
 
   - rank: 7
-    name: ""
-    login: "Kinqly"
-    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
     contributions: 0
-    company: "Kinqly"
+    company: "Kampala university "
     organizations: ""
 
   - rank: 8
@@ -220,11 +220,11 @@ users_public_contributions:
     organizations: ""
 
   - rank: 14
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
+    name: ""
+    login: "Kinqly"
+    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
     contributions: 0
-    company: "Kampala university "
+    company: "Kinqly"
     organizations: ""
 
 private_users:
@@ -278,11 +278,11 @@ private_users:
     organizations: ""
 
   - rank: 7
-    name: ""
-    login: "Kinqly"
-    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
     contributions: 0
-    company: "Kinqly"
+    company: "Kampala university "
     organizations: ""
 
   - rank: 8
@@ -334,11 +334,11 @@ private_users:
     organizations: ""
 
   - rank: 14
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
+    name: ""
+    login: "Kinqly"
+    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
     contributions: 0
-    company: "Kampala university "
+    company: "Kinqly"
     organizations: ""
 
 organizations:
@@ -346,6 +346,6 @@ organizations:
 public_contributions_organizations:
 
 private_organizations:
-generated: 2023-03-20 23:40:12.859559289 +0000 UTC m=+2.014392508
+generated: 2023-03-27 23:48:38.106557902 +0000 UTC m=+1.753819667
 min_followers_required: 0
 total_user_count: 14
