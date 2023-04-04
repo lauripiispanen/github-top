@@ -51,11 +51,11 @@ users:
     organizations: ""
 
   - rank: 7
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
+    name: ""
+    login: "Kinqly"
+    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
     contributions: 0
-    company: "Kampala university "
+    company: "Kinqly"
     organizations: ""
 
   - rank: 8
@@ -67,11 +67,11 @@ users:
     organizations: ""
 
   - rank: 9
-    name: "Junior Billkid "
-    login: "JuniorBillkid"
-    avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
     contributions: 0
-    company: "U,D,S revolutionary"
+    company: "Kampala university "
     organizations: ""
 
   - rank: 10
@@ -107,11 +107,11 @@ users:
     organizations: ""
 
   - rank: 14
-    name: ""
-    login: "Kinqly"
-    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
+    name: "Junior Billkid "
+    login: "JuniorBillkid"
+    avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
     contributions: 0
-    company: "Kinqly"
+    company: "U,D,S revolutionary"
     organizations: ""
 users_public_contributions:
 
@@ -164,11 +164,11 @@ users_public_contributions:
     organizations: ""
 
   - rank: 7
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
+    name: ""
+    login: "Kinqly"
+    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
     contributions: 0
-    company: "Kampala university "
+    company: "Kinqly"
     organizations: ""
 
   - rank: 8
@@ -180,11 +180,11 @@ users_public_contributions:
     organizations: ""
 
   - rank: 9
-    name: "Junior Billkid "
-    login: "JuniorBillkid"
-    avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
     contributions: 0
-    company: "U,D,S revolutionary"
+    company: "Kampala university "
     organizations: ""
 
   - rank: 10
@@ -220,11 +220,11 @@ users_public_contributions:
     organizations: ""
 
   - rank: 14
-    name: ""
-    login: "Kinqly"
-    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
+    name: "Junior Billkid "
+    login: "JuniorBillkid"
+    avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
     contributions: 0
-    company: "Kinqly"
+    company: "U,D,S revolutionary"
     organizations: ""
 
 private_users:
@@ -278,11 +278,11 @@ private_users:
     organizations: ""
 
   - rank: 7
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
+    name: ""
+    login: "Kinqly"
+    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
     contributions: 0
-    company: "Kampala university "
+    company: "Kinqly"
     organizations: ""
 
   - rank: 8
@@ -294,11 +294,11 @@ private_users:
     organizations: ""
 
   - rank: 9
-    name: "Junior Billkid "
-    login: "JuniorBillkid"
-    avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
     contributions: 0
-    company: "U,D,S revolutionary"
+    company: "Kampala university "
     organizations: ""
 
   - rank: 10
@@ -334,11 +334,11 @@ private_users:
     organizations: ""
 
   - rank: 14
-    name: ""
-    login: "Kinqly"
-    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
+    name: "Junior Billkid "
+    login: "JuniorBillkid"
+    avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
     contributions: 0
-    company: "Kinqly"
+    company: "U,D,S revolutionary"
     organizations: ""
 
 organizations:
@@ -346,6 +346,6 @@ organizations:
 public_contributions_organizations:
 
 private_organizations:
-generated: 2023-03-27 23:48:38.106557902 +0000 UTC m=+1.753819667
+generated: 2023-04-03 23:25:35.755860699 +0000 UTC m=+1.972324418
 min_followers_required: 0
 total_user_count: 14
