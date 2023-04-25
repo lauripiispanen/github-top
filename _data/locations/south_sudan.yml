@@ -67,11 +67,11 @@ users:
     organizations: ""
 
   - rank: 9
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
+    name: ""
+    login: "Kinqly"
+    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
     contributions: 0
-    company: "Kampala university "
+    company: "Kinqly"
     organizations: ""
 
   - rank: 10
@@ -115,11 +115,11 @@ users:
     organizations: ""
 
   - rank: 15
-    name: ""
-    login: "Kinqly"
-    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
     contributions: 0
-    company: "Kinqly"
+    company: "Kampala university "
     organizations: ""
 users_public_contributions:
 
@@ -135,7 +135,7 @@ users_public_contributions:
     name: "Kual Louis"
     login: "Louis12345642"
     avatarUrl: https://avatars.githubusercontent.com/u/65467434?u=e09384dbf89bb6220a36ca54e3df7934745912ba&v=4
-    contributions: 37
+    contributions: 38
     company: ""
     organizations: ""
 
@@ -188,11 +188,11 @@ users_public_contributions:
     organizations: ""
 
   - rank: 9
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
+    name: ""
+    login: "Kinqly"
+    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
     contributions: 0
-    company: "Kampala university "
+    company: "Kinqly"
     organizations: ""
 
   - rank: 10
@@ -236,11 +236,11 @@ users_public_contributions:
     organizations: ""
 
   - rank: 15
-    name: ""
-    login: "Kinqly"
-    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
     contributions: 0
-    company: "Kinqly"
+    company: "Kampala university "
     organizations: ""
 
 private_users:
@@ -257,7 +257,7 @@ private_users:
     name: "Kual Louis"
     login: "Louis12345642"
     avatarUrl: https://avatars.githubusercontent.com/u/65467434?u=e09384dbf89bb6220a36ca54e3df7934745912ba&v=4
-    contributions: 37
+    contributions: 38
     company: ""
     organizations: ""
 
@@ -310,11 +310,11 @@ private_users:
     organizations: ""
 
   - rank: 9
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
+    name: ""
+    login: "Kinqly"
+    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
     contributions: 0
-    company: "Kampala university "
+    company: "Kinqly"
     organizations: ""
 
   - rank: 10
@@ -358,11 +358,11 @@ private_users:
     organizations: ""
 
   - rank: 15
-    name: ""
-    login: "Kinqly"
-    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
     contributions: 0
-    company: "Kinqly"
+    company: "Kampala university "
     organizations: ""
 
 organizations:
@@ -406,6 +406,6 @@ private_organizations:
   - rank: 3
     name: "wsskorea-ict"
     membercount: 1
-generated: 2023-04-17 22:19:44.704672918 +0000 UTC m=+1.971777275
+generated: 2023-04-24 22:39:30.618911973 +0000 UTC m=+1.970224600
 min_followers_required: 0
 total_user_count: 15
